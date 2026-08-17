@@ -3,8 +3,9 @@
 
 const BROWSER_UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
-const TIMEOUT_MS = 90_000;
-const TENTATIVAS = 3;
+// O export da Agecom (~8 MB, gerado na hora) já passou de 90 s a partir dos runners.
+const TIMEOUT_MS = 240_000;
+const TENTATIVAS = 4;
 
 export async function baixarTexto(url: string): Promise<string> {
   let ultimoErro: unknown;
@@ -24,7 +25,7 @@ export async function baixarTexto(url: string): Promise<string> {
     }
     if (tentativa < TENTATIVAS) {
       console.error(`⚠ Tentativa ${tentativa}/${TENTATIVAS} falhou para ${url}; aguardando…`);
-      await new Promise((r) => setTimeout(r, 5_000 * tentativa));
+      await new Promise((r) => setTimeout(r, 10_000 * tentativa));
     }
   }
   throw ultimoErro instanceof Error ? ultimoErro : new Error(String(ultimoErro));
