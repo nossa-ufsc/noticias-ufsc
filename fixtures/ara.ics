@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//150.162.2.10//NONSGML kigkonsult.se iCalcreator 2.26.9//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-FROM-URL:https://ara.ufsc.br
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+DTSTART:20190217T000000
+TZOFFSETFROM:-0200
+TZOFFSETTO:-0300
+TZNAME:-03
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai1ec-25554@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Evento
+CONTACT:
+DESCRIPTION:Os Centros Acadêmicos dos cursos de Engenharia da Computação\, 
+ Engenharia de Energia\, Fisioterapia\, Medicina e Tecnologias da Informaçã
+ o e Comunicação frente a crescente situação de violência e insegurança viv
+ enciada no ambiente universitário e em seu entorno\, iniciaram a construçã
+ o de uma proposta conjunta: a realização de uma Semana de Capacitação e En
+ frentamento da Violência contra a Mulher\, voltada à promoção de segurança
+ \, informação e acolhimento à comunidade acadêmica.\nA iniciativa prevê at
+ ividades como oficinas de defesa pessoal\, palestras sobre o uso conscient
+ e de dispositivos de proteção individual\, orientações sobre fluxos formai
+ s de denúncia e notificação de casos de violência e assédio\, além de espa
+ ços de debate e conscientização. Trata-se de uma ação construída de forma 
+ colaborativa entre os cursos\, com o objetivo de fortalecer não apenas a s
+ egurança\, mas também a integração entre os estudantes e a cultura de cuid
+ ado coletivo no campus.
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260822
+SEQUENCE:0
+SUMMARY:Semana de Capacitação e Enfrentamento da Violência contra a Mulher
+URL:https://ara.ufsc.br/event/semana-de-capacitacao-e-enfrentamento-da-viol
+ encia-contra-a-mulher/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p></p>\n<div>Os
+  Centros Acadêmicos dos cursos de Engenharia da Computação\, Engenharia de
+  Energia\, Fisioterapia\, Medicina e Tecnologias da Informação e Comunicaç
+ ão frente a crescente situação de violência e insegurança vivenciada no am
+ biente universitário e em seu entorno\, iniciaram a construção de uma prop
+ osta conjunta: a realização de uma Semana de Capacitação e Enfrentamento d
+ a Violência contra a Mulher\, voltada à promoção de segurança\, informação
+  e acolhimento à comunidade acadêmica.</div>\n<div>A iniciativa prevê <str
+ ong>atividades como oficinas de defesa pessoal\, palestras sobre o uso con
+ sciente de dispositivos de proteção individual\, orientações sobre fluxos 
+ formais de denúncia e notificação de casos de violência e assédio\, além d
+ e espaços de debate e conscientização</strong>. Trata-se de uma ação const
+ ruída de forma colaborativa entre os cursos\, com o objetivo de fortalecer
+  não apenas a segurança\, mas também a integração entre os estudantes e a 
+ cultura de cuidado coletivo no campus.</div>\n<p></p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24307@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Semana Acadêmica
+CONTACT:
+DESCRIPTION:Semana Acadêmica de Engenharia de Energia
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260905
+SEQUENCE:0
+SUMMARY:SAENE
+URL:https://ara.ufsc.br/event/saene/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Semana Acadêm
+ ica de Engenharia de Energia</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-25068@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Semana Acadêmica
+CONTACT:
+DESCRIPTION:Semana Acadêmica de Tecnologias da Informação e Comunicação
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260918
+SEQUENCE:0
+SUMMARY:SEATIC
+URL:https://ara.ufsc.br/event/seatic/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Semana Acadêm
+ ica de Tecnologias da Informação e Comunicação</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-25049@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Semana Acadêmica
+CONTACT:
+DESCRIPTION:Semana Acadêmica de Fisioterapia
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SEQUENCE:0
+SUMMARY:SAFS
+URL:https://ara.ufsc.br/event/safs/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Semana Acadêm
+ ica de Fisioterapia</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-26052@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:Semana Acadêmica de Medicina
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261003
+SEQUENCE:0
+SUMMARY:SEAME
+URL:https://ara.ufsc.br/event/seame/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Semana Acadêm
+ ica de Medicina</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24637@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Simpósios
+CONTACT:
+DESCRIPTION:Acontece no campus Araranguá\, Jardim das Avenidas.
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261112
+SEQUENCE:0
+SUMMARY:14º Simpósio de Integração Científica e Tecnológica do Sul Catarine
+ nse (SICT-Sul)
+URL:https://ara.ufsc.br/event/14o-simposio-de-integracao-cientifica-e-tecno
+ logica-do-sul-catarinense-sict-sul/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Acontece no c
+ ampus Araranguá\, Jardim das Avenidas.</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24349@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Colação de Grau
+CONTACT:
+DESCRIPTION:Cursos ENC\, ENE\, FISIO E TIC
+DTSTART;TZID=America/Sao_Paulo:20260313T190000
+DTEND;TZID=America/Sao_Paulo:20260313T213000
+LOCATION:Multiuso @ Av. 15 de Novembro\, 200 - Aeroporto\, Araranguá - SC\,
+  88900-000
+SEQUENCE:0
+SUMMARY:Colação de Grau 2025/02
+URL:https://ara.ufsc.br/event/colacao-de-grau-202502/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Cursos ENC\, 
+ ENE\, FISIO E TIC</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24446@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Simpósios
+CONTACT:Amanda Pizzetti Martinhago (Diretoria da LAPEC) -\; amandap.martinh
+ ago@gmail.com
+DESCRIPTION:Evento organizado pela LAPEC e voltado para acadêmicos da saúde
+ \, abordando temas críticos da pediatria\, como atualizações em reanimação
+  e choque.
+DTSTART;TZID=America/Sao_Paulo:20260427T180000
+DTEND;TZID=America/Sao_Paulo:20260427T220000
+LOCATION:Auditório\, UFSC Araranguá @ Jardim das Avenidas
+RDATE;TZID=America/Sao_Paulo:20260428T180000
+SEQUENCE:0
+SUMMARY:IV Simpósio de Pediatria: Urgências e Emergências Pediátricas
+URL:https://ara.ufsc.br/event/iv-simposio-de-pediatria-urgencias-e-emergenc
+ ias-pediatricas/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Evento organi
+ zado pela LAPEC e voltado para acadêmicos da saúde\, abordando temas críti
+ cos da pediatria\, como atualizações em reanimação e choque.</p></BODY></H
+ TML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24356@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Feiras de cursos
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20260610T080000
+DTEND;TZID=America/Sao_Paulo:20260611T220000
+SEQUENCE:0
+SUMMARY:Feira de Profissões ACIVA
+URL:https://ara.ufsc.br/event/feira-de-profissoes-aciva/
+X-COST-TYPE:free
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-25463@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Esporte\, Cultura e Arte
+CONTACT:
+DESCRIPTION:Promover o diálogo entre a UAMA\, a universidade\, o poder públ
+ ico e a sociedade sobre sustentabilidade no município de Araranguá\, em co
+ nexão com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU. No hal
+ l de entrada e Auditório da UFSC – Jardim das Avenidas.
+DTSTART;TZID=America/Sao_Paulo:20260617T183000
+DTEND;TZID=America/Sao_Paulo:20260617T213000
+SEQUENCE:0
+SUMMARY:Sustentabilidade em Araranguá – Desafios no Gerenciamento de Resídu
+ os Sólidos Urbanos
+URL:https://ara.ufsc.br/event/sustentabilidade-em-ararangua-desafios-no-ger
+ enciamento-de-residuos-solidos-urbanos/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Promover o di
+ álogo entre a UAMA\, a universidade\, o poder público e a sociedade sobre 
+ sustentabilidade no município de Araranguá\, em conexão com os Objetivos d
+ e Desenvolvimento Sustentável (ODS) da ONU. No hall de entrada e Auditório
+  da UFSC – Jardim das Avenidas.</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24350@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Colação de Grau
+CONTACT:
+DESCRIPTION:Curso de Medicina
+DTSTART;TZID=America/Sao_Paulo:20260703T190000
+DTEND;TZID=America/Sao_Paulo:20260703T213000
+LOCATION:Multiuso @ Av. 15 de Novembro\, 200 - Aeroporto\, Araranguá - SC\,
+  88900-000
+SEQUENCE:0
+SUMMARY:Colação de Grau 2026/01
+URL:https://ara.ufsc.br/event/colacao-de-grau-202601/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Curso de Medi
+ cina</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24353@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Colação de Grau
+CONTACT:
+DESCRIPTION:Cursos ENC\, ENE\, FISIO E TIC
+DTSTART;TZID=America/Sao_Paulo:20260814T190000
+DTEND;TZID=America/Sao_Paulo:20260814T213000
+LOCATION:Multiuso @ Av. 15 de Novembro\, 200 - Aeroporto\, Araranguá - SC\,
+  88900-000
+SEQUENCE:0
+SUMMARY:Colação de Grau 2026/01
+URL:https://ara.ufsc.br/event/colacao-de-grau-202601-2/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Cursos ENC\, 
+ ENE\, FISIO E TIC</p></BODY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24355@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Feiras de cursos
+CONTACT:
+DESCRIPTION:
+DTSTART;TZID=America/Sao_Paulo:20260909T080000
+DTEND;TZID=America/Sao_Paulo:20260909T180000
+LOCATION:UFSC Araranguá - Jardim das Avenidas
+SEQUENCE:0
+SUMMARY:Araranguá de Portas Abertas – Feira de Cursos
+URL:https://ara.ufsc.br/event/ararangua-de-portas-abertas-feira-de-cursos/
+X-COST-TYPE:free
+X-WP-IMAGES-URL:thumbnail\;https://ara.ufsc.br/files/2025/07/Banner-PortasA
+ bertas-150x150.png\;150\;150\;1\,medium\;https://ara.ufsc.br/files/2025/07
+ /Banner-PortasAbertas-300x171.png\;300\;171\;1\,large\;https://ara.ufsc.br
+ /files/2025/07/Banner-PortasAbertas.png\;350\;200\;
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><div class='ai1e
+ c-event-avatar alignleft timely'><img src='https://ara.ufsc.br/files/2025/
+ 07/Banner-PortasAbertas-300x171.png' width='300' height='171' /></div></BO
+ DY></HTML>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-26195@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES:
+CONTACT:
+DESCRIPTION:VII Simpósio do Programa de Pós-Graduação em Energia e Sustenta
+ bilidade (VII SIMPPGES)\nBreve descrição do evento: O VII Simpósio do Prog
+ rama de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES) é um ev
+ ento científico promovido pelo PPGES/UFSC\, destinado à divulgação de pesq
+ uisas e à troca de conhecimentos nas áreas de energia e sustentabilidade. 
+ O simpósio reúne estudantes\, docentes\, pesquisadores\, profissionais e r
+ epresentantes dos setores público e privado para palestras\, mesas-redonda
+ s\, apresentações de trabalhos e debates\, fortalecendo a integração entre
+  a universidade e a sociedade.Data e horário: 21 e 22 de outubro de 2026\,
+  das 13:30 às 20:30.\nLocal do evento: Auditório da Universidade Federal d
+ e Santa Catarina (UFSC)\, Campus Araranguá\, Unidade Jardim das Avenidas –
+  Araranguá/SC.\nOrganização: Programa de Pós-Graduação em Energia e Susten
+ tabilidade (PPGES) da Universidade Federal de Santa Catarina (UFSC).\nOrga
+ nizadores na UFSC: \nCoordenação Geral:\n\nProf. Dr. Leonardo Elizeire Bre
+ mermann – PPGES/UFSC (Coordenador)\n\nComissão Organizadora – Docentes:\n
+ \nProf. Dr. Afonso Henrique da Silva Júnior – PPGES/UFSC\nProf. Dr. Giulia
+ no Arns Rampinelli – PPGES/UFSC\nProf. Dr. Luiz Fernando Belchior Ribeiro 
+ – PPGES/UFSC\n\nComissão Organizadora – Discentes:\n\nAlesandra Bez Birolo
+ \nAline Rodrigues\nAndrei Leandro Morsch Franco\nBiasse Paulino Biasse Cad
+ ente\nCaroline Winke Ávila\nCristini da Rosa Pedroso\nDouglas de Matos Mag
+ nus\nGessica Candiotto Possamai\nGuilherme Velho\nJessica Patrício dos San
+ tos\nJessika Sumariva Saturno\nJonathan Maceda Silveira\nLaércio Luiz Teix
+ eira\nLucas Batista Crepaldi\nLuis Fernando Espinosa Cocian\nMarcos Ricard
+ o Giehl\nPedro Rodrigo Silva Moura\nSara Cristine Denoni Ghedin\nTiago da 
+ Rosa Augustinho
+DTSTART;TZID=America/Sao_Paulo:20261021T133000
+DTEND;TZID=America/Sao_Paulo:20261022T203000
+SEQUENCE:0
+SUMMARY:VII Simpósio do Programa de Pós-Graduação em Energia e Sustentabili
+ dade (VII SIMPPGES)
+URL:https://ara.ufsc.br/event/vii-simposio-do-programa-de-pos-graduacao-em-
+ energia-e-sustentabilidade-vii-simppges/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p></p>\n<div>VI
+ I Simpósio do Programa de Pós-Graduação em Energia e Sustentabilidade (VII
+  SIMPPGES)</div>\n<div><b>Breve descrição do evento: </b>O VII Simpósio do
+  Programa de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES) é 
+ um evento científico promovido pelo PPGES/UFSC\, destinado à divulgação de
+  pesquisas e à troca de conhecimentos nas áreas de energia e sustentabilid
+ ade. O simpósio reúne estudantes\, docentes\, pesquisadores\, profissionai
+ s e representantes dos setores público e privado para palestras\, mesas-re
+ dondas\, apresentações de trabalhos e debates\, fortalecendo a integração 
+ entre a universidade e a sociedade.<b>Data e horário:</b> 21 e 22 de outub
+ ro de 2026\, das 13:30 às 20:30.</p>\n<p><b>Local do evento:</b> Auditório
+  da Universidade Federal de Santa Catarina (UFSC)\, Campus Araranguá\, Uni
+ dade Jardim das Avenidas – Araranguá/SC.</p>\n<p><b>Organização:</b> Progr
+ ama de Pós-Graduação em Energia e Sustentabilidade (PPGES) da Universidade
+  Federal de Santa Catarina (UFSC).</p>\n<p><b>Organizadores na UFSC: </b><
+ br />\nCoordenação Geral:</p>\n<ul>\n<li>Prof. Dr. Leonardo Elizeire Breme
+ rmann – PPGES/UFSC (Coordenador)</li>\n</ul>\n<p>Comissão Organizadora – D
+ ocentes:</p>\n<ul>\n<li>Prof. Dr. Afonso Henrique da Silva Júnior – PPGES/
+ UFSC</li>\n<li>Prof. Dr. Giuliano Arns Rampinelli – PPGES/UFSC</li>\n<li>P
+ rof. Dr. Luiz Fernando Belchior Ribeiro – PPGES/UFSC</li>\n</ul>\n<p>Comis
+ são Organizadora – Discentes:</p>\n<ul>\n<li>Alesandra Bez Birolo</li>\n<l
+ i>Aline Rodrigues</li>\n<li>Andrei Leandro Morsch Franco</li>\n<li>Biasse 
+ Paulino Biasse Cadente</li>\n<li>Caroline Winke Ávila</li>\n<li>Cristini d
+ a Rosa Pedroso</li>\n<li>Douglas de Matos Magnus</li>\n<li>Gessica Candiot
+ to Possamai</li>\n<li>Guilherme Velho</li>\n<li>Jessica Patrício dos Santo
+ s</li>\n<li>Jessika Sumariva Saturno</li>\n<li>Jonathan Maceda Silveira</l
+ i>\n<li>Laércio Luiz Teixeira</li>\n<li>Lucas Batista Crepaldi</li>\n<li>L
+ uis Fernando Espinosa Cocian</li>\n<li>Marcos Ricardo Giehl</li>\n<li>Pedr
+ o Rodrigo Silva Moura</li>\n<li>Sara Cristine Denoni Ghedin</li>\n<li>Tiag
+ o da Rosa Augustinho</li>\n</ul>\n<div></div>\n</div>\n<p></p></BODY></HTM
+ L>
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-24354@ararangua.paginas.ufsc.br
+DTSTAMP:20260817T214329Z
+CATEGORIES;LANGUAGE=pt-BR:Colação de Grau
+CONTACT:
+DESCRIPTION:Curso de Medicina
+DTSTART;TZID=America/Sao_Paulo:20261218T190000
+DTEND;TZID=America/Sao_Paulo:20261218T213000
+LOCATION:Multiuso @ Av. 15 de Novembro\, 200 - Aeroporto\, Araranguá - SC\,
+  88900-000
+SEQUENCE:0
+SUMMARY:Colação de Grau 2026/02
+URL:https://ara.ufsc.br/event/colacao-de-grau-202602/
+X-COST-TYPE:free
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 3.2//E
+ N'>\\n<HTML>\\n<HEAD>\\n<TITLE></TITLE>\\n</HEAD>\\n<BODY><p>Curso de Medi
+ cina</p></BODY></HTML>
+END:VEVENT
+END:VCALENDAR

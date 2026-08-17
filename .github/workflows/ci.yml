@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths: ["src/**", "test/**", "fixtures/**", "package.json", "bun.lock", "tsconfig.json"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - run: bun install --frozen-lockfile
+      - run: bun run typecheck
+      - run: bun test
+      - name: Pipeline offline (fixtures)
+        run: bun src/index.ts eventos --skip-db --fixture fixtures

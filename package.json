@@ -1,0 +1,19 @@
+{
+  "name": "noticias-ufsc",
+  "version": "1.0.0",
+  "description": "Eventos oficiais da UFSC (calendário da Agecom e dos campi) para o app Nossa UFSC, direto no GitHub Actions.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "eventos": "bun src/index.ts eventos",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.0",
+    "typescript": "^5.5.0"
+  }
+}

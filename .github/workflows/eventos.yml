@@ -1,0 +1,70 @@
+name: Eventos oficiais UFSC
+
+# Baixa os calendários iCal da Agecom e dos campi, normaliza e manda pra Edge Function
+# `events-admin` do Supabase (ação ufsc-upsert; a function revalida e força
+# source=ufsc/status=approved). Depois commita o snapshot data/eventos.json via deploy
+# key SSH — push com deploy key conta como atividade e impede o GitHub de desabilitar
+# o cron (regra dos 60 dias; commits do GITHUB_TOKEN NÃO contam).
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Só validar (não grava nem poda)"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "0 9,18 * * *" # 06:00 e 15:00 BRT
+
+concurrency:
+  group: eventos-ufsc
+  cancel-in-progress: false
+
+jobs:
+  eventos:
+    name: Sincronizar eventos
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.NEWS_COMMIT_SSH_KEY }}
+          ref: main
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - run: bun install --frozen-lockfile
+      - name: Testes offline (fixtures)
+        run: bun test
+      - name: Sincronizar
+        env:
+          EVENTS_ADMIN_URL: ${{ secrets.EVENTS_ADMIN_URL }}
+          EVENTS_ADMIN_TOKEN: ${{ secrets.EVENTS_ADMIN_TOKEN }}
+        run: bun src/index.ts eventos ${{ inputs.dry_run && '--dry-run' || '' }}
+      - name: Commit do snapshot (keep-alive)
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "noticias-ufsc-bot"
+          git config user.email "noticias-ufsc-bot@users.noreply.github.com"
+          # À prova de corrida/rerun: realinha na ponta da main e reconstrói o commit por cima.
+          cp data/eventos.json /tmp/eventos.json
+          for i in 1 2 3; do
+            git fetch origin main
+            git checkout -B main origin/main
+            mkdir -p data
+            cp /tmp/eventos.json data/eventos.json
+            date -u +"%Y-%m-%dT%H:%M:%SZ" > data/last-run.txt
+            git add data/
+            if git diff --cached --quiet; then
+              echo "Nada para commitar."
+              exit 0
+            fi
+            git commit -m "chore: atualiza eventos ($(date -u +%F))"
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push falhou (corrida?); tentativa $i/3…"
+          done
+          echo "::error::Não foi possível pushar o snapshot."
+          exit 1

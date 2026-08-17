@@ -1,0 +1,37 @@
+name: Keep-alive
+
+# Backstop da regra dos 60 dias do GitHub (workflows agendados são desativados após
+# 60 dias sem commit de usuário). O "Eventos oficiais UFSC" já commita 2x/dia; este
+# heartbeat semanal cobre o caso de a sincronização falhar por semanas seguidas.
+# Usa deploy key SSH (secrets.NEWS_COMMIT_SSH_KEY) — commits do GITHUB_TOKEN NÃO contam.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * 1" # segunda 09:00 BRT
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.NEWS_COMMIT_SSH_KEY }}
+          ref: main
+      - name: Heartbeat
+        run: |
+          git config user.name "noticias-ufsc-bot"
+          git config user.email "noticias-ufsc-bot@users.noreply.github.com"
+          for i in 1 2 3; do
+            git fetch origin main
+            git checkout -B main origin/main
+            mkdir -p data
+            date -u +"%Y-%m-%dT%H:%M:%SZ" > data/keepalive.txt
+            git add data/keepalive.txt
+            git commit -m "chore: keep-alive $(date -u +%F)"
+            git push origin main && exit 0
+            echo "Push falhou; tentativa $i/3…"
+          done
+          exit 1
