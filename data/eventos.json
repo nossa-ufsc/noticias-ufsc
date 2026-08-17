@@ -1,0 +1,711 @@
+{
+  "geradoEm": "2026-08-17T22:51:11.979Z",
+  "fontes": [
+    {
+      "fonte": "agecom",
+      "totalNoFeed": 1292,
+      "selecionados": 26,
+      "ignorados": {
+        "ja-passou": 1265,
+        "muito-longe": 1
+      },
+      "erros": []
+    },
+    {
+      "fonte": "ara",
+      "totalNoFeed": 15,
+      "selecionados": 8,
+      "ignorados": {
+        "ja-passou": 6,
+        "muito-longe": 1
+      },
+      "erros": []
+    }
+  ],
+  "eventos": [
+    {
+      "source_id": "agecom:295138",
+      "name": "Exposição: Perder Tudo. Novamente: o impacto de eventos climáticos extremos em pessoas forçadas a se deslocar",
+      "start_date": "2026-08-17T03:00:00.000Z",
+      "end_date": "2026-08-18T02:59:59.000Z",
+      "location": "Campus Trindade da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Captura-de-tela-2026-08-04-152245.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-perder-tudo-novamente-o-impacto-de-eventos-climaticos-extremos-em-pessoas-forcadas-a-se-deslocar/",
+      "description": "A Universidade Federal de Santa Catarina (UFSC) recebe, no campus de Florianópolis, a Exposição “Perder Tudo. Novamente: o impacto de eventos climáticos extremos em pessoas forçadas a se deslocar”, a partir do dia 17 de agosto. A programação recebe a apresentação do aluno imigrante Marjoão Ensa Martins e tem início às 17h, no Hall da Reitoria.\n\nA exposição ficará disponível no Hall da Reitoria até o dia 28 de agosto, quando se desloca para o Hall do Bloco B do CFH. No dia 4 de setembro, é levada ao Hall do Bloco de Aulas do CCS, onde permanece até 18 de setembro. Por último, fica no Hall do Bloco de Aulas do CSE até 2 de outubro.\n\nPara mais informações, acesse o site do UFSC Sem Fronteiras.",
+      "tags": [
+        "exposição",
+        "cce",
+        "hall da reitoria"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "ara:25554",
+      "name": "Semana de Capacitação e Enfrentamento da Violência contra a Mulher",
+      "start_date": "2026-08-17T03:00:00.000Z",
+      "end_date": "2026-08-22T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "ararangua",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/semana-de-capacitacao-e-enfrentamento-da-violencia-contra-a-mulher/",
+      "description": "Os Centros Acadêmicos dos cursos de Engenharia da Computação, Engenharia de Energia, Fisioterapia, Medicina e Tecnologias da Informação e Comunicação frente a crescente situação de violência e insegurança vivenciada no ambiente universitário e em seu entorno, iniciaram a construção de uma proposta conjunta: a realização de uma Semana de Capacitação e Enfrentamento da Violência contra a Mulher, voltada à promoção de segurança, informação e acolhimento à comunidade acadêmica.\n\nA iniciativa prevê atividades como oficinas de defesa pessoal, palestras sobre o uso consciente de dispositivos de proteção individual, orientações sobre fluxos formais de denúncia e notificação de casos de violência e assédio, além de espaços de debate e conscientização. Trata-se de uma ação construída de forma colaborativa entre os cursos, com o objetivo de fortalecer não apenas a segurança, mas também a integração entre os estudantes e a cultura de cuidado coletivo no campus.",
+      "tags": [],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295413",
+      "name": "Seminário de Políticas Afirmativas na Pós-Graduação em Saúde Coletiva",
+      "start_date": "2026-08-17T12:00:00.000Z",
+      "end_date": "2026-08-17T20:00:00.000Z",
+      "location": "Auditório Lúcio Botelho do Centro de Ciências da Saúde (CCS)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2020/05/destaque_lago_convivencia_campus_UFSC_brasao_verde_institucional.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/seminario-de-politicas-afirmativas-na-pos-graduacao-em-saude-coletiva/",
+      "description": "O Programa de Pós-Graduação em Saúde Coletiva (PPGSC) da Universidade Federal de Santa Catarina (UFSC) realiza o Seminário de Políticas Afirmativas na Pós-Graduação em Saúde Coletiva, de 17 a 19 de agosto, das 9h às 17h, no Auditório Lúcio Botelho do Centro de Ciências da Saúde (CCS).\n\nO evento busca promover uma reflexão crítica sobre os avanços já conquistados, os desafios ainda existentes e as perspectivas para uma universidade mais diversa e inclusiva. Ao longo de três dias de atividades, os participantes poderão acompanhar mesas de debates, oficinas, espaços formativos e momentos de integração voltados à construção coletiva de estratégias para o fortalecimento das políticas afirmativas na pós-graduação.\n\nAlém das discussões acadêmicas, a programação contempla atividades de acolhimento e integração, valorizando experiências coletivas e práticas de cuidado como elementos fundamentais para a permanência estudantil. O seminário ocorrerá junto à semana de acolhimento dos novos discentes, mestrandos e doutorandos do programa, como resultado da articulação entre duas pesquisas nacionais que estão avaliando a implementação das políticas afirmativas nos Programas de Pós-Graduação em Saúde Coletiva e das iniciativas do Coletivo de Discentes do PPGSC.\n\nProgramação\n\n17 de agosto – Auditório Lúcio Botelho (CCS/UFSC)\n\n9h: Acolhimento da turma ingressante do PPGSC;\n\n14h: Recepção aos discentes;\n\n16h: Aula inaugural: “Políticas afirmativas e as transformações para o campo da Saúde Coletiva”, ministrada pelo professor Marcelo Eduardo Pfeiffer Castellanos (ISC/UFBA).\n\n18 de agosto – Auditório Lúcio Botelho (CCS/UFSC)\n\n9h30-12h Mesa 1: Desafios e potencialidades das políticas afirmativas no Brasil e em Santa Catarina\n\nMediação: Marta Verdi\n\nExpositoras/es: PROAFE\n\nCátedra Antonieta de Barros\n\nMirê Chagas\n\nKarla Garcia Luiz (IFSC)\n\nPesquisa Afirmativas UFC: Miguel Eusébio (UFC)\n\nMarcelo Castellanos (UFBA)\n\n14h-17h Mesa 2: Início, meio e começo: permanência discente e políticas afirmativas\n\nMediação: Thaiara Lago\n\nExpositoras/es:\n\nGiordano Azevedo – permanência e sofrimento psíquico\n\nColetivo de Mães da UFSC\n\nColetivo Indígena UFSC\n\nColetivo Imigrantes UFSC\n\nYuri Eller Verzola (representante discente na implementação das AA no PPGSC/UFSC)\n\nColetivo de Discentes do PPGSC/UFSC\n\n19 de agosto – Sala H005 (CCS/UFSC)\n\n9h-12h: Oficina 1\n\nObjetivo: Situar a/o participante no seu contexto histórico, racial e social, rompendo com a apresentação curricular.\n\nParticipantes: estudantes, docentes e egressos do PPGSC/UFSC\n\nNúmero de participantes: em torno de 25 pessoas\n\nDinâmica: Roda de conversa\n\n14h-16h: Oficina 2\n\nObjetivo: Mapear como o cuidado acontece na prática e onde estão os “nós” (tensão) e os “laços” (afeto).\n\nPúblico: estudantes de pós-graduação\n\nAtividade Prática: Cartografia dos Afetos e Relações de Poder (1h)\n\nDinâmica: Roda de conversa\n\nPara mais informações no e-mail ppgsc@contato.ufsc.br e na página do evento.",
+      "tags": [
+        "seminário",
+        "auditório lúcio botelho",
+        "ccs",
+        "centro de ciências da saúde (ccs)",
+        "programa de pós graduação em saúde coletiva"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295133",
+      "name": "Curso de formação em Jornalismo Humanitário e Combate à desinformação",
+      "start_date": "2026-08-17T19:00:00.000Z",
+      "end_date": "2026-08-17T20:00:00.000Z",
+      "location": "Auditório Henrique da Silva Fontes",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/WhatsApp-Image-2026-07-16-at-3.37.21-PM-300x300-1.jpeg",
+      "ticket_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=gXnD5WRmNEGKDGVD0q-AvqZlY105wT9KpbOhiU_0B4ZURVA4MEU2RDZXTUdKUTgxQ05HODU2UlpDMS4u",
+      "info_url": "https://noticias.ufsc.br/event/curso-de-formacao-em-jornalismo-humanitario-e-combate-a-desinformacao/",
+      "description": "A Agência da ONU para Refugiados (ACNUR), em parceria com o curso de Jornalismo da Universidade Federal de Santa Catarina (UFSC), a Cátedra Sérgio Vieira de Mello e a UFSC Sem Fronteiras, realizará a formação em Jornalismo Humanitário e Combate à Desinformação, no dia 17 de agosto, segunda-feira, às 16h, no auditório Henrique da Silva Fontes, no Bloco B, do Centro de Comunicação e Expressão (CCE).\n\nAs inscrições são gratuitas e podem ser realizadas via formulário. A formação garante certificação de 2h.\n\nO evento abre a exposição “Perder Tudo. Novamente: o impacto de eventos climáticos extremos em pessoas forçadas a se deslocar”. A programação recebe a apresentação do aluno imigrante Marjoão Ensa Martins e tem início às 17h, no hall da Reitoria.\n\nA exposição segue no Hall da Reitoria até o dia 28 de agosto, quando se desloca para o hall do Bloco B do CFH. No dia 4 de setembro, é levada ao hall do Bloco de Aulas do CCS, onde permanece até 18 de setembro. Por último, fica no hall do Bloco de Aulas do CSE até 2 de outubro.\n\nPara mais informações, acesse o site do UFSC Sem Fronteiras.\n\nTickets: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=gXnD5WRmNEGKDGVD0q-AvqZlY105wT9KpbOhiU_0B4ZURVA4MEU2RDZXTUdKUTgxQ05HODU2UlpDMS4u.",
+      "tags": [
+        "exposição",
+        "auditório cce",
+        "cátedra sérgio viera de mello",
+        "ufsc sem fronteiras"
+      ],
+      "category": "cultura",
+      "is_free": null,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295081",
+      "name": "Aula Magna do IELA: Homenagem aos 100 anos de Fidel Castro e a pertinência da Revolução Cubana",
+      "start_date": "2026-08-17T22:00:00.000Z",
+      "end_date": "2026-08-18T00:00:00.000Z",
+      "location": "Auditório do CSE",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/cuba.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/aula-magna-do-iela-homenagem-aos-100-anos-de-fidel-castro-e-a-pertinencia-da-revolucao-cubana/",
+      "description": "O Instituto de Estudos Latino-Americanos (IELA) da Universidade Federal de Santa Catarina (UFSC), realizará a aula magna Homenagem aos 100 anos de Fidel Castro e a pertinência da Revolução Cubana, no dia 17 de agosto, segunda-feira, às 19h, no Auditório do Centro Socioeconômico (CSE).\n\nA programação propõe uma reflexão crítica sobre a atualidade da Revolução Cubana e seu legado para a América Latina. Além disso, ocorrerão debates sobre soberania, nacionalismo e internacionalismo.\n\nO evento receberá a participação de dois professores da UFSC, Camila Vidal, de Relações Internacionais, e Waldir Rampinelli, professor aposentado de História. Contará ainda, com a participação de João Frederico Trott, da Associação Cultural José Martí de SC.\n\nAs inscrições podem ser realizadas no local, e o evento é aberto a toda a comunidade. A participação garante direito à certificação de três horas. Para mais informações, acesse o site o IELA.",
+      "tags": [
+        "aula magna",
+        "debate",
+        "palestra",
+        "centro sócio econômico (cse)",
+        "cuba",
+        "instituto de estudos latino-americanos (iela)"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295523",
+      "name": "Workshop Brasileiro de Reprodução de Peixes",
+      "start_date": "2026-08-18T11:00:00.000Z",
+      "end_date": "2026-08-18T21:00:00.000Z",
+      "location": "auditório do Sebrae",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/workshop-brasileiro-de-reproducao-de-peixes/",
+      "description": "A Sociedade Brasileira de Reprodução de Peixes e o Laboratório de Biologia e Cultivo de Peixes de Água Doce (Lapad) da Universidade Federal de Santa Catarina (UFSC) realiza o IV Workshop Brasileiro de Reprodução de Peixes, entre os dias 18 e 21 de agosto, no auditório do Sebrae, em Florianópolis, das 8h às 18h.\n\nO evento tem como objetivo promover a integração entre a comunidade técnico-científica, o setor produtivo e instituições públicas, e abordará o tema Reprodução de peixes: conectando problemas locais e desafios globais. A programação está estruturada em cinco eixos temáticos que refletem os principais desafios científicos, tecnológicos e produtivos atuais da área: hormônios, mudanças climáticas, reprodução para a conservação, biosseguridade e tecnologias para a cadeia produtiva.\n\nAlém das palestras e mesas temáticas, o evento contará com minicursos e visita técnica, ampliando as oportunidades de capacitação e interação entre pesquisadores, estudantes e profissionais.\n\nPara mais informações, acesse o site do Workshop.",
+      "tags": [
+        "workshop",
+        "cca"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295414",
+      "name": "Palestra sobre segurança para mulheres",
+      "start_date": "2026-08-18T15:30:00.000Z",
+      "end_date": "2026-08-18T17:30:00.000Z",
+      "location": "Auditório do Departamento de Ciência e Tecnologia de Alimentos (CAL)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
+      "ticket_url": "https://inscricoes.ufsc.br/calemacao4ed",
+      "info_url": "https://noticias.ufsc.br/event/palestra-sobre-seguranca-para-mulheres/",
+      "description": "O Departamento de Ciência e Tecnologia de Alimentos (CAL) do Centro de Ciências Agrárias (CCA) da Universidade Federal de Santa Catarina (UFSC) promove uma palestra sobre segurança para mulheres no dia 18 de agosto, terça-feira, no auditório do CAL, às 12h30. A atividade integra a programação do Agosto Lilás, mês de conscientização e combate à violência contra a mulher.\n\nA palestra falará sobre orientações de segurança, medidas protetivas e aplicativo de divulgação de aulões de defesa pessoal. As inscrições podem ser realizadas via formulário, com vagas limitadas e abertas a toda a comunidade. Haverá certificado e sorteio de brindes.\n\nTambém serão promovidos dois aulões de defesa pessoal, nos dias 28 e 29 de agosto, durante o evento UFSC Rural. Mais informações sobre a atividade serão divulgadas em breve. A programação pode ser acompanhada pelo Instagram do CCA.\n\nTickets: https://inscricoes.ufsc.br/calemacao4ed.",
+      "tags": [
+        "palestra",
+        "agosto lilás",
+        "cal em ação",
+        "cca"
+      ],
+      "category": "palestra",
+      "is_free": null,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:294669",
+      "name": "Soberania tecnológica e digital",
+      "start_date": "2026-08-18T17:00:00.000Z",
+      "end_date": "2026-08-18T18:30:00.000Z",
+      "location": "Auditório do Departamento de Informática e Estatística",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2015/05/CTC-2.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/soberania-tecnologica-e-digital/",
+      "description": "A Universidade Federal de Santa Catarina recebe, no dia 18 de agosto, a professora e pesquisadora italiana Gabriella Mazzei para o seminário internacional Soberania tecnológica e digital: uma comparação entre os modelos da União Europeia, Estados Unidos e China e o surgimento de uma nova ordem global. O evento ocorre no Auditório do Departamento de Informática e Estatística (INE), no Centro Tecnológico, das 14h às 15h30, com transmissão via Youtube.\n\nA palestra discutirá o contexto geopolítico atual e as diferentes estratégias adotadas por grandes potências para garantir autonomia no desenvolvimento, controle e utilização de tecnologias e dados digitais.\n\nSerão abordadas as políticas e legislações da União Europeia relacionadas à proteção, governança e valorização de dados, entre elas o Regulamento Geral sobre a Proteção de Dados (GDPR), o Data Governance Act, o Data Act, o Digital Services Act, o Digital Markets Act e o Artificial Intelligence Act.\n\nA apresentação também promoverá uma comparação entre os modelos europeu, norte-americano e chinês, examinando seus impactos sobre inteligência artificial, plataformas digitais, proteção de dados, mercados, soberania nacional e formação de uma nova ordem global.\n\nO seminário será realizado em italiano, com tradução para o inglês, e terá duração aproximada de 1h30, incluindo espaço para perguntas e debate. A atividade é aberta e gratuita.",
+      "tags": [
+        "seminário",
+        "departamento de informática e estatística",
+        "seminário internacional",
+        "soberania digital e tecnológica"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295459",
+      "name": "Cineclube Cinecittà: ‘Nina’, de Elisa Fuksas",
+      "start_date": "2026-08-18T22:00:00.000Z",
+      "end_date": "2026-08-19T00:00:00.000Z",
+      "location": "Sala de Projeção do LEC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/IMG_6959-1024x722.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cineclube-cinecitta-nina-de-elisa-fuksas/",
+      "description": "O Cineclube Cinecittà apresenta, na próxima terça-feira, 18 de agosto, às 19h, o filme Nina (Nina em Roma, 2012), da diretora italiana Elisa Fuksas. A sessão será realizada na Sala de Projeção do LEC, no Bloco D do Centro de Comunicação e Expressão (CCE) da UFSC, com entrada gratuita e aberta à comunidade universitária e ao público externo. Não é necessário realizar inscrição.\n\nO longa-metragem de estreia de Elisa Fuksas, Nina acompanha uma jovem que passa o mês de agosto cuidando da casa e do cachorro deprimido de uma amiga ausente, em um bairro que não conhece. Entre aulas de caligrafia chinesa e o desejo distante de viajar para a China, a protagonista encontra personagens inusitados e vivencia uma série de situações que transitam entre o cotidiano e o quase onírico.\n\nA trajetória de Nina se desenvolve em uma Roma esvaziada pelo calor do verão. Arquiteta de formação e filha dos renomados arquitetos Massimiliano Fuksas e Doriana Mandrelli, Elisa Fuksas leva para o filme um olhar particular sobre o espaço urbano. A arquitetura modernista dos bairros, em vez dos monumentos tradicionais da cidade, serve de cenário para a jornada de autodescoberta da protagonista. Com fotografia elegante e uma atmosfera que combina realidade e fantasia, Nina aborda temas como solidão, desejo de transformação e encontros inesperados. O filme teve sua estreia mundial na competição do Festival Internacional de Cinema de Tóquio, em 2012.\n\nApós a exibição, haverá uma conversa aberta com os participantes, ampliando o espaço para a reflexão e o debate sobre a obra.\n\nOs participantes poderão receber certificado ao final do ciclo, desde que tenham aproveitamento superior a 75% das sessões.\n\nMais informações podem ser acompanhadas no perfil oficial do projeto no Instagram: Cineclube Cinecittà",
+      "tags": [
+        "filme",
+        "cce",
+        "cineclube cinecittà",
+        "exibição de filme",
+        "lec"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:294958",
+      "name": "Desafio Universitário de Nautidesign da UFSC Joinville",
+      "start_date": "2026-08-19T03:00:00.000Z",
+      "end_date": "2026-08-20T02:59:59.000Z",
+      "location": "Centro de Convenções e Exposições da Univille",
+      "campus": "joinville",
+      "image_url": "https://noticias.ufsc.br/files/2026/07/WhatsApp-Image-2026-07-29-at-11.07.01-1024x767.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/desafio-universitario-de-nautidesign-da-ufsc-joinville/",
+      "description": "Barcos que irão participar da competição (foto: divulgação)\n\nO Desafio Universitário de Nautidesign (Duna), edição 2026, organizada por estudantes voluntários da Universidade Federal de Santa Catarina (UFSC), será realizado entre os dias 19 e 22 de agosto, no lago do Centro de Convenções e Exposições Expoville, em Joinville.\n\nA competição deste ano irá receber estudantes de todo o país em atividades presenciais e on-line, de forma gratuita e aberta à comunidade.\n\nEntre as modalidades de provas está a Pilotagem, que exige do barco manobras à frente e para trás, Velocidade, que avalia a eficiência hidrodinâmica em corrida, Cabo de Guerra, Bollard Pull a Ré, mede a tração estática com o modelo fixo, Força, Tomada de tempo e Manobrabilidade.\n\nDuna contará com a presença de 28 equipes, entre elas, a atual campeã Navícula, da Universidade Federal de Pernambuco (UFPE) e quatro equipes que irão representar a UFSC: Seven Seans 1, Seven Seans 2, Hydra e Holandês Voador.\n\nPara mais informações, acesse o site oficial do Desafio.",
+      "tags": [
+        "campeonato",
+        "esportes",
+        "desafio universitário de nautidesing (duna)",
+        "duna",
+        "ufsc joinville"
+      ],
+      "category": "esporte",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295531",
+      "name": "Escola de Verão: Políticas Linguísticas e Educacionais em contextos africanos ex-colonizados",
+      "start_date": "2026-08-19T03:00:00.000Z",
+      "end_date": "2026-08-20T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2020/05/destaque_reitoria_institucional_azul_brasao.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/escola-de-verao-politicas-linguisticas-e-educacionais-em-contextos-africanos-ex-colonizados/",
+      "description": "O Grupo de Pesquisa em Políticas e Direitos Linguísticos (PoLiTicas) da Universidade Federal de Santa Catarina (UFSC), em parceria com a Escola de Comunicação e Artes da Universidade Eduardo Mondlane (UEM) e o African Studies Program da Pennsylvania State University (Penn State), realizará a Escola de Verão Políticas Linguísticas e Educacionais em Contextos Africanos Ex-colonizados. O evento ocorrerá de 19 a 21 de agosto, de forma remota, no canal do YouTube PoLiTicas.\n\nA Escola de Verão tem como objetivo debater e propor caminhos para políticas linguísticas e educacionais decoloniais em contextos africanos ex-colonizados, tendo como centralidade as línguas bantu moçambicanas e sua relação com o Português.\n\nA programação reúne pesquisadores, docentes, estudantes e profissionais de diferentes instituições de Moçambique, Brasil, Zimbabwe, Estados Unidos e outros contextos, promovendo reflexões sobre políticas linguísticas, educação bilíngue, tradução, cidadania linguística, línguas bantu e descolonização do multilinguismo.\n\nPara mais informações sobre a programação na página.",
+      "tags": [
+        "transmissão ao vivo",
+        "african studies program da pennsylvania state university",
+        "grupo de pesquisa em políticas e direitos linguísticos"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295366",
+      "name": "Palestra ‘Liderança e Espiritualidade’",
+      "start_date": "2026-08-19T13:00:00.000Z",
+      "end_date": "2026-08-19T15:00:00.000Z",
+      "location": "Auditório do Centro Socioeconômico (CSE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Gopi-patel-819x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/palestra-lideranca-e-espiritualidade/",
+      "description": "O Academy UFSC promove a palestra “Liderança e Espiritualidade” no dia 19 de agosto, às 10h, no auditório do Centro Socioeconômico (CSE/UFSC). As inscrições são gratuitas e devem ser feitas neste link. Será fornecido certificado de 1h30 de participação.\n\nA palestra será ministrada por Gopi Patel, educadora espiritual e praticante sênior de Raja Yoga da Brahma Kumaris, que abordará o tema: “Como desenvolver uma liderança mais consciente, equilibrada e conectada com valores humanos?”\n\nCom uma trajetória internacional, Gopi possui mais de 30 anos de experiência na coordenação de projetos voltados ao desenvolvimento da liderança, dos valores humanos e do crescimento pessoal e espiritual. Além disso, já representou a Brahma Kumaris em diversas conferências das Nações Unidas.\n\nO Academy UFSC é um programa da Universidade Federal de Santa Catarina (UFSC), vinculado ao ecossistema de inovação da universidade e integrante das iniciativas da Secretaria de Inovação (SINOVA).\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Academy UFSC ou pelo e-mail academy.ufsc@gmail.com.",
+      "tags": [
+        "palestra",
+        "academy ufsc",
+        "brahma kumaris",
+        "espiritualidade",
+        "gopi patel",
+        "liderança"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295509",
+      "name": "Aula aberta: EAG Global Buildathon – Builder Education Session at UFSC",
+      "start_date": "2026-08-19T21:00:00.000Z",
+      "end_date": "2026-08-20T00:45:00.000Z",
+      "location": "CTC – EEL004 – CTC05 – Sala EEL 004 – Térreo, Bloco A",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/ethereum-builders-floripa-1024x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/aula-aberta-eag-global-buildathon-builder-education-session-at-ufsc/",
+      "description": "A Universidade Federal de Santa Catarina (UFSC) recebe, no dia 19 de agosto, uma aula aberta de formação sobre Ethereum voltada a estudantes, desenvolvedores, pesquisadores, professores, founders, designers e demais pessoas interessadas em aprender a construir aplicações com a tecnologia. A EAG Global Buildathon: Builder Education Session at UFSC, a atividade será realizada das 18h às 21h45, durante uma aula de Blockchain do professor Jean Martina, da UFSC, com apoio do Laboratório de Segurança em Computação (labSEC/UFSC)\n\nEmbora aconteça no contexto da disciplina, a sessão será aberta ao público interessado, com limite máximo de 90 participantes. As inscrições são gratuitas e podem ser realizadas até o dia do evento, 19 de agosto, ou enquanto houver vagas disponíveis. A sessão na UFSC faz parte da programação do EAG Global Buildathon, iniciativa trazida ao Brasil pela Ethereum Applications Guild (EAG) e organizada localmente pela ETH Floripa.\n\nDurante a atividade, os participantes terão contato com conceitos fundamentais do Ethereum, incluindo carteiras, gas, redes Layer 2, Web3, segurança e componentes iniciais de DeFi. O conteúdo foi pensado para apresentar as bases necessárias para quem deseja começar a desenvolver aplicações no ecossistema. A atividade também funciona como preparação para as próximas etapas do programa, que incluem uma segunda aula de formação e o hackathon marcado para 29 de agosto, em Florianópolis.\n\nNão é necessário ter conhecimento prévio em Ethereum para participar. A proposta é oferecer uma introdução acessível tanto para quem já atua com tecnologia quanto para pessoas que estão conhecendo o ecossistema pela primeira vez. Os participantes terão direito a certificado de quatro horas pela participação na atividade.\n\nO evento tem como parceiros; HashKey Chain, blockful, Infinity Base, LabSEC, UFSC, Chainstack, Magic Island e Founder Haus.\n\nMais informações na Página oficial do evento na Luma",
+      "tags": [
+        "aula aberta",
+        "centro de ciências tecnológicas (ctc)",
+        "labsec"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295425",
+      "name": "LiteraPet: Aula de interpretação textual",
+      "start_date": "2026-08-19T21:30:00.000Z",
+      "end_date": "2026-08-19T23:00:00.000Z",
+      "location": "SALA 142 CCE BLOCO A",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/literapet-aula-de-interpretacao-textual/",
+      "description": "O LiteraPET organizado pelo Programa de Educação Tutorial dos Cursos de Letras (PET Letras) da Universidade Federal de Santa Catarina (UFSC) terá aulas de interpretação textual, às quartas-feiras, do dia 19 de agosto até 25 de novembro, das 18h30 até 20h, no bloco A do Centro de Comunicação e Expressão (CCE). As inscrições gratuitas devem ser realizadas até dia 18 de agosto.\n\nNas aulas serão utilizadas ferramentas linguísticas que constroem e dão sentido ao texto: tipos de narração, construção de cenários, contextos históricos, gêneros literários e articulação entre linguagem verbal e não verbal. Cada obra será tema de duas aulas presenciais. O objetivo é desenvolver leitura crítica, familiaridade com o perfil das questões da UFSC e autonomia interpretativa. Foco em linguística textual no texto e como eles aparecem no vestibular.\n\nMais informações no Instagram.",
+      "tags": [
+        "cce",
+        "pet letras"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295395",
+      "name": "Palestra on-line: ‘Super Você!’",
+      "start_date": "2026-08-19T22:00:00.000Z",
+      "end_date": "2026-08-20T00:00:00.000Z",
+      "location": "Youtube",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Super-Você.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/palestra-on-line-super-voce/",
+      "description": "O Academy UFSC promove a palestra on-line ‘Super Você!’ no dia 19 de agosto, às 19h, com transmissão via Youtube. As inscrições são gratuitas e devem ser feitas neste link. Será fornecido certificado de 1h30 de participação.\n\nA palestra será ministrada por Filipe Mescolotto, que é cofundador do Instituto Converse, instrutor do SEBRAE e facilitador de aprendizagem. Ele abordará sobre desenvolvimento pessoal, autoconhecimento e Inteligência Emocional. O objetivo é auxiliar os participantes a reconhecerem suas habilidades e limites, fortalecer a confiança, desenvolver a consciência emocional e transformar desafios em oportunidades de crescimento, tanto na trajetória acadêmica quanto profissional.\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Academy UFSC ou pelo e-mail academy.ufsc@gmail.com.",
+      "tags": [
+        "palestra online",
+        "academy ufsc",
+        "autoconhecimento",
+        "desenvolvimento pessoal",
+        "inteligência emocional"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295472",
+      "name": "‘As Flores do Nosso Quintal’, com a banda Serginho Feijó e Os Autônomos",
+      "start_date": "2026-08-19T23:00:00.000Z",
+      "end_date": "2026-08-20T01:00:00.000Z",
+      "location": "Teatro Carmen Fossari",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.paginas.ufsc.br/files/2026/08/serginho_feijo-225x300.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/as-flores-do-nosso-quintal-com-a-banda-serginho-feijo-e-os-autonomos/",
+      "description": "A banda Serginho Feijó & Os Autônomos apresenta na próxima quarta-feira, 19 de agosto, às 20h, no Teatro Carmen Fossari da Universidade Federal de Santa Catarina (UFSC), o show As Flores do Nosso Quintal. O evento é gratuito, com retirada de ingressos antecipados por meio da plataforma Sympla.\n\nO show As Flores do Nosso Quintal é influenciado pelo pop rock brasileiro dos anos 1980, com canções do EP de mesmo nome, além de outras inéditas. As composições abordam temas de questões cotidianas, tais como a passagem do tempo, as relações humanas, a família, o amor e o bem-querer, transportados através de letras e melodias marcantes, numa intensa e envolvente relação atemporal com os ouvintes. A banda é composta por Serginho Feijó (guitarra/violão/voz), Diogo Nestor (guitarra), Dudu Stéfani (baixo/voz), Ívano “The Fly” (bateria) e Willian Morais (teclas/voz).\n\nA apresentação contará com acessibilidade comunicacional em Libras.\n\n>> Serviço\n\nO quê: Serginho Feijó & Os Autônomos – “As Flores do Nosso Quintal”\n\nQuando: 19/08/2026 | quarta-feira | 20h\n\nOnde: Teatro Carmen Fossari – UFSC | Rua Desembargador Vítor Lima, 117 – Trindade – Florianópolis, SC\n\nQuanto: Evento gratuito – ingressos antecipados na plataforma Sympla\n\nInformações: @serginhofeijo | serginhofeijo@gmail.com | 48 9983-8268",
+      "tags": [
+        "apresentação musical",
+        "serginho feijó e os autônomos",
+        "teatro carmen fossari"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295280",
+      "name": "Concerto Trio Internacional",
+      "start_date": "2026-08-20T23:00:00.000Z",
+      "end_date": "2026-08-21T01:00:00.000Z",
+      "location": "Igrejinha da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Igejinha-musical-Post-instagram-1-819x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/concerto-trio-internacional/",
+      "description": "O projeto Igrejinha Musical apresenta no dia 20 de agosto às 20h, na Igrejinha da UFSC, o Concerto Trio Internacional. O evento recebe Martina Drudi, Hans Twichell e Ricardo Müller, é gratuito e aberto à comunidade, com entrada liberada por ordem de chegada.\n\nO Igrejinha Musical é uma ação do Departamento Artístico Cultural (DAC) da Secretaria de Cultura e Artes da Universidade Federal de Santa Catarina (SeCArtE/UFSC). O projeto tem como objetivo incentivar e valorizar a música instrumental e autoral ampliando o acesso e a difusão da cultura musical para toda a comunidade.\n\nMartina Drudi é pianista italiana formada com distinção pelo Conservatório F. Venezze de Rovigo. É premiada em concursos europeus com o Trio InUno e se apresenta regularmente na Itália e no exterior, também como integrante do duo LadyFingers. Desde 2016 mantém laços estreitos com o Brasil, atuando em parceria com universidades como a USP de Ribeirão Preto e a UDESC, em Florianópolis, onde se apresentou em diversas formações e ministra palestras sobre didática musical. Atualmente é responsável pela produção da escola de música Giuseppe Sarti (Itália) e diretora de produção da Orquestra La Corelli.\n\nHans Twichell é violoncelista norte-americano reconhecido pela versatilidade entre repertório barroco e contemporâneo. É membro fundador do Avery Ensemble e já se apresentou como convidado do Emerson String Quartet. Gravou para selos internacionais e protagonizou estreias relevantes no Brasil, como a Segunda Sonata para violoncelo e piano de Alfred Schnittke (Porto Alegre, 2014) e Thirteen Moons on Turtle’s Back, de Luigi Irlndini (Rio de Janeiro, 2016). Doutor pela University of Connecticut, é professor efetivo do curso de violoncelo da UDESC, em Florianópolis.\n\nRicardo Müller é violinista, pesquisador e professor de violino, e é bacharel e mestre pela UDESC, onde atualmente cursa doutorado. Complementou sua formação na Bélgica, sob orientação de Katy Sebestyén. Sua trajetória se destaca pela busca de uma interpretação sensível, que articula performance, pesquisa e prática pedagógica, aproximando o público da riqueza estética e humana do repertório. Ricardo explora o diálogo entre tradição e criação.",
+      "tags": [
+        "musical",
+        "arte e esporte (secarte)",
+        "concerto trio internacional",
+        "igrejinha musical"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295298",
+      "name": "Cine Buñuel: Mostra de Cinema Espanhol 2026",
+      "start_date": "2026-08-24T22:00:00.000Z",
+      "end_date": "2026-08-25T00:30:00.000Z",
+      "location": "Auditório Elke Hering, da Biblioteca Universitária (BU)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Captura-de-tela-2026-08-10-150403.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-bunuel-mostra-de-cinema-espanhol-2026/",
+      "description": "O Cine Buñuel, projeto de extensão da Universidade Federal de Santa Catarina (UFSC) em parceria com a Embaixada da Espanha no Brasil, promove, de 24 a 28 de agosto, a Mostra de Cinema Espanhol 2026. As exibições ocorrem no Auditório Elke Hering, da Biblioteca Universitária (BU), sempre às 19h. A Mostra é gratuita e aberta ao público, com classificação indicativa de 16 anos.\n\nA programação reúne cinco longas-metragens contemporâneos e premiados, com o drama familiar como fio condutor, abordando temas como maternidade, cuidado, memória, perda e a complexidade dos vínculos humanos. A mostra também se destaca pela presença de três diretoras, Icíar Bollaín, Pilar Palomero e Eva Libertad, entre os cinco filmes selecionados.\n\nA mostra pretende criar um espaço de encontro entre o cinema espanhol contemporâneo e o público de Florianópolis, aproximando diferentes experiências culturais por meio da linguagem cinematográfica. A programação também reforça a atuação do CineBuñuel como espaço de formação e difusão cultural dentro e fora da comunidade universitária. As sessões buscam estimular o contato com produções cinematográficas de diferentes perspectivas, ampliando o acesso à cinematografia hispânica.\n\nConfira a programação:\n\n24 de agosto — Soy Nevenka\n\nDireção: Icíar Bollaín\n\nO filme aborda a história de Nevenka Fernández, primeira mulher na Espanha a denunciar publicamente um caso de assédio sexual cometido por um político. A obra recupera um episódio marcante da história recente espanhola e reflete sobre poder, violência de gênero, exposição pública e resistência.\n\n25 de agosto — Los destellos\n\nDireção: Pilar Palomero\n\nO filme acompanha o reencontro de uma mulher com seu passado a partir da doença de uma pessoa próxima. A obra constrói, de maneira delicada e intimista, uma reflexão sobre os vínculos afetivos, a passagem do tempo, a memória e as diferentes formas de cuidar.\n\n26 de agosto — Cierra los ojos\n\nDireção: Víctor Erice\n\nConsiderado um dos grandes nomes do cinema espanhol, Víctor Erice retorna à direção com uma obra sobre desaparecimento, memória e cinema. A partir da busca por um ator que desapareceu durante as filmagens de um longa-metragem, o filme estabelece um diálogo entre passado e presente e reflete sobre aquilo que permanece nas imagens e nas lembranças.\n\n27 de agosto — Todos lo saben\n\nDireção: Asghar Farhadi\n\nO longa dirigido pelo cineasta iraniano Asghar Farhadi e protagonizado por Penélope Cruz e Javier Bardem acompanha o retorno de Laura à sua cidade natal na Espanha para uma celebração familiar. O desaparecimento de sua filha desencadeia uma série de revelações e conflitos que colocam em questão relações, segredos e acontecimentos do passado.\n\n28 de agosto — Sorda\n\nDireção: Eva Libertad\n\nO filme apresenta a história de uma mulher surda que enfrenta os desafios e transformações provocados pela maternidade. O filme propõe uma reflexão sobre comunicação, acessibilidade, identidade e as barreiras presentes nas relações cotidianas.\n\n* Publicação atualizada em 12 de agosto às 16h12, para modificação do local das sessões\n\nMais informações no Instagram do projeto de extensão.",
+      "tags": [
+        "cinema",
+        "filme",
+        "mostra",
+        "biblioteca universitária (bu)",
+        "cine buñuel",
+        "mostra de cinema espanhol"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295167",
+      "name": "Laboratório de autorregulação: técnicas de respiração, meditação e mindfulness",
+      "start_date": "2026-08-25T19:00:00.000Z",
+      "end_date": "2026-08-25T20:30:00.000Z",
+      "location": "Serviço de Atenção Psicológica (SAPSI)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/WhatsApp-Image-2026-07-17-at-14.58.07-819x1024.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/laboratorio-de-autorregulacao-tecnicas-de-respiracao-meditacao-e-mindfulness/",
+      "description": "Estão abertas as inscrições para o projeto Laboratório de autorregulação: Técnicas de meditação, mindfulness e respiração para manejo de ansiedade, que busca proporcionar um ambiente seguro e de acolhimento com técnicas de autorregulação. As inscrições ocorrem pelo formulário até o dia 14 de agosto. As atividades ocorrem de 25 de agosto a 24 de novembro, às terças-feiras, das 16h às 17h30, no Serviço de Atenção Psicológica (SAPSI), no Departamento de Psicologia da Universidade Federal de Santa Catarina (UFSC).\n\nO público alvo é comunidade interna da UFSC, com limite para 20 inscrições. Em cada encontro serão apresentados fundamentos básicos de cada técnica, com práticas de uma técnica respiratória e uma técnica de meditação/mindfulness. As atividades também abordam temas como autopercepção, interocepção, respiração, atenção, relaxamento, ansiedade e estresse. A coordenação é da professora Carolina Baptista Menezes. Para mais informações no e-mail lab.autorregulacao@gmail.com ou no site.",
+      "tags": [
+        "meditação",
+        "saúde",
+        "departamento de psicologia",
+        "laboratório de autorregulação",
+        "serviço de atenção psicológica (sapsi)"
+      ],
+      "category": "saude",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:294832",
+      "name": "Jornadas do Laboratório de Estudos de Gênero e História",
+      "start_date": "2026-08-26T03:00:00.000Z",
+      "end_date": "2026-08-27T02:59:59.000Z",
+      "location": "Auditório do Bloco B do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/07/avatar-com-data.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/jornadas-do-laboratorio-de-estudos-de-genero-e-historia/",
+      "description": "O Laboratório de Estudos de Gênero e História (LEGH) da Universidade Federal de Santa Catarina (UFSC) terá a VII Jornadas do LEGH com simpósios temáticos, lançamentos e mesas-redondas. O evento ocorrerá do dia 26 a 28 de agosto no Auditório do Bloco B do Centro de Filosofia e Ciências Humanas (CFH). As inscrições gratuitas abrem dia primeiro e devem ser realizadas até dia 26 de agosto.\n\nO evento terá como tema Cidadania Digital e Política e pretende abordar os desafios contemporâneos da cidadania digital, da participação política e das desigualdades nos ambientes digitais. Letícia Cesarino (UFSC), Juliana Kroeger (Sapienza/Roma) e Sandro Justo (UFRJ) serão os conferencistas desta edição. A participação será presencial, mas haverá transmissão online de parte da programação. Confira a programação completa aqui. Mais informações na página do LEGH.",
+      "tags": [
+        "mesa-redonda",
+        "auditório do bloco b do cfh",
+        "centro de filosofia e ciências humanas (cfh)",
+        "legh",
+        "leticia cesarino"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "ara:24307",
+      "name": "SAENE",
+      "start_date": "2026-08-31T03:00:00.000Z",
+      "end_date": "2026-09-05T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "ararangua",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/saene/",
+      "description": "Semana Acadêmica de Engenharia de Energia",
+      "tags": [
+        "semana acadêmica"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:291091",
+      "name": "V Congresso Brasileiro de Fluidodinâmica Computacional",
+      "start_date": "2026-09-02T03:00:00.000Z",
+      "end_date": "2026-09-03T02:59:59.000Z",
+      "location": "Majestic Palace Hotel",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/04/congresso-1024x336.jpg",
+      "ticket_url": "https://www.cbcfd.com.br/cbcfd-2026/registration/intro",
+      "info_url": "https://noticias.ufsc.br/event/v-congresso-brasileiro-de-fluidodinamica-computacional/",
+      "description": "A quinta edição do Congresso Brasileiro de Fluidodinâmica Computacional (CBCFD) será realizada com apoio da Universidade Federal de Santa Catarina, no Majestic Palace Hotel, em Florianópolis, entre os dias 2 e 4 de setembro. O CBCFD é um evento bienal que visa consolidar e ampliar o intercâmbio técnico e científico entre pesquisadores, profissionais da indústria e estudantes envolvidos com a modelagem e simulação de escoamentos complexos por meio de técnicas da Fluidodinâmica Computacional (CFD).\n\nIdealizado por professores da Universidade Federal do Rio de Janeiro (UFRJ), Universidade Estadual de Campinas (Unicamp), Universidade Federal de Campina Grande (UFCG) e Instituto Federal da Paraíba (IFPB), o encontro surgiu da necessidade de um fórum técnico especializado, acompanhando o crescimento expressivo da comunidade nacional atuante em CFD. Ao longo de suas edições, o congresso tem se consolidado como um espaço estratégico para compartilhar avanços, discutir desafios emergentes e fortalecer a integração entre universidades, centros de pesquisa e o setor produtivo.\n\nEntre os principais objetivos está reunir especialistas das áreas acadêmica e industrial atuantes em CFD, divulgar avanços em pesquisa, desenvolvimento e aplicações, estimular colaborações interinstitucionais e parcerias com o setor produtivo, promover discussões técnicas sobre desafios atuais e tendências emergentes e fortalecer a integração entre universidades, centros de pesquisa e a indústrias.\n\nAs inscrições estão abertas e os trabalhos podem ser submetidos até dia 22 de abril. Os valores para a participação no evento podem ser consultados no site oficial e variam entre estudantes de graduação, discentes de pós-graduação,, docentes e profissionais da área. Para mais informações acesse o site do CBCFD.\n\nTickets: https://www.cbcfd.com.br/cbcfd-2026/registration/intro.",
+      "tags": [
+        "encontro",
+        "cbcfd",
+        "cfd"
+      ],
+      "category": "academico",
+      "is_free": false,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295348",
+      "name": "Palestra ‘Água é vida? Química também!’",
+      "start_date": "2026-09-02T17:00:00.000Z",
+      "end_date": "2026-09-02T19:00:00.000Z",
+      "location": "On-line - Plataforma Google Meet",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/palestra-agua-e-vida-quimica-tambem/",
+      "description": "Professores de Química do Colégio de Aplicação da Universidade Federal de Santa Catarina (UFSC) promovem a palestra on-line Água é vida? Química também!, no dia 2 de setembro, quarta-feira, das 14h às 16h, pela plataforma Google Meet. As inscrições podem ser realizadas até 28 de agosto pelo sistema de inscrições da UFSC.\n\nMinistrada pelo químico Paulo César Lamin, a palestra abordará o papel da Química no saneamento básico, mostrando como essa ciência está diretamente relacionada à qualidade da água que consumimos, ao tratamento dos nossos resíduos e à construção de um ambiente mais saudável e sustentável para todos. A palestra também propõe uma reflexão sobre a atuação cada vez mais ampla do profissional da área, que, além do conhecimento técnico em Química, precisa dialogar com diferentes áreas, como gestão, comunicação, legislação, engenharia e tomada de decisões, assumindo um papel estratégico para a solução de desafios institucionais, técnicos e administrativos.\n\nSegundo os organizadores, a Química assume um papel indispensável, “contribuindo para o desenvolvimento de soluções seguras, eficientes e economicamente viáveis para o tratamento da água e do esgoto. Por outro lado, com o avanço da inteligência artificial e de novas tecnologias, é o conhecimento técnico de profissionais da área que garantem que as informações sejam corretamente interpretadas e transformadas em ações seguras para a população e para o meio ambiente”.\n\nO link de acesso será disponibilizado no dia do evento para os participantes com inscrição homologada. A participação dá direito a certificado de duas horas. Não haverá intérprete de libras.\n\nMais informações sobre a atividade no site caqmcufsc.paginas.ufsc.br/home e na página de inscrições.",
+      "tags": [
+        "palestra",
+        "colégio de aplicação",
+        "química"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:294920",
+      "name": "Encontro Regional de Estudantes de Biologia 2026",
+      "start_date": "2026-09-03T03:00:00.000Z",
+      "end_date": "2026-09-04T02:59:59.000Z",
+      "location": "Fazenda da Ressacada da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/07/Captura-de-tela-2026-07-28-092935.png",
+      "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSc7YakgIQwvjBxIdcgntfP8l2EOxp1JXejhns1XRvAqzzxYeQ/viewform",
+      "info_url": "https://noticias.ufsc.br/event/encontro-regional-de-estudantes-de-biologia-2026/",
+      "description": "O Centro Acadêmico de Biologia (CAbio) da Universidade Federal de Santa Catarina (UFSC), com apoio do Centro de Ciências Biológicas e da Entidade Nacional dos Estudantes de Biologia (ENEBio), realiza o Encontro Regional de Estudantes de Biologia – Sul (EREB- Sul), entre os dias 3 e 7 de setembro, na Fazenda da Ressacada da UFSC, localizada em Florianópolis.\n\nO EREB 2026 traz como tema Quebrando a dormência: Biologia para ser vivida e propõe articular com problemáticas da localidade, em especial dos moradores dos arredores da Fazenda da Ressacada, escutando e cooperando com as demandas que têm sido apresentadas.\n\nAs inscrições custam R$ 100,00 e podem ser realizadas via formulário. Participantes inscritos receberão certificação de 35 horas, além do certificado de apresentação de trabalhos, quando for o caso.\n\nPara mais informações, acesse o Instagram do congresso @erebsul2026.\n\nTickets: https://docs.google.com/forms/d/e/1FAIpQLSc7YakgIQwvjBxIdcgntfP8l2EOxp1JXejhns1XRvAqzzxYeQ/viewform.",
+      "tags": [
+        "encontro",
+        "cabio",
+        "centro de ciências biológicas (ccb)",
+        "fazenda da ressacada"
+      ],
+      "category": "academico",
+      "is_free": false,
+      "is_all_day": true
+    },
+    {
+      "source_id": "ara:24355",
+      "name": "Araranguá de Portas Abertas – Feira de Cursos",
+      "start_date": "2026-09-09T11:00:00.000Z",
+      "end_date": "2026-09-09T21:00:00.000Z",
+      "location": "UFSC Araranguá - Jardim das Avenidas",
+      "campus": "ararangua",
+      "image_url": "https://ara.ufsc.br/files/2025/07/Banner-PortasAbertas.png",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/ararangua-de-portas-abertas-feira-de-cursos/",
+      "description": null,
+      "tags": [
+        "feiras de cursos"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "ara:25068",
+      "name": "SEATIC",
+      "start_date": "2026-09-15T03:00:00.000Z",
+      "end_date": "2026-09-18T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "ararangua",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/seatic/",
+      "description": "Semana Acadêmica de Tecnologias da Informação e Comunicação",
+      "tags": [
+        "semana acadêmica"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "ara:25049",
+      "name": "SAFS",
+      "start_date": "2026-09-21T03:00:00.000Z",
+      "end_date": "2026-09-26T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "ararangua",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/safs/",
+      "description": "Semana Acadêmica de Fisioterapia",
+      "tags": [
+        "semana acadêmica"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:294876",
+      "name": "Imaginar o impossível – sobre a modernidade e seus fins",
+      "start_date": "2026-09-28T03:00:00.000Z",
+      "end_date": "2026-09-29T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/07/Material-primeira-chamada-4-768x1086-724x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/grupo-de-estudos-em-literatura-e-modernidade/",
+      "description": "O Grupo de Estudos em Literatura e Modernidade (GELMo/UFSC) terá o evento Imaginar o impossível – sobre a modernidade e seus fins no dia 28, 29 e 30 de setembro na sala Machado de Assis, localizada no quarto andar do Bloco B do Centro de Comunicação e Expressão (CCE) da Universidade Federal de Santa Catarina (UFSC). As inscrições para a comunicação devem ser realizadas até o dia 7 de agosto, e para ouvintes seguem abertas até a data do evento.\n\nDesde 2024, GELMo reúne estudantes com projetos de pesquisa em literatura e artes visuais dedicados à leitura crítica da modernidade. Segundo os organizadores, embora sejam diferentes entre si, esses projetos têm como objetivo analisar de forma crítica os problemas e as contradições da sociedade ocidental moderna e suas narrativas legitimadoras, explorando as linhas de fuga que, entre a crítica e a criação, permitem imaginar alternativas para a catástrofe conduzida pelo capitalismo planetário.\n\nNesse sentido, o que mobiliza as pesquisas do grupo, conforme seus integrantes, é uma exigência coletiva: trata-se da necessidade de reelaborar a idéia de abrir caminhos para outras formas de vida em comum, fora do capitalismo, num contexto em que o futuro parece coincidir, cada vez mais, com a própria exaustão do mundo, a ser vivida como um presente sem termo.\n\nNo total serão recebidas 14 propostas de comunicação, que deverão dialogar diretamente com as preocupações, para que componham as mesas-redondas com as integrantes do Grupo.\n\nPara mais informações na página e no Linktree.",
+      "tags": [
+        "roda de conversa",
+        "cce",
+        "grupo de estudos em literatura e modernidade",
+        "literatura"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "ara:26052",
+      "name": "SEAME",
+      "start_date": "2026-09-30T03:00:00.000Z",
+      "end_date": "2026-10-03T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "ararangua",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/seame/",
+      "description": "Semana Acadêmica de Medicina",
+      "tags": [],
+      "category": "outro",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:294522",
+      "name": "Seminário Muitas Tempestades: a literatura e as artes no olho do redemunho",
+      "start_date": "2026-10-05T11:00:00.000Z",
+      "end_date": "2026-10-05T13:00:00.000Z",
+      "location": "Auditório Henrique Fontes e Sala Machado de Assis, Bloco B, CCE, Universidade Federal de Santa Catarina",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/07/2026-SEMINARIO-MUITAS-TEMPESTADES-724x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/seminario-muitas-tempestades-a-literatura-e-as-artes-no-olho-do-redemunho/",
+      "description": "O Núcleo Onetti de Estudos Literários Latino-Americanos da Pós-Graduação em Literatura UFSC (PPGLit) terá o II Seminário Muitas Tempestades: a literatura e as artes no olho do redemunho, que será realizado entre os dias 5 e 9 de outubro, das 8h às 18h, no Auditório Henrique Fontes e Sala Machado de Assis do Centro de Comunicação e Expressão (CCE).\n\nA segunda edição do Seminário Muitas Tempestades pretende abrir espaço para novas e plurais discussões a respeito da literatura e da arte em um contexto de crise e urgências próprias da contemporaneidade. Neste ano, o evento adota como tema o redemunho, neologismo oriundo da cultura popular incorporado por Guimarães Rosa, em primeiro lugar, com o intuito de fazer coro às comemorações que marcam os 70 anos de publicação de seu magnum opus, Grande Sertão: Veredas. O evento se apropria da imagem dos redemoinhos – reais e ficcionais – como forma de destacar o caráter acelerado e cíclico dos ventos sombrios que insistem em soprar por toda parte.\n\nAlém das sessões de comunicação, este ano o evento será ampliado para 5 dias e contará com programação diversificada, incluindo conferências – internacionais e nacionais -, mesas de debate, minicurso, lançamento de livros e apresentações culturais.\n\nPara mais informações no página e no instagram @nucleo_onetti.",
+      "tags": [
+        "seminário",
+        "centro de comunicação e expressão (cce)",
+        "núcleo onetti de estudos literários latino-americanos",
+        "pós-graduação em literatura ufsc"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:290278",
+      "name": "Pluris 2026 Caminhos e Trajetos: Planeamento Urbano, Regional, Integrado e Sustentável",
+      "start_date": "2026-10-06T03:00:00.000Z",
+      "end_date": "2026-10-09T02:59:59.000Z",
+      "location": "Universidade Federal de Santa Catarina campus Joinville",
+      "campus": "joinville",
+      "image_url": "https://noticias.ufsc.br/files/2018/03/ufsc_joinville_2018-1.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/pluris-2026-caminhos-e-trajetos-planeamento-urbano-regional-integrado-e-sustentavel/",
+      "description": "Campus da UFSC em Joinville (Foto: Acervo Agecom)\n\nA Universidade Federal de Santa Catarina, campus Joinville, sediará entre os dias 6 e 8 de outubro, o Pluris 2026 – Caminhos e Trajetos: Congresso para o Planeamento Urbano, Regional, Integrado e Sustentável, encontro internacional voltado ao debate sobre desenvolvimento urbano e regional. O evento será realizado presencialmente em Joinville e é organizado em parceria com o Ágora Tech Park.\n\nA edição de 2026 marcará a realização do congresso na cidade de Joinville, reunindo pesquisadores, estudantes e profissionais que atuam nas áreas relacionadas ao planejamento urbano, regional e sustentável. A escolha do município como sede busca fortalecer o intercâmbio científico e técnico e ampliar o diálogo entre universidade, setor produtivo e sociedade sobre os desafios contemporâneos das cidades.\n\nA proposta do evento é reunir perspectivas multidisciplinares para discutir soluções e trajetórias voltadas à construção de cidades mais sustentáveis, inovadoras e eficientes.\n\nNesta edição, os trabalhos abordarão temas como ambiente e energia, cidades inovadoras e inteligentes, mobilidade e transporte e planejamento regional e urbano, incentivando reflexões sobre o futuro das cidades e a integração entre diferentes áreas do conhecimento. O congresso é voltado a estudantes de graduação e pós-graduação, pesquisadores, docentes, profissionais do mercado e interessados da comunidade em geral.\n\nMais informações estão disponíveis no site oficial do evento: Pluris 2026.",
+      "tags": [
+        "campus de joinville",
+        "pluris 2026",
+        "ufsc joinville"
+      ],
+      "category": "outro",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "ara:26195",
+      "name": "VII Simpósio do Programa de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES)",
+      "start_date": "2026-10-21T16:30:00.000Z",
+      "end_date": "2026-10-22T23:30:00.000Z",
+      "location": "UFSC",
+      "campus": "ararangua",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/vii-simposio-do-programa-de-pos-graduacao-em-energia-e-sustentabilidade-vii-simppges/",
+      "description": "VII Simpósio do Programa de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES)\n\nBreve descrição do evento: O VII Simpósio do Programa de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES) é um evento científico promovido pelo PPGES/UFSC, destinado à divulgação de pesquisas e à troca de conhecimentos nas áreas de energia e sustentabilidade. O simpósio reúne estudantes, docentes, pesquisadores, profissionais e representantes dos setores público e privado para palestras, mesas-redondas, apresentações de trabalhos e debates, fortalecendo a integração entre a universidade e a sociedade.Data e horário: 21 e 22 de outubro de 2026, das 13:30 às 20:30.\n\nLocal do evento: Auditório da Universidade Federal de Santa Catarina (UFSC), Campus Araranguá, Unidade Jardim das Avenidas – Araranguá/SC.\n\nOrganização: Programa de Pós-Graduação em Energia e Sustentabilidade (PPGES) da Universidade Federal de Santa Catarina (UFSC).\n\nOrganizadores na UFSC:\n\nCoordenação Geral:\n\n•\nProf. Dr. Leonardo Elizeire Bremermann – PPGES/UFSC (Coordenador)\n\nComissão Organizadora – Docentes:\n\n•\nProf. Dr. Afonso Henrique da Silva Júnior – PPGES/UFSC\n\n•\nProf. Dr. Giuliano Arns Rampinelli – PPGES/UFSC\n\n•\nProf. Dr. Luiz Fernando Belchior Ribeiro – PPGES/UFSC\n\nComissão Organizadora – Discentes:\n\n•\nAlesandra Bez Birolo\n\n•\nAline Rodrigues\n\n•\nAndrei Leandro Morsch Franco\n\n•\nBiasse Paulino Biasse Cadente\n\n•\nCaroline Winke Ávila\n\n•\nCristini da Rosa Pedroso\n\n•\nDouglas de Matos Magnus\n\n•\nGessica Candiotto Possamai\n\n•\nGuilherme Velho\n\n•\nJessica Patrício dos Santos\n\n•\nJessika Sumariva Saturno\n\n•\nJonathan Maceda Silveira\n\n•\nLaércio Luiz Teixeira\n\n•\nLucas Batista Crepaldi\n\n•\nLuis Fernando Espinosa Cocian\n\n•\nMarcos Ricardo Giehl\n\n•\nPedro Rodrigo Silva Moura\n\n•\nSara Cristine Denoni Ghedin\n\n•\nTiago da Rosa Augustinho",
+      "tags": [],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "ara:24637",
+      "name": "14º Simpósio de Integração Científica e Tecnológica do Sul Catarinense (SICT-Sul)",
+      "start_date": "2026-11-10T03:00:00.000Z",
+      "end_date": "2026-11-12T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "ararangua",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/14o-simposio-de-integracao-cientifica-e-tecnologica-do-sul-catarinense-sict-sul/",
+      "description": "Acontece no campus Araranguá, Jardim das Avenidas.",
+      "tags": [
+        "simpósios"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:291727",
+      "name": "Encontro Latino-Americano de Análise de Redes Sociais",
+      "start_date": "2026-12-14T03:00:00.000Z",
+      "end_date": "2026-12-15T02:59:59.000Z",
+      "location": "Auditório do EFI",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/05/cropped-RLARS2026.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/encontro-latino-americano-de-analise-de-redes-sociais/",
+      "description": "O 8º Encontro Latino-Americano de Análise de Redes Sociais será realizado de 14 a 18 de dezembro de 2026, no Auditório do EFI, no Campus da Trindade, com organização do Grupo de Pesquisa Lemme Lab da Universidade Federal de Santa Catarina.\n\nO tema do evento é Os Desafios da Ars diante da Inteligência Artificial, dos Algoritmos e da Intolerância. Haverá sessões em que os participantes poderão apresentar, discutir e trocar experiências sobre seus trabalhos atuais. A programação, os conferencistas e detalhes sobre inscrição e submissão de trabalhos estão disponíveis no site.\n\nO Lemme Lab é um grupo de pesquisa vinculado ao curso de Design, ao Programa de Pós-graduação em Design (Pós-Design) e ao Programa de Pós Graduação em Engenharia, Gestão e Mídia do Conhecimento (PPGEGC) da Universidade Federal\n\nde Santa Catarina (UFSC). O foco é a pesquisa científica interdisciplinar aplicada à inovação, à gestão e às mídias por meio do design.",
+      "tags": [
+        "encontro",
+        "encontro latino-americano de análise de redes sociais",
+        "lemme lab"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": true
+    }
+  ]
+}
