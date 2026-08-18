@@ -1,10 +1,10 @@
 {
-  "geradoEm": "2026-08-18T09:41:08.219Z",
+  "geradoEm": "2026-08-18T18:49:15.562Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1292,
-      "selecionados": 26,
+      "totalNoFeed": 1293,
+      "selecionados": 27,
       "ignorados": {
         "ja-passou": 1265,
         "muito-longe": 1
@@ -370,6 +370,27 @@
         "arte e esporte (secarte)",
         "concerto trio internacional",
         "igrejinha musical"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295560",
+      "name": "Cine Paredão: ‘Franz’",
+      "start_date": "2026-08-21T22:00:00.000Z",
+      "end_date": "2026-08-22T00:15:00.000Z",
+      "location": "Bosque do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/STORY-FRANZ-576x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-paredao-franz/",
+      "description": "O Cine Paredão apresenta na sexta-feira, 21 de agosto, uma sessão gratuita do filme Franz, dirigido pela cineasta Agnieszka Holland. A exibição ocorre às 19h, no Bosque do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC).\n\nLançado em 2025, o longa-metragem mistura drama e biografia. Com 2h07 de duração e classificação indicativa de 16 anos, o filme faz um retrato impressionista, complexo e íntimo de Franz Kafka (Idan Weiss), um dos escritores mais aclamados da literatura.\n\nLonge de ser uma biografia tradicional, a narrativa funciona como uma espécie de mosaico que mescla a realidade com elementos de sua imaginação literária. Ao mesmo tempo, a história projeta o impacto de sua obra no futuro, refletindo como um homem que passou a vida sendo um burocrata e pediu para que seus manuscritos fossem queimados acabou prevendo os horrores totalitários dos dias atuais.\n\nA sessão integra a programação do Cine Paredão, projeto de extensão vinculado ao Curso de Cinema do Centro de Comunicação e Expressão (CCE) da UFSC. Há 18 anos, a iniciativa promove exibições gratuitas ao ar livre, incentivando o acesso à cultura, o pensamento crítico e a convivência da comunidade universitária em um dos espaços mais tradicionais do campus.\n\nPara mais informações no Instagram e o trailer.",
+      "tags": [
+        "filme",
+        "bosque do cfh",
+        "cineparedão",
+        "franz kafka"
       ],
       "category": "cultura",
       "is_free": true,
