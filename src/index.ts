@@ -1,10 +1,15 @@
-// CLI: bun src/index.ts eventos [--dry-run] [--skip-db] [--source agecom,ara] [--fixture <dir>]
+// CLI: bun src/index.ts eventos [--dry-run] [--skip-db] [--source agecom,ara] [--fixture <dir>] [--now <iso>]
 //
 //   eventos      baixa os feeds iCal, normaliza, valida e manda pra Edge Function
 //   --dry-run    chama a function com dry=true (valida lá, não grava) e não poda
 //   --skip-db    não chama a function (só gera data/eventos.json)
 //   --source     restringe as fontes (padrão: todas)
 //   --fixture    lê <dir>/<fonte>.ics em vez de baixar (testes/debug offline)
+//   --now        fixa o "agora" (ISO) — usado no CI com fixtures congelados
+//
+// Poda (ufsc-prune) só roda numa execução COMPLETA (todas as fontes, feed de verdade):
+// com --source ou --fixture ela é pulada, senão os eventos das fontes ausentes seriam
+// rejeitados em massa. Mesmo assim a function só poda dentro das fontes enviadas.
 //
 // Saída: data/eventos.json (snapshot do que foi enviado — commitado pelo workflow como
 // keep-alive) e log em stdout.
@@ -22,10 +27,26 @@ import { FONTES, FONTES_PADRAO } from './sources/index.js';
 const FALLBACK_IMAGEM =
   'https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg';
 
-type Args = { cmd: string; dry: boolean; skipDb: boolean; fontes: SourceId[]; fixture: string | null };
+type Args = {
+  cmd: string;
+  dry: boolean;
+  skipDb: boolean;
+  fontes: SourceId[];
+  fixture: string | null;
+  now: number | null;
+  fontesRestritas: boolean;
+};
 
 function parseArgs(argv: string[]): Args {
-  const args: Args = { cmd: argv[0] ?? '', dry: false, skipDb: false, fontes: FONTES_PADRAO, fixture: null };
+  const args: Args = {
+    cmd: argv[0] ?? '',
+    dry: false,
+    skipDb: false,
+    fontes: FONTES_PADRAO,
+    fixture: null,
+    now: null,
+    fontesRestritas: false,
+  };
   for (let i = 1; i < argv.length; i++) {
     const a = argv[i];
     if (a === '--dry-run') args.dry = true;
@@ -34,7 +55,13 @@ function parseArgs(argv: string[]): Args {
       const lista = (argv[++i] ?? '').split(',').filter(Boolean) as SourceId[];
       for (const f of lista) if (!(f in FONTES)) throw new Error(`fonte desconhecida: ${f}`);
       args.fontes = lista;
+      args.fontesRestritas = true;
     } else if (a === '--fixture') args.fixture = argv[++i] ?? null;
+    else if (a === '--now') {
+      const t = Date.parse(argv[++i] ?? '');
+      if (Number.isNaN(t)) throw new Error('--now precisa de uma data ISO');
+      args.now = t;
+    }
     else throw new Error(`argumento desconhecido: ${a}`);
   }
   return args;
@@ -60,7 +87,7 @@ async function coletar(fonteId: SourceId, agora: number, fixture: string | null)
 }
 
 async function cmdEventos(args: Args) {
-  const agora = Date.now();
+  const agora = args.now ?? Date.now();
   const todas: UfscEventRow[] = [];
   const stats: PipelineStats[] = [];
   for (const f of args.fontes) {
@@ -94,14 +121,19 @@ async function cmdEventos(args: Args) {
   }
   const saidas = await upsertEventos(todas, args.dry);
   for (const s of saidas) console.log(`\n${s}`);
-  if (!args.dry) {
-    console.log(`\n${await podarEventos(todas.map((r) => r.source_id))}`);
+  if (args.dry) return;
+  if (args.fontesRestritas || args.fixture) {
+    console.log('\n(poda pulada: execução parcial com --source/--fixture)');
+    return;
   }
+  console.log(`\n${await podarEventos(args.fontes, todas.map((r) => r.source_id))}`);
 }
 
 const args = parseArgs(process.argv.slice(2));
 if (args.cmd !== 'eventos') {
-  console.error('uso: bun src/index.ts eventos [--dry-run] [--skip-db] [--source agecom,ara] [--fixture <dir>]');
+  console.error(
+    'uso: bun src/index.ts eventos [--dry-run] [--skip-db] [--source agecom,ara] [--fixture <dir>] [--now <iso>]'
+  );
   process.exit(2);
 }
 try {

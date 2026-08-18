@@ -18,4 +18,6 @@ jobs:
       - run: bun run typecheck
       - run: bun test
       - name: Pipeline offline (fixtures)
-        run: bun src/index.ts eventos --skip-db --fixture fixtures
+        # --now fixo: os fixtures são um snapshot de 2026-08-17; sem isso o passo ficaria
+        # vermelho quando todos os eventos do snapshot passassem.
+        run: bun src/index.ts eventos --skip-db --fixture fixtures --now 2026-08-17T15:00:00-03:00

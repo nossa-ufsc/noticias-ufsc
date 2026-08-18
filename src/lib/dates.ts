@@ -34,7 +34,13 @@ export type Interval = { start: string; end: string; allDay: boolean };
  * - Com hora e sem DTEND: assume 2h de duração.
  * - Datas com sufixo Z (UTC) são convertidas direto.
  */
+const TZIDS_OK = new Set([null, 'UTC', 'America/Sao_Paulo']);
+
 export function toInterval(start: IcalDate, end: IcalDate | null): Interval {
+  // Qualquer outro fuso viraria BRT em silêncio (horas erradas sem aviso).
+  for (const d of [start, end]) {
+    if (d && !TZIDS_OK.has(d.tzid)) throw new Error(`TZID não suportado: ${d.tzid}`);
+  }
   if (!start.time) {
     const last = end && !end.time ? addDays(end.date, -1) : start.date;
     const lastSafe = last < start.date ? start.date : last;

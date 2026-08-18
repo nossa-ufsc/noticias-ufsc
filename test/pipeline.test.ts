@@ -24,6 +24,9 @@ describe('ical', () => {
 
   test('desdobra linhas e desfaz escapes', () => {
     expect(unescapeText('a\\, b\\; c\\nd')).toBe('a, b; c\nd');
+    // barra escapada seguida de "n" NÃO é quebra de linha (uma passada só)
+    expect(unescapeText('C:\\\\nova')).toBe('C:\\nova');
+    expect(() => parseEvents('<html>home</html>')).toThrow(/VCALENDAR/);
     const ev = agecom.find((e) => text(e, 'SUMMARY').startsWith('Concerto Trio'))!;
     expect(text(ev, 'LOCATION')).toBe('Igrejinha da UFSC @ Rua Desembargador Vítor Lima, 117 – Trindade, Florianópolis – SC');
   });
@@ -49,6 +52,9 @@ describe('dates', () => {
   test('com hora e sem DTEND: 2h', () => {
     const it = toInterval({ date: '20260820', time: '2000', tzid: 'America/Sao_Paulo' }, null);
     expect(it).toEqual({ start: '2026-08-20T23:00:00.000Z', end: '2026-08-21T01:00:00.000Z', allDay: false });
+  });
+  test('TZID desconhecido é erro (não vira BRT em silêncio)', () => {
+    expect(() => toInterval({ date: '20260901', time: '1000', tzid: 'America/Manaus' }, null)).toThrow(/TZID/);
   });
   test('fim igual ao início vira 2h', () => {
     const d = { date: '20261005', time: '0800', tzid: null };
@@ -137,5 +143,6 @@ describe('normalize', () => {
     expect(() => validarLote(rows, stats)).not.toThrow();
     expect(() => validarLote([...rows, rows[0]], stats)).toThrow(/duplicado/);
     expect(() => validarLote([], [{ ...stats[0], selecionados: 0 }])).toThrow(/nenhum evento futuro/);
+    expect(() => validarLote(rows, [...stats, { ...stats[0], fonte: 'ara', totalNoFeed: 0 }])).toThrow(/feed ara sem nenhum VEVENT/);
   });
 });

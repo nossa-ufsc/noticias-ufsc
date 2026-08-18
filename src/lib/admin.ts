@@ -1,7 +1,7 @@
 // Cliente da Edge Function `events-admin` (Supabase do app). Só precisa do
 // PIPELINE_TOKEN (escopo: ufsc-upsert | ufsc-prune) — nunca da service role.
 
-import type { UfscEventRow } from './types.js';
+import type { SourceId, UfscEventRow } from './types.js';
 
 const LOTE = 100;
 
@@ -37,6 +37,7 @@ export async function upsertEventos(rows: UfscEventRow[], dry: boolean): Promise
   return saidas;
 }
 
-export async function podarEventos(keepSourceIds: string[]): Promise<string> {
-  return chamar({ action: 'ufsc-prune', keep_source_ids: keepSourceIds });
+/** Poda restrita às fontes desta execução (a function só mexe em `source_id` com esses prefixos). */
+export async function podarEventos(sources: SourceId[], keepSourceIds: string[]): Promise<string> {
+  return chamar({ action: 'ufsc-prune', sources, keep_source_ids: keepSourceIds });
 }

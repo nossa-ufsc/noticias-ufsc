@@ -56,7 +56,10 @@ bun src/index.ts eventos --dry-run                  # a function valida e devolv
 bun src/index.ts eventos                            # grava + poda
 ```
 
-Flags: `--source agecom,ara` restringe as fontes; `--fixture <dir>` lê `<dir>/<fonte>.ics`.
+Flags: `--source agecom,ara` restringe as fontes; `--fixture <dir>` lê `<dir>/<fonte>.ics`; `--now <iso>` fixa o relógio.
+A **poda só roda numa execução completa** (todas as fontes, feed de verdade) — com `--source`/`--fixture` ela é pulada,
+e a function poda apenas dentro das fontes enviadas. Rejeições manuais (`reviewed_at` preenchido) nunca são
+desfeitas pelo feed; `updated_at` só muda quando o conteúdo muda.
 
 ## Workflows
 

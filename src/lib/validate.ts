@@ -7,8 +7,11 @@ import type { PipelineStats, UfscEventRow } from './types.js';
 export function validarLote(rows: UfscEventRow[], stats: PipelineStats[]): void {
   const problemas: string[] = [];
 
-  const totalFeed = stats.reduce((n, s) => n + s.totalNoFeed, 0);
-  if (totalFeed === 0) problemas.push('nenhum VEVENT em nenhum feed (feed vazio ou parser quebrado)');
+  // Feed que responde 200 sem nenhum VEVENT (home do WP, plugin desativado, HTML de erro)
+  // não pode passar: os eventos dessa fonte seriam podados como "sumiram do feed".
+  for (const s of stats) {
+    if (s.totalNoFeed === 0) problemas.push(`feed ${s.fonte} sem nenhum VEVENT (feed vazio ou parser quebrado)`);
+  }
 
   // A Agecom sempre tem eventos futuros; zero selecionados = algo mudou no feed.
   const agecom = stats.find((s) => s.fonte === 'agecom');

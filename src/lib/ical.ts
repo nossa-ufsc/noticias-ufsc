@@ -17,11 +17,8 @@ export function unfold(text: string): string[] {
 
 /** Desfaz os escapes de TEXT do RFC 5545. */
 export function unescapeText(v: string): string {
-  return v
-    .replace(/\\n/gi, '\n')
-    .replace(/\\,/g, ',')
-    .replace(/\\;/g, ';')
-    .replace(/\\\\/g, '\\');
+  // Uma passada só, da esquerda pra direita: "\\n" (barra escapada + n) fica "\n" literal.
+  return v.replace(/\\([\\;,nN])/g, (_, c: string) => (c === 'n' || c === 'N' ? '\n' : c));
 }
 
 /** "NAME;P1=a;P2=b:valor" → { name, params, value } (valor cru, sem unescape). */
@@ -49,8 +46,11 @@ function parseLine(line: string): { name: string; params: Record<string, string>
   return { name, params, value };
 }
 
-/** Extrai todos os VEVENTs de um .ics. */
+/** Extrai todos os VEVENTs de um .ics. Lança se o texto não for um iCalendar. */
 export function parseEvents(text: string): IcalEvent[] {
+  if (!/^BEGIN:VCALENDAR\r?$/m.test(text)) {
+    throw new Error('resposta não é um iCalendar (sem BEGIN:VCALENDAR) — feed indisponível?');
+  }
   const events: IcalEvent[] = [];
   let current: IcalEvent | null = null;
   let depth = 0; // ignora componentes aninhados (VALARM) dentro do VEVENT
