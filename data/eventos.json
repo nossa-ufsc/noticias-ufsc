@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-18T18:49:15.562Z",
+  "geradoEm": "2026-08-19T09:40:54.254Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1293,
-      "selecionados": 27,
+      "selecionados": 23,
       "ignorados": {
-        "ja-passou": 1265,
+        "ja-passou": 1269,
         "muito-longe": 1
       },
       "erros": []
@@ -24,26 +24,6 @@
   ],
   "eventos": [
     {
-      "source_id": "agecom:295138",
-      "name": "Exposição: Perder Tudo. Novamente: o impacto de eventos climáticos extremos em pessoas forçadas a se deslocar",
-      "start_date": "2026-08-17T03:00:00.000Z",
-      "end_date": "2026-08-18T02:59:59.000Z",
-      "location": "Campus Trindade da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Captura-de-tela-2026-08-04-152245.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/exposicao-perder-tudo-novamente-o-impacto-de-eventos-climaticos-extremos-em-pessoas-forcadas-a-se-deslocar/",
-      "description": "A Universidade Federal de Santa Catarina (UFSC) recebe, no campus de Florianópolis, a Exposição “Perder Tudo. Novamente: o impacto de eventos climáticos extremos em pessoas forçadas a se deslocar”, a partir do dia 17 de agosto. A programação recebe a apresentação do aluno imigrante Marjoão Ensa Martins e tem início às 17h, no Hall da Reitoria.\n\nA exposição ficará disponível no Hall da Reitoria até o dia 28 de agosto, quando se desloca para o Hall do Bloco B do CFH. No dia 4 de setembro, é levada ao Hall do Bloco de Aulas do CCS, onde permanece até 18 de setembro. Por último, fica no Hall do Bloco de Aulas do CSE até 2 de outubro.\n\nPara mais informações, acesse o site do UFSC Sem Fronteiras.",
-      "tags": [
-        "exposição",
-        "cce",
-        "hall da reitoria"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
       "source_id": "ara:25554",
       "name": "Semana de Capacitação e Enfrentamento da Violência contra a Mulher",
       "start_date": "2026-08-17T03:00:00.000Z",
@@ -58,72 +38,6 @@
       "category": "curso",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295413",
-      "name": "Seminário de Políticas Afirmativas na Pós-Graduação em Saúde Coletiva",
-      "start_date": "2026-08-17T12:00:00.000Z",
-      "end_date": "2026-08-17T20:00:00.000Z",
-      "location": "Auditório Lúcio Botelho do Centro de Ciências da Saúde (CCS)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2020/05/destaque_lago_convivencia_campus_UFSC_brasao_verde_institucional.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/seminario-de-politicas-afirmativas-na-pos-graduacao-em-saude-coletiva/",
-      "description": "O Programa de Pós-Graduação em Saúde Coletiva (PPGSC) da Universidade Federal de Santa Catarina (UFSC) realiza o Seminário de Políticas Afirmativas na Pós-Graduação em Saúde Coletiva, de 17 a 19 de agosto, das 9h às 17h, no Auditório Lúcio Botelho do Centro de Ciências da Saúde (CCS).\n\nO evento busca promover uma reflexão crítica sobre os avanços já conquistados, os desafios ainda existentes e as perspectivas para uma universidade mais diversa e inclusiva. Ao longo de três dias de atividades, os participantes poderão acompanhar mesas de debates, oficinas, espaços formativos e momentos de integração voltados à construção coletiva de estratégias para o fortalecimento das políticas afirmativas na pós-graduação.\n\nAlém das discussões acadêmicas, a programação contempla atividades de acolhimento e integração, valorizando experiências coletivas e práticas de cuidado como elementos fundamentais para a permanência estudantil. O seminário ocorrerá junto à semana de acolhimento dos novos discentes, mestrandos e doutorandos do programa, como resultado da articulação entre duas pesquisas nacionais que estão avaliando a implementação das políticas afirmativas nos Programas de Pós-Graduação em Saúde Coletiva e das iniciativas do Coletivo de Discentes do PPGSC.\n\nProgramação\n\n17 de agosto – Auditório Lúcio Botelho (CCS/UFSC)\n\n9h: Acolhimento da turma ingressante do PPGSC;\n\n14h: Recepção aos discentes;\n\n16h: Aula inaugural: “Políticas afirmativas e as transformações para o campo da Saúde Coletiva”, ministrada pelo professor Marcelo Eduardo Pfeiffer Castellanos (ISC/UFBA).\n\n18 de agosto – Auditório Lúcio Botelho (CCS/UFSC)\n\n9h30-12h Mesa 1: Desafios e potencialidades das políticas afirmativas no Brasil e em Santa Catarina\n\nMediação: Marta Verdi\n\nExpositoras/es: PROAFE\n\nCátedra Antonieta de Barros\n\nMirê Chagas\n\nKarla Garcia Luiz (IFSC)\n\nPesquisa Afirmativas UFC: Miguel Eusébio (UFC)\n\nMarcelo Castellanos (UFBA)\n\n14h-17h Mesa 2: Início, meio e começo: permanência discente e políticas afirmativas\n\nMediação: Thaiara Lago\n\nExpositoras/es:\n\nGiordano Azevedo – permanência e sofrimento psíquico\n\nColetivo de Mães da UFSC\n\nColetivo Indígena UFSC\n\nColetivo Imigrantes UFSC\n\nYuri Eller Verzola (representante discente na implementação das AA no PPGSC/UFSC)\n\nColetivo de Discentes do PPGSC/UFSC\n\n19 de agosto – Sala H005 (CCS/UFSC)\n\n9h-12h: Oficina 1\n\nObjetivo: Situar a/o participante no seu contexto histórico, racial e social, rompendo com a apresentação curricular.\n\nParticipantes: estudantes, docentes e egressos do PPGSC/UFSC\n\nNúmero de participantes: em torno de 25 pessoas\n\nDinâmica: Roda de conversa\n\n14h-16h: Oficina 2\n\nObjetivo: Mapear como o cuidado acontece na prática e onde estão os “nós” (tensão) e os “laços” (afeto).\n\nPúblico: estudantes de pós-graduação\n\nAtividade Prática: Cartografia dos Afetos e Relações de Poder (1h)\n\nDinâmica: Roda de conversa\n\nPara mais informações no e-mail ppgsc@contato.ufsc.br e na página do evento.",
-      "tags": [
-        "seminário",
-        "auditório lúcio botelho",
-        "ccs",
-        "centro de ciências da saúde (ccs)",
-        "programa de pós graduação em saúde coletiva"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295133",
-      "name": "Curso de formação em Jornalismo Humanitário e Combate à desinformação",
-      "start_date": "2026-08-17T19:00:00.000Z",
-      "end_date": "2026-08-17T20:00:00.000Z",
-      "location": "Auditório Henrique da Silva Fontes",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/WhatsApp-Image-2026-07-16-at-3.37.21-PM-300x300-1.jpeg",
-      "ticket_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=gXnD5WRmNEGKDGVD0q-AvqZlY105wT9KpbOhiU_0B4ZURVA4MEU2RDZXTUdKUTgxQ05HODU2UlpDMS4u",
-      "info_url": "https://noticias.ufsc.br/event/curso-de-formacao-em-jornalismo-humanitario-e-combate-a-desinformacao/",
-      "description": "A Agência da ONU para Refugiados (ACNUR), em parceria com o curso de Jornalismo da Universidade Federal de Santa Catarina (UFSC), a Cátedra Sérgio Vieira de Mello e a UFSC Sem Fronteiras, realizará a formação em Jornalismo Humanitário e Combate à Desinformação, no dia 17 de agosto, segunda-feira, às 16h, no auditório Henrique da Silva Fontes, no Bloco B, do Centro de Comunicação e Expressão (CCE).\n\nAs inscrições são gratuitas e podem ser realizadas via formulário. A formação garante certificação de 2h.\n\nO evento abre a exposição “Perder Tudo. Novamente: o impacto de eventos climáticos extremos em pessoas forçadas a se deslocar”. A programação recebe a apresentação do aluno imigrante Marjoão Ensa Martins e tem início às 17h, no hall da Reitoria.\n\nA exposição segue no Hall da Reitoria até o dia 28 de agosto, quando se desloca para o hall do Bloco B do CFH. No dia 4 de setembro, é levada ao hall do Bloco de Aulas do CCS, onde permanece até 18 de setembro. Por último, fica no hall do Bloco de Aulas do CSE até 2 de outubro.\n\nPara mais informações, acesse o site do UFSC Sem Fronteiras.\n\nTickets: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=gXnD5WRmNEGKDGVD0q-AvqZlY105wT9KpbOhiU_0B4ZURVA4MEU2RDZXTUdKUTgxQ05HODU2UlpDMS4u.",
-      "tags": [
-        "exposição",
-        "auditório cce",
-        "cátedra sérgio viera de mello",
-        "ufsc sem fronteiras"
-      ],
-      "category": "cultura",
-      "is_free": null,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295081",
-      "name": "Aula Magna do IELA: Homenagem aos 100 anos de Fidel Castro e a pertinência da Revolução Cubana",
-      "start_date": "2026-08-17T22:00:00.000Z",
-      "end_date": "2026-08-18T00:00:00.000Z",
-      "location": "Auditório do CSE",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/cuba.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/aula-magna-do-iela-homenagem-aos-100-anos-de-fidel-castro-e-a-pertinencia-da-revolucao-cubana/",
-      "description": "O Instituto de Estudos Latino-Americanos (IELA) da Universidade Federal de Santa Catarina (UFSC), realizará a aula magna Homenagem aos 100 anos de Fidel Castro e a pertinência da Revolução Cubana, no dia 17 de agosto, segunda-feira, às 19h, no Auditório do Centro Socioeconômico (CSE).\n\nA programação propõe uma reflexão crítica sobre a atualidade da Revolução Cubana e seu legado para a América Latina. Além disso, ocorrerão debates sobre soberania, nacionalismo e internacionalismo.\n\nO evento receberá a participação de dois professores da UFSC, Camila Vidal, de Relações Internacionais, e Waldir Rampinelli, professor aposentado de História. Contará ainda, com a participação de João Frederico Trott, da Associação Cultural José Martí de SC.\n\nAs inscrições podem ser realizadas no local, e o evento é aberto a toda a comunidade. A participação garante direito à certificação de três horas. Para mais informações, acesse o site o IELA.",
-      "tags": [
-        "aula magna",
-        "debate",
-        "palestra",
-        "centro sócio econômico (cse)",
-        "cuba",
-        "instituto de estudos latino-americanos (iela)"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:295523",
