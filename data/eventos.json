@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-20T09:41:55.572Z",
+  "geradoEm": "2026-08-20T18:51:30.322Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1296,
-      "selecionados": 22,
+      "selecionados": 21,
       "ignorados": {
-        "ja-passou": 1273,
+        "ja-passou": 1274,
         "muito-longe": 1
       },
       "erros": []
@@ -80,29 +80,6 @@
       "category": "curso",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295366",
-      "name": "Palestra ‘Liderança e Espiritualidade’",
-      "start_date": "2026-08-19T13:00:00.000Z",
-      "end_date": "2026-08-19T15:00:00.000Z",
-      "location": "Auditório do Centro Socioeconômico (CSE)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Gopi-patel-819x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/palestra-lideranca-e-espiritualidade/",
-      "description": "O Academy UFSC promove a palestra “Liderança e Espiritualidade” no dia 19 de agosto, às 10h, no auditório do Centro Socioeconômico (CSE/UFSC). As inscrições são gratuitas e devem ser feitas neste link. Será fornecido certificado de 1h30 de participação.\n\nA palestra será ministrada por Gopi Patel, educadora espiritual e praticante sênior de Raja Yoga da Brahma Kumaris, que abordará o tema: “Como desenvolver uma liderança mais consciente, equilibrada e conectada com valores humanos?”\n\nCom uma trajetória internacional, Gopi possui mais de 30 anos de experiência na coordenação de projetos voltados ao desenvolvimento da liderança, dos valores humanos e do crescimento pessoal e espiritual. Além disso, já representou a Brahma Kumaris em diversas conferências das Nações Unidas.\n\nO Academy UFSC é um programa da Universidade Federal de Santa Catarina (UFSC), vinculado ao ecossistema de inovação da universidade e integrante das iniciativas da Secretaria de Inovação (SINOVA).\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Academy UFSC ou pelo e-mail academy.ufsc@gmail.com.",
-      "tags": [
-        "palestra",
-        "academy ufsc",
-        "brahma kumaris",
-        "espiritualidade",
-        "gopi patel",
-        "liderança"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:295509",
