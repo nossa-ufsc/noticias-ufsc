@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-19T09:40:54.254Z",
+  "geradoEm": "2026-08-20T09:41:55.572Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1293,
-      "selecionados": 23,
+      "totalNoFeed": 1296,
+      "selecionados": 22,
       "ignorados": {
-        "ja-passou": 1269,
+        "ja-passou": 1273,
         "muito-longe": 1
       },
       "erros": []
@@ -38,89 +38,6 @@
       "category": "curso",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295523",
-      "name": "Workshop Brasileiro de Reprodução de Peixes",
-      "start_date": "2026-08-18T11:00:00.000Z",
-      "end_date": "2026-08-18T21:00:00.000Z",
-      "location": "auditório do Sebrae",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/workshop-brasileiro-de-reproducao-de-peixes/",
-      "description": "A Sociedade Brasileira de Reprodução de Peixes e o Laboratório de Biologia e Cultivo de Peixes de Água Doce (Lapad) da Universidade Federal de Santa Catarina (UFSC) realiza o IV Workshop Brasileiro de Reprodução de Peixes, entre os dias 18 e 21 de agosto, no auditório do Sebrae, em Florianópolis, das 8h às 18h.\n\nO evento tem como objetivo promover a integração entre a comunidade técnico-científica, o setor produtivo e instituições públicas, e abordará o tema Reprodução de peixes: conectando problemas locais e desafios globais. A programação está estruturada em cinco eixos temáticos que refletem os principais desafios científicos, tecnológicos e produtivos atuais da área: hormônios, mudanças climáticas, reprodução para a conservação, biosseguridade e tecnologias para a cadeia produtiva.\n\nAlém das palestras e mesas temáticas, o evento contará com minicursos e visita técnica, ampliando as oportunidades de capacitação e interação entre pesquisadores, estudantes e profissionais.\n\nPara mais informações, acesse o site do Workshop.",
-      "tags": [
-        "workshop",
-        "cca"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295414",
-      "name": "Palestra sobre segurança para mulheres",
-      "start_date": "2026-08-18T15:30:00.000Z",
-      "end_date": "2026-08-18T17:30:00.000Z",
-      "location": "Auditório do Departamento de Ciência e Tecnologia de Alimentos (CAL)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
-      "ticket_url": "https://inscricoes.ufsc.br/calemacao4ed",
-      "info_url": "https://noticias.ufsc.br/event/palestra-sobre-seguranca-para-mulheres/",
-      "description": "O Departamento de Ciência e Tecnologia de Alimentos (CAL) do Centro de Ciências Agrárias (CCA) da Universidade Federal de Santa Catarina (UFSC) promove uma palestra sobre segurança para mulheres no dia 18 de agosto, terça-feira, no auditório do CAL, às 12h30. A atividade integra a programação do Agosto Lilás, mês de conscientização e combate à violência contra a mulher.\n\nA palestra falará sobre orientações de segurança, medidas protetivas e aplicativo de divulgação de aulões de defesa pessoal. As inscrições podem ser realizadas via formulário, com vagas limitadas e abertas a toda a comunidade. Haverá certificado e sorteio de brindes.\n\nTambém serão promovidos dois aulões de defesa pessoal, nos dias 28 e 29 de agosto, durante o evento UFSC Rural. Mais informações sobre a atividade serão divulgadas em breve. A programação pode ser acompanhada pelo Instagram do CCA.\n\nTickets: https://inscricoes.ufsc.br/calemacao4ed.",
-      "tags": [
-        "palestra",
-        "agosto lilás",
-        "cal em ação",
-        "cca"
-      ],
-      "category": "palestra",
-      "is_free": null,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:294669",
-      "name": "Soberania tecnológica e digital",
-      "start_date": "2026-08-18T17:00:00.000Z",
-      "end_date": "2026-08-18T18:30:00.000Z",
-      "location": "Auditório do Departamento de Informática e Estatística",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2015/05/CTC-2.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/soberania-tecnologica-e-digital/",
-      "description": "A Universidade Federal de Santa Catarina recebe, no dia 18 de agosto, a professora e pesquisadora italiana Gabriella Mazzei para o seminário internacional Soberania tecnológica e digital: uma comparação entre os modelos da União Europeia, Estados Unidos e China e o surgimento de uma nova ordem global. O evento ocorre no Auditório do Departamento de Informática e Estatística (INE), no Centro Tecnológico, das 14h às 15h30, com transmissão via Youtube.\n\nA palestra discutirá o contexto geopolítico atual e as diferentes estratégias adotadas por grandes potências para garantir autonomia no desenvolvimento, controle e utilização de tecnologias e dados digitais.\n\nSerão abordadas as políticas e legislações da União Europeia relacionadas à proteção, governança e valorização de dados, entre elas o Regulamento Geral sobre a Proteção de Dados (GDPR), o Data Governance Act, o Data Act, o Digital Services Act, o Digital Markets Act e o Artificial Intelligence Act.\n\nA apresentação também promoverá uma comparação entre os modelos europeu, norte-americano e chinês, examinando seus impactos sobre inteligência artificial, plataformas digitais, proteção de dados, mercados, soberania nacional e formação de uma nova ordem global.\n\nO seminário será realizado em italiano, com tradução para o inglês, e terá duração aproximada de 1h30, incluindo espaço para perguntas e debate. A atividade é aberta e gratuita.",
-      "tags": [
-        "seminário",
-        "departamento de informática e estatística",
-        "seminário internacional",
-        "soberania digital e tecnológica"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295459",
-      "name": "Cineclube Cinecittà: ‘Nina’, de Elisa Fuksas",
-      "start_date": "2026-08-18T22:00:00.000Z",
-      "end_date": "2026-08-19T00:00:00.000Z",
-      "location": "Sala de Projeção do LEC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/IMG_6959-1024x722.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cineclube-cinecitta-nina-de-elisa-fuksas/",
-      "description": "O Cineclube Cinecittà apresenta, na próxima terça-feira, 18 de agosto, às 19h, o filme Nina (Nina em Roma, 2012), da diretora italiana Elisa Fuksas. A sessão será realizada na Sala de Projeção do LEC, no Bloco D do Centro de Comunicação e Expressão (CCE) da UFSC, com entrada gratuita e aberta à comunidade universitária e ao público externo. Não é necessário realizar inscrição.\n\nO longa-metragem de estreia de Elisa Fuksas, Nina acompanha uma jovem que passa o mês de agosto cuidando da casa e do cachorro deprimido de uma amiga ausente, em um bairro que não conhece. Entre aulas de caligrafia chinesa e o desejo distante de viajar para a China, a protagonista encontra personagens inusitados e vivencia uma série de situações que transitam entre o cotidiano e o quase onírico.\n\nA trajetória de Nina se desenvolve em uma Roma esvaziada pelo calor do verão. Arquiteta de formação e filha dos renomados arquitetos Massimiliano Fuksas e Doriana Mandrelli, Elisa Fuksas leva para o filme um olhar particular sobre o espaço urbano. A arquitetura modernista dos bairros, em vez dos monumentos tradicionais da cidade, serve de cenário para a jornada de autodescoberta da protagonista. Com fotografia elegante e uma atmosfera que combina realidade e fantasia, Nina aborda temas como solidão, desejo de transformação e encontros inesperados. O filme teve sua estreia mundial na competição do Festival Internacional de Cinema de Tóquio, em 2012.\n\nApós a exibição, haverá uma conversa aberta com os participantes, ampliando o espaço para a reflexão e o debate sobre a obra.\n\nOs participantes poderão receber certificado ao final do ciclo, desde que tenham aproveitamento superior a 75% das sessões.\n\nMais informações podem ser acompanhadas no perfil oficial do projeto no Instagram: Cineclube Cinecittà",
-      "tags": [
-        "filme",
-        "cce",
-        "cineclube cinecittà",
-        "exibição de filme",
-        "lec"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:294958",
@@ -290,6 +207,47 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:295538",
+      "name": "Aula Inaugural: A reportagem na linha de frente de conflitos armados",
+      "start_date": "2026-08-21T12:30:00.000Z",
+      "end_date": "2026-08-21T14:00:00.000Z",
+      "location": "Auditório Henrique da Silva Fontes",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/WhatsApp-Image-2026-08-17-at-15.51.02-854x1024.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/aula-inaugural-a-reportagem-na-linha-de-frente-de-conflitos-armados/",
+      "description": "O Departamento de Jornalismo da Universidade Federal de Santa Catarina (UFSC) realizará a Aula inaugural do segundo semestre letivo “A Reportagem na Linha de Frente de Conflitos Armados”, no dia 21 de agosto, às 9h30, no Auditório Henrique da Silva Fontes, no Bloco B do Centro de Comunicação e Expressão (CCE).\n\nO evento recebe a presença do jornalista Yan Boechat. O jornalista é egresso do curso e já trabalhou em diferentes veículos de comunicação no Brasil e no exterior. Atualmente, faz cobertura de guerra e diferentes conflitos armados, em especial Ucrânia e Rússia.\n\nA programação é gratuita e aberta para estudantes de graduação, pós-graduação e professores. A certificação será de 4 horas e não é necessário realizar inscrições. Mais informações podem ser consultadas no site do curso de Jornalismo.",
+      "tags": [
+        "aula inaugural",
+        "aula magna",
+        "auditório henrique fontes",
+        "cce",
+        "jornalismo ufsc"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295631",
+      "name": "Palestra – Assentamento Amarildo de Souza: Teto, Terra e Território em Santa Catarina",
+      "start_date": "2026-08-21T13:00:00.000Z",
+      "end_date": "2026-08-21T15:00:00.000Z",
+      "location": "Auditório do Centro Socioeconômico (CSE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Captura-de-tela-2026-08-19-135428.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/palestra-assentamento-amarildo-de-souza-teto-terra-e-territorio-em-santa-catarina-2/",
+      "description": "O Auditório do Centro Socioeconômico (CSE) da Universidade Federal de Santa Catarina (UFSC) sedia a palestra Assentamento Amarildo de Souza: Teto, Terra e Território em Santa Catarina, nesta sexta-feira, 21 de agosto, sexta-feira, em dois horários: pela manhã, das 10h ao 12h, e pela noite, das 20h às 22h. O evento é gratuito, aberto para toda a comunidade acadêmica e conta com o apoio do Observatório da Realidade Organizacional (Observa) e o Laboratório de Inovação e Cocriação Social (LINC Social).\n\nO Assentamento Amarildo de Souza teve início em 16 de dezembro de 2013, quando mais de 750 famílias cortaram cercas e ocuparam uma área grilada e improdutiva em Jurerê, na luta contra a especulação imobiliária. Após despejos e muita resistência, em 2014 essas famílias conquistaram uma área em Águas Mornas, no primeiro Projeto de Desenvolvimento Sustentável (PDS) de SC.\n\nA Comuna Amarildo de Souza produz hoje mais de 50 variedades de cultivo agroecológico, distribuídos em Células de Consumo Consciente. Além disso, doa 10% da produção para cozinhas comunitárias, ocupações urbanas, comunidades indígenas e quilombolas. Também segue construindo um novo paradigma de organização social em SC com foco em três pilares: terra coletiva, produção agroecológica e decisões horizontais.\n\nMais informações sobre o assentamento no Instagram da Comuna Amarildo e no Youtube.",
+      "tags": [
+        "cse",
+        "linc social"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:295560",
       "name": "Cine Paredão: ‘Franz’",
       "start_date": "2026-08-21T22:00:00.000Z",
@@ -307,6 +265,27 @@
         "franz kafka"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295545",
+      "name": "Palestra: Assentamento Amarildo de Souza: Teto, Terra e Território em Santa Catarina",
+      "start_date": "2026-08-21T23:00:00.000Z",
+      "end_date": "2026-08-22T01:00:00.000Z",
+      "location": "Auditório do Centro Socioeconômico (CCE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Captura-de-tela-2026-08-19-135428.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/palestra-assentamento-amarildo-de-souza-teto-terra-e-territorio-em-santa-catarina/",
+      "description": "O Auditório do Centro Socioeconômico (CSE) da Universidade Federal de Santa Catarina (UFSC) sedia a palestra Assentamento Amarildo de Souza: Teto, Terra e Território em Santa Catarina, nesta sexta-feira, 21 de agosto, sexta-feira, em dois horários: pela manhã, das 10h ao 12h, e pela noite, das 20h às 22h. O evento é gratuito, aberto para toda a comunidade acadêmica e conta com o apoio do Observatório da Realidade Organizacional (Observa) e o Laboratório de Inovação e Cocriação Social (LINC Social).\n\nO Assentamento Amarildo de Souza teve início em 16 de dezembro de 2013, quando mais de 750 famílias cortaram cercas e ocuparam uma área grilada e improdutiva em Jurerê, na luta contra a especulação imobiliária. Após despejos e muita resistência, em 2014 essas famílias conquistaram uma área em Águas Mornas, no primeiro Projeto de Desenvolvimento Sustentável (PDS) de SC.\n\nA Comuna Amarildo de Souza produz hoje mais de 50 variedades de cultivo agroecológico, distribuídos em Células de Consumo Consciente. Além disso, doa 10% da produção para cozinhas comunitárias, ocupações urbanas, comunidades indígenas e quilombolas. Também segue construindo um novo paradigma de organização social em SC com foco em três pilares: terra coletiva, produção agroecológica e decisões horizontais.\n\nMais informações sobre o assentamento no Instagram da Comuna Amarildo e no Youtube.",
+      "tags": [
+        "palestra",
+        "cse",
+        "departamento de ciências da administração",
+        "linc social"
+      ],
+      "category": "palestra",
       "is_free": true,
       "is_all_day": false
     },
