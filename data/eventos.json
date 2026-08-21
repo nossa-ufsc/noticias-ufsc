@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-20T18:51:30.322Z",
+  "geradoEm": "2026-08-21T09:44:29.995Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1296,
-      "selecionados": 21,
+      "selecionados": 15,
       "ignorados": {
-        "ja-passou": 1274,
+        "ja-passou": 1280,
         "muito-longe": 1
       },
       "erros": []
@@ -14,10 +14,9 @@
     {
       "fonte": "ara",
       "totalNoFeed": 15,
-      "selecionados": 8,
+      "selecionados": 9,
       "ignorados": {
-        "ja-passou": 6,
-        "muito-longe": 1
+        "ja-passou": 6
       },
       "erros": []
     }
@@ -38,129 +37,6 @@
       "category": "curso",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:294958",
-      "name": "Desafio Universitário de Nautidesign da UFSC Joinville",
-      "start_date": "2026-08-19T03:00:00.000Z",
-      "end_date": "2026-08-20T02:59:59.000Z",
-      "location": "Centro de Convenções e Exposições da Univille",
-      "campus": "joinville",
-      "image_url": "https://noticias.ufsc.br/files/2026/07/WhatsApp-Image-2026-07-29-at-11.07.01-1024x767.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/desafio-universitario-de-nautidesign-da-ufsc-joinville/",
-      "description": "Barcos que irão participar da competição (foto: divulgação)\n\nO Desafio Universitário de Nautidesign (Duna), edição 2026, organizada por estudantes voluntários da Universidade Federal de Santa Catarina (UFSC), será realizado entre os dias 19 e 22 de agosto, no lago do Centro de Convenções e Exposições Expoville, em Joinville.\n\nA competição deste ano irá receber estudantes de todo o país em atividades presenciais e on-line, de forma gratuita e aberta à comunidade.\n\nEntre as modalidades de provas está a Pilotagem, que exige do barco manobras à frente e para trás, Velocidade, que avalia a eficiência hidrodinâmica em corrida, Cabo de Guerra, Bollard Pull a Ré, mede a tração estática com o modelo fixo, Força, Tomada de tempo e Manobrabilidade.\n\nDuna contará com a presença de 28 equipes, entre elas, a atual campeã Navícula, da Universidade Federal de Pernambuco (UFPE) e quatro equipes que irão representar a UFSC: Seven Seans 1, Seven Seans 2, Hydra e Holandês Voador.\n\nPara mais informações, acesse o site oficial do Desafio.",
-      "tags": [
-        "campeonato",
-        "esportes",
-        "desafio universitário de nautidesing (duna)",
-        "duna",
-        "ufsc joinville"
-      ],
-      "category": "esporte",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295531",
-      "name": "Escola de Verão: Políticas Linguísticas e Educacionais em contextos africanos ex-colonizados",
-      "start_date": "2026-08-19T03:00:00.000Z",
-      "end_date": "2026-08-20T02:59:59.000Z",
-      "location": "UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2020/05/destaque_reitoria_institucional_azul_brasao.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/escola-de-verao-politicas-linguisticas-e-educacionais-em-contextos-africanos-ex-colonizados/",
-      "description": "O Grupo de Pesquisa em Políticas e Direitos Linguísticos (PoLiTicas) da Universidade Federal de Santa Catarina (UFSC), em parceria com a Escola de Comunicação e Artes da Universidade Eduardo Mondlane (UEM) e o African Studies Program da Pennsylvania State University (Penn State), realizará a Escola de Verão Políticas Linguísticas e Educacionais em Contextos Africanos Ex-colonizados. O evento ocorrerá de 19 a 21 de agosto, de forma remota, no canal do YouTube PoLiTicas.\n\nA Escola de Verão tem como objetivo debater e propor caminhos para políticas linguísticas e educacionais decoloniais em contextos africanos ex-colonizados, tendo como centralidade as línguas bantu moçambicanas e sua relação com o Português.\n\nA programação reúne pesquisadores, docentes, estudantes e profissionais de diferentes instituições de Moçambique, Brasil, Zimbabwe, Estados Unidos e outros contextos, promovendo reflexões sobre políticas linguísticas, educação bilíngue, tradução, cidadania linguística, línguas bantu e descolonização do multilinguismo.\n\nPara mais informações sobre a programação na página.",
-      "tags": [
-        "transmissão ao vivo",
-        "african studies program da pennsylvania state university",
-        "grupo de pesquisa em políticas e direitos linguísticos"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295509",
-      "name": "Aula aberta: EAG Global Buildathon – Builder Education Session at UFSC",
-      "start_date": "2026-08-19T21:00:00.000Z",
-      "end_date": "2026-08-20T00:45:00.000Z",
-      "location": "CTC – EEL004 – CTC05 – Sala EEL 004 – Térreo, Bloco A",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/ethereum-builders-floripa-1024x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/aula-aberta-eag-global-buildathon-builder-education-session-at-ufsc/",
-      "description": "A Universidade Federal de Santa Catarina (UFSC) recebe, no dia 19 de agosto, uma aula aberta de formação sobre Ethereum voltada a estudantes, desenvolvedores, pesquisadores, professores, founders, designers e demais pessoas interessadas em aprender a construir aplicações com a tecnologia. A EAG Global Buildathon: Builder Education Session at UFSC, a atividade será realizada das 18h às 21h45, durante uma aula de Blockchain do professor Jean Martina, da UFSC, com apoio do Laboratório de Segurança em Computação (labSEC/UFSC)\n\nEmbora aconteça no contexto da disciplina, a sessão será aberta ao público interessado, com limite máximo de 90 participantes. As inscrições são gratuitas e podem ser realizadas até o dia do evento, 19 de agosto, ou enquanto houver vagas disponíveis. A sessão na UFSC faz parte da programação do EAG Global Buildathon, iniciativa trazida ao Brasil pela Ethereum Applications Guild (EAG) e organizada localmente pela ETH Floripa.\n\nDurante a atividade, os participantes terão contato com conceitos fundamentais do Ethereum, incluindo carteiras, gas, redes Layer 2, Web3, segurança e componentes iniciais de DeFi. O conteúdo foi pensado para apresentar as bases necessárias para quem deseja começar a desenvolver aplicações no ecossistema. A atividade também funciona como preparação para as próximas etapas do programa, que incluem uma segunda aula de formação e o hackathon marcado para 29 de agosto, em Florianópolis.\n\nNão é necessário ter conhecimento prévio em Ethereum para participar. A proposta é oferecer uma introdução acessível tanto para quem já atua com tecnologia quanto para pessoas que estão conhecendo o ecossistema pela primeira vez. Os participantes terão direito a certificado de quatro horas pela participação na atividade.\n\nO evento tem como parceiros; HashKey Chain, blockful, Infinity Base, LabSEC, UFSC, Chainstack, Magic Island e Founder Haus.\n\nMais informações na Página oficial do evento na Luma",
-      "tags": [
-        "aula aberta",
-        "centro de ciências tecnológicas (ctc)",
-        "labsec"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295425",
-      "name": "LiteraPet: Aula de interpretação textual",
-      "start_date": "2026-08-19T21:30:00.000Z",
-      "end_date": "2026-08-19T23:00:00.000Z",
-      "location": "SALA 142 CCE BLOCO A",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/literapet-aula-de-interpretacao-textual/",
-      "description": "O LiteraPET organizado pelo Programa de Educação Tutorial dos Cursos de Letras (PET Letras) da Universidade Federal de Santa Catarina (UFSC) terá aulas de interpretação textual, às quartas-feiras, do dia 19 de agosto até 25 de novembro, das 18h30 até 20h, no bloco A do Centro de Comunicação e Expressão (CCE). As inscrições gratuitas devem ser realizadas até dia 18 de agosto.\n\nNas aulas serão utilizadas ferramentas linguísticas que constroem e dão sentido ao texto: tipos de narração, construção de cenários, contextos históricos, gêneros literários e articulação entre linguagem verbal e não verbal. Cada obra será tema de duas aulas presenciais. O objetivo é desenvolver leitura crítica, familiaridade com o perfil das questões da UFSC e autonomia interpretativa. Foco em linguística textual no texto e como eles aparecem no vestibular.\n\nMais informações no Instagram.",
-      "tags": [
-        "cce",
-        "pet letras"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295395",
-      "name": "Palestra on-line: ‘Super Você!’",
-      "start_date": "2026-08-19T22:00:00.000Z",
-      "end_date": "2026-08-20T00:00:00.000Z",
-      "location": "Youtube",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Super-Você.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/palestra-on-line-super-voce/",
-      "description": "O Academy UFSC promove a palestra on-line ‘Super Você!’ no dia 19 de agosto, às 19h, com transmissão via Youtube. As inscrições são gratuitas e devem ser feitas neste link. Será fornecido certificado de 1h30 de participação.\n\nA palestra será ministrada por Filipe Mescolotto, que é cofundador do Instituto Converse, instrutor do SEBRAE e facilitador de aprendizagem. Ele abordará sobre desenvolvimento pessoal, autoconhecimento e Inteligência Emocional. O objetivo é auxiliar os participantes a reconhecerem suas habilidades e limites, fortalecer a confiança, desenvolver a consciência emocional e transformar desafios em oportunidades de crescimento, tanto na trajetória acadêmica quanto profissional.\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Academy UFSC ou pelo e-mail academy.ufsc@gmail.com.",
-      "tags": [
-        "palestra online",
-        "academy ufsc",
-        "autoconhecimento",
-        "desenvolvimento pessoal",
-        "inteligência emocional"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295472",
-      "name": "‘As Flores do Nosso Quintal’, com a banda Serginho Feijó e Os Autônomos",
-      "start_date": "2026-08-19T23:00:00.000Z",
-      "end_date": "2026-08-20T01:00:00.000Z",
-      "location": "Teatro Carmen Fossari",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.paginas.ufsc.br/files/2026/08/serginho_feijo-225x300.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/as-flores-do-nosso-quintal-com-a-banda-serginho-feijo-e-os-autonomos/",
-      "description": "A banda Serginho Feijó & Os Autônomos apresenta na próxima quarta-feira, 19 de agosto, às 20h, no Teatro Carmen Fossari da Universidade Federal de Santa Catarina (UFSC), o show As Flores do Nosso Quintal. O evento é gratuito, com retirada de ingressos antecipados por meio da plataforma Sympla.\n\nO show As Flores do Nosso Quintal é influenciado pelo pop rock brasileiro dos anos 1980, com canções do EP de mesmo nome, além de outras inéditas. As composições abordam temas de questões cotidianas, tais como a passagem do tempo, as relações humanas, a família, o amor e o bem-querer, transportados através de letras e melodias marcantes, numa intensa e envolvente relação atemporal com os ouvintes. A banda é composta por Serginho Feijó (guitarra/violão/voz), Diogo Nestor (guitarra), Dudu Stéfani (baixo/voz), Ívano “The Fly” (bateria) e Willian Morais (teclas/voz).\n\nA apresentação contará com acessibilidade comunicacional em Libras.\n\n>> Serviço\n\nO quê: Serginho Feijó & Os Autônomos – “As Flores do Nosso Quintal”\n\nQuando: 19/08/2026 | quarta-feira | 20h\n\nOnde: Teatro Carmen Fossari – UFSC | Rua Desembargador Vítor Lima, 117 – Trindade – Florianópolis, SC\n\nQuanto: Evento gratuito – ingressos antecipados na plataforma Sympla\n\nInformações: @serginhofeijo | serginhofeijo@gmail.com | 48 9983-8268",
-      "tags": [
-        "apresentação musical",
-        "serginho feijó e os autônomos",
-        "teatro carmen fossari"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:295280",
@@ -597,6 +473,24 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "ara:24354",
+      "name": "Colação de Grau 2026/02",
+      "start_date": "2026-12-18T22:00:00.000Z",
+      "end_date": "2026-12-19T00:30:00.000Z",
+      "location": "Multiuso",
+      "campus": "ararangua",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://ara.ufsc.br/event/colacao-de-grau-202602/",
+      "description": "Curso de Medicina",
+      "tags": [
+        "colação de grau"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": false
     }
   ]
 }
