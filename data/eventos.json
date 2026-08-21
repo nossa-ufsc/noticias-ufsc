@@ -1,10 +1,10 @@
 {
-  "geradoEm": "2026-08-21T09:44:29.995Z",
+  "geradoEm": "2026-08-21T18:48:09.497Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1296,
-      "selecionados": 15,
+      "totalNoFeed": 1300,
+      "selecionados": 19,
       "ignorados": {
         "ja-passou": 1280,
         "muito-longe": 1
@@ -143,6 +143,27 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:295725",
+      "name": "Noite The Rotfather",
+      "start_date": "2026-08-22T22:30:00.000Z",
+      "end_date": "2026-08-23T00:30:00.000Z",
+      "location": "Cervejaria Nefasta",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/The-RotFather-1024x990.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/noite-the-rotfather/",
+      "description": "No dia 22 de agosto, 2ª edição da Noite The Rotfather marca o encerramento da programação do 7º Seminário Caminhos do Contemporâneo. O evento é aberto ao público e ocorre na Cervejaria Nefasta, a partir das 19h30. A noite levará parte das experimentações apresentadas durante o seminário para um ambiente de convivência, reunindo moda, animação, cerveja e outros produtos inspirados no universo da série The Rotfather.\n\nUm dos destaques será o desfile dos figurinos desenvolvidos pela UFSC em parceria com a UEM, e também serão lançados coletes inspirados no universo de The Rotfather, idealizados por Haudrey Zabadal de Oliveira e confeccionados por Jorgia Costa. Além desses produtos, novos rótulos de cerveja relacionados aos personagens da série se somarão aos já existentes.\n\nA programação contará, ainda, com a exibição, em telão, de teasers da série e da websérie, além da apresentação de novidades em diferentes áreas nas quais o projeto vem expandindo, como games digitais e analógicos, quadrinhos, livros, joias e carros. A experiência será complementada por drinks e sobremesas inspirados no universo de The Rotfather.\n\nEmbora o projeto tenha como principal referência o período entre 1830 e 1940, The Rotfather também explora ambientações no presente e em um futuro distópico. Para entrar no clima da festa, o público que quiser poderá comparecer com roupas inspiradas nessas referências, especialmente nas décadas de 1930 e 1940.\n\nMas informações no Instagram @therotfather",
+      "tags": [
+        "desfile",
+        "7º seminário caminhos do contemporâneo",
+        "cervejaria nefasta",
+        "the rotfather"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:295298",
       "name": "Cine Buñuel: Mostra de Cinema Espanhol 2026",
       "start_date": "2026-08-24T22:00:00.000Z",
@@ -162,6 +183,30 @@
         "mostra de cinema espanhol"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295718",
+      "name": "Oficina de Direitos Humanos: Mulheres na Diplomacia e Diplomacia Feminista",
+      "start_date": "2026-08-25T17:20:00.000Z",
+      "end_date": "2026-08-25T19:00:00.000Z",
+      "location": "Miniauditório do Departamento de Economia e Relações Internacionais (CSE/UFSC)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Oficina-Mulheres-na-Diplomacia-913x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/oficina-de-direitos-humanos-mulheres-na-diplomacia-e-diplomacia-feminista/",
+      "description": "A oficina “Direitos Humanos: Mulheres na Diplomacia e Diplomacia Feminista” ocorre na terça-feira, 25 de agosto, das 14h20 às 16h, no miniauditório do Departamento de Economia e Relações Internacionais (CSE/UFSC). A atividade é aberta a todos e as inscrições serão realizadas durante o evento. Será fornecido certificado de 2h aos participantes.\n\nA oficina pretende debater as possibilidades, limites e contradições da construção de uma diplomacia feminista no Brasil, à luz dos desafios contemporâneos da política externa, com ênfase nas mudanças climáticas e em seus impactos desproporcionais sobre as mulheres, sobretudo negras, indígenas e camponesas.\n\nA atividade é organizada pelo grupo de pesquisa Observatório de Justiça Ecológica (OJE), vinculado ao Programa de Pós-graduação em Direito. As ministrantes são todas vinculadas ao Programa de Pós-graduação em Direito e ao OJE: Flávia Dall Agnol de Oliveira (doutoranda), Tamara Cossetim (doutoranda), Isabele Bruna Barbieri (pós-doutoranda), Letícia Albuquerque (professora).\n\nA oficina faz parte do projeto de extensão “Oficina de Direitos Humanos”, que tem como objetivo fomentar a capacidade de ação da sociedade, através do debate e da informação a respeito de temas atuais de Direitos Humanos. Desde 2014 foram realizadas diversas oficinas abordando temas como: tortura, meio ambiente, bioética, direitos indígenas, feminismo, migrações.\n\nMais informações na página do OJE ou pelo Instagram @oje.ufsc",
+      "tags": [
+        "oficina",
+        "diplomacia",
+        "diplomacia feminista",
+        "direitos humanos",
+        "observatório de justiça ecológica",
+        "oje",
+        "programa de pós-graduação em direito"
+      ],
+      "category": "curso",
       "is_free": true,
       "is_all_day": false
     },
@@ -208,6 +253,26 @@
       "category": "palestra",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295729",
+      "name": "Grupo de estudos: ‘O global e o planetário: a história na era da crise climática’",
+      "start_date": "2026-08-27T16:00:00.000Z",
+      "end_date": "2026-08-27T17:00:00.000Z",
+      "location": "sala 113, no Centro de Ciências Jurídicas (CCJ)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2020/05/destaque_BU_brasao_institucional_amarelo.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/grupo-de-estudos-o-global-e-o-planetario-a-historia-na-era-da-crise-climatica/",
+      "description": "O Observatório de Justiça Ecológica do Programa de Pós-Graduação em Direito da Universidade Federal de Santa Catarina (UFSC) realizará encontros quinzenais, de 27 de agosto até 5 de novembro, para discutir o livro “O global e o planetário: a história na era da crise climática”, de Dipesh Chakrabarty, na sala 113, no Centro de Ciências Jurídicas (CCJ), das 13h às 14h.\n\nO grupo propõe discutir a crise climática e suas implicações para a compreensão da história, da sociedade e das relações entre humanos, não humanos e planeta. Os encontros terão uma perspectiva interdisciplinar, aproximando diferentes áreas do conhecimento e buscando construir um espaço de leitura, debate e reflexão crítica sobre os desafios colocados pela crise ecológica contemporânea.\n\nO evento acontece de forma gratuita e é voltado para estudantes de graduação e pós-graduação. Para mais informações acesse o site do projeto.\n\nOs encontros serão quinzenais e seguirão o seguinte cronograma:\n\n📅 27 de agosto\n\nApresentação do grupo, do autor e do livro.\n\n📅 10 de setembro\n\nCap. 1 – Quatro teses\n\n43–81\n\n📅 24 de setembro\n\nCap. 2 – Histórias conjugadas\n\n•\n82–111\n\n📅 8 de outubro\n\nCap. 3 – O planeta: uma categoria humanista\n\n•\n112–151\n\n📅 22 de outubro\n\nCap. 4 – A dificuldade de ser moderno\n\n•\n155–182\n\n📅 5 de novembro\n\nCap. 7 – Tempo do Antropoceno\n\n•\n239–280",
+      "tags": [
+        "debate",
+        "centro de ciências jurídicas (ccj)",
+        "ppgd"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "ara:24307",
@@ -287,6 +352,27 @@
       "category": "academico",
       "is_free": false,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295720",
+      "name": "30 anos do Programa de Pós-graduação em Educação Física",
+      "start_date": "2026-09-03T18:00:00.000Z",
+      "end_date": "2026-09-04T20:00:00.000Z",
+      "location": "Auditório do Centro de Desportos da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/PPGEF-30-anos.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/30-anos-do-programa-de-pos-graduacao-em-educacao-fisica/",
+      "description": "O Programa de Pós-Graduação em Educação Física da Universidade Federal de Santa Catarina (PPGEF/UFSC) completa 30 anos e promove um evento celebrativo nos dias 3 e 4 de setembro, no Auditório do Centro de Desportos da UFSC.\n\nO evento é aberto a toda a comunidade acadêmica: professores, estudantes, egressos, técnicos, pesquisadores e amigos do PPGEF. As inscrições são gratuitas e devem ser feitas pelo formulário on-line.\n\nNa quinta-feira, 3 de setembro, a programação será das 15h às 18h30. Na sexta-feira, 4 de setembro, as atividades iniciam às 8h30 e vão até as 17h.\n\n“Mais do que celebrar uma data, este encontro será uma oportunidade para relembrar nossa história, reconhecer conquistas, fortalecer vínculos e olhar para o futuro. Ao longo dessas três décadas, o PPGEF foi construído por muitas pessoas que contribuíram para consolidar o Programa como referência na pós-graduação em Educação Física”, afirmam os organizadores.\n\nA coordenação do PPGEF ressalta que este aniversário também será um momento especial para homenagear os pioneiros que, há 30 anos, acreditaram na ideia de criar e fortalecer um programa de pós-graduação em Educação Física na UFSC: “Foram esses primeiros passos, movidos pelo compromisso, pela dedicação e pela visão de futuro, que ajudaram a construir a trajetória que hoje celebramos.”\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do PPGEF ou pelo e-mail ppgef@contato.ufsc.br",
+      "tags": [
+        "comemoração",
+        "educação física",
+        "ppgef",
+        "programa de pós-graduação em educação física"
+      ],
+      "category": "outro",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "ara:24355",
