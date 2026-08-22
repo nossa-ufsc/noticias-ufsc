@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-21T18:48:09.497Z",
+  "geradoEm": "2026-08-22T18:40:38.604Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1300,
-      "selecionados": 19,
+      "totalNoFeed": 1302,
+      "selecionados": 18,
       "ignorados": {
-        "ja-passou": 1280,
+        "ja-passou": 1283,
         "muito-longe": 1
       },
       "erros": []
@@ -37,68 +37,6 @@
       "category": "curso",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295280",
-      "name": "Concerto Trio Internacional",
-      "start_date": "2026-08-20T23:00:00.000Z",
-      "end_date": "2026-08-21T01:00:00.000Z",
-      "location": "Igrejinha da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Igejinha-musical-Post-instagram-1-819x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/concerto-trio-internacional/",
-      "description": "O projeto Igrejinha Musical apresenta no dia 20 de agosto às 20h, na Igrejinha da UFSC, o Concerto Trio Internacional. O evento recebe Martina Drudi, Hans Twichell e Ricardo Müller, é gratuito e aberto à comunidade, com entrada liberada por ordem de chegada.\n\nO Igrejinha Musical é uma ação do Departamento Artístico Cultural (DAC) da Secretaria de Cultura e Artes da Universidade Federal de Santa Catarina (SeCArtE/UFSC). O projeto tem como objetivo incentivar e valorizar a música instrumental e autoral ampliando o acesso e a difusão da cultura musical para toda a comunidade.\n\nMartina Drudi é pianista italiana formada com distinção pelo Conservatório F. Venezze de Rovigo. É premiada em concursos europeus com o Trio InUno e se apresenta regularmente na Itália e no exterior, também como integrante do duo LadyFingers. Desde 2016 mantém laços estreitos com o Brasil, atuando em parceria com universidades como a USP de Ribeirão Preto e a UDESC, em Florianópolis, onde se apresentou em diversas formações e ministra palestras sobre didática musical. Atualmente é responsável pela produção da escola de música Giuseppe Sarti (Itália) e diretora de produção da Orquestra La Corelli.\n\nHans Twichell é violoncelista norte-americano reconhecido pela versatilidade entre repertório barroco e contemporâneo. É membro fundador do Avery Ensemble e já se apresentou como convidado do Emerson String Quartet. Gravou para selos internacionais e protagonizou estreias relevantes no Brasil, como a Segunda Sonata para violoncelo e piano de Alfred Schnittke (Porto Alegre, 2014) e Thirteen Moons on Turtle’s Back, de Luigi Irlndini (Rio de Janeiro, 2016). Doutor pela University of Connecticut, é professor efetivo do curso de violoncelo da UDESC, em Florianópolis.\n\nRicardo Müller é violinista, pesquisador e professor de violino, e é bacharel e mestre pela UDESC, onde atualmente cursa doutorado. Complementou sua formação na Bélgica, sob orientação de Katy Sebestyén. Sua trajetória se destaca pela busca de uma interpretação sensível, que articula performance, pesquisa e prática pedagógica, aproximando o público da riqueza estética e humana do repertório. Ricardo explora o diálogo entre tradição e criação.",
-      "tags": [
-        "musical",
-        "arte e esporte (secarte)",
-        "concerto trio internacional",
-        "igrejinha musical"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295538",
-      "name": "Aula Inaugural: A reportagem na linha de frente de conflitos armados",
-      "start_date": "2026-08-21T12:30:00.000Z",
-      "end_date": "2026-08-21T14:00:00.000Z",
-      "location": "Auditório Henrique da Silva Fontes",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/WhatsApp-Image-2026-08-17-at-15.51.02-854x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/aula-inaugural-a-reportagem-na-linha-de-frente-de-conflitos-armados/",
-      "description": "O Departamento de Jornalismo da Universidade Federal de Santa Catarina (UFSC) realizará a Aula inaugural do segundo semestre letivo “A Reportagem na Linha de Frente de Conflitos Armados”, no dia 21 de agosto, às 9h30, no Auditório Henrique da Silva Fontes, no Bloco B do Centro de Comunicação e Expressão (CCE).\n\nO evento recebe a presença do jornalista Yan Boechat. O jornalista é egresso do curso e já trabalhou em diferentes veículos de comunicação no Brasil e no exterior. Atualmente, faz cobertura de guerra e diferentes conflitos armados, em especial Ucrânia e Rússia.\n\nA programação é gratuita e aberta para estudantes de graduação, pós-graduação e professores. A certificação será de 4 horas e não é necessário realizar inscrições. Mais informações podem ser consultadas no site do curso de Jornalismo.",
-      "tags": [
-        "aula inaugural",
-        "aula magna",
-        "auditório henrique fontes",
-        "cce",
-        "jornalismo ufsc"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295631",
-      "name": "Palestra – Assentamento Amarildo de Souza: Teto, Terra e Território em Santa Catarina",
-      "start_date": "2026-08-21T13:00:00.000Z",
-      "end_date": "2026-08-21T15:00:00.000Z",
-      "location": "Auditório do Centro Socioeconômico (CSE)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Captura-de-tela-2026-08-19-135428.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/palestra-assentamento-amarildo-de-souza-teto-terra-e-territorio-em-santa-catarina-2/",
-      "description": "O Auditório do Centro Socioeconômico (CSE) da Universidade Federal de Santa Catarina (UFSC) sedia a palestra Assentamento Amarildo de Souza: Teto, Terra e Território em Santa Catarina, nesta sexta-feira, 21 de agosto, sexta-feira, em dois horários: pela manhã, das 10h ao 12h, e pela noite, das 20h às 22h. O evento é gratuito, aberto para toda a comunidade acadêmica e conta com o apoio do Observatório da Realidade Organizacional (Observa) e o Laboratório de Inovação e Cocriação Social (LINC Social).\n\nO Assentamento Amarildo de Souza teve início em 16 de dezembro de 2013, quando mais de 750 famílias cortaram cercas e ocuparam uma área grilada e improdutiva em Jurerê, na luta contra a especulação imobiliária. Após despejos e muita resistência, em 2014 essas famílias conquistaram uma área em Águas Mornas, no primeiro Projeto de Desenvolvimento Sustentável (PDS) de SC.\n\nA Comuna Amarildo de Souza produz hoje mais de 50 variedades de cultivo agroecológico, distribuídos em Células de Consumo Consciente. Além disso, doa 10% da produção para cozinhas comunitárias, ocupações urbanas, comunidades indígenas e quilombolas. Também segue construindo um novo paradigma de organização social em SC com foco em três pilares: terra coletiva, produção agroecológica e decisões horizontais.\n\nMais informações sobre o assentamento no Instagram da Comuna Amarildo e no Youtube.",
-      "tags": [
-        "cse",
-        "linc social"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:295560",
@@ -187,6 +125,27 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:295730",
+      "name": "Mostra de Cinema Espanhol 2026",
+      "start_date": "2026-08-24T22:00:00.000Z",
+      "end_date": "2026-08-25T00:00:00.000Z",
+      "location": "Auditório Elke Hering da Biblioteca Universitária (BU)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Cartaz-Mostra-Cinema-Espanhol-732x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/mostra-de-cinema-espanhol-2026/",
+      "description": "O CineBuñuel do curso de Letras-Espanhol no Núcleo Onetti, projeto de extensão da Universidade Federal de Santa Catarina (UFSC), é parceiro da Embaixada da Espanha para realização da Mostra de Cinema Espanhol 2026 em Florianópolis.\n\nEntre os dias 24 e 28 de agosto, serão exibidos cinco longas-metragens contemporâneos e premiados, dirigidos por Icíar Bollaín, Pilar Palomero, Víctor Erice, Asghar Farhadi e Eva Libertad. Todas as sessões são gratuitas e acontecem às 19h no Auditório Elke Hering da Biblioteca Universitária (BU) da UFSC, em Florianópolis. Os filmes têm classificação indicativa de 12 anos.\n\nA Mostra de Cinema Espanhol é realizada anualmente pela Embaixada da Espanha no Brasil. Em 2026, a mostra apresenta uma seleção de cinco longas-metragens recentes premiados que têm o drama familiar como fio condutor: histórias atravessadas pela maternidade e pelo cuidado, pela memória e pela perda que propõem uma profunda reflexão sobre a complexidade dos vínculos humanos.\n\nEsta edição destaca-se pela forte presença feminina por trás das câmeras: três das cinco obras são dirigidas por mulheres —Icíar Bollaín, Pilar Palomero e Eva Libertad—, refletindo um momento histórico em que as cineastas espanholas vêm liderando os principais festivais e premiações nacionais e internacionais.\n\nA mostra começou em Manaus no dia 14 de julho e percorrerá onze cidades brasileiras. Antes de chegar a Florianópolis, já houve apresentações em São Paulo, Aracaju e Belém. Depois da capital catarinense, haverá sessões no Rio de Janeiro, São Luís, Palmas, Curitiba e Viçosa, finalizando em Brasília entre 8 e 11 de outubro.\n\nConfira a programação completa:\n\n24 de agosto (19h)\n\nSou Nevenka, de Icíar Bollaín.\n\n25 de agosto (19h)\n\nOs Lampejos, de Pilar Palomero\n\n26 de agosto (19h)\n\nFechas os olhos, de Victor Erice\n\n27 de agosto (19h)\n\nTodos Sabem, de Asghar Farhadi\n\n28 de agosto (19h)\n\nSurda, de Eva Libertad",
+      "tags": [
+        "cinema",
+        "auditório elke hering",
+        "biblioteca universitária (bu)",
+        "mostra de cinema espanhol"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:295718",
       "name": "Oficina de Direitos Humanos: Mulheres na Diplomacia e Diplomacia Feminista",
       "start_date": "2026-08-25T17:20:00.000Z",
@@ -253,6 +212,26 @@
       "category": "palestra",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295735",
+      "name": "Palestra: Pare de Adiar!",
+      "start_date": "2026-08-26T22:00:00.000Z",
+      "end_date": "2026-08-26T23:30:00.000Z",
+      "location": "Transmissão pelo Youtube",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Mini-artes-para-o-site-Academy-2026-300x300.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/palestra-pare-de-adiar/",
+      "description": "O programa Academy UFSC, vinculado ao Departamento de Inovação (Sinova) da Universidade Federal de Santa Catarina (UFSC), realiza a palestra online Pare de Adiar!, no dia 26 de agosto, quarta-feira, às 19h, com transmissão pelo Youtube.\n\nO evento é voltado ao desenvolvimento pessoal e acadêmico desde o início da graduação, e irá tratar dos gatilhos mentais que provocam a procrastinação e mostrar como sair do “deixa para depois” e se tornar uma pessoa mais proativa. O facilitador será Filipe Mescolotto, cofundador do Instituto Converse e instrutor do Sebrae.\n\nPara participar, é necessário realizar inscrição pelo formulário do Sympla.",
+      "tags": [
+        "apresentação",
+        "palestra",
+        "sinova"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "agecom:295729",
