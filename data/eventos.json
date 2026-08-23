@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-22T18:40:38.604Z",
+  "geradoEm": "2026-08-23T09:34:57.901Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1302,
-      "selecionados": 18,
+      "selecionados": 16,
       "ignorados": {
-        "ja-passou": 1283,
+        "ja-passou": 1285,
         "muito-longe": 1
       },
       "erros": []
@@ -14,72 +14,14 @@
     {
       "fonte": "ara",
       "totalNoFeed": 15,
-      "selecionados": 9,
+      "selecionados": 8,
       "ignorados": {
-        "ja-passou": 6
+        "ja-passou": 7
       },
       "erros": []
     }
   ],
   "eventos": [
-    {
-      "source_id": "ara:25554",
-      "name": "Semana de Capacitação e Enfrentamento da Violência contra a Mulher",
-      "start_date": "2026-08-17T03:00:00.000Z",
-      "end_date": "2026-08-22T02:59:59.000Z",
-      "location": "UFSC",
-      "campus": "ararangua",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
-      "ticket_url": null,
-      "info_url": "https://ara.ufsc.br/event/semana-de-capacitacao-e-enfrentamento-da-violencia-contra-a-mulher/",
-      "description": "Os Centros Acadêmicos dos cursos de Engenharia da Computação, Engenharia de Energia, Fisioterapia, Medicina e Tecnologias da Informação e Comunicação frente a crescente situação de violência e insegurança vivenciada no ambiente universitário e em seu entorno, iniciaram a construção de uma proposta conjunta: a realização de uma Semana de Capacitação e Enfrentamento da Violência contra a Mulher, voltada à promoção de segurança, informação e acolhimento à comunidade acadêmica.\n\nA iniciativa prevê atividades como oficinas de defesa pessoal, palestras sobre o uso consciente de dispositivos de proteção individual, orientações sobre fluxos formais de denúncia e notificação de casos de violência e assédio, além de espaços de debate e conscientização. Trata-se de uma ação construída de forma colaborativa entre os cursos, com o objetivo de fortalecer não apenas a segurança, mas também a integração entre os estudantes e a cultura de cuidado coletivo no campus.",
-      "tags": [],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295560",
-      "name": "Cine Paredão: ‘Franz’",
-      "start_date": "2026-08-21T22:00:00.000Z",
-      "end_date": "2026-08-22T00:15:00.000Z",
-      "location": "Bosque do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/STORY-FRANZ-576x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-paredao-franz/",
-      "description": "O Cine Paredão apresenta na sexta-feira, 21 de agosto, uma sessão gratuita do filme Franz, dirigido pela cineasta Agnieszka Holland. A exibição ocorre às 19h, no Bosque do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC).\n\nLançado em 2025, o longa-metragem mistura drama e biografia. Com 2h07 de duração e classificação indicativa de 16 anos, o filme faz um retrato impressionista, complexo e íntimo de Franz Kafka (Idan Weiss), um dos escritores mais aclamados da literatura.\n\nLonge de ser uma biografia tradicional, a narrativa funciona como uma espécie de mosaico que mescla a realidade com elementos de sua imaginação literária. Ao mesmo tempo, a história projeta o impacto de sua obra no futuro, refletindo como um homem que passou a vida sendo um burocrata e pediu para que seus manuscritos fossem queimados acabou prevendo os horrores totalitários dos dias atuais.\n\nA sessão integra a programação do Cine Paredão, projeto de extensão vinculado ao Curso de Cinema do Centro de Comunicação e Expressão (CCE) da UFSC. Há 18 anos, a iniciativa promove exibições gratuitas ao ar livre, incentivando o acesso à cultura, o pensamento crítico e a convivência da comunidade universitária em um dos espaços mais tradicionais do campus.\n\nPara mais informações no Instagram e o trailer.",
-      "tags": [
-        "filme",
-        "bosque do cfh",
-        "cineparedão",
-        "franz kafka"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295545",
-      "name": "Palestra: Assentamento Amarildo de Souza: Teto, Terra e Território em Santa Catarina",
-      "start_date": "2026-08-21T23:00:00.000Z",
-      "end_date": "2026-08-22T01:00:00.000Z",
-      "location": "Auditório do Centro Socioeconômico (CCE)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Captura-de-tela-2026-08-19-135428.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/palestra-assentamento-amarildo-de-souza-teto-terra-e-territorio-em-santa-catarina/",
-      "description": "O Auditório do Centro Socioeconômico (CSE) da Universidade Federal de Santa Catarina (UFSC) sedia a palestra Assentamento Amarildo de Souza: Teto, Terra e Território em Santa Catarina, nesta sexta-feira, 21 de agosto, sexta-feira, em dois horários: pela manhã, das 10h ao 12h, e pela noite, das 20h às 22h. O evento é gratuito, aberto para toda a comunidade acadêmica e conta com o apoio do Observatório da Realidade Organizacional (Observa) e o Laboratório de Inovação e Cocriação Social (LINC Social).\n\nO Assentamento Amarildo de Souza teve início em 16 de dezembro de 2013, quando mais de 750 famílias cortaram cercas e ocuparam uma área grilada e improdutiva em Jurerê, na luta contra a especulação imobiliária. Após despejos e muita resistência, em 2014 essas famílias conquistaram uma área em Águas Mornas, no primeiro Projeto de Desenvolvimento Sustentável (PDS) de SC.\n\nA Comuna Amarildo de Souza produz hoje mais de 50 variedades de cultivo agroecológico, distribuídos em Células de Consumo Consciente. Além disso, doa 10% da produção para cozinhas comunitárias, ocupações urbanas, comunidades indígenas e quilombolas. Também segue construindo um novo paradigma de organização social em SC com foco em três pilares: terra coletiva, produção agroecológica e decisões horizontais.\n\nMais informações sobre o assentamento no Instagram da Comuna Amarildo e no Youtube.",
-      "tags": [
-        "palestra",
-        "cse",
-        "departamento de ciências da administração",
-        "linc social"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:295725",
       "name": "Noite The Rotfather",
