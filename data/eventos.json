@@ -1,10 +1,10 @@
 {
-  "geradoEm": "2026-08-24T09:56:08.164Z",
+  "geradoEm": "2026-08-24T18:51:14.825Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1302,
-      "selecionados": 15,
+      "totalNoFeed": 1305,
+      "selecionados": 18,
       "ignorados": {
         "ja-passou": 1286,
         "muito-longe": 1
@@ -63,6 +63,28 @@
         "mostra de cinema espanhol"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295760",
+      "name": "No Limiar da Tradução – Raízes Feministas: mulheres e(m) tradução",
+      "start_date": "2026-08-25T11:30:00.000Z",
+      "end_date": "2026-08-25T15:00:00.000Z",
+      "location": "Sala Machado de Assis - CCE, Bloco B",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/no-limiar-da-tradução-724x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/no-limiar-da-traducao-raizes-feministas-mulheres-em-traducao/",
+      "description": "A Universidade Federal de Santa Catarina (UFSC) recebe a 4ª edição do evento internacional No Limiar da Tradução – Raízes Feministas: mulheres e(m) tradução, nos dias 25 e 26 de agosto. O encontro reunirá pesquisadoras de universidades brasileiras e italianas, como a UFSC, Universidade de São Paulo (USP), Universidade Federal do Rio de Janeiro (UFRJ), Universidade Federal do Ceará (UFC), Instituto Federal de Santa Catarina (IFSC), Università Ca’ Foscari Venezia, Università di Perugia, Università di Pisa e Università di Bologna. O objetivo é debater a presença das mulheres na história, suas práticas e escritos, além das conexões entre tradução, feminismos, literatura, política, educação, direito e cultura.\n\nO evento ocorre das 8h30 às 12h, na Sala Machado de Assis, no Centro de Comunicação e Expressão. Serão apresentados os três volumes da Coleção Raízes Feministas da Tradução. Os textos são de autoras em italiano, francês e inglês. O encontro terá intérprete para Libras e prestará uma homenagem à mestranda Catarina Karsten, aluna da UFSC, vítima de feminicídio. A iniciativa faz parte do Programa de Pós-Graduação em Estudos da Tradução (PGET) junto à Università Ca’ Foscari Venezia. A atividade dá continuidade às ações do projeto CAPES/PrInt Tradução, Tradição, Inovação e apresenta desdobramentos do Projeto Universal financiado pelo CNPq Raízes Feministas em tradução/italiano II: antologia bilíngue comentada e anotada.\n\nOs livros que serão discutidos estão disponíveis gratuitamente na Editora da Câmara dos Deputados/Edições Câmara/Brasília, por meio do link: Edições Câmara. Mais informações em: [Evento Internacional]: IV No Limiar da Tradução",
+      "tags": [
+        "evento internacional",
+        "capes/print",
+        "cce",
+        "centro de comunicação e expressão",
+        "programa de pós-graduação em estudos da tradução (pget)"
+      ],
+      "category": "academico",
       "is_free": true,
       "is_all_day": false
     },
@@ -135,6 +157,29 @@
       "is_all_day": true
     },
     {
+      "source_id": "agecom:295744",
+      "name": "Dia Nacional de Combate ao Fumo",
+      "start_date": "2026-08-26T11:00:00.000Z",
+      "end_date": "2026-08-26T15:00:00.000Z",
+      "location": "UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2024/11/Captura-de-tela-2024-11-07-124304.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/dia-nacional-de-combate-ao-fumo-3/",
+      "description": "O Núcleo de Estudos e Tratamento do Tabagismo (NET-Tab) realizará, no dia 26 de agosto de 2026, quarta-feira, das 8h às 12h, uma ação educativa em alusão ao Dia Nacional de Combate ao Fumo, na entrada dos ambulatórios do Hospital Universitário (HU). A iniciativa contará com a participação de estudantes de medicina envolvidos no projeto e será aberta ao público.\n\nA ação proposta pelo NET-Tab pretende sensibilizar pacientes, acompanhantes, visitantes, estudantes, trabalhadores e demais usuários do HU-UFSC sobre os riscos relacionados ao consumo de produtos de tabaco e nicotina, incluindo os Dispositivos Eletrônicos para Fumar (Vapes), e estimular a adoção de hábitos de vida saudáveis.\n\nDurante a ação, o NET-Tab realizará atividades educativas e de sensibilização junto a pacientes, visitantes e funcionários do HU-UFSC, com informações sobre os malefícios do tabagismo e a dependência de nicotina, incluindo os riscos relacionados aos cigarros eletrônicos e sua proibição legal no Brasil.\n\nSerão oferecidos aconselhamento e orientações para a cessação do tabagismo, incluindo a aplicação do Teste de Fagerström, divulgação de grupos de apoio e incentivo à prática de atividade física como parte de um estilo de vida saudável. Também serão distribuídos folders educativos e mensagens de incentivo, além da instalação de banners informativos no hospital.\n\nHaverá participação da Liga de Patologia da UFSC com demonstração de peças de necropsia com doenças associadas ao tabagismo.\n\nA ação contará ainda com a entrega de certificados simbólicos aos ex-fumantes que já cessaram o tabagismo há mais de um ano, como forma de reconhecer e valorizar esta importante conquista.\n\nAdicionalmente, serão apresentadas orientações práticas para quem deseja parar de fumar, incluindo a importância de estabelecer uma data para a cessação, beber água, praticar atividade física, manter-se ocupado com atividades saudáveis, realizar respirações profundas e buscar o apoio de familiares e amigos. Essas estratégias serão compartilhadas como alternativas simples que podem auxiliar no enfrentamento do processo de cessação. Mais informações: Instagram @net_tab",
+      "tags": [
+        "dia nacional",
+        "cigarro",
+        "dia nacional de combate ao fumo",
+        "hospital universitário (hu/ufsc)",
+        "net-tab",
+        "núcleo de estudos e tratamento do tabagismo"
+      ],
+      "category": "outro",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:295735",
       "name": "Palestra: Pare de Adiar!",
       "start_date": "2026-08-26T22:00:00.000Z",
@@ -171,6 +216,29 @@
         "ppgd"
       ],
       "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295763",
+      "name": "Igrejinha da UFSC recebe Canela-de-Ema: A Fênix do Sertão",
+      "start_date": "2026-08-28T22:00:00.000Z",
+      "end_date": "2026-08-29T00:00:00.000Z",
+      "location": "Igrejinha da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2024/11/004-1024x576.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/igrejinha-da-ufsc-recebe-canela-de-ema-a-fenix-do-sertao/",
+      "description": "A Igrejinha da UFSC recebe, nesta sexta-feira, 28 de agosto, às 19h, a apresentação solo de dança Canela-de-Ema: A Fênix do Sertão, da artista mineira Carolina Diniz Bastos. O espetáculo possui forte influência do jazz dance e da dança contemporânea belo-horizontina, e propõe uma narrativa poética de resistência e renascimento, inspirada na planta do cerrado que, após o fogo, é capaz de florescer novamente. O evento é gratuito e aberto ao público.\n\nA obra aborda temas como violência de gênero, silenciamento, gaslighting e o processo de reconstrução subjetiva da mulher, estabelecendo diálogos com referências literárias como Grande Sertão: Veredas e com sonoridades que vão do experimental à música popular brasileira. A apresentação possui formato intimista e duração aproximada de 20 minutos, seguido de um bate-papo com o público sobre os temas mobilizados na performance.\n\nA proposta busca não apenas sensibilizar o espectador por meio da linguagem da dança, mas também abrir espaço para escuta, partilha e reflexão crítica. Canela-de-Ema é, sobretudo, uma travessia entre corpo, mente e espírito: uma dança que emerge das cinzas para questionar, provocar e transformar.",
+      "tags": [
+        "apresentação",
+        "atrações culturais",
+        "dança",
+        "espetáculo",
+        "canela-de-ema: a fênix do sertão",
+        "igrejinha da ufsc"
+      ],
+      "category": "cultura",
       "is_free": true,
       "is_all_day": false
     },
