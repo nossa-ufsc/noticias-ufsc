@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-23T18:39:27.522Z",
+  "geradoEm": "2026-08-24T09:56:08.164Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1302,
-      "selecionados": 16,
+      "selecionados": 15,
       "ignorados": {
-        "ja-passou": 1285,
+        "ja-passou": 1286,
         "muito-longe": 1
       },
       "erros": []
@@ -22,27 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:295725",
-      "name": "Noite The Rotfather",
-      "start_date": "2026-08-22T22:30:00.000Z",
-      "end_date": "2026-08-23T00:30:00.000Z",
-      "location": "Cervejaria Nefasta",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/The-RotFather-1024x990.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/noite-the-rotfather/",
-      "description": "No dia 22 de agosto, 2ª edição da Noite The Rotfather marca o encerramento da programação do 7º Seminário Caminhos do Contemporâneo. O evento é aberto ao público e ocorre na Cervejaria Nefasta, a partir das 19h30. A noite levará parte das experimentações apresentadas durante o seminário para um ambiente de convivência, reunindo moda, animação, cerveja e outros produtos inspirados no universo da série The Rotfather.\n\nUm dos destaques será o desfile dos figurinos desenvolvidos pela UFSC em parceria com a UEM, e também serão lançados coletes inspirados no universo de The Rotfather, idealizados por Haudrey Zabadal de Oliveira e confeccionados por Jorgia Costa. Além desses produtos, novos rótulos de cerveja relacionados aos personagens da série se somarão aos já existentes.\n\nA programação contará, ainda, com a exibição, em telão, de teasers da série e da websérie, além da apresentação de novidades em diferentes áreas nas quais o projeto vem expandindo, como games digitais e analógicos, quadrinhos, livros, joias e carros. A experiência será complementada por drinks e sobremesas inspirados no universo de The Rotfather.\n\nEmbora o projeto tenha como principal referência o período entre 1830 e 1940, The Rotfather também explora ambientações no presente e em um futuro distópico. Para entrar no clima da festa, o público que quiser poderá comparecer com roupas inspiradas nessas referências, especialmente nas décadas de 1930 e 1940.\n\nMas informações no Instagram @therotfather",
-      "tags": [
-        "desfile",
-        "7º seminário caminhos do contemporâneo",
-        "cervejaria nefasta",
-        "the rotfather"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:295298",
       "name": "Cine Buñuel: Mostra de Cinema Espanhol 2026",
