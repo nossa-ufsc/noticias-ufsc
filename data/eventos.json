@@ -1,10 +1,10 @@
 {
-  "geradoEm": "2026-08-24T18:51:14.825Z",
+  "geradoEm": "2026-08-25T18:49:41.700Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1305,
-      "selecionados": 18,
+      "totalNoFeed": 1306,
+      "selecionados": 19,
       "ignorados": {
         "ja-passou": 1286,
         "muito-longe": 1
@@ -216,6 +216,27 @@
         "ppgd"
       ],
       "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295793",
+      "name": "Cine Paredão: ‘Kokuho’",
+      "start_date": "2026-08-28T21:30:00.000Z",
+      "end_date": "2026-08-28T23:30:00.000Z",
+      "location": "Bosque do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/POST-KOKUHO-768x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-paredao-kokuho/",
+      "description": "O Cine Paredão apresenta na sexta-feira, 28 de agosto, uma sessão gratuita do filme Kokuho – O Preço da Perfeição, dirigido pelo cineasta Sang-il Lee. A exibição ocorre às 18h30, no Bosque do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC).\n\nLançado em 2025, o longa-metragem mistura drama e ficção. Com 2h54 de duração e classificação indicativa de 14 anos. O filme se passa no Japão do pós-guerra, período de rápido crescimento econômico.\n\nKikuo é um garoto de 14 anos que, após a morte do pai — líder de uma gangue Yakuza —passa a viver sob a tutela de um renomado ator de Kabuki. Ao lado de Shunsuke, filho único do artista, ele mergulha no rigor e na disciplina do teatro tradicional japonês, construindo uma relação marcada por rivalidade, afeto e herança cultural. O filme é baseado no romance ‘Kokuho’, de Yoshida Shûichi.\n\nA sessão integra a programação do Cine Paredão, projeto de extensão vinculado ao Curso de Cinema do Centro de Comunicação e Expressão (CCE) da UFSC. Mais informações no Instagram e o trailer.",
+      "tags": [
+        "ao ar livre",
+        "filme",
+        "bosque do cfh",
+        "cine paredão"
+      ],
+      "category": "cultura",
       "is_free": true,
       "is_all_day": false
     },
