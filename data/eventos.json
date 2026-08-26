@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-25T18:49:41.700Z",
+  "geradoEm": "2026-08-26T19:56:01.389Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1306,
-      "selecionados": 19,
+      "totalNoFeed": 1311,
+      "selecionados": 20,
       "ignorados": {
-        "ja-passou": 1286,
+        "ja-passou": 1290,
         "muito-longe": 1
       },
       "erros": []
@@ -22,96 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:295298",
-      "name": "Cine Buñuel: Mostra de Cinema Espanhol 2026",
-      "start_date": "2026-08-24T22:00:00.000Z",
-      "end_date": "2026-08-25T00:30:00.000Z",
-      "location": "Auditório Elke Hering, da Biblioteca Universitária (BU)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Captura-de-tela-2026-08-10-150403.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-bunuel-mostra-de-cinema-espanhol-2026/",
-      "description": "O Cine Buñuel, projeto de extensão da Universidade Federal de Santa Catarina (UFSC) em parceria com a Embaixada da Espanha no Brasil, promove, de 24 a 28 de agosto, a Mostra de Cinema Espanhol 2026. As exibições ocorrem no Auditório Elke Hering, da Biblioteca Universitária (BU), sempre às 19h. A Mostra é gratuita e aberta ao público, com classificação indicativa de 16 anos.\n\nA programação reúne cinco longas-metragens contemporâneos e premiados, com o drama familiar como fio condutor, abordando temas como maternidade, cuidado, memória, perda e a complexidade dos vínculos humanos. A mostra também se destaca pela presença de três diretoras, Icíar Bollaín, Pilar Palomero e Eva Libertad, entre os cinco filmes selecionados.\n\nA mostra pretende criar um espaço de encontro entre o cinema espanhol contemporâneo e o público de Florianópolis, aproximando diferentes experiências culturais por meio da linguagem cinematográfica. A programação também reforça a atuação do CineBuñuel como espaço de formação e difusão cultural dentro e fora da comunidade universitária. As sessões buscam estimular o contato com produções cinematográficas de diferentes perspectivas, ampliando o acesso à cinematografia hispânica.\n\nConfira a programação:\n\n24 de agosto — Soy Nevenka\n\nDireção: Icíar Bollaín\n\nO filme aborda a história de Nevenka Fernández, primeira mulher na Espanha a denunciar publicamente um caso de assédio sexual cometido por um político. A obra recupera um episódio marcante da história recente espanhola e reflete sobre poder, violência de gênero, exposição pública e resistência.\n\n25 de agosto — Los destellos\n\nDireção: Pilar Palomero\n\nO filme acompanha o reencontro de uma mulher com seu passado a partir da doença de uma pessoa próxima. A obra constrói, de maneira delicada e intimista, uma reflexão sobre os vínculos afetivos, a passagem do tempo, a memória e as diferentes formas de cuidar.\n\n26 de agosto — Cierra los ojos\n\nDireção: Víctor Erice\n\nConsiderado um dos grandes nomes do cinema espanhol, Víctor Erice retorna à direção com uma obra sobre desaparecimento, memória e cinema. A partir da busca por um ator que desapareceu durante as filmagens de um longa-metragem, o filme estabelece um diálogo entre passado e presente e reflete sobre aquilo que permanece nas imagens e nas lembranças.\n\n27 de agosto — Todos lo saben\n\nDireção: Asghar Farhadi\n\nO longa dirigido pelo cineasta iraniano Asghar Farhadi e protagonizado por Penélope Cruz e Javier Bardem acompanha o retorno de Laura à sua cidade natal na Espanha para uma celebração familiar. O desaparecimento de sua filha desencadeia uma série de revelações e conflitos que colocam em questão relações, segredos e acontecimentos do passado.\n\n28 de agosto — Sorda\n\nDireção: Eva Libertad\n\nO filme apresenta a história de uma mulher surda que enfrenta os desafios e transformações provocados pela maternidade. O filme propõe uma reflexão sobre comunicação, acessibilidade, identidade e as barreiras presentes nas relações cotidianas.\n\n* Publicação atualizada em 12 de agosto às 16h12, para modificação do local das sessões\n\nMais informações no Instagram do projeto de extensão.",
-      "tags": [
-        "cinema",
-        "filme",
-        "mostra",
-        "biblioteca universitária (bu)",
-        "cine buñuel",
-        "mostra de cinema espanhol"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295730",
-      "name": "Mostra de Cinema Espanhol 2026",
-      "start_date": "2026-08-24T22:00:00.000Z",
-      "end_date": "2026-08-25T00:00:00.000Z",
-      "location": "Auditório Elke Hering da Biblioteca Universitária (BU)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Cartaz-Mostra-Cinema-Espanhol-732x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/mostra-de-cinema-espanhol-2026/",
-      "description": "O CineBuñuel do curso de Letras-Espanhol no Núcleo Onetti, projeto de extensão da Universidade Federal de Santa Catarina (UFSC), é parceiro da Embaixada da Espanha para realização da Mostra de Cinema Espanhol 2026 em Florianópolis.\n\nEntre os dias 24 e 28 de agosto, serão exibidos cinco longas-metragens contemporâneos e premiados, dirigidos por Icíar Bollaín, Pilar Palomero, Víctor Erice, Asghar Farhadi e Eva Libertad. Todas as sessões são gratuitas e acontecem às 19h no Auditório Elke Hering da Biblioteca Universitária (BU) da UFSC, em Florianópolis. Os filmes têm classificação indicativa de 12 anos.\n\nA Mostra de Cinema Espanhol é realizada anualmente pela Embaixada da Espanha no Brasil. Em 2026, a mostra apresenta uma seleção de cinco longas-metragens recentes premiados que têm o drama familiar como fio condutor: histórias atravessadas pela maternidade e pelo cuidado, pela memória e pela perda que propõem uma profunda reflexão sobre a complexidade dos vínculos humanos.\n\nEsta edição destaca-se pela forte presença feminina por trás das câmeras: três das cinco obras são dirigidas por mulheres —Icíar Bollaín, Pilar Palomero e Eva Libertad—, refletindo um momento histórico em que as cineastas espanholas vêm liderando os principais festivais e premiações nacionais e internacionais.\n\nA mostra começou em Manaus no dia 14 de julho e percorrerá onze cidades brasileiras. Antes de chegar a Florianópolis, já houve apresentações em São Paulo, Aracaju e Belém. Depois da capital catarinense, haverá sessões no Rio de Janeiro, São Luís, Palmas, Curitiba e Viçosa, finalizando em Brasília entre 8 e 11 de outubro.\n\nConfira a programação completa:\n\n24 de agosto (19h)\n\nSou Nevenka, de Icíar Bollaín.\n\n25 de agosto (19h)\n\nOs Lampejos, de Pilar Palomero\n\n26 de agosto (19h)\n\nFechas os olhos, de Victor Erice\n\n27 de agosto (19h)\n\nTodos Sabem, de Asghar Farhadi\n\n28 de agosto (19h)\n\nSurda, de Eva Libertad",
-      "tags": [
-        "cinema",
-        "auditório elke hering",
-        "biblioteca universitária (bu)",
-        "mostra de cinema espanhol"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295760",
-      "name": "No Limiar da Tradução – Raízes Feministas: mulheres e(m) tradução",
-      "start_date": "2026-08-25T11:30:00.000Z",
-      "end_date": "2026-08-25T15:00:00.000Z",
-      "location": "Sala Machado de Assis - CCE, Bloco B",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/no-limiar-da-tradução-724x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/no-limiar-da-traducao-raizes-feministas-mulheres-em-traducao/",
-      "description": "A Universidade Federal de Santa Catarina (UFSC) recebe a 4ª edição do evento internacional No Limiar da Tradução – Raízes Feministas: mulheres e(m) tradução, nos dias 25 e 26 de agosto. O encontro reunirá pesquisadoras de universidades brasileiras e italianas, como a UFSC, Universidade de São Paulo (USP), Universidade Federal do Rio de Janeiro (UFRJ), Universidade Federal do Ceará (UFC), Instituto Federal de Santa Catarina (IFSC), Università Ca’ Foscari Venezia, Università di Perugia, Università di Pisa e Università di Bologna. O objetivo é debater a presença das mulheres na história, suas práticas e escritos, além das conexões entre tradução, feminismos, literatura, política, educação, direito e cultura.\n\nO evento ocorre das 8h30 às 12h, na Sala Machado de Assis, no Centro de Comunicação e Expressão. Serão apresentados os três volumes da Coleção Raízes Feministas da Tradução. Os textos são de autoras em italiano, francês e inglês. O encontro terá intérprete para Libras e prestará uma homenagem à mestranda Catarina Karsten, aluna da UFSC, vítima de feminicídio. A iniciativa faz parte do Programa de Pós-Graduação em Estudos da Tradução (PGET) junto à Università Ca’ Foscari Venezia. A atividade dá continuidade às ações do projeto CAPES/PrInt Tradução, Tradição, Inovação e apresenta desdobramentos do Projeto Universal financiado pelo CNPq Raízes Feministas em tradução/italiano II: antologia bilíngue comentada e anotada.\n\nOs livros que serão discutidos estão disponíveis gratuitamente na Editora da Câmara dos Deputados/Edições Câmara/Brasília, por meio do link: Edições Câmara. Mais informações em: [Evento Internacional]: IV No Limiar da Tradução",
-      "tags": [
-        "evento internacional",
-        "capes/print",
-        "cce",
-        "centro de comunicação e expressão",
-        "programa de pós-graduação em estudos da tradução (pget)"
-      ],
-      "category": "academico",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295718",
-      "name": "Oficina de Direitos Humanos: Mulheres na Diplomacia e Diplomacia Feminista",
-      "start_date": "2026-08-25T17:20:00.000Z",
-      "end_date": "2026-08-25T19:00:00.000Z",
-      "location": "Miniauditório do Departamento de Economia e Relações Internacionais (CSE/UFSC)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Oficina-Mulheres-na-Diplomacia-913x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/oficina-de-direitos-humanos-mulheres-na-diplomacia-e-diplomacia-feminista/",
-      "description": "A oficina “Direitos Humanos: Mulheres na Diplomacia e Diplomacia Feminista” ocorre na terça-feira, 25 de agosto, das 14h20 às 16h, no miniauditório do Departamento de Economia e Relações Internacionais (CSE/UFSC). A atividade é aberta a todos e as inscrições serão realizadas durante o evento. Será fornecido certificado de 2h aos participantes.\n\nA oficina pretende debater as possibilidades, limites e contradições da construção de uma diplomacia feminista no Brasil, à luz dos desafios contemporâneos da política externa, com ênfase nas mudanças climáticas e em seus impactos desproporcionais sobre as mulheres, sobretudo negras, indígenas e camponesas.\n\nA atividade é organizada pelo grupo de pesquisa Observatório de Justiça Ecológica (OJE), vinculado ao Programa de Pós-graduação em Direito. As ministrantes são todas vinculadas ao Programa de Pós-graduação em Direito e ao OJE: Flávia Dall Agnol de Oliveira (doutoranda), Tamara Cossetim (doutoranda), Isabele Bruna Barbieri (pós-doutoranda), Letícia Albuquerque (professora).\n\nA oficina faz parte do projeto de extensão “Oficina de Direitos Humanos”, que tem como objetivo fomentar a capacidade de ação da sociedade, através do debate e da informação a respeito de temas atuais de Direitos Humanos. Desde 2014 foram realizadas diversas oficinas abordando temas como: tortura, meio ambiente, bioética, direitos indígenas, feminismo, migrações.\n\nMais informações na página do OJE ou pelo Instagram @oje.ufsc",
-      "tags": [
-        "oficina",
-        "diplomacia",
-        "diplomacia feminista",
-        "direitos humanos",
-        "observatório de justiça ecológica",
-        "oje",
-        "programa de pós-graduação em direito"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:295167",
       "name": "Laboratório de autorregulação: técnicas de respiração, meditação e mindfulness",
@@ -220,6 +130,29 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:295817",
+      "name": "Roda de conversa ‘Literatura, Mulheres e Promoção de Leitura’",
+      "start_date": "2026-08-27T17:00:00.000Z",
+      "end_date": "2026-08-27T20:00:00.000Z",
+      "location": "Evento on-line: https://www.youtube.com/watch?v=JhMKsYGynYE",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Evento-Mulheres-Literatura-1024x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-literatura-mulheres-e-promocao-de-leitura/",
+      "description": "“Literatura, Mulheres e Promoção de Leitura” é o tema da roda de conversa on-line que ocorre nesta quinta-feira, 27 de agosto, às 14h. A atividade faz parte de um ciclo de conferências promovido pelo Grupo de Políticas e Direitos Linguísticos (PoLiTicas) do Programa de Pós-Graduação em Linguística da Universidade Federal de Santa Catarina (UFSC). A roda de conversa é gratuita e aberta a todos. A transmissão será pelo YouTube.\n\nO ciclo de conferências está vinculado ao projeto Estética, Linguagens & Mulheres, que tem o compromisso com a luta contra todas as formas de opressão e invisibilização, incluindo de gênero.\n\nA roda de conversa terá a participação de Cláudia Lamego e Bruna Paiva, com mediação de Cristine Severo (UFSC) e Maria Luiza Barbosa (UFSC). Confira o perfil das convidadas:\n\nCláudia Lamego: jornalista, editora, mediadora e curadora de diversos clubes de leitura, entre eles o do Instituto Italiano de Cultura do Rio de Janeiro; Leituras Italianas com a Lamego; do Clube F. da editora Bazar do Tempo; Janelas abertas para a América Latina, da Janela Livraria, e Clube de Leitura Insubmissas, da livraria Alento. Na Janela, já promoveu leituras guiadas da obra completa de Elena Ferrante. É mediadora de eventos na Flip e na Bienal do Livro do Rio. É mestranda em Estudos de Literatura na UFF e pesquisadora bolsista do CNPQ.\n\nBruna Paiva: é autora dos livros “Um diário para Alice”, “Enquanto o Carnaval Durar” e “Fã de Carteirinha”. Tem um trabalho, sobretudo, voltado para o público jovem e a missão de incentivar o hábito da leitura em busca do pensamento crítico. Finalista do concurso Livros do Futuro do TikTok, em 2025. Coordena o clube do livro do Laboratório de Teorias e Práticas Feministas, na UFRJ. É doutoranda e mestre em Ciência da Literatura, pela UFRJ, e pós-graduada em Edição e Gestão Editorial, pelo NESPE.\n\nPara participar da Roda de Conversa, acesse aqui.",
+      "tags": [
+        "roda de conversa",
+        "bruna paiva",
+        "cláudia lamego",
+        "grupo de políticas e direitos linguísticos",
+        "políticas",
+        "programa de pós-graduação em linguística"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:295793",
       "name": "Cine Paredão: ‘Kokuho’",
       "start_date": "2026-08-28T21:30:00.000Z",
@@ -280,6 +213,49 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295840",
+      "name": "Formações em disputa: plataformização, pedagogia e as expectativas sociais sobre a docência contemporânea",
+      "start_date": "2026-09-01T16:30:00.000Z",
+      "end_date": "2026-09-01T20:00:00.000Z",
+      "location": "Auditório do Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/formacoes-em-disputa-plataformizacao-pedagogia-e-as-expectativas-sociais-sobre-a-docencia-contemporanea/",
+      "description": "A Coordenação do Curso de Pedagogia da Universidade Federal de Santa Catarina (UFSC) promove, na próxima terça-feira, 1º de setembro, a Aula Magna Formações em disputa: plataformização, pedagogia e as expectativas sociais sobre a docência contemporânea. A atividade será realizada das 13h30 às 17h, no Auditório do Centro de Filosofia e Ciências Humanas (CFH/UFSC). A programação reunirá a Professora Roselaine Ripa (UDESC) e o Professor Everton Vasconcelos de Almeida (Secretária de Educação Básica), com mediação do Professor Diogo Norberto Mesti.\n\nA atividade abordará desafios centrais relacionados à formação de professoras e professores na atualidade, promovendo um espaço de reflexão e debate sobre os processos de plataformização, a pedagogia e as expectativas sociais que envolvem a docência contemporânea. O evento é aberto a estudantes, professores, pesquisadores e demais interessados na temática. Não é necessário realizar inscrição e não haverá certificação. Mais informações estão disponíveis no site.",
+      "tags": [
+        "aula magna",
+        "cfh",
+        "curso de pedagogia",
+        "udesc"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295896",
+      "name": "Cineclube Cinecittà: ‘Amanda’, de Carolina Cavalli",
+      "start_date": "2026-09-01T22:00:00.000Z",
+      "end_date": "2026-09-02T00:00:00.000Z",
+      "location": "Sala de Projeção LEC, Bloco D - CCE",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.paginas.ufsc.br/files/2026/08/IMG_9727-239x300.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cineclube-cinecitta-amanda-de-carolina-cavalli/",
+      "description": "O Cinecittà, cineclube do curso de Letras Italiano da Universidade Federal de Santa Catarina (UFSC), promove a exibição do filme Amanda (2022), da diretora italiana Carolina Cavalli. A atividade ocorre na terça-feira, 1º de setembro, às 19h, na Sala de Projeção do LEC , no bloco D do Centro de Comunicação e Expressão da (CCE). A sessão é gratuita e aberta ao público.\n\nO filme acompanha uma jovem de 24 anos, rica e profundamente solitária, que nunca teve uma amizade verdadeira. Decidida a mudar essa realidade, ela embarca em uma missão obstinada: reconquistar a amizade de uma colega de infância que mal se lembra dela. Entre situações absurdas e um humor seco, a obra constrói o retrato de uma personagem deslocada, presa entre a infância e a vida adulta, em busca de conexão. Amanda estreou em competição na seção Horizons Extra do Festival de Veneza de 2022 e também foi exibido no Festival Internacional de Cinema de Toronto do mesmo ano.Nascida em Milão, Carolina Cavalli constrói em Amanda uma comédia dramática de tom absurdista, marcada por diálogos afiados e uma direção de atores que equilibra estranhamento e ternura. Sua estreia rendeu-lhe indicação a Melhor Diretor Revelação no David di Donatello, consolidando-a como uma das vozes mais originais do cinema italiano contemporâneo.\n\nO Cineclube Cinecittà é um projeto dedicado à difusão do cinema italiano, à pesquisa do cinema de autoras contemporâneas e à promoção de debates sobre cinema, arte e cultura. Após a sessão, haverá conversa aberta com os participantes. Mais informações podem ser acompanhadas no instagram do projeto @cinecitta.ufsc",
+      "tags": [
+        "cinema",
+        "debate",
+        "exibição",
+        "centro de comunicação e expressão (cce)",
+        "curso de letras italiano"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "agecom:291091",
@@ -378,6 +354,26 @@
         "feiras de cursos"
       ],
       "category": "academico",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295863",
+      "name": "Lançamento de Livro: ‘O sistema de proteção social brasileiro sob fogo cruzado’",
+      "start_date": "2026-09-09T21:30:00.000Z",
+      "end_date": "2026-09-09T23:30:00.000Z",
+      "location": "Auditório do Centro Socioeconômico",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/978-85-524-0627-3-703x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/lancamento-de-livro-o-sistema-de-protecao-social-brasileiro-sob-fogo-cruzado/",
+      "description": "Capa do livro. (Foto: Divulgação)\n\nO professor Lauro Mattei, do Departamento de Economia e Relações Internacionais da Universidade Federal de Santa Catarina, lança no próximo dia 9 de setembro o livro O sistema de proteção social brasileiro sob fogo cruzado, publicado pela editora Insular. O lançamento será a partir das 18h30, auditório do Centro Socioeconômico (CSE).\n\nA obra do professor Lauro Mattei analisa a trajetória do Sistema de Proteção Social Brasileiro desde a sua consagração na Constituição Federal de 1988 até o processo de desmonte intensificado entre 2016 e 2022, sob os governos de Michel Temer e Jair Bolsonaro.\n\nO livro sustenta que a construção de um Estado de Bem-Estar Social no Brasil enfrentou constante oposição de elites econômicas e políticas. Embora o processo de enfraquecimento das políticas sociais venha desde os anos 1990, com um período de arrefecimento entre 2003 e 2014 nos governos do Partido dos Trabalhadores, a ruptura definitiva da chamada “cidadania social” ocorreu a partir de 2016. Sob a bandeira da austeridade fiscal e do livre mercado, programas fundamentais como Sistema Único de Saúde (SUS), Sistema Único de Assistência Social (SUAS), Benefício de Prestação Continuada (BPC) e Bolsa Família sofreram retrocessos profundos.\n\nO livro está disponível para aquisição na Editora Insular.",
+      "tags": [
+        "evento comemorativo",
+        "lançamento de livro",
+        "centro socioeconomico (cse)"
+      ],
+      "category": "cultura",
       "is_free": true,
       "is_all_day": false
     },
@@ -494,6 +490,28 @@
       "category": "outro",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:295827",
+      "name": "VI Jornada de Estudos África em Imagens",
+      "start_date": "2026-10-14T12:30:00.000Z",
+      "end_date": "2026-10-14T22:00:00.000Z",
+      "location": "https://www.youtube.com/c/unesparuniaodavitoria",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Sem-título.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/vi-jornada-de-estudos-africa-em-imagens/",
+      "description": "A sexta jornada de estudos África em Imagens, evento interinstitucional que ocorrerá de forma remota nos dias 14 e 15 de outubro de 2026, propõe uma reflexão sobre as possibilidades de interpretação dos passados africanos a partir de fontes como as imagens, o cinema e a cultura material. Ao longo do encontro, serão apresentadas pesquisas que abordam temas como os cinemas africanos; as relações entre fotografia e colonialismo; as imagens e os arquivos africanos; a constituição de exposições de arte africana e os acervos museológicos em contextos coloniais e pós-coloniais.\n\nNesta edição, destaca-se a celebração dos 60 anos do Primeiro Festival Mundial de Artes Negras (realizada em Dakar, 1966), cujas retrospectivas convidam a repensar as articulações entre arte e política na África pós-independência. Mais informações no link. O evento será transmitido pelo canal do Youtube da UNESPAR – Campus: União da Vitória. A VI Jornada de Estudos África em Imagens é um evento organizado pelo Laboratório de Estudos em História da África (LEHAf) da UFSC.",
+      "tags": [
+        "transmissão ao vivo",
+        "acervos museológicos",
+        "arte africana",
+        "unespar",
+        "vi jornada de estudos áfrica em imagens"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "ara:26195",
