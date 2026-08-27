@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-26T19:56:01.389Z",
+  "geradoEm": "2026-08-27T19:47:19.688Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1311,
+      "totalNoFeed": 1313,
       "selecionados": 20,
       "ignorados": {
-        "ja-passou": 1290,
+        "ja-passou": 1292,
         "muito-longe": 1
       },
       "erros": []
@@ -22,28 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:295167",
-      "name": "Laboratório de autorregulação: técnicas de respiração, meditação e mindfulness",
-      "start_date": "2026-08-25T19:00:00.000Z",
-      "end_date": "2026-08-25T20:30:00.000Z",
-      "location": "Serviço de Atenção Psicológica (SAPSI)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/WhatsApp-Image-2026-07-17-at-14.58.07-819x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/laboratorio-de-autorregulacao-tecnicas-de-respiracao-meditacao-e-mindfulness/",
-      "description": "Estão abertas as inscrições para o projeto Laboratório de autorregulação: Técnicas de meditação, mindfulness e respiração para manejo de ansiedade, que busca proporcionar um ambiente seguro e de acolhimento com técnicas de autorregulação. As inscrições ocorrem pelo formulário até o dia 14 de agosto. As atividades ocorrem de 25 de agosto a 24 de novembro, às terças-feiras, das 16h às 17h30, no Serviço de Atenção Psicológica (SAPSI), no Departamento de Psicologia da Universidade Federal de Santa Catarina (UFSC).\n\nO público alvo é comunidade interna da UFSC, com limite para 20 inscrições. Em cada encontro serão apresentados fundamentos básicos de cada técnica, com práticas de uma técnica respiratória e uma técnica de meditação/mindfulness. As atividades também abordam temas como autopercepção, interocepção, respiração, atenção, relaxamento, ansiedade e estresse. A coordenação é da professora Carolina Baptista Menezes. Para mais informações no e-mail lab.autorregulacao@gmail.com ou no site.",
-      "tags": [
-        "meditação",
-        "saúde",
-        "departamento de psicologia",
-        "laboratório de autorregulação",
-        "serviço de atenção psicológica (sapsi)"
-      ],
-      "category": "saude",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:294832",
       "name": "Jornadas do Laboratório de Estudos de Gênero e História",
@@ -65,29 +43,6 @@
       "category": "palestra",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295744",
-      "name": "Dia Nacional de Combate ao Fumo",
-      "start_date": "2026-08-26T11:00:00.000Z",
-      "end_date": "2026-08-26T15:00:00.000Z",
-      "location": "UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2024/11/Captura-de-tela-2024-11-07-124304.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/dia-nacional-de-combate-ao-fumo-3/",
-      "description": "O Núcleo de Estudos e Tratamento do Tabagismo (NET-Tab) realizará, no dia 26 de agosto de 2026, quarta-feira, das 8h às 12h, uma ação educativa em alusão ao Dia Nacional de Combate ao Fumo, na entrada dos ambulatórios do Hospital Universitário (HU). A iniciativa contará com a participação de estudantes de medicina envolvidos no projeto e será aberta ao público.\n\nA ação proposta pelo NET-Tab pretende sensibilizar pacientes, acompanhantes, visitantes, estudantes, trabalhadores e demais usuários do HU-UFSC sobre os riscos relacionados ao consumo de produtos de tabaco e nicotina, incluindo os Dispositivos Eletrônicos para Fumar (Vapes), e estimular a adoção de hábitos de vida saudáveis.\n\nDurante a ação, o NET-Tab realizará atividades educativas e de sensibilização junto a pacientes, visitantes e funcionários do HU-UFSC, com informações sobre os malefícios do tabagismo e a dependência de nicotina, incluindo os riscos relacionados aos cigarros eletrônicos e sua proibição legal no Brasil.\n\nSerão oferecidos aconselhamento e orientações para a cessação do tabagismo, incluindo a aplicação do Teste de Fagerström, divulgação de grupos de apoio e incentivo à prática de atividade física como parte de um estilo de vida saudável. Também serão distribuídos folders educativos e mensagens de incentivo, além da instalação de banners informativos no hospital.\n\nHaverá participação da Liga de Patologia da UFSC com demonstração de peças de necropsia com doenças associadas ao tabagismo.\n\nA ação contará ainda com a entrega de certificados simbólicos aos ex-fumantes que já cessaram o tabagismo há mais de um ano, como forma de reconhecer e valorizar esta importante conquista.\n\nAdicionalmente, serão apresentadas orientações práticas para quem deseja parar de fumar, incluindo a importância de estabelecer uma data para a cessação, beber água, praticar atividade física, manter-se ocupado com atividades saudáveis, realizar respirações profundas e buscar o apoio de familiares e amigos. Essas estratégias serão compartilhadas como alternativas simples que podem auxiliar no enfrentamento do processo de cessação. Mais informações: Instagram @net_tab",
-      "tags": [
-        "dia nacional",
-        "cigarro",
-        "dia nacional de combate ao fumo",
-        "hospital universitário (hu/ufsc)",
-        "net-tab",
-        "núcleo de estudos e tratamento do tabagismo"
-      ],
-      "category": "outro",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:295735",
@@ -170,6 +125,30 @@
         "cine paredão"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295919",
+      "name": "Ciclo de cinema alemão Deutsches Kino: Adeus Lenin!",
+      "start_date": "2026-08-28T22:00:00.000Z",
+      "end_date": "2026-08-29T00:00:00.000Z",
+      "location": "Laboratório de Estudos de Cinema, Bloco D- 1º andar, CCE",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Cartaz-Adeus-Lenin-Good_Bye_Lenin_2003.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/ciclo-de-cinema-alemao-deutsches-kino-adeus-lenin/",
+      "description": "Cartaz de divulgação\n\nO Ciclo de cinema em alemão Deutsches Kino, do Curso de Letras Alemão, da Universidade Federal de Santa Catarina (UFSC), realiza a exibição do filme Adeus Lenin! (Good Bye, Lenin!), de Wolfgang Becker, no dia 28 de agosto, às 19h, na Sala de projeções do Laboratório de Estudos em Cinema (LEC).\n\nO filme deste mês mistura comédia e drama para retratar a queda do Muro de Berlim. Em 1989, pouco antes da queda do muro, a senhora Kerner entra em coma e fica desacordada durante os dias que marcaram o triunfo do regime capitalista. Quando ela desperta, Berlim Oriental está sensivelmente modificada. Seu filho, temendo prejudicar a saúde, decide esconder-lhe os acontecimentos.\n\nO ciclo apresenta mensalmente, na última sexta-feira do mês, filmes alemães com legendas em português. Para participar não precisa realizar inscrições. O evento está aberto a toda comunidade.\n\nPara mais informações acesse o instagram do projeto e assista ao trailer.",
+      "tags": [
+        "cinema",
+        "filme",
+        "mostra",
+        "adeus lenin",
+        "ciclo de cinema alemão deutsches kino",
+        "curso letras alemão da ufsc",
+        "evento gratuito"
+      ],
+      "category": "curso",
       "is_free": true,
       "is_all_day": false
     },
@@ -376,6 +355,31 @@
       "category": "cultura",
       "is_free": true,
       "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295928",
+      "name": "Jornadas Bolivarianas",
+      "start_date": "2026-09-15T03:00:00.000Z",
+      "end_date": "2026-09-18T02:59:59.000Z",
+      "location": "Centro Socioeconômico (CSE), Auditório e Mini auditório do Serviço Social",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/cartaz-Jornadas-Bolivarianas-1024x683.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/jornadas-bolivarianas/",
+      "description": "A edição das Jornadas Bolivarianas nesse segundo semestre traz a presença do advogado, delegado aposentado da Polícia Civil e coordenador do movimento Policiais Antifascistas, Orlando Zaccone. Ele participa de uma conferência aberta no dia 15 de setembro, às 19 horas, no Auditório do Centro Socioeconômico (CSE), e também ministra um minicurso sobre a Economia da Barbárie Capitalista, cujo eixo principal é a violência. O minicurso será nos dias 16 e 17, das 9h às 12 horas, na sala D217 – Bloco D, segundo andar do CSE. A atividade é gratuita, mas é necessário realizar inscrições por meio deste link.\n\n“Se existe algo que definitivamente toca a população é o tema da segurança. No capitalismo dependente periférico, no qual a barbárie é a regra, vive-se bombardeado por notícias de assassinatos, assaltos e violências diversas que atravessam o dia-a-dia. Não é sem razão que seja a partir desse bordão de segurança pública que governos são eleitos, como é o caso de Nayib Bukele, de El Salvador, exemplo bem conformado de um governo autoritário que encarcerou boa parte da população e recebe aplaudida aprovação. Sua proposta de “mão dura” para o crime faz escola e tanto o presidente da Colômbia, quanto do Equador e Chile se elegeram nessa toada.\n\nNo Brasil, e nos demais países da América Latina, a violência tem sido avassaladora. Segundo dados do Atlas da Violência, elaborado pelo IPEA, no Brasil foram 42.590 mortes violentas intencionais, homicídios, em 2024, e praticamente a metade destas mortes envolve pessoas jovens. Agora, em 2026, números ainda parciais revelam também a ascensão do feminicídio, somando quase mil mortes nos últimos sete meses. O uso da arma de fogo para resolver pendências cotidianas vem se tornando banal e os programas de cunho sensacionalista proliferam nas emissoras de televisão, reportando os casos e incutindo medo na população. A falta de emprego e toda a lógica de destruição da vida imposta pelo capitalismo dependente nos países periféricos tornam o tema da violência e da segurança crucial.” (texto publicado no site do IELA)",
+      "tags": [
+        "aula pública",
+        "conferência",
+        "jornada",
+        "minicurso",
+        "cse",
+        "iela",
+        "jornadas bolivarianas",
+        "violência e segurança"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": true
     },
     {
       "source_id": "ara:25068",
