@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-27T19:47:19.688Z",
+  "geradoEm": "2026-08-28T20:48:25.610Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1313,
-      "selecionados": 20,
+      "totalNoFeed": 1315,
+      "selecionados": 18,
       "ignorados": {
-        "ja-passou": 1292,
+        "ja-passou": 1296,
         "muito-longe": 1
       },
       "erros": []
@@ -22,91 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:294832",
-      "name": "Jornadas do Laboratório de Estudos de Gênero e História",
-      "start_date": "2026-08-26T03:00:00.000Z",
-      "end_date": "2026-08-27T02:59:59.000Z",
-      "location": "Auditório do Bloco B do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/07/avatar-com-data.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/jornadas-do-laboratorio-de-estudos-de-genero-e-historia/",
-      "description": "O Laboratório de Estudos de Gênero e História (LEGH) da Universidade Federal de Santa Catarina (UFSC) terá a VII Jornadas do LEGH com simpósios temáticos, lançamentos e mesas-redondas. O evento ocorrerá do dia 26 a 28 de agosto no Auditório do Bloco B do Centro de Filosofia e Ciências Humanas (CFH). As inscrições gratuitas abrem dia primeiro e devem ser realizadas até dia 26 de agosto.\n\nO evento terá como tema Cidadania Digital e Política e pretende abordar os desafios contemporâneos da cidadania digital, da participação política e das desigualdades nos ambientes digitais. Letícia Cesarino (UFSC), Juliana Kroeger (Sapienza/Roma) e Sandro Justo (UFRJ) serão os conferencistas desta edição. A participação será presencial, mas haverá transmissão online de parte da programação. Confira a programação completa aqui. Mais informações na página do LEGH.",
-      "tags": [
-        "mesa-redonda",
-        "auditório do bloco b do cfh",
-        "centro de filosofia e ciências humanas (cfh)",
-        "legh",
-        "leticia cesarino"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295735",
-      "name": "Palestra: Pare de Adiar!",
-      "start_date": "2026-08-26T22:00:00.000Z",
-      "end_date": "2026-08-26T23:30:00.000Z",
-      "location": "Transmissão pelo Youtube",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Mini-artes-para-o-site-Academy-2026-300x300.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/palestra-pare-de-adiar/",
-      "description": "O programa Academy UFSC, vinculado ao Departamento de Inovação (Sinova) da Universidade Federal de Santa Catarina (UFSC), realiza a palestra online Pare de Adiar!, no dia 26 de agosto, quarta-feira, às 19h, com transmissão pelo Youtube.\n\nO evento é voltado ao desenvolvimento pessoal e acadêmico desde o início da graduação, e irá tratar dos gatilhos mentais que provocam a procrastinação e mostrar como sair do “deixa para depois” e se tornar uma pessoa mais proativa. O facilitador será Filipe Mescolotto, cofundador do Instituto Converse e instrutor do Sebrae.\n\nPara participar, é necessário realizar inscrição pelo formulário do Sympla.",
-      "tags": [
-        "apresentação",
-        "palestra",
-        "sinova"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295729",
-      "name": "Grupo de estudos: ‘O global e o planetário: a história na era da crise climática’",
-      "start_date": "2026-08-27T16:00:00.000Z",
-      "end_date": "2026-08-27T17:00:00.000Z",
-      "location": "sala 113, no Centro de Ciências Jurídicas (CCJ)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2020/05/destaque_BU_brasao_institucional_amarelo.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/grupo-de-estudos-o-global-e-o-planetario-a-historia-na-era-da-crise-climatica/",
-      "description": "O Observatório de Justiça Ecológica do Programa de Pós-Graduação em Direito da Universidade Federal de Santa Catarina (UFSC) realizará encontros quinzenais, de 27 de agosto até 5 de novembro, para discutir o livro “O global e o planetário: a história na era da crise climática”, de Dipesh Chakrabarty, na sala 113, no Centro de Ciências Jurídicas (CCJ), das 13h às 14h.\n\nO grupo propõe discutir a crise climática e suas implicações para a compreensão da história, da sociedade e das relações entre humanos, não humanos e planeta. Os encontros terão uma perspectiva interdisciplinar, aproximando diferentes áreas do conhecimento e buscando construir um espaço de leitura, debate e reflexão crítica sobre os desafios colocados pela crise ecológica contemporânea.\n\nO evento acontece de forma gratuita e é voltado para estudantes de graduação e pós-graduação. Para mais informações acesse o site do projeto.\n\nOs encontros serão quinzenais e seguirão o seguinte cronograma:\n\n📅 27 de agosto\n\nApresentação do grupo, do autor e do livro.\n\n📅 10 de setembro\n\nCap. 1 – Quatro teses\n\n43–81\n\n📅 24 de setembro\n\nCap. 2 – Histórias conjugadas\n\n•\n82–111\n\n📅 8 de outubro\n\nCap. 3 – O planeta: uma categoria humanista\n\n•\n112–151\n\n📅 22 de outubro\n\nCap. 4 – A dificuldade de ser moderno\n\n•\n155–182\n\n📅 5 de novembro\n\nCap. 7 – Tempo do Antropoceno\n\n•\n239–280",
-      "tags": [
-        "debate",
-        "centro de ciências jurídicas (ccj)",
-        "ppgd"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295817",
-      "name": "Roda de conversa ‘Literatura, Mulheres e Promoção de Leitura’",
-      "start_date": "2026-08-27T17:00:00.000Z",
-      "end_date": "2026-08-27T20:00:00.000Z",
-      "location": "Evento on-line: https://www.youtube.com/watch?v=JhMKsYGynYE",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Evento-Mulheres-Literatura-1024x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-literatura-mulheres-e-promocao-de-leitura/",
-      "description": "“Literatura, Mulheres e Promoção de Leitura” é o tema da roda de conversa on-line que ocorre nesta quinta-feira, 27 de agosto, às 14h. A atividade faz parte de um ciclo de conferências promovido pelo Grupo de Políticas e Direitos Linguísticos (PoLiTicas) do Programa de Pós-Graduação em Linguística da Universidade Federal de Santa Catarina (UFSC). A roda de conversa é gratuita e aberta a todos. A transmissão será pelo YouTube.\n\nO ciclo de conferências está vinculado ao projeto Estética, Linguagens & Mulheres, que tem o compromisso com a luta contra todas as formas de opressão e invisibilização, incluindo de gênero.\n\nA roda de conversa terá a participação de Cláudia Lamego e Bruna Paiva, com mediação de Cristine Severo (UFSC) e Maria Luiza Barbosa (UFSC). Confira o perfil das convidadas:\n\nCláudia Lamego: jornalista, editora, mediadora e curadora de diversos clubes de leitura, entre eles o do Instituto Italiano de Cultura do Rio de Janeiro; Leituras Italianas com a Lamego; do Clube F. da editora Bazar do Tempo; Janelas abertas para a América Latina, da Janela Livraria, e Clube de Leitura Insubmissas, da livraria Alento. Na Janela, já promoveu leituras guiadas da obra completa de Elena Ferrante. É mediadora de eventos na Flip e na Bienal do Livro do Rio. É mestranda em Estudos de Literatura na UFF e pesquisadora bolsista do CNPQ.\n\nBruna Paiva: é autora dos livros “Um diário para Alice”, “Enquanto o Carnaval Durar” e “Fã de Carteirinha”. Tem um trabalho, sobretudo, voltado para o público jovem e a missão de incentivar o hábito da leitura em busca do pensamento crítico. Finalista do concurso Livros do Futuro do TikTok, em 2025. Coordena o clube do livro do Laboratório de Teorias e Práticas Feministas, na UFRJ. É doutoranda e mestre em Ciência da Literatura, pela UFRJ, e pós-graduada em Edição e Gestão Editorial, pelo NESPE.\n\nPara participar da Roda de Conversa, acesse aqui.",
-      "tags": [
-        "roda de conversa",
-        "bruna paiva",
-        "cláudia lamego",
-        "grupo de políticas e direitos linguísticos",
-        "políticas",
-        "programa de pós-graduação em linguística"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:295793",
       "name": "Cine Paredão: ‘Kokuho’",
@@ -194,6 +109,25 @@
       "is_all_day": true
     },
     {
+      "source_id": "agecom:295948",
+      "name": "Como se preparar para manter a amamentação na volta ao trabalho/estudo",
+      "start_date": "2026-08-31T13:00:00.000Z",
+      "end_date": "2026-08-31T15:00:00.000Z",
+      "location": "Online",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Selo-2026-1-768x543.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/como-se-preparar-para-manter-a-amamentacao-na-volta-ao-trabalhoestudo/",
+      "description": "O Serviço de Apoio à Amamentação da Universidade Federal de Santa Catarina (UFSC) promove o webcurso Como se preparar para manter a amamentação na volta ao trabalho/retorno ao estudo, no dia 31 de agosto, às 10h, com transmissão ao vivo pelo Canal AmamentaSAAM no YouTube.\n\nA iniciativa integra a programação do mês Agosto Dourado, que celebra a proteção e incentivo à amamentação. A atividade é aberta para técnicos administrativos, estudantes e professores e será ministrada pela enfermeira Bianca Jacqueline Ramos.\n\nPara mais informações, acesse o site do SAAM.",
+      "tags": [
+        "saam",
+        "webcurso"
+      ],
+      "category": "outro",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:295840",
       "name": "Formações em disputa: plataformização, pedagogia e as expectativas sociais sobre a docência contemporânea",
       "start_date": "2026-09-01T16:30:00.000Z",
@@ -273,6 +207,28 @@
         "química"
       ],
       "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:295936",
+      "name": "Antropoceno e fronteiras planetárias nas relações internacionais",
+      "start_date": "2026-09-02T17:30:00.000Z",
+      "end_date": "2026-09-02T19:30:00.000Z",
+      "location": "Auditório do Centro Socioeconômico",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/Banner-acadêmico-Antropoceno-1-1024x768.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/antropoceno-e-fronteiras-planetarias-nas-relacoes-internacionais/",
+      "description": "O curso de Relações Internacionais da UFSC promove a videoconferência Antropoceno e fronteiras planetárias nas relações internacionais, que será realizada no dia 2 de setembro, às 14h30, no Auditório do Centro Socioeconômico (CSE/UFSC).\n\nA palestra será conduzida pela professora Alice Freyesleben, doutora em História pela Universidade Federal do Paraná (UFPR) e pesquisadora de pós-doutorado no Departamento de História e Culturas da Universidade de Bolonha (Itália). O evento propõe uma reflexão sobre os limites planetários e os desafios do Antropoceno sob a perspectiva das Relações Internacionais, discutindo como as fronteiras ecológicas redefinem a política, a governança e a cooperação global no século XXI.\n\nA atividade integra a disciplina de graduação Mudanças Climáticas e Relações Internacionais, ministrada pelo professora Agripa Faria Alexandre e e conta com o apoio da Coordenadoria do Curso de Graduação em Relações Internacionais.",
+      "tags": [
+        "antropoceno",
+        "auditório do centro socioeconômico",
+        "cse",
+        "relações internacionais",
+        "videoconferência"
+      ],
+      "category": "outro",
       "is_free": true,
       "is_all_day": false
     },
