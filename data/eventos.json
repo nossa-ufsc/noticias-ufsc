@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-08-28T20:48:25.610Z",
+  "geradoEm": "2026-08-30T14:22:50.008Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1315,
-      "selecionados": 18,
+      "selecionados": 15,
       "ignorados": {
-        "ja-passou": 1296,
+        "ja-passou": 1299,
         "muito-longe": 1
       },
       "erros": []
@@ -22,74 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:295793",
-      "name": "Cine Paredão: ‘Kokuho’",
-      "start_date": "2026-08-28T21:30:00.000Z",
-      "end_date": "2026-08-28T23:30:00.000Z",
-      "location": "Bosque do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/POST-KOKUHO-768x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-paredao-kokuho/",
-      "description": "O Cine Paredão apresenta na sexta-feira, 28 de agosto, uma sessão gratuita do filme Kokuho – O Preço da Perfeição, dirigido pelo cineasta Sang-il Lee. A exibição ocorre às 18h30, no Bosque do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC).\n\nLançado em 2025, o longa-metragem mistura drama e ficção. Com 2h54 de duração e classificação indicativa de 14 anos. O filme se passa no Japão do pós-guerra, período de rápido crescimento econômico.\n\nKikuo é um garoto de 14 anos que, após a morte do pai — líder de uma gangue Yakuza —passa a viver sob a tutela de um renomado ator de Kabuki. Ao lado de Shunsuke, filho único do artista, ele mergulha no rigor e na disciplina do teatro tradicional japonês, construindo uma relação marcada por rivalidade, afeto e herança cultural. O filme é baseado no romance ‘Kokuho’, de Yoshida Shûichi.\n\nA sessão integra a programação do Cine Paredão, projeto de extensão vinculado ao Curso de Cinema do Centro de Comunicação e Expressão (CCE) da UFSC. Mais informações no Instagram e o trailer.",
-      "tags": [
-        "ao ar livre",
-        "filme",
-        "bosque do cfh",
-        "cine paredão"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295919",
-      "name": "Ciclo de cinema alemão Deutsches Kino: Adeus Lenin!",
-      "start_date": "2026-08-28T22:00:00.000Z",
-      "end_date": "2026-08-29T00:00:00.000Z",
-      "location": "Laboratório de Estudos de Cinema, Bloco D- 1º andar, CCE",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Cartaz-Adeus-Lenin-Good_Bye_Lenin_2003.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/ciclo-de-cinema-alemao-deutsches-kino-adeus-lenin/",
-      "description": "Cartaz de divulgação\n\nO Ciclo de cinema em alemão Deutsches Kino, do Curso de Letras Alemão, da Universidade Federal de Santa Catarina (UFSC), realiza a exibição do filme Adeus Lenin! (Good Bye, Lenin!), de Wolfgang Becker, no dia 28 de agosto, às 19h, na Sala de projeções do Laboratório de Estudos em Cinema (LEC).\n\nO filme deste mês mistura comédia e drama para retratar a queda do Muro de Berlim. Em 1989, pouco antes da queda do muro, a senhora Kerner entra em coma e fica desacordada durante os dias que marcaram o triunfo do regime capitalista. Quando ela desperta, Berlim Oriental está sensivelmente modificada. Seu filho, temendo prejudicar a saúde, decide esconder-lhe os acontecimentos.\n\nO ciclo apresenta mensalmente, na última sexta-feira do mês, filmes alemães com legendas em português. Para participar não precisa realizar inscrições. O evento está aberto a toda comunidade.\n\nPara mais informações acesse o instagram do projeto e assista ao trailer.",
-      "tags": [
-        "cinema",
-        "filme",
-        "mostra",
-        "adeus lenin",
-        "ciclo de cinema alemão deutsches kino",
-        "curso letras alemão da ufsc",
-        "evento gratuito"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295763",
-      "name": "Igrejinha da UFSC recebe Canela-de-Ema: A Fênix do Sertão",
-      "start_date": "2026-08-28T22:00:00.000Z",
-      "end_date": "2026-08-29T00:00:00.000Z",
-      "location": "Igrejinha da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2024/11/004-1024x576.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/igrejinha-da-ufsc-recebe-canela-de-ema-a-fenix-do-sertao/",
-      "description": "A Igrejinha da UFSC recebe, nesta sexta-feira, 28 de agosto, às 19h, a apresentação solo de dança Canela-de-Ema: A Fênix do Sertão, da artista mineira Carolina Diniz Bastos. O espetáculo possui forte influência do jazz dance e da dança contemporânea belo-horizontina, e propõe uma narrativa poética de resistência e renascimento, inspirada na planta do cerrado que, após o fogo, é capaz de florescer novamente. O evento é gratuito e aberto ao público.\n\nA obra aborda temas como violência de gênero, silenciamento, gaslighting e o processo de reconstrução subjetiva da mulher, estabelecendo diálogos com referências literárias como Grande Sertão: Veredas e com sonoridades que vão do experimental à música popular brasileira. A apresentação possui formato intimista e duração aproximada de 20 minutos, seguido de um bate-papo com o público sobre os temas mobilizados na performance.\n\nA proposta busca não apenas sensibilizar o espectador por meio da linguagem da dança, mas também abrir espaço para escuta, partilha e reflexão crítica. Canela-de-Ema é, sobretudo, uma travessia entre corpo, mente e espírito: uma dança que emerge das cinzas para questionar, provocar e transformar.",
-      "tags": [
-        "apresentação",
-        "atrações culturais",
-        "dança",
-        "espetáculo",
-        "canela-de-ema: a fênix do sertão",
-        "igrejinha da ufsc"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "ara:24307",
       "name": "SAENE",
