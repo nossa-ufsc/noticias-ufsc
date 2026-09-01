@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-01T14:05:31.038Z",
+  "geradoEm": "2026-09-01T20:55:52.895Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1315,
+      "totalNoFeed": 1316,
       "selecionados": 15,
       "ignorados": {
-        "ja-passou": 1299,
+        "ja-passou": 1300,
         "muito-longe": 1
       },
       "erros": []
@@ -39,25 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295948",
-      "name": "Como se preparar para manter a amamentação na volta ao trabalho/estudo",
-      "start_date": "2026-08-31T13:00:00.000Z",
-      "end_date": "2026-08-31T15:00:00.000Z",
-      "location": "Online",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Selo-2026-1-768x543.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/como-se-preparar-para-manter-a-amamentacao-na-volta-ao-trabalhoestudo/",
-      "description": "O Serviço de Apoio à Amamentação da Universidade Federal de Santa Catarina (UFSC) promove o webcurso Como se preparar para manter a amamentação na volta ao trabalho/retorno ao estudo, no dia 31 de agosto, às 10h, com transmissão ao vivo pelo Canal AmamentaSAAM no YouTube.\n\nA iniciativa integra a programação do mês Agosto Dourado, que celebra a proteção e incentivo à amamentação. A atividade é aberta para técnicos administrativos, estudantes e professores e será ministrada pela enfermeira Bianca Jacqueline Ramos.\n\nPara mais informações, acesse o site do SAAM.",
-      "tags": [
-        "saam",
-        "webcurso"
-      ],
-      "category": "outro",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:295840",
@@ -203,6 +184,27 @@
         "programa de pós-graduação em educação física"
       ],
       "category": "outro",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296069",
+      "name": "Ciclo de Cinema Humberto Mauro",
+      "start_date": "2026-09-04T22:00:00.000Z",
+      "end_date": "2026-09-05T00:00:00.000Z",
+      "location": "Museu da Escola Catarinense",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Ciclo-Humberto-Mauro-819x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/ciclo-de-cinema-humberto-mauro/",
+      "description": "O Ciclo de Cinema Humberto Mauro, vinculado ao projeto de extensão Cineclube do Livro: Ciência, Passado e Presente, em parceria com o Cineclube Presença do Museu da Escola Catarinense, promove a exibição de quatro filmes do cineasta Humberto Mauro. A ideia é apresentar visões sociais e históricas, escolhas técnicas e estéticas deste que é considerado um dos patriarcas do cinema nacional.\n\nOs filmes serão exibidos nas sextas-feiras de setembro, a partir das 19h, com a seguinte programação:\n\n04/09 – Sangue Mineiro\n\n11/09 – Argila\n\n18/09 – O canto da Saudade\n\n25/09 – Sessão Brasilianas e Carro de Bois\n\nApós cada exibição, a professora Lara Rodrigues Pereira, do Centro de Ciências da Educação da UFSC, conduzirá uma conversa com os presentes, para aprofundamento das questões alavancadas pelos filmes.\n\nO projeto envolve, além da docente, estudantes do curso de cinema da UFSC. Os objetivos são compartilhar conhecimentos sobre Humberto Mauro, um dos cineastas mais produtivos da primeira metade do século XX, no Brasil. Isso se dará por meio da observação atenta e guiada das obras selecionadas. Os participantes também terão a oportunidade de observar, de maneira contemplativa, filmes com ritmos narrativos muito distintos daqueles experimentados no presente, ampliando o referencial estético da audiência.",
+      "tags": [
+        "cinema",
+        "ced",
+        "centro de ciências da educação (ced)",
+        "ciclo de cinema humberto mauro"
+      ],
+      "category": "cultura",
       "is_free": true,
       "is_all_day": false
     },
