@@ -1,10 +1,10 @@
 {
-  "geradoEm": "2026-09-01T20:55:52.895Z",
+  "geradoEm": "2026-09-02T13:31:27.876Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1316,
-      "selecionados": 15,
+      "totalNoFeed": 1318,
+      "selecionados": 17,
       "ignorados": {
         "ja-passou": 1300,
         "muito-longe": 1
@@ -209,6 +209,29 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296089",
+      "name": "Cine Paredão: ‘Ressurreição’",
+      "start_date": "2026-09-04T22:00:00.000Z",
+      "end_date": "2026-09-05T00:45:00.000Z",
+      "location": "Bosque ou Auditório do Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/1000166197-768x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-paredao-ressurreicao/",
+      "description": "O projeto de extensão Cine Paredão, do curso de Cinema da Universidade Federal de Santa Catarina (UFSC), apresenta nesta sexta-feira, 4 de setembro, a exibição do filme Ressurreição (Resurrection), dirigido pelo cineasta chinês Bi Gan. A sessão começa 19h e tem entrada gratuita. Com 2h39min de duração, o longa-metragem de 2025 combina ficção científica e drama para construir uma narrativa ambientada em um mundo no qual a humanidade perdeu a capacidade de sonhar. Nesse cenário, uma criatura permanece ligada às ilusões do universo onírico, agarrando-se a visões que ninguém mais consegue enxergar.\n\nA história se transforma quando uma mulher, dotada da rara capacidade de perceber essas imagens, decide atravessar os sonhos da criatura em busca da verdade escondida em suas visões. O elenco reúne nomes como Jackson Yee, Shu Qi, Mark Chao, Gengxi Li, Jue Huang, Yongzhong Chen, Zhijian Zhang e Chloe Maayan. O roteiro é assinado por Bi Gan e Zhai Xiaohui. A exibição será realizada no Bosque ou Auditório do Centro de Filosofia e Ciências Humanas (CFH) da UFSC. O local definitivo depende das condições para a realização da sessão e será divulgado pelo Cine Paredão. O filme tem classificação indicada para maiores de 14 anos.\n\nMais informações estão disponíveis no perfil do Cine Paredão\n\nTrailer: Filme Ressurreição",
+      "tags": [
+        "filme",
+        "auditório do cfh",
+        "bosque do cfh",
+        "cine paredão",
+        "curso de cinema",
+        "exibição filme"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "ara:24355",
       "name": "Araranguá de Portas Abertas – Feira de Cursos",
       "start_date": "2026-09-09T11:00:00.000Z",
@@ -360,6 +383,27 @@
         "centro de comunicação e expressão (cce)",
         "núcleo onetti de estudos literários latino-americanos",
         "pós-graduação em literatura ufsc"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296085",
+      "name": "I Seminário de Cosmopolítica e Linguagem",
+      "start_date": "2026-10-05T12:00:00.000Z",
+      "end_date": "2026-10-08T00:00:00.000Z",
+      "location": "virtual",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Cosmopolítica-e-Linguagem-768x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/i-seminario-de-cosmopolitica-e-linguagem/",
+      "description": "O Grupo de Políticas e Direitos Linguísticos (PoLiTicas), do Programa de Pós-Graduação em Linguística da Universidade Federal de Santa Catarina (UFSC), promove o I Seminário de Cosmopolítica e Linguagem, que acontecerá nos dias 5, 6 e 7 de outubro, em formato virtual.\n\nA chamada para envio de resumos está aberta até o dia 15 de setembro.\n\nO evento reúne pesquisadores, estudantes e interessadas/os para refletir sobre o papel da linguagem nas relações entre humanos e outros-que-humanos, em diálogo com os desafios da crise ecológica e do Capitaloceno.\n\nAs propostas de trabalhos para apresentação em comunicação individual poderão ser submetidos aos seguintes Grupos de Trabalho, pelo link no site https://politicaslinguisticas.ufsc.br/evento/i-seminario-de-cosmopolitica-e-linguagem/\n\n•\nGT 1: Cosmopolíticas linguísticas;\n\n•\nGT 2: Comunicação entre humanos e outros-que-humanos;\n\n•\nGT 3: Linguagem e estética para além do humano.\n\nDatas importantes:\n\n•\n01 a 15/09: submissão de resumos (link na página do evento);\n\n•\n25/09: divulgação dos trabalhos aprovados;\n\n•\n05 a 07/10: participação no seminário e inscrições para ouvintes.\n\nHaverá certificado para apresentadores e ouvintes devidamente inscritos. A inscrição para ouvintes será feita através de link a ser disponibilizado no chat do YouTube, no decorrer do evento. A transmissão será pelo canal do YouTube do grupo PoLiTicas.\n\nMais informações: https://politicaslinguisticas.ufsc.br/evento/i-seminario-de-cosmopolitica-e-linguagem/",
+      "tags": [
+        "seminário",
+        "cosmopolítica",
+        "linguagem",
+        "programa de pós-graduação em linguística"
       ],
       "category": "palestra",
       "is_free": true,
