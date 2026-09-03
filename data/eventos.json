@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-02T13:31:27.876Z",
+  "geradoEm": "2026-09-03T13:29:46.982Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1318,
-      "selecionados": 17,
+      "totalNoFeed": 1321,
+      "selecionados": 18,
       "ignorados": {
-        "ja-passou": 1300,
+        "ja-passou": 1302,
         "muito-longe": 1
       },
       "erros": []
@@ -39,49 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295840",
-      "name": "Formações em disputa: plataformização, pedagogia e as expectativas sociais sobre a docência contemporânea",
-      "start_date": "2026-09-01T16:30:00.000Z",
-      "end_date": "2026-09-01T20:00:00.000Z",
-      "location": "Auditório do Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/formacoes-em-disputa-plataformizacao-pedagogia-e-as-expectativas-sociais-sobre-a-docencia-contemporanea/",
-      "description": "A Coordenação do Curso de Pedagogia da Universidade Federal de Santa Catarina (UFSC) promove, na próxima terça-feira, 1º de setembro, a Aula Magna Formações em disputa: plataformização, pedagogia e as expectativas sociais sobre a docência contemporânea. A atividade será realizada das 13h30 às 17h, no Auditório do Centro de Filosofia e Ciências Humanas (CFH/UFSC). A programação reunirá a Professora Roselaine Ripa (UDESC) e o Professor Everton Vasconcelos de Almeida (Secretária de Educação Básica), com mediação do Professor Diogo Norberto Mesti.\n\nA atividade abordará desafios centrais relacionados à formação de professoras e professores na atualidade, promovendo um espaço de reflexão e debate sobre os processos de plataformização, a pedagogia e as expectativas sociais que envolvem a docência contemporânea. O evento é aberto a estudantes, professores, pesquisadores e demais interessados na temática. Não é necessário realizar inscrição e não haverá certificação. Mais informações estão disponíveis no site.",
-      "tags": [
-        "aula magna",
-        "cfh",
-        "curso de pedagogia",
-        "udesc"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295896",
-      "name": "Cineclube Cinecittà: ‘Amanda’, de Carolina Cavalli",
-      "start_date": "2026-09-01T22:00:00.000Z",
-      "end_date": "2026-09-02T00:00:00.000Z",
-      "location": "Sala de Projeção LEC, Bloco D - CCE",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.paginas.ufsc.br/files/2026/08/IMG_9727-239x300.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cineclube-cinecitta-amanda-de-carolina-cavalli/",
-      "description": "O Cinecittà, cineclube do curso de Letras Italiano da Universidade Federal de Santa Catarina (UFSC), promove a exibição do filme Amanda (2022), da diretora italiana Carolina Cavalli. A atividade ocorre na terça-feira, 1º de setembro, às 19h, na Sala de Projeção do LEC , no bloco D do Centro de Comunicação e Expressão da (CCE). A sessão é gratuita e aberta ao público.\n\nO filme acompanha uma jovem de 24 anos, rica e profundamente solitária, que nunca teve uma amizade verdadeira. Decidida a mudar essa realidade, ela embarca em uma missão obstinada: reconquistar a amizade de uma colega de infância que mal se lembra dela. Entre situações absurdas e um humor seco, a obra constrói o retrato de uma personagem deslocada, presa entre a infância e a vida adulta, em busca de conexão. Amanda estreou em competição na seção Horizons Extra do Festival de Veneza de 2022 e também foi exibido no Festival Internacional de Cinema de Toronto do mesmo ano.Nascida em Milão, Carolina Cavalli constrói em Amanda uma comédia dramática de tom absurdista, marcada por diálogos afiados e uma direção de atores que equilibra estranhamento e ternura. Sua estreia rendeu-lhe indicação a Melhor Diretor Revelação no David di Donatello, consolidando-a como uma das vozes mais originais do cinema italiano contemporâneo.\n\nO Cineclube Cinecittà é um projeto dedicado à difusão do cinema italiano, à pesquisa do cinema de autoras contemporâneas e à promoção de debates sobre cinema, arte e cultura. Após a sessão, haverá conversa aberta com os participantes. Mais informações podem ser acompanhadas no instagram do projeto @cinecitta.ufsc",
-      "tags": [
-        "cinema",
-        "debate",
-        "exibição",
-        "centro de comunicação e expressão (cce)",
-        "curso de letras italiano"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:291091",
@@ -313,6 +270,50 @@
       "is_all_day": true
     },
     {
+      "source_id": "agecom:296112",
+      "name": "IA no contexto universitário",
+      "start_date": "2026-09-15T21:00:00.000Z",
+      "end_date": "2026-09-15T23:00:00.000Z",
+      "location": "Auditório da Reitoria - Campus Trindade",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/recepcao-calouros-2026-02_cartaz_conferencia-atualizada-212x300-212x300.png",
+      "ticket_url": "https://inscricoes.ufsc.br/activities/13531",
+      "info_url": "https://noticias.ufsc.br/event/ia-no-contexto-universitario/",
+      "description": "A Pró-Reitoria de Graduação e Educação Básica (Prograd) da Universidade Federal de Santa Catarina (UFSC) promove, no dia 15 de setembro, terça-feira, a conferência A IA no contexto universitário. O evento ocorre às 18h no Auditório da Reitoria, Campus Trindade, e integra um ciclo de debates sobre Inteligência Artificial na UFSC, com debates e reflexões sobre as novas tecnologias e seus impactos e possibilidades nos processos de ensino e aprendizagem.\n\nNo dia da conferência de abertura, haverá uma homenagem aos 40 anos de IA na UFSC e apresentações artísticas. Os palestrantes serão Jônata Tyska e Aldo Von Wangenheim, ambos do Departamento de Informática e Estatística (INE/UFSC).\n\nInscreva-se aqui para participar.\n\nPara mais informações na página Calouros e Calouras UFSC.\n\nTickets: https://inscricoes.ufsc.br/activities/13531.",
+      "tags": [
+        "aula inaugural",
+        "conferência",
+        "palestra",
+        "ctc",
+        "ine",
+        "inteligência artificial (ia)",
+        "prograd"
+      ],
+      "category": "palestra",
+      "is_free": null,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296107",
+      "name": "Conferência de Arqueoastronomia",
+      "start_date": "2026-09-18T03:00:00.000Z",
+      "end_date": "2026-09-19T02:59:59.000Z",
+      "location": "Auditório e Anfiteatro - EFI - Espaço Físico Integrado",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/banner_site-agosto.31c2b73ab2a14b8ab26c-1-1024x410.jpg",
+      "ticket_url": "https://www.even3.com.br/conferencia-de-arqueoastronomia-florianopolis-722154/",
+      "info_url": "https://noticias.ufsc.br/event/conferencia-de-arqueoastronomia/",
+      "description": "A Universidade Federal de Santa Catarina (UFSC), em parceria com o Instituto Multidisciplinar do Meio Ambiente e Arqueoastronomia (IMMA), promove a I Conferência de Arqueoastronomia: “Conexão entre o Mar, a Terra e o Céu”. O evento nasce com o propósito de fortalecer o diálogo entre ciência, cultura, educação, patrimônio e saberes ancestrais, reunindo estudantes, pesquisadores, docentes, profissionais e todas as pessoas interessadas em explorar o fascinante universo da arqueoastronomia.\n\nA conferência ocorre entre os dias 18 e 23 de setembro de 2026, em Florianópolis, com programação presencial na UFSC e no IMMA. Ao longo de seis dias, os participantes poderão vivenciar palestras, mesas-redondas, painéis temáticos, oficinas, exposições artísticas, observações astronômicas, vivências culturais e atividades de campo.\n\nDurante o evento, especialistas renomados apresentarão temas relacionados aos conhecimentos ancestrais, às relações entre antigas civilizações e os astros, aos monumentos arqueológicos e às conexões entre céu, território, cultura e natureza. A programação também discutirá o papel da arqueoastronomia na educação, na preservação patrimonial e na valorização dos saberes tradicionais e dos povos originários. Clique aqui para a inscrição do evento.\n\nMais informações acesse o site da conferência.\n\nTickets: https://www.even3.com.br/conferencia-de-arqueoastronomia-florianopolis-722154/.",
+      "tags": [
+        "conferência",
+        "arqueoastronomia",
+        "astronomia"
+      ],
+      "category": "palestra",
+      "is_free": null,
+      "is_all_day": true
+    },
+    {
       "source_id": "ara:25049",
       "name": "SAFS",
       "start_date": "2026-09-21T03:00:00.000Z",
@@ -329,6 +330,28 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:296147",
+      "name": "Feira Redescobrindo a Matemática",
+      "start_date": "2026-09-21T12:00:00.000Z",
+      "end_date": "2026-09-21T21:00:00.000Z",
+      "location": "Colégio de Aplicação da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Captura-de-Tela-2026-09-03-às-09.42.11.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/feira-redescobrindo-a-matematica-2/",
+      "description": "O PET Matemática da Universidade Federal de Santa Catarina (UFSC) realiza, no dia 21 de setembro, a 16ª edição da Feira Redescobrindo a Matemática (FERMAT). O evento será realizado no Colégio de Aplicação da UFSC, das 9h às 12h e das 13h30 às 18h, e é aberto à comunidade. Neste ano, o tema ‘Espaço’ estará presente nas atividades e propostas apresentadas ao longo do evento.\n\nA programação contará com estandes de jogos, desafios e trivias envolvendo Matemática, permitindo que os participantes explorem conceitos matemáticos de forma descontraída e participativa. Durante a feira, os visitantes poderão participar de diversos jogos, desafios, exposições, curiosidades e atividades interativas, desenvolvidos para estimular o raciocínio lógico e proporcionar momentos de aprendizagem e entretenimento. As atividades são voltadas a diferentes faixas etárias, podendo ser aproveitadas tanto por estudantes quanto pela comunidade em geral.\n\nTurmas de escolas de Santa Catarina, do Ensino Fundamental e Médio, poderão participar mediante visitas previamente agendadas por formulário. A iniciativa também é uma oportunidade para a comunidade acadêmica e para estudantes conhecerem diferentes possibilidades de interação com a Matemática fora do ambiente tradicional de sala de aula.\n\nA realização da XVI FERMAT conta com a parceria do Laboratório de Estudos de Matemática e Tecnologias (LEMAT-UFSC), do projeto Círculo Matemático, do programa de extensão UFSCience, do Núcleo de Atividades de Altas Habilidades/Superdotação (NAAHS) e do Observatório Astronômico do Grupo de Astrofísica (GAS) da UFSC.\n\nO PET Matemática desenvolve atividades de ensino, pesquisa e extensão e tem a feira como um dos seus projetos de extensão promovidos anualmente. O principal objetivo é apresentar a Matemática de maneira lúdica, criativa e interessante, aproximando o conhecimento matemático do público.",
+      "tags": [
+        "feira",
+        "colégio de aplicação",
+        "feira redescobrindo a matemática (fermat)",
+        "lemat ufsc",
+        "pet matemática"
+      ],
+      "category": "outro",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "agecom:294876",
