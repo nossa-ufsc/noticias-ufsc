@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-03T13:29:46.982Z",
+  "geradoEm": "2026-09-03T20:53:46.876Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1321,
-      "selecionados": 18,
+      "totalNoFeed": 1322,
+      "selecionados": 17,
       "ignorados": {
-        "ja-passou": 1302,
+        "ja-passou": 1304,
         "muito-longe": 1
       },
       "erros": []
@@ -59,48 +59,6 @@
       "category": "academico",
       "is_free": false,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295348",
-      "name": "Palestra ‘Água é vida? Química também!’",
-      "start_date": "2026-09-02T17:00:00.000Z",
-      "end_date": "2026-09-02T19:00:00.000Z",
-      "location": "On-line - Plataforma Google Meet",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/palestra-agua-e-vida-quimica-tambem/",
-      "description": "Professores de Química do Colégio de Aplicação da Universidade Federal de Santa Catarina (UFSC) promovem a palestra on-line Água é vida? Química também!, no dia 2 de setembro, quarta-feira, das 14h às 16h, pela plataforma Google Meet. As inscrições podem ser realizadas até 28 de agosto pelo sistema de inscrições da UFSC.\n\nMinistrada pelo químico Paulo César Lamin, a palestra abordará o papel da Química no saneamento básico, mostrando como essa ciência está diretamente relacionada à qualidade da água que consumimos, ao tratamento dos nossos resíduos e à construção de um ambiente mais saudável e sustentável para todos. A palestra também propõe uma reflexão sobre a atuação cada vez mais ampla do profissional da área, que, além do conhecimento técnico em Química, precisa dialogar com diferentes áreas, como gestão, comunicação, legislação, engenharia e tomada de decisões, assumindo um papel estratégico para a solução de desafios institucionais, técnicos e administrativos.\n\nSegundo os organizadores, a Química assume um papel indispensável, “contribuindo para o desenvolvimento de soluções seguras, eficientes e economicamente viáveis para o tratamento da água e do esgoto. Por outro lado, com o avanço da inteligência artificial e de novas tecnologias, é o conhecimento técnico de profissionais da área que garantem que as informações sejam corretamente interpretadas e transformadas em ações seguras para a população e para o meio ambiente”.\n\nO link de acesso será disponibilizado no dia do evento para os participantes com inscrição homologada. A participação dá direito a certificado de duas horas. Não haverá intérprete de libras.\n\nMais informações sobre a atividade no site caqmcufsc.paginas.ufsc.br/home e na página de inscrições.",
-      "tags": [
-        "palestra",
-        "colégio de aplicação",
-        "química"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295936",
-      "name": "Antropoceno e fronteiras planetárias nas relações internacionais",
-      "start_date": "2026-09-02T17:30:00.000Z",
-      "end_date": "2026-09-02T19:30:00.000Z",
-      "location": "Auditório do Centro Socioeconômico",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/Banner-acadêmico-Antropoceno-1-1024x768.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/antropoceno-e-fronteiras-planetarias-nas-relacoes-internacionais/",
-      "description": "O curso de Relações Internacionais da UFSC promove a videoconferência Antropoceno e fronteiras planetárias nas relações internacionais, que será realizada no dia 2 de setembro, às 14h30, no Auditório do Centro Socioeconômico (CSE/UFSC).\n\nA palestra será conduzida pela professora Alice Freyesleben, doutora em História pela Universidade Federal do Paraná (UFPR) e pesquisadora de pós-doutorado no Departamento de História e Culturas da Universidade de Bolonha (Itália). O evento propõe uma reflexão sobre os limites planetários e os desafios do Antropoceno sob a perspectiva das Relações Internacionais, discutindo como as fronteiras ecológicas redefinem a política, a governança e a cooperação global no século XXI.\n\nA atividade integra a disciplina de graduação Mudanças Climáticas e Relações Internacionais, ministrada pelo professora Agripa Faria Alexandre e e conta com o apoio da Coordenadoria do Curso de Graduação em Relações Internacionais.",
-      "tags": [
-        "antropoceno",
-        "auditório do centro socioeconômico",
-        "cse",
-        "relações internacionais",
-        "videoconferência"
-      ],
-      "category": "outro",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:294920",
@@ -183,6 +141,32 @@
         "cine paredão",
         "curso de cinema",
         "exibição filme"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296172",
+      "name": "Documentário “Caminhos do Desejo”",
+      "start_date": "2026-09-07T18:00:00.000Z",
+      "end_date": "2026-09-07T19:30:00.000Z",
+      "location": "Teatro Álvaro de Carvalho",
+      "campus": "florianopolis",
+      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/documentario-caminhos-do-desejo/",
+      "description": "Exibição do documentário “Caminhos do Desejo” de Andrey Santiago, egresso do curso de Cinema da UFSC, no 30º FAM – Florianópolis Audiovisual Mercosul, o maior festival de cinema do Sul do Brasil. A produção trata sobre a história do primeiro filme de Santa Catarina, O Preço da Ilusão, lançado em 1957 e que se perdeu. O evento contará com a exibição do documentário, que surgiu de um Trabalho de Conclusão de Curso em Cinema, e debate com a Cinemateca Catarinense em comemoração aos seus 40 anos de existência.\n\nO evento conta com apoio do Curso de Cinema da UFSC. A entrada é gratuita, mas é necessário realizar inscrição por meio do link https://www.famdetodos.com.br/\n\nMais informações: https://www.instagram.com/famdetodos",
+      "tags": [
+        "cinema",
+        "documentário",
+        "festival",
+        "filme",
+        "caminhos do desejo",
+        "cce",
+        "curso de cinema",
+        "fam",
+        "o preço da ilusão"
       ],
       "category": "curso",
       "is_free": true,
