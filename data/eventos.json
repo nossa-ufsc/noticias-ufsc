@@ -1,10 +1,10 @@
 {
-  "geradoEm": "2026-09-04T13:24:08.214Z",
+  "geradoEm": "2026-09-04T20:40:45.995Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1324,
-      "selecionados": 18,
+      "totalNoFeed": 1327,
+      "selecionados": 21,
       "ignorados": {
         "ja-passou": 1305,
         "muito-longe": 1
@@ -153,6 +153,28 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296236",
+      "name": "Palestra do Departamento de Saúde Pública sobre mensuração de construtos",
+      "start_date": "2026-09-08T17:00:00.000Z",
+      "end_date": "2026-09-08T20:00:00.000Z",
+      "location": "Auditório Professor Lúcio Botelho, no Bloco B do Centro de Ciências da Saúde (CCS)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
+      "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSfO12Khc7g_S5pw7YGDj76GOrecGccs4w8GZOSrcp5RWNV9-A/viewform",
+      "info_url": "https://noticias.ufsc.br/event/palestra-do-departamento-de-saude-publica-sobre-mensuracao-de-construtos/",
+      "description": "O Departamento de Saúde Pública da Universidade Federal de Santa Catarina (UFSC), em parceria com o Programa de Pós-Graduação em Saúde Coletiva da UFSC (PPGSC/UFSC) e o EpiFloripa Idoso, promove a palestra Modelo processual de etapas para mensuração de construtos em níveis aceitáveis de validade, confiabilidade e comparabilidade, no Auditório Professor Lúcio Botelho, no Bloco B do Centro de Ciências da Saúde (CCS). O evento é dividido em duas partes, a primeira será na terça-feira, 8 de setembro, às 14h, e a segunda parte ocorre na quarta-feira, 9 de setembro, às 9h.\n\nO palestrante será o professor Michael Reichenheim, do Instituto de Medicina Social da Universidade do Estado do Rio de Janeiro (IMS/UERJ). A atividade é voltada a pesquisadores, docentes e estudantes de pós-graduação que atuam na construção, adaptação ou validação de escalas e questionários na área da saúde. A carga horária programada da atividade é de seis horas, com emissão de certificado.\n\nMais informações no formulário de inscrições.\n\nTickets: https://docs.google.com/forms/d/e/1FAIpQLSfO12Khc7g_S5pw7YGDj76GOrecGccs4w8GZOSrcp5RWNV9-A/viewform.",
+      "tags": [
+        "palestra",
+        "ccs",
+        "departamento de saúde pública",
+        "epifloripa idoso",
+        "programa de pós graduação em saúde coletiva"
+      ],
+      "category": "palestra",
+      "is_free": null,
+      "is_all_day": false
+    },
+    {
       "source_id": "ara:24355",
       "name": "Araranguá de Portas Abertas – Feira de Cursos",
       "start_date": "2026-09-09T11:00:00.000Z",
@@ -194,6 +216,50 @@
       ],
       "category": "palestra",
       "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296237",
+      "name": "Palestra do Departamento de Saúde Pública sobre mensuração de construtos",
+      "start_date": "2026-09-09T12:00:00.000Z",
+      "end_date": "2026-09-09T15:00:00.000Z",
+      "location": "Auditório Professor Lúcio Botelho, no Bloco B do Centro de Ciências da Saúde (CCS)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2022/06/Destaque-UFSC-Destaque@1.5x-1024x618.png",
+      "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSfO12Khc7g_S5pw7YGDj76GOrecGccs4w8GZOSrcp5RWNV9-A/viewform",
+      "info_url": "https://noticias.ufsc.br/event/palestra-do-departamento-de-saude-publica-sobre-mensuracao-de-construtos-2/",
+      "description": "O Departamento de Saúde Pública da Universidade Federal de Santa Catarina (UFSC), em parceria com o Programa de Pós-Graduação em Saúde Coletiva da UFSC (PPGSC/UFSC) e o EpiFloripa Idoso, promove a palestra Modelo processual de etapas para mensuração de construtos em níveis aceitáveis de validade, confiabilidade e comparabilidade, no Auditório Professor Lúcio Botelho, no Bloco B do Centro de Ciências da Saúde (CCS). O evento é dividido em duas partes, a primeira será na terça-feira, 8 de setembro, às 14h, e a segunda parte ocorre na quarta-feira, 9 de setembro, às 9h.\n\nO palestrante será o professor Michael Reichenheim, do Instituto de Medicina Social da Universidade do Estado do Rio de Janeiro (IMS/UERJ). A atividade é voltada a pesquisadores, docentes e estudantes de pós-graduação que atuam na construção, adaptação ou validação de escalas e questionários na área da saúde. A carga horária programada da atividade é de seis horas, com emissão de certificado.\n\nMais informações no formulário de inscrições.\n\nTickets: https://docs.google.com/forms/d/e/1FAIpQLSfO12Khc7g_S5pw7YGDj76GOrecGccs4w8GZOSrcp5RWNV9-A/viewform.",
+      "tags": [
+        "palestra",
+        "ccs",
+        "departamento de saúde pública",
+        "epifloripa idoso",
+        "programa de pós graduação em saúde coletiva"
+      ],
+      "category": "palestra",
+      "is_free": null,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296243",
+      "name": "Palestra sobre Escala de Discriminação Explícita na saúde",
+      "start_date": "2026-09-09T17:00:00.000Z",
+      "end_date": "2026-09-09T20:00:00.000Z",
+      "location": "Auditório Professor Lúcio Botelho — Graduação (B007), no Bloco B do Centro de Ciências da Saúde (CCS)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2020/05/destaque_mosaico_azul_institucional_brasao.jpg",
+      "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSdv9I5wRMVLESkKFJnVniiFskL9HkdaC12dy2DxYFFrpVdMkw/viewform",
+      "info_url": "https://noticias.ufsc.br/event/palestra-sobre-escala-de-discriminacao-explicita-na-saude/",
+      "description": "O Departamento de Saúde Pública da Universidade Federal de Santa Catarina (UFSC), o Programa de Pós-Graduação em Saúde Coletiva (PPGSC/UFSC) e o projeto EpiFloripa Idoso promovem a palestra Apresentação das etapas de desenvolvimento da Escala de Discriminação Explícita. A atividade ocorre na quarta-feira, 9 de setembro, das 14h às 17h, no auditório Professor Lúcio Botelho — Graduação (B007), no Bloco B do Centro de Ciências da Saúde (CCS), no campus Trindade.\n\nMinistrada pelo professor do Departamento de Saúde Pública João Luiz Bastos, a palestra é voltada a pesquisadores, docentes e estudantes de pós-graduação que trabalham com construção, adaptação ou validação de escalas e questionários na área da saúde. Para participar, é necessário preencher o formulário de inscrições.\n\nTickets: https://docs.google.com/forms/d/e/1FAIpQLSdv9I5wRMVLESkKFJnVniiFskL9HkdaC12dy2DxYFFrpVdMkw/viewform.",
+      "tags": [
+        "palestra",
+        "ccs",
+        "departamento de saúde pública",
+        "epifloripa idoso",
+        "programa de pós graduação em saúde coletiva"
+      ],
+      "category": "palestra",
+      "is_free": null,
       "is_all_day": false
     },
     {
