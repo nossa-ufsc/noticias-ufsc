@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-03T20:53:46.876Z",
+  "geradoEm": "2026-09-04T13:24:08.214Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1322,
-      "selecionados": 17,
+      "totalNoFeed": 1324,
+      "selecionados": 18,
       "ignorados": {
-        "ja-passou": 1304,
+        "ja-passou": 1305,
         "muito-longe": 1
       },
       "erros": []
@@ -38,26 +38,6 @@
       ],
       "category": "academico",
       "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:291091",
-      "name": "V Congresso Brasileiro de Fluidodinâmica Computacional",
-      "start_date": "2026-09-02T03:00:00.000Z",
-      "end_date": "2026-09-03T02:59:59.000Z",
-      "location": "Majestic Palace Hotel",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/04/congresso-1024x336.jpg",
-      "ticket_url": "https://www.cbcfd.com.br/cbcfd-2026/registration/intro",
-      "info_url": "https://noticias.ufsc.br/event/v-congresso-brasileiro-de-fluidodinamica-computacional/",
-      "description": "A quinta edição do Congresso Brasileiro de Fluidodinâmica Computacional (CBCFD) será realizada com apoio da Universidade Federal de Santa Catarina, no Majestic Palace Hotel, em Florianópolis, entre os dias 2 e 4 de setembro. O CBCFD é um evento bienal que visa consolidar e ampliar o intercâmbio técnico e científico entre pesquisadores, profissionais da indústria e estudantes envolvidos com a modelagem e simulação de escoamentos complexos por meio de técnicas da Fluidodinâmica Computacional (CFD).\n\nIdealizado por professores da Universidade Federal do Rio de Janeiro (UFRJ), Universidade Estadual de Campinas (Unicamp), Universidade Federal de Campina Grande (UFCG) e Instituto Federal da Paraíba (IFPB), o encontro surgiu da necessidade de um fórum técnico especializado, acompanhando o crescimento expressivo da comunidade nacional atuante em CFD. Ao longo de suas edições, o congresso tem se consolidado como um espaço estratégico para compartilhar avanços, discutir desafios emergentes e fortalecer a integração entre universidades, centros de pesquisa e o setor produtivo.\n\nEntre os principais objetivos está reunir especialistas das áreas acadêmica e industrial atuantes em CFD, divulgar avanços em pesquisa, desenvolvimento e aplicações, estimular colaborações interinstitucionais e parcerias com o setor produtivo, promover discussões técnicas sobre desafios atuais e tendências emergentes e fortalecer a integração entre universidades, centros de pesquisa e a indústrias.\n\nAs inscrições estão abertas e os trabalhos podem ser submetidos até dia 22 de abril. Os valores para a participação no evento podem ser consultados no site oficial e variam entre estudantes de graduação, discentes de pós-graduação,, docentes e profissionais da área. Para mais informações acesse o site do CBCFD.\n\nTickets: https://www.cbcfd.com.br/cbcfd-2026/registration/intro.",
-      "tags": [
-        "encontro",
-        "cbcfd",
-        "cfd"
-      ],
-      "category": "academico",
-      "is_free": false,
       "is_all_day": true
     },
     {
@@ -191,6 +171,32 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296186",
+      "name": "Dia do Administrador",
+      "start_date": "2026-09-09T12:00:00.000Z",
+      "end_date": "2026-09-10T00:30:00.000Z",
+      "location": "Auditório do Centro Socioeconômico (CSE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2020/08/academy_blue_png-2.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/dia-do-administrador/",
+      "description": "O Academy UFSC, programa vinculado ao ecossistema de inovação da universidade e integrante das iniciativas da Secretaria de Inovação (Sinova), em parceria com o Centro Acadêmico de Administração, promove um encontro em comemoração ao Dia do Administrador. A proposta é reunir estudantes, profissionais e convidados para um dia de troca de experiências sobre as transformações que estão redesenhando a profissão e os desafios de quem quer construir o futuro da gestão.\n\nO evento é voltado a estudantes da graduação. As inscrições são gratuitas e podem ser realizadas neste link: https://www.even3.com.br/dia-do-administradorv-775751/\n\nNa programação, estão previstas palestras sobre “Gestão, Comunicação e Empreendedorismo” (9h às 10h); “Além dos Eventos: Gestão, Estratégia e Empreendedorismo” (10h30 às 11h30); “NR01 – Segurança Psicológica” (19h às 20h) e “O planejamento estratégico não é para todos!” (20h30 às 21h30). Quem participar das atividades poderá obter um certificado de até 6 horas.\n\nServiço\n\n📅 Data – 9 de setembro\n\n🕘 Horário – A partir das 9h\n\n📍 Local – Auditório do CSE – UFSC\n\n– Mais informações: https://academy.ufsc.br/\n\nhttps://instagram.com/academy.ufsc\n\nhttps://caad.ufsc.br/\n\nhttps://www.instagram.com/caad.ufsc/",
+      "tags": [
+        "encontro",
+        "evento comemorativo",
+        "palestra",
+        "academy ufsc",
+        "administração",
+        "centro socioeconômico",
+        "cse",
+        "dia do administrador",
+        "gestão"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:295863",
       "name": "Lançamento de Livro: ‘O sistema de proteção social brasileiro sob fogo cruzado’",
       "start_date": "2026-09-09T21:30:00.000Z",
@@ -205,6 +211,28 @@
         "evento comemorativo",
         "lançamento de livro",
         "centro socioeconomico (cse)"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296192",
+      "name": "Recital de Violão com Eduardo Nascimento na Igrejinha da UFSC",
+      "start_date": "2026-09-10T22:00:00.000Z",
+      "end_date": "2026-09-11T00:00:00.000Z",
+      "location": "Igrejinha da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/DSC_0014-768x510.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/recital-de-violao-com-eduardo-nascimento-na-igrejinha-da-ufsc/",
+      "description": "A Igrejinha da UFSC recebe nesta quinta-feira, 10 de setembro, às 19h, o recital de violão do instrumentista Eduardo Nascimento. A entrada é franca, aberta a toda a comunidade.\n\nNo programa da noite, o público poderá ouvir um repertório que transita entre o clássico e o contemporâneo, com peças de Heitor Villa-Lobos e do compositor espanhol Fernando Sor, além de obras de Fábio Lima, Miguel Llobet e outros compositores.\n\nEduardo, atualmente bacharelando em Violão pela Universidade do Estado de Santa Catarina (UDESC), já esteve na Igrejinha da UFSC, apresentando-se ao lado da Camerata de Violões da UDESC, além de ter exibido na Biblioteca Universitária da UDESC. A formação artística foi enriquecida por masterclasses com nomes de destaque como Andrea Roberto, Marisa Sardo, Gilson Antunes, Giacomo Copiello e Marco Lima.",
+      "tags": [
+        "apresentação musical",
+        "musical",
+        "show musical",
+        "igrejinha da ufsc",
+        "recital de violão"
       ],
       "category": "cultura",
       "is_free": true,
