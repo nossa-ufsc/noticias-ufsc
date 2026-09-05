@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-05T12:34:07.302Z",
+  "geradoEm": "2026-09-05T20:14:06.662Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1327,
-      "selecionados": 20,
+      "selecionados": 19,
       "ignorados": {
-        "ja-passou": 1306,
+        "ja-passou": 1307,
         "muito-longe": 1
       },
       "erros": []
@@ -39,27 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295720",
-      "name": "30 anos do Programa de Pós-graduação em Educação Física",
-      "start_date": "2026-09-03T18:00:00.000Z",
-      "end_date": "2026-09-04T20:00:00.000Z",
-      "location": "Auditório do Centro de Desportos da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/PPGEF-30-anos.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/30-anos-do-programa-de-pos-graduacao-em-educacao-fisica/",
-      "description": "O Programa de Pós-Graduação em Educação Física da Universidade Federal de Santa Catarina (PPGEF/UFSC) completa 30 anos e promove um evento celebrativo nos dias 3 e 4 de setembro, no Auditório do Centro de Desportos da UFSC.\n\nO evento é aberto a toda a comunidade acadêmica: professores, estudantes, egressos, técnicos, pesquisadores e amigos do PPGEF. As inscrições são gratuitas e devem ser feitas pelo formulário on-line.\n\nNa quinta-feira, 3 de setembro, a programação será das 15h às 18h30. Na sexta-feira, 4 de setembro, as atividades iniciam às 8h30 e vão até as 17h.\n\n“Mais do que celebrar uma data, este encontro será uma oportunidade para relembrar nossa história, reconhecer conquistas, fortalecer vínculos e olhar para o futuro. Ao longo dessas três décadas, o PPGEF foi construído por muitas pessoas que contribuíram para consolidar o Programa como referência na pós-graduação em Educação Física”, afirmam os organizadores.\n\nA coordenação do PPGEF ressalta que este aniversário também será um momento especial para homenagear os pioneiros que, há 30 anos, acreditaram na ideia de criar e fortalecer um programa de pós-graduação em Educação Física na UFSC: “Foram esses primeiros passos, movidos pelo compromisso, pela dedicação e pela visão de futuro, que ajudaram a construir a trajetória que hoje celebramos.”\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do PPGEF ou pelo e-mail ppgef@contato.ufsc.br",
-      "tags": [
-        "comemoração",
-        "educação física",
-        "ppgef",
-        "programa de pós-graduação em educação física"
-      ],
-      "category": "outro",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:296069",
