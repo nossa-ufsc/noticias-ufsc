@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-04T20:40:45.995Z",
+  "geradoEm": "2026-09-05T12:34:07.302Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1327,
-      "selecionados": 21,
+      "selecionados": 20,
       "ignorados": {
-        "ja-passou": 1305,
+        "ja-passou": 1306,
         "muito-longe": 1
       },
       "erros": []
@@ -38,27 +38,6 @@
       ],
       "category": "academico",
       "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:294920",
-      "name": "Encontro Regional de Estudantes de Biologia 2026",
-      "start_date": "2026-09-03T03:00:00.000Z",
-      "end_date": "2026-09-04T02:59:59.000Z",
-      "location": "Fazenda da Ressacada da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/07/Captura-de-tela-2026-07-28-092935.png",
-      "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSc7YakgIQwvjBxIdcgntfP8l2EOxp1JXejhns1XRvAqzzxYeQ/viewform",
-      "info_url": "https://noticias.ufsc.br/event/encontro-regional-de-estudantes-de-biologia-2026/",
-      "description": "O Centro Acadêmico de Biologia (CAbio) da Universidade Federal de Santa Catarina (UFSC), com apoio do Centro de Ciências Biológicas e da Entidade Nacional dos Estudantes de Biologia (ENEBio), realiza o Encontro Regional de Estudantes de Biologia – Sul (EREB- Sul), entre os dias 3 e 7 de setembro, na Fazenda da Ressacada da UFSC, localizada em Florianópolis.\n\nO EREB 2026 traz como tema Quebrando a dormência: Biologia para ser vivida e propõe articular com problemáticas da localidade, em especial dos moradores dos arredores da Fazenda da Ressacada, escutando e cooperando com as demandas que têm sido apresentadas.\n\nAs inscrições custam R$ 100,00 e podem ser realizadas via formulário. Participantes inscritos receberão certificação de 35 horas, além do certificado de apresentação de trabalhos, quando for o caso.\n\nPara mais informações, acesse o Instagram do congresso @erebsul2026.\n\nTickets: https://docs.google.com/forms/d/e/1FAIpQLSc7YakgIQwvjBxIdcgntfP8l2EOxp1JXejhns1XRvAqzzxYeQ/viewform.",
-      "tags": [
-        "encontro",
-        "cabio",
-        "centro de ciências biológicas (ccb)",
-        "fazenda da ressacada"
-      ],
-      "category": "academico",
-      "is_free": false,
       "is_all_day": true
     },
     {
