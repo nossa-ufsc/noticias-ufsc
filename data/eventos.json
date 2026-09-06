@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-05T20:14:06.662Z",
+  "geradoEm": "2026-09-06T12:48:39.778Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1327,
-      "selecionados": 19,
+      "selecionados": 17,
       "ignorados": {
-        "ja-passou": 1307,
+        "ja-passou": 1309,
         "muito-longe": 1
       },
       "erros": []
@@ -14,76 +14,14 @@
     {
       "fonte": "ara",
       "totalNoFeed": 15,
-      "selecionados": 8,
+      "selecionados": 7,
       "ignorados": {
-        "ja-passou": 7
+        "ja-passou": 8
       },
       "erros": []
     }
   ],
   "eventos": [
-    {
-      "source_id": "ara:24307",
-      "name": "SAENE",
-      "start_date": "2026-08-31T03:00:00.000Z",
-      "end_date": "2026-09-05T02:59:59.000Z",
-      "location": "UFSC",
-      "campus": "ararangua",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
-      "ticket_url": null,
-      "info_url": "https://ara.ufsc.br/event/saene/",
-      "description": "Semana Acadêmica de Engenharia de Energia",
-      "tags": [
-        "semana acadêmica"
-      ],
-      "category": "academico",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296069",
-      "name": "Ciclo de Cinema Humberto Mauro",
-      "start_date": "2026-09-04T22:00:00.000Z",
-      "end_date": "2026-09-05T00:00:00.000Z",
-      "location": "Museu da Escola Catarinense",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Ciclo-Humberto-Mauro-819x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/ciclo-de-cinema-humberto-mauro/",
-      "description": "O Ciclo de Cinema Humberto Mauro, vinculado ao projeto de extensão Cineclube do Livro: Ciência, Passado e Presente, em parceria com o Cineclube Presença do Museu da Escola Catarinense, promove a exibição de quatro filmes do cineasta Humberto Mauro. A ideia é apresentar visões sociais e históricas, escolhas técnicas e estéticas deste que é considerado um dos patriarcas do cinema nacional.\n\nOs filmes serão exibidos nas sextas-feiras de setembro, a partir das 19h, com a seguinte programação:\n\n04/09 – Sangue Mineiro\n\n11/09 – Argila\n\n18/09 – O canto da Saudade\n\n25/09 – Sessão Brasilianas e Carro de Bois\n\nApós cada exibição, a professora Lara Rodrigues Pereira, do Centro de Ciências da Educação da UFSC, conduzirá uma conversa com os presentes, para aprofundamento das questões alavancadas pelos filmes.\n\nO projeto envolve, além da docente, estudantes do curso de cinema da UFSC. Os objetivos são compartilhar conhecimentos sobre Humberto Mauro, um dos cineastas mais produtivos da primeira metade do século XX, no Brasil. Isso se dará por meio da observação atenta e guiada das obras selecionadas. Os participantes também terão a oportunidade de observar, de maneira contemplativa, filmes com ritmos narrativos muito distintos daqueles experimentados no presente, ampliando o referencial estético da audiência.",
-      "tags": [
-        "cinema",
-        "ced",
-        "centro de ciências da educação (ced)",
-        "ciclo de cinema humberto mauro"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296089",
-      "name": "Cine Paredão: ‘Ressurreição’",
-      "start_date": "2026-09-04T22:00:00.000Z",
-      "end_date": "2026-09-05T00:45:00.000Z",
-      "location": "Bosque ou Auditório do Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/1000166197-768x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-paredao-ressurreicao/",
-      "description": "O projeto de extensão Cine Paredão, do curso de Cinema da Universidade Federal de Santa Catarina (UFSC), apresenta nesta sexta-feira, 4 de setembro, a exibição do filme Ressurreição (Resurrection), dirigido pelo cineasta chinês Bi Gan. A sessão começa 19h e tem entrada gratuita. Com 2h39min de duração, o longa-metragem de 2025 combina ficção científica e drama para construir uma narrativa ambientada em um mundo no qual a humanidade perdeu a capacidade de sonhar. Nesse cenário, uma criatura permanece ligada às ilusões do universo onírico, agarrando-se a visões que ninguém mais consegue enxergar.\n\nA história se transforma quando uma mulher, dotada da rara capacidade de perceber essas imagens, decide atravessar os sonhos da criatura em busca da verdade escondida em suas visões. O elenco reúne nomes como Jackson Yee, Shu Qi, Mark Chao, Gengxi Li, Jue Huang, Yongzhong Chen, Zhijian Zhang e Chloe Maayan. O roteiro é assinado por Bi Gan e Zhai Xiaohui. A exibição será realizada no Bosque ou Auditório do Centro de Filosofia e Ciências Humanas (CFH) da UFSC. O local definitivo depende das condições para a realização da sessão e será divulgado pelo Cine Paredão. O filme tem classificação indicada para maiores de 14 anos.\n\nMais informações estão disponíveis no perfil do Cine Paredão\n\nTrailer: Filme Ressurreição",
-      "tags": [
-        "filme",
-        "auditório do cfh",
-        "bosque do cfh",
-        "cine paredão",
-        "curso de cinema",
-        "exibição filme"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:296172",
       "name": "Documentário “Caminhos do Desejo”",
