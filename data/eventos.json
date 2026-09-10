@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-07T14:59:05.298Z",
+  "geradoEm": "2026-09-10T13:29:53.811Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1327,
-      "selecionados": 17,
+      "totalNoFeed": 1340,
+      "selecionados": 28,
       "ignorados": {
-        "ja-passou": 1309,
+        "ja-passou": 1311,
         "muito-longe": 1
       },
       "erros": []
@@ -22,54 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:296172",
-      "name": "Documentário “Caminhos do Desejo”",
-      "start_date": "2026-09-07T18:00:00.000Z",
-      "end_date": "2026-09-07T19:30:00.000Z",
-      "location": "Teatro Álvaro de Carvalho",
-      "campus": "florianopolis",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/documentario-caminhos-do-desejo/",
-      "description": "Exibição do documentário “Caminhos do Desejo” de Andrey Santiago, egresso do curso de Cinema da UFSC, no 30º FAM – Florianópolis Audiovisual Mercosul, o maior festival de cinema do Sul do Brasil. A produção trata sobre a história do primeiro filme de Santa Catarina, O Preço da Ilusão, lançado em 1957 e que se perdeu. O evento contará com a exibição do documentário, que surgiu de um Trabalho de Conclusão de Curso em Cinema, e debate com a Cinemateca Catarinense em comemoração aos seus 40 anos de existência.\n\nO evento conta com apoio do Curso de Cinema da UFSC. A entrada é gratuita, mas é necessário realizar inscrição por meio do link https://www.famdetodos.com.br/\n\nMais informações: https://www.instagram.com/famdetodos",
-      "tags": [
-        "cinema",
-        "documentário",
-        "festival",
-        "filme",
-        "caminhos do desejo",
-        "cce",
-        "curso de cinema",
-        "fam",
-        "o preço da ilusão"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296236",
-      "name": "Palestra do Departamento de Saúde Pública sobre mensuração de construtos",
-      "start_date": "2026-09-08T17:00:00.000Z",
-      "end_date": "2026-09-08T20:00:00.000Z",
-      "location": "Auditório Professor Lúcio Botelho, no Bloco B do Centro de Ciências da Saúde (CCS)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2024/10/brasão-UFSC-mosaico-1024x618.png",
-      "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSfO12Khc7g_S5pw7YGDj76GOrecGccs4w8GZOSrcp5RWNV9-A/viewform",
-      "info_url": "https://noticias.ufsc.br/event/palestra-do-departamento-de-saude-publica-sobre-mensuracao-de-construtos/",
-      "description": "O Departamento de Saúde Pública da Universidade Federal de Santa Catarina (UFSC), em parceria com o Programa de Pós-Graduação em Saúde Coletiva da UFSC (PPGSC/UFSC) e o EpiFloripa Idoso, promove a palestra Modelo processual de etapas para mensuração de construtos em níveis aceitáveis de validade, confiabilidade e comparabilidade, no Auditório Professor Lúcio Botelho, no Bloco B do Centro de Ciências da Saúde (CCS). O evento é dividido em duas partes, a primeira será na terça-feira, 8 de setembro, às 14h, e a segunda parte ocorre na quarta-feira, 9 de setembro, às 9h.\n\nO palestrante será o professor Michael Reichenheim, do Instituto de Medicina Social da Universidade do Estado do Rio de Janeiro (IMS/UERJ). A atividade é voltada a pesquisadores, docentes e estudantes de pós-graduação que atuam na construção, adaptação ou validação de escalas e questionários na área da saúde. A carga horária programada da atividade é de seis horas, com emissão de certificado.\n\nMais informações no formulário de inscrições.\n\nTickets: https://docs.google.com/forms/d/e/1FAIpQLSfO12Khc7g_S5pw7YGDj76GOrecGccs4w8GZOSrcp5RWNV9-A/viewform.",
-      "tags": [
-        "palestra",
-        "ccs",
-        "departamento de saúde pública",
-        "epifloripa idoso",
-        "programa de pós graduação em saúde coletiva"
-      ],
-      "category": "palestra",
-      "is_free": null,
-      "is_all_day": false
-    },
     {
       "source_id": "ara:24355",
       "name": "Araranguá de Portas Abertas – Feira de Cursos",
@@ -179,6 +131,48 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296385",
+      "name": "Roda de Conversa ‘Saberes e sabores ancestrais: identidade e pertencimento cultural na alimentação Guarani’",
+      "start_date": "2026-09-10T17:00:00.000Z",
+      "end_date": "2026-09-10T18:30:00.000Z",
+      "location": "Sala 111 do Bloco D do Centro de Educação (CED)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Cartaz-roda-de-conversa-2-683x1024.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-saberes-e-sabores-ancestrais-identidade-e-pertencimento-cultural-na-alimentacao-guarani/",
+      "description": "A Prosa UFSC – Núcleo de Estudos e Pesquisas em Educação e Tecnologia Ético-Crítica da UFSC promove, nesta quinta-feira, 10 de setembro, das 14h às 15h30, a roda de conversa Saberes e sabores ancestrais: identidade e pertencimento cultural na alimentação Guarani, na Sala 111 do Bloco D do Centro de Educação (CED).\n\nO evento é fruto do projeto de pesquisa desenvolvido junto à comunidade da Aldeia Pira Rupá, no Território Indígena Maciambu, em Palhoça (SC). Ao trazer os resultados da pesquisa para dentro da universidade, a atividade propõe não apenas apresentar os conhecimentos produzidos, mas criar um espaço de encontro e diálogo entre diferentes experiências e perspectivas.\n\nO encontro pretende evidenciar os conhecimentos, significados e relações que atravessam os alimentos no cotidiano Guarani. Entre os temas abordados, estão os modos de fazer, os saberes transmitidos entre gerações, os mitos e ritos e os aspectos sagrados, festivos e de comunhão relacionados à alimentação ancestral. Realizada por meio de trabalho de campo e da metodologia da história oral, a pesquisa buscou mapear e documentar saberes e fazeres relacionados à culinária ancestral Guarani, identificando seus detentores na comunidade, as formas pelas quais esses conhecimentos são transmitidos e transformados ao longo das gerações e os significados culturais atribuídos à alimentação no território.\n\nA roda de conversa também pretende contribuir para o reconhecimento da importância dos saberes ancestrais para a identidade, a memória e o pertencimento cultural Guarani, além de promover uma reflexão sobre os processos históricos de invisibilização dos povos indígenas em Santa Catarina. Ao colocar esses conhecimentos em diálogo dentro da universidade, a atividade reafirma a importância da escuta e da valorização das narrativas produzidas pelos próprios povos indígenas.\n\nPara mais informações acesse o Instagram do Prosa UFSC ou o site.",
+      "tags": [
+        "encontro",
+        "roda de conversa",
+        "centro de ciências da educação (ced)",
+        "comunidade indígena",
+        "prosa ufsc"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296311",
+      "name": "Lançamento de documentário sobre greve docente de 2024",
+      "start_date": "2026-09-10T20:30:00.000Z",
+      "end_date": "2026-09-10T22:30:00.000Z",
+      "location": "Anfiteatro do EFI",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Card-Lançamento-Doc-5-1024x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/lancamento-de-documentario-sobre-greve-docente-de-2024/",
+      "description": "O Coletivo Mobilização Docente da Universidade Federal de Santa Catarina (UFSC) lança o documentário O capítulo que não foi contado: memória, resistência e desagravo à Greve Docente da UFSC de 2024 nesta quinta-feira, 10 de setembro, às 17h30, no anfiteatro do EFI.\n\nSegundo o grupo de professores, a produção surge como resposta direta à invisibilização do movimento grevista no documentário oficial dos 51 anos da APUFSC – Meio Século de Lutas – e propõe narrar, sob a ótica de quem viveu a paralisação, os embates, desafios e conquistas da categoria.\n\nCom duração de 36 minutos, a obra reúne depoimentos de 11 docentes da UFSC, entre eles Samuel Pantoja Lima (Jornalismo), Tatiana Minchoni (Psicologia), Paulo Pinheiro Machado (História) e Astrid Ávila (Educação), além de outros nomes de diferentes unidades acadêmicas. “As falas reconstituem o clima de mobilização e denunciam a inércia da direção sindical à época, ao mesmo tempo em que exaltam a capacidade de organização autônoma dos professores”, informa o coletivo responsável pela idealização do projeto.\n\nA ficha técnica traz a assinatura da Quorum Comunicação na produção, com coordenação, roteiro e edição de Gastão Cassel, direção de fotografia e edição de Soninha Vill, e assistência de Emily N. F. Sá.\n\nApós a estreia, o documentário será disponibilizado no canal do coletivo no Youtube.\n\nEvento de Lançamento\n\nData: 10 de setembro de 2026\n\nHorário: 17h30\n\nLocal: Anfiteatro do EFI\n\nEntrada gratuita e aberta a toda comunidade acadêmica.\n\nMais informações no Instagram @mobilizacaodocenteufsc e no Youtube.",
+      "tags": [
+        "cinema",
+        "documentário",
+        "coletivo mobilização docente"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:296192",
       "name": "Recital de Violão com Eduardo Nascimento na Igrejinha da UFSC",
       "start_date": "2026-09-10T22:00:00.000Z",
@@ -197,6 +191,89 @@
         "recital de violão"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296295",
+      "name": "Roda de Choro UFSC na Igrejinha nesta sexta-feira",
+      "start_date": "2026-09-11T21:00:00.000Z",
+      "end_date": "2026-09-11T22:00:00.000Z",
+      "location": "Igrejinha da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Roda-de-Choro-UFSC-2026___-819x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/roda-de-choro-ufsc-na-igrejinha-nesta-sexta-feira/",
+      "description": "Nesta sexta-feira, 11 de setembro, às 18h, a Igrejinha da Universidade Federal de Santa Catarina (UFSC), recebe mais uma edição da Roda de Choro UFSC. O evento é livre e gratuito, com participação aberta. Para participar, basta trazer um instrumento musical.\n\nA iniciativa reúne músicos de diferentes idades, aproximando discentes, docentes e a comunidade externa em um evento gratuito e marcado pela partilha de experiências artísticas. A Roda de Choro fortalece os laços entre as comunidades interna e externa da Universidade Federal de Santa Catarina (UFSC) e entre diferentes gerações.\n\nO evento é uma realização do estudante de Engenharia Elétrica da UFSC Nuran Pereira de Faria Campos e do Instituto Choro Campeche, com apoio do Departamento Artístico Cultural (DAC), vinculado à Secretaria de Cultura e Arte da UFSC (SeCArte).",
+      "tags": [
+        "musical",
+        "igrejinha ufsc",
+        "roda de choro ufsc"
+      ],
+      "category": "outro",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296325",
+      "name": "Cine Paredão: Father Mother Sister Brother",
+      "start_date": "2026-09-11T22:00:00.000Z",
+      "end_date": "2026-09-12T00:00:00.000Z",
+      "location": "Bosque ou no Auditório do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/POST-FATHER-MOTHER-SISTER-BROTHER-768x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-paredao-father-mother-sister-brother/",
+      "description": "O Cine Paredão apresenta, nesta sexta-feira, 11 de setembro, a partir das 19h, o filme Father Mother Sister Brother, dirigido e roteirizado pelo cineasta norte-americano Jim Jarmusch. A sessão será realizada no Bosque ou no Auditório do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC), em Florianópolis. O evento é gratuito.\n\nCom 1h50min de duração e classificação indicativa de 14 anos, o longa-metragem transita entre a comédia e o drama e reúne um elenco que inclui Tom Waits, Adam Driver, Mayim Bialik, Charlotte Rampling, Cate Blanchett, Vicky Krieps, Sarah Greene, Indya Moore, Luka Sabbat e Françoise Lebrun. Father Mother Sister Brother é estruturado em três histórias independentes, mas conectadas por um tema comum: as relações entre filhos adultos e pais emocionalmente distantes.\n\nDepois de anos sem se encontrarem, os personagens voltam a conviver e são obrigados a lidar com tensões e conflitos que permaneceram sem resolução. Os reencontros também provocam uma reavaliação de vínculos familiares marcados por distanciamento e relações complexas. Cada uma das três partes do filme se passa em um país diferente. Pai é ambientado no nordeste dos Estados Unidos; Mãe, em Dublin, na Irlanda; e Irmã Irmão, em Paris, na França. A sessão integra a programação do Cine Paredão, projeto dedicado à exibição e à discussão de produções cinematográficas. A atividade é aberta ao público e não há cobrança de ingresso.\n\nTrailer: Assista ao trailer no YouTube\n\nMais informações: Instagram do Cine Paredão",
+      "tags": [
+        "filme",
+        "auditório do cfh",
+        "bosque do cfh",
+        "cine paredão",
+        "exibição filme"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296275",
+      "name": "CineClube África no Cinema: filme Tabataba",
+      "start_date": "2026-09-11T23:00:00.000Z",
+      "end_date": "2026-09-12T00:15:00.000Z",
+      "location": "Sala Multimídia do Museu da Imagem e do Som de Santa Catarina (MIS/SC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Post-Africa-no-cinema-Set26-_2_-819x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cineclube-africa-no-cinema-filme-tabataba/",
+      "description": "Uma sessão gratuita de Tabataba, de Raymond Rajaonarivelo, será realizada no dia 11 de setembro, às 20h, na Sala Multimídia do Museu da Imagem e do Som de Santa Catarina (MIS/SC), no Centro Integrado de Cultura (CIC).A entrada é gratuita e não é necessário realizar inscrição.\n\nAmbientado em Madagascar, em 1947, Tabataba acompanha os moradores da aldeia de Tanala durante a grande revolta contra a colonização francesa. A história da insurreição e de sua repressão é apresentada a partir do olhar de Solo, um jovem garoto, cuja infância e cotidiano são profundamente transformados pelos acontecimentos.\n\nCom 1h16min de duração, o longa-metragem é uma obra de ficção que aborda um importante episódio da história de Madagascar a partir da experiência de seus personagens e de sua comunidade. Após a exibição, a equipe responsável pelo projeto promove uma roda de conversa sobre o filme e temas relacionados à obra, proporcionando ao público um espaço para reflexão e debate.\n\nOs participantes podem obter certificado de participação nas atividades de extensão do projeto África no Cinema. Para isso, é necessário assinar a lista de participação durante as sessões realizadas ao longo do semestre. O cineclube tem curadoria do pesquisador Alex Brandão, do LEHAf/UFSC, laboratório coordenado pelo professor Sílvio Marcus de Souza Correa.\n\nA iniciativa conta com apoio institucional da Aliança Francesa de Florianópolis, da Fundação Catarinense de Cultura (FCC), por meio do Museu da Imagem e do Som de Santa Catarina (MIS/SC), e da SECARTE, com o apoio da bolsista Nadia Marcia Dalla Brida.\n\nMais informações: @olhoatentocinema, @aliançafrancesafloripa e @africanocinema",
+      "tags": [
+        "centro integrado de cultura (cic)",
+        "cineclube áfrica no cinema",
+        "exibição de filme"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296341",
+      "name": "Seminário de Pesquisas em Tradução e Interpretação de/entre/para Línguas de Sinais e Vocais",
+      "start_date": "2026-09-14T21:00:00.000Z",
+      "end_date": "2026-09-14T23:00:00.000Z",
+      "location": "UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2022/06/Destaque-UFSC-Internet@1.5x-1024x618.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/seminario-de-pesquisas-em-traducao-e-interpretacao-deentrepara-linguas-de-sinais-e-vocais/",
+      "description": "O Núcleo de Pesquisas em Interpretação e Tradução de Línguas de Sinais e Vocais (InterTrads) e o Programa de Pós-Graduação em Estudos da Tradução da Universidade Federal de Santa Catarina (PGET/UFSC), em parceria com o curso de Letras Libras da UFSC e a Academia Trados, realizam, de 14 a 17 de setembro, o V Seminário de Pesquisas em Tradução e Interpretação de/entre/para Línguas de Sinais e Vocais. O evento será realizado on-line, das 18h às 21h30, com transmissões pelos canais da PGET/UFSC e do InterTrads no YouTube.\n\nA participação no evento é gratuita e voltada a estudantes de graduação e pós-graduação, docentes, pesquisadores, tradutores e intérpretes de línguas de sinais, guias-intérpretes, profissionais de áreas afins e demais interessados em tradução, interpretação, acessibilidade e línguas de sinais.\n\nA programação reúne uma palestra de abertura, seis mesas temáticas e o lançamento de livros. Ao longo dos quatro dias, graduados, mestres e doutores vinculados ao InterTrads apresentaram resultados de trabalhos de conclusão de curso, dissertações e teses desenvolvidos sob orientação de pesquisadores do Núcleo. Entre os temas que serão discutidos estão formação e competências profissionais; mapeamentos da produção acadêmica; identidade, preparação, práticas e gestão profissional; circulação e acesso à literatura em línguas de sinais; tradução comentada; processos tradutórios; e tradução e interpretação em contextos jurídicos e legislativos.\n\nNesta edição, o seminário contará com interpretação para português brasileiro, Libras, Língua de Sinais Internacional (IntSL) e Espanhol. A ampliação do acesso em diferentes línguas é impulsionada pela Rede de Formação de Tradutores e Intérpretes de Línguas de Sinais da América Latina e do Caribe (ReForTILS-LAC), desenvolvida pelo InterTrads e pela PGET em parceria com a WASLI – Região Latino-América e Caribe e a Academia Trados. As atividades terão transmissões em Libras e português, além de espanhol e Língua de Sinais Internacional (IntSL), e contarão também com recursos destinados à participação de pessoas surdocegas. Não haverá inscrição antecipada. Os formulários para inscrição, registro de presença e certificação serão disponibilizados durante cada transmissão no YouTube.\n\nA participação é gratuita e haverá certificação conforme as atividades acompanhadas e os respectivos registros de presença realizados durante as transmissões.\n\nProgramação\n\n14 de setembro\n\n18h – Palestra de abertura: ‘Modelo Componencial de Competências de Intérpretes de Línguas de Sinais’, com José Ednilson Gomes de Souza Júnior.\n\n20h20 – Mesa 1: Mapeamentos e panoramas da produção acadêmica.\n\n15 de setembro\n\n18h – Mesa 2: Identidade, preparação, práticas e gestão profissional.\n\n20h20 – Mesa 3: Pesquisas, circulação e acesso à literatura em línguas de sinais.\n\n16 de setembro\n\n18h – Mesa 4: Tradução comentada.\n\n20h20 – Mesa 5: Processos tradutórios.\n\n17 de setembro\n\n18h – Mesa 6: Tradução e interpretação em contextos jurídicos e legislativos.\n\n20h20 – Lançamento de livros.\n\nMais informações sobre o evento, a programação e os procedimentos de participação estão disponíveis no site do InterTrads e da Pós-Graduação em Estudos da Tradução",
+      "tags": [
+        "seminário",
+        "letras libras ufsc",
+        "núcleo intertrads",
+        "programa de pós-graduação em estudos da tradução (pget)"
+      ],
+      "category": "palestra",
       "is_free": true,
       "is_all_day": false
     },
@@ -226,6 +303,27 @@
       "is_all_day": true
     },
     {
+      "source_id": "agecom:296314",
+      "name": "Seminário de Eletrônica de Potência e Processamento de Energia Elétrica em Blumenau",
+      "start_date": "2026-09-15T03:00:00.000Z",
+      "end_date": "2026-09-16T02:59:59.000Z",
+      "location": "Sala B112 - Campus de Blumenau",
+      "campus": "blumenau",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/1__-SEPPEL-_Semin__rio-de-Eletr__nica-de-Pot__ncia-e-Processamento-de-Energia-El__trica_-724x1024.png",
+      "ticket_url": "https://inscricoes.ufsc.br/seppel",
+      "info_url": "https://noticias.ufsc.br/event/seminario-de-eletronica-de-potencia-e-processamento-de-energia-eletrica-em-blumenau/",
+      "description": "De 15 a 17 de setembro, a UFSC Blumenau realiza o 1º Seminário de Eletrônica de Potência e Processamento de Energia Elétrica (Seppel). O evento é voltado a estudantes do curso de Engenharia de Controle e Automação e contará com palestras e uma mesa-redonda sobre o tema Eletrônica de Potência.\n\nO 1º Seppel é promovido pelo Grupo de Eletrônica de Potência e Processamento de Energia Elétrica (Geppel). As vagas são limitadas e a inscrição prévia pode ser feita neste link.\n\nConfira abaixo a programação completa:\n\n15/09/26 – 18h\n\nTítulo: O que é Eletrônica de Potência? Definições e aplicações\n\nPalestrante: Prof. Adriano Peres\n\nLocal: Sala B112 – Campus Blumenau\n\n15/09/26 – 19h\n\nTítulo: Tecnologia Hardware in the Loop e aplicações em eletrônica de potência\n\nPalestrante: Prof. Tiago Davi Curi Busarello\n\nLocal: Sala B112 – Campus Blumenau\n\n16/09/26 – 18h\n\nTítulo: Dominando a Energia: O papel dos sistemas de controle em Eletrônica de Potência\n\nPalestrante: Prof. Luiz Antonio Maccari Jr.\n\nLocal: Sala B112 – Campus Blumenau\n\n16/09/26 – 19h\n\nTítulo: Do Experimento ao Modelo: Identificação de Sistemas em Conversores de Eletrônica de Potência\n\nPalestrante: Prof. Marcos Vinicius Matsuo\n\nLocal: Sala B112 – Campus Blumenau\n\n17/09/26 – 18h\n\nMesa Redonda – Tópicos Recentes em Eletrônica de Potência\n\nLocal: Sala B112 – Campus Blumenau\n\nDaiana Martini/Divisão de Comunicação UFSC Blumenau\n\nTickets: https://inscricoes.ufsc.br/seppel.",
+      "tags": [
+        "seminário",
+        "departamento de energia elétrica e eletrônica",
+        "seppel",
+        "ufsc blumenau"
+      ],
+      "category": "palestra",
+      "is_free": null,
+      "is_all_day": true
+    },
+    {
       "source_id": "ara:25068",
       "name": "SEATIC",
       "start_date": "2026-09-15T03:00:00.000Z",
@@ -242,6 +340,22 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:296410",
+      "name": "Evento: ‘i.a. crítica?’",
+      "start_date": "2026-09-15T12:00:00.000Z",
+      "end_date": "2026-09-15T20:00:00.000Z",
+      "location": "Auditório Henrique Fontes, no Centro de Comunicação e Expressão da UFSC, em Florianópolis",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.paginas.ufsc.br/files/2026/09/poster_evento_iacritica_p-212x300.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/evento-i-a-critica/",
+      "description": "Os Programas de Pós-Graduação em Literatura e em Estudos da Tradução da Universidade Federal de Santa Catarina (UFSC) promovem, no dia 15 de setembro, o evento i.a. crítica ?, que tem o objetivo de discutir o impacto do uso de recursos de Inteligência Artificial na sociedade e na formação de estudantes, especialmente na área das Humanidades.\n\nOrganizada pelo professor Pedro Falleiros Heise, do Departamento de Línguas e Literaturas Vernáculas, a atividade reúne docentes da UFSC, da Universidade do Estado de Santa Catarina (Udesc), da Universidade de São Paulo (USP) e do Instituto Tecnológico de Aeronáutica (ITA/SP) que discutirão os impactos da I.A. na filosofia, antropologia, saúde, educação e tradução.\n\nA programação será realizada das 9h às 17h, no Auditório Henrique Fontes, no Centro de Comunicação e Expressão da UFSC, em Florianópolis. Não é necessária inscrição prévia, mas haverá certificado para pessoas que cumprirem a carga horária do evento.\n\nConfira a programação:\n\nMesa-redonda – filosofia, antropologia e saúde\n\n9h: Recursividade humano-máquina: o ponto de vista antropológico – Letícia Cesarino (UFSC)\n\n10h: Modo online e esvaziamento do corpo: produção de sofrimento no contexto do suicídio de jovens Guarani Mbyá da Grande Florianópolis – Marina Risi (Udesc)\n\n11h: Estética, Ética, Lógica e I.A.: Proposta de debate – Cassiano Terra Rodrigues (ITA-SP)\n\nMesa-redonda: educação e tradução\n\n14h: Quando Pinóquio virou Oráculo – Caio Gagliardi (USP)\n\n15h: i.a. contra as Humanidades – André Cechinel (UFSC)\n\n16h: Como nascem os deuses? – Pedro Falleiros Heise (UFSC)\n\nOutras informações na página do evento.",
+      "tags": [],
+      "category": "outro",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "agecom:296112",
@@ -265,6 +379,52 @@
       ],
       "category": "palestra",
       "is_free": null,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296318",
+      "name": "Cineclube Cinecittà: Magari",
+      "start_date": "2026-09-15T22:00:00.000Z",
+      "end_date": "2026-09-16T00:00:00.000Z",
+      "location": "Sala de Projeção do LEC (CCE • BLOCO D).",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Cinecittá-Magari.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cineclube-cinecitta-magari/",
+      "description": "O Cineclube Cinecittà promove a exibição do filme Magari (2019), da diretora italiana Ginevra Elkann, em sessão gratuita aberta à comunidade universitária e ao público externo. A atividade ocorre na próxima terça 15/9, às 19:00, na Sala de Projeção do LEC (CCE • BLOCO D).\n\nFilme de abertura da 72ª edição do Festival de Locarno, Magari acompanha Alma, uma menina de nove anos que vive em Paris com a mãe russo-ortodoxa e os dois irmãos, Jean e Sebastiano. Nas férias de Natal do início dos anos 1990, os três são enviados para passar uma temporada com Carlo, o pai italiano falido e desajeitado, que vive à beira-mar com sua companheira Benedetta. Entre a esperança infantil de reunir os pais e o contato com um universo adulto confuso e afetuoso ao mesmo tempo, o filme constrói, sob o olhar de Alma, um retrato de família fragmentada, marcado por gestos de desencontro e ternura.\n\nEstreando na direção, Ginevra Elkann, produtora de formação, que já atuou como assistente de Bernardo Bertolucci, traz para Magari uma experiência pessoal, também sendo filha de pais separados quando ainda era criança. O próprio título do filme dá pistas de seu tom: magari é uma palavra intraduzível do italiano, que expressa ao mesmo tempo desejo e resignação, um “quem sabe” carregado de esperança e melancolia, um sentimento que atravessa toda a narrativa e que, segundo a diretora, é onde mora a alegria do filme, na fantasia. Com roteiro escrito ao lado de Chiara Barzini e um elenco que reúne Riccardo Scamarcio e Alba Rohrwacher, a obra confirma o interesse do cinema italiano contemporâneo em revisitar a infância e a memória familiar como território narrativo.\n\nO Cineclube Cinecittà é um projeto dedicado à difusão do cinema italiano, à pesquisa do cinema de autoras contemporâneas e à promoção de debates sobre cinema, arte e cultura. Após a sessão, haverá conversa aberta com os participantes.",
+      "tags": [
+        "cinema",
+        "filme",
+        "cce",
+        "cineclube cinecittà",
+        "filme italiano",
+        "magari"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296369",
+      "name": "Cine Meridianum – Menocchio",
+      "start_date": "2026-09-17T17:00:00.000Z",
+      "end_date": "2026-09-17T19:00:00.000Z",
+      "location": "Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/menocchi-768x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-meridianum-menocchio/",
+      "description": "O Cine Meridianum, promovido pelo Núcleo Interdisciplinar de Estudos Medievais (Meridianum) da Universidade Federal de Santa Catarina (UFSC), exibe o filme Menocchio, 2018, de Alberto Fasulo, no dia 17 de setembro, às 14 horas, no Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH). A entrada é gratuita e aberta ao público, com direito a certificado. Ao final da exibição haverá roda de debates.\n\nSinopse\n\nItália, final do século XVI. A Igreja, ameaçada pelos protestantes, instaura a Inquisição. Menocchio, um velho moleiro teimoso e autodidata, opõe-se à nova ordem. Acusado de heresia, ignora as acusações e enfrenta o julgamento. A história de um homem incapaz de trair seus próprios princípios. O filme é baseado na obra O Queijo e os Vermes, do historiador Carlo Ginzburg.\n\nPara mais informações acesse o site e o Instagram do Meridianum.",
+      "tags": [
+        "cinema",
+        "debate",
+        "filme",
+        "centro de filosofia e ciência humanas (cfh)",
+        "cine meridianum",
+        "filme menocchi"
+      ],
+      "category": "palestra",
+      "is_free": true,
       "is_all_day": false
     },
     {
@@ -315,7 +475,7 @@
       "image_url": "https://noticias.ufsc.br/files/2026/09/Captura-de-Tela-2026-09-03-às-09.42.11.png",
       "ticket_url": null,
       "info_url": "https://noticias.ufsc.br/event/feira-redescobrindo-a-matematica-2/",
-      "description": "O PET Matemática da Universidade Federal de Santa Catarina (UFSC) realiza, no dia 21 de setembro, a 16ª edição da Feira Redescobrindo a Matemática (FERMAT). O evento será realizado no Colégio de Aplicação da UFSC, das 9h às 12h e das 13h30 às 18h, e é aberto à comunidade. Neste ano, o tema ‘Espaço’ estará presente nas atividades e propostas apresentadas ao longo do evento.\n\nA programação contará com estandes de jogos, desafios e trivias envolvendo Matemática, permitindo que os participantes explorem conceitos matemáticos de forma descontraída e participativa. Durante a feira, os visitantes poderão participar de diversos jogos, desafios, exposições, curiosidades e atividades interativas, desenvolvidos para estimular o raciocínio lógico e proporcionar momentos de aprendizagem e entretenimento. As atividades são voltadas a diferentes faixas etárias, podendo ser aproveitadas tanto por estudantes quanto pela comunidade em geral.\n\nTurmas de escolas de Santa Catarina, do Ensino Fundamental e Médio, poderão participar mediante visitas previamente agendadas por formulário. A iniciativa também é uma oportunidade para a comunidade acadêmica e para estudantes conhecerem diferentes possibilidades de interação com a Matemática fora do ambiente tradicional de sala de aula.\n\nA realização da XVI FERMAT conta com a parceria do Laboratório de Estudos de Matemática e Tecnologias (LEMAT-UFSC), do projeto Círculo Matemático, do programa de extensão UFSCience, do Núcleo de Atividades de Altas Habilidades/Superdotação (NAAHS) e do Observatório Astronômico do Grupo de Astrofísica (GAS) da UFSC.\n\nO PET Matemática desenvolve atividades de ensino, pesquisa e extensão e tem a feira como um dos seus projetos de extensão promovidos anualmente. O principal objetivo é apresentar a Matemática de maneira lúdica, criativa e interessante, aproximando o conhecimento matemático do público.",
+      "description": "O PET Matemática da Universidade Federal de Santa Catarina (UFSC) realiza, no dia 21 de setembro, a 16ª edição da Feira Redescobrindo a Matemática (FERMAT). O evento será realizado no Colégio de Aplicação da UFSC, das 9h às 12h e das 13h30 às 18h, e é aberto à comunidade. Neste ano, o tema ‘Espaço’ estará presente nas atividades e propostas apresentadas ao longo do evento.\n\nA programação contará com estandes de jogos, desafios e trivias envolvendo Matemática, permitindo que os participantes explorem conceitos matemáticos de forma descontraída e participativa. Durante a feira, os visitantes poderão participar de diversos jogos, desafios, exposições, curiosidades e atividades interativas, desenvolvidos para estimular o raciocínio lógico e proporcionar momentos de aprendizagem e entretenimento. As atividades são voltadas a diferentes faixas etárias, podendo ser aproveitadas tanto por estudantes quanto pela comunidade em geral.\n\nTurmas de escolas de Santa Catarina, do Ensino Fundamental e Médio, poderão participar mediante visitas previamente agendadas por formulário. A iniciativa também é uma oportunidade para a comunidade acadêmica e para estudantes conhecerem diferentes possibilidades de interação com a Matemática fora do ambiente tradicional de sala de aula.\n\nTambém estão abertas as inscrições para voluntários para trabalharem na feira. O papel dos voluntários consiste em auxiliar os visitantes nos estandes, recepcionar as escolas e excursões, e dar apoio à coordenação da FERMAT para eventuais necessidades. As horas trabalhadas terão certificado que poderão contar como horas complementares para os alunos da graduação. Os interessados devem preencher o formulário de inscrição.\n\nA realização da XVI FERMAT conta com a parceria do Laboratório de Estudos de Matemática e Tecnologias (LEMAT-UFSC), do projeto Círculo Matemático, do programa de extensão UFSCience, do Núcleo de Atividades de Altas Habilidades/Superdotação (NAAHS) e do Observatório Astronômico do Grupo de Astrofísica (GAS) da UFSC.\n\nO PET Matemática desenvolve atividades de ensino, pesquisa e extensão e tem a feira como um dos seus projetos de extensão promovidos anualmente. O principal objetivo é apresentar a Matemática de maneira lúdica, criativa e interessante, aproximando o conhecimento matemático do público.",
       "tags": [
         "feira",
         "colégio de aplicação",
@@ -465,6 +625,48 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296380",
+      "name": "Cine Meridianum – Gaua",
+      "start_date": "2026-10-30T17:00:00.000Z",
+      "end_date": "2026-10-30T19:00:00.000Z",
+      "location": "Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/gaua.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-meridianum-gaua/",
+      "description": "O Cine Meridianum, promovido pelo Núcleo Interdisciplinar de Estudos Medievais (Meridianum) da Universidade Federal de Santa Catarina (UFSC), exibe o filme Gaua, 2018, de Paul Urkijo, no dia 30 de outubro, às 14 horas no Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH). A entrada é gratuita e aberta ao público, com direito a certificado. Ao final da exibição haverá roda de debates.\n\nSinopse\n\nEspanha, País Basco, século XVII. À noite, atravessando as montanhas, Kattalin foge de sua casa de campo e, enquanto vagueia pela densa floresta, sente uma presença que a persegue.\n\nPara mais informações acesse o site e o Instagram do Meridianum.",
+      "tags": [
+        "cinema",
+        "debate",
+        "filme",
+        "centro de filosofia e ciência humanas (cfh)",
+        "cine meridianum",
+        "filme gaua"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296361",
+      "name": "Experimenta 2026: Mosaico das Artes",
+      "start_date": "2026-11-03T03:00:00.000Z",
+      "end_date": "2026-11-04T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Experimenta-2026-Mosaico-de-todas-as-artes-26-819x1024.png",
+      "ticket_url": "https://secarte.paginas.ufsc.br/files/2026/09/Edital_015_SECARTE_2026_11_Experimenta_Mosaico_das_Artes_Assinado.pdf",
+      "info_url": "https://noticias.ufsc.br/event/inscricoes-abertas-para-a-semana-de-arte-e-cultura-da-ufsc/",
+      "description": "A 11ª edição do Experimenta, evento promovido pela Secretaria de Cultura e Arte (Secarte) da Universidade Federal de Santa Catarina (UFSC), ocorrerá de 3 a 8 de novembro, nos 5 campus da Universidade, e terá como tema Mosaico das Artes.\n\nA ação tem como objetivo incentivar a produção acadêmica e envolver a comunidade em ações desenvolvidas na UFSC. Trata‑se de um espaço amplo e diverso, que oferece oportunidades de experimentação e imersão cultural.\n\n“Queremos que o Experimenta seja um momento em que a Arte esteja presente em cada canto. Será uma oportunidade para os cursos de arte e para a comunidade universitária mostrarem sua produção nas diversas linguagens artísticas”, destaca a professora Maria de Lourdes Alves Borges.\n\nAs inscrições são gratuitas e devem ser realizadas exclusivamente por meio de formulário eletrônico disponível no Edital. Podem participar servidores, docentes e técnicos administrativos em educação, alunos de graduação e pós-graduação da Universidade, além de trabalhadores terceirizados.\n\nA submissão das propostas deve contemplar uma das seguintes modalidades: artes visuais, audiovisual, música, dança, exposição, literatura, oficina, palestra, roda de conversa, teatro, entre outras.\n\nAs programações deverão ocorrer nas dependências do Campus Florianópolis, Araranguá, Curitibanos, Blumenau, Joinville e as Fortalezas da Ilha de Santa Catarina, conforme disponibilidade dos espaços.\n\nCronograma\n\nDivulgação do edital: 9/9/2026\n\nPeríodo para inscrição das propostas: 9/9/2026 a 25/9/2026\n\nDivulgação do resultado preliminar: 30/09/2026\n\nPeríodo para recurso: 1º/10/2026 a 2/10/2026\n\nDivulgação do resultado final: 6/10/2026\n\nEvento: 3/11/2026 a 8/11/2026\n\nTickets: https://secarte.paginas.ufsc.br/files/2026/09/Edital_015_SECARTE_2026_11_Experimenta_Mosaico_das_Artes_Assinado.pdf.",
+      "tags": [
+        "arte e esporte (secarte)",
+        "semana de arte e cultura"
+      ],
+      "category": "cultura",
+      "is_free": null,
+      "is_all_day": true
+    },
+    {
       "source_id": "ara:24637",
       "name": "14º Simpósio de Integração Científica e Tecnológica do Sul Catarinense (SICT-Sul)",
       "start_date": "2026-11-10T03:00:00.000Z",
@@ -481,6 +683,29 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:296383",
+      "name": "Cine Meridianum – O Nome da Rosa",
+      "start_date": "2026-11-26T17:00:00.000Z",
+      "end_date": "2026-11-26T19:00:00.000Z",
+      "location": "Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/o-nome-da-rosa-725x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-meridianum-o-nome-da-rosa/",
+      "description": "O Cine Meridianum, promovido pelo Núcleo Interdisciplinar de Estudos Medievais (Meridianum) da Universidade Federal de Santa Catarina (UFSC), exibe o filme O Nome do Rosa, 1986, de Jean-Jacques Annaud, no dia 26 de novembro, às 14 horas no Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH). A entrada é gratuita e aberta ao público, com direito a certificado. Ao final da exibição haverá roda de debates.\n\nSinopse\n\nNo século XIV, o monge franciscano Guilherme de Baskerville e seu jovem noviço chegam a uma conferência e descobrem que vários monges foram assassinados em circunstâncias misteriosas. Para solucionar os crimes, Guilherme precisa se rebelar contra a autoridade da Igreja e combater a conspiração obscura dos monges do mosteiro, usando apenas sua inteligência, que é considerável.\n\nPara mais informações acesse o site e o Instagram do Meridianum.",
+      "tags": [
+        "cinema",
+        "debate",
+        "filme",
+        "centro de filosofia e ciência humanas (cfh)",
+        "cine meridianum",
+        "filme o nome da rosa"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "agecom:291727",
