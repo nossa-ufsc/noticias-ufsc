@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-10T13:29:53.811Z",
+  "geradoEm": "2026-09-10T20:45:40.316Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1340,
-      "selecionados": 28,
+      "selecionados": 26,
       "ignorados": {
-        "ja-passou": 1311,
+        "ja-passou": 1313,
         "muito-longe": 1
       },
       "erros": []
@@ -64,50 +64,6 @@
       ],
       "category": "palestra",
       "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296237",
-      "name": "Palestra do Departamento de Saúde Pública sobre mensuração de construtos",
-      "start_date": "2026-09-09T12:00:00.000Z",
-      "end_date": "2026-09-09T15:00:00.000Z",
-      "location": "Auditório Professor Lúcio Botelho, no Bloco B do Centro de Ciências da Saúde (CCS)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2022/06/Destaque-UFSC-Destaque@1.5x-1024x618.png",
-      "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSfO12Khc7g_S5pw7YGDj76GOrecGccs4w8GZOSrcp5RWNV9-A/viewform",
-      "info_url": "https://noticias.ufsc.br/event/palestra-do-departamento-de-saude-publica-sobre-mensuracao-de-construtos-2/",
-      "description": "O Departamento de Saúde Pública da Universidade Federal de Santa Catarina (UFSC), em parceria com o Programa de Pós-Graduação em Saúde Coletiva da UFSC (PPGSC/UFSC) e o EpiFloripa Idoso, promove a palestra Modelo processual de etapas para mensuração de construtos em níveis aceitáveis de validade, confiabilidade e comparabilidade, no Auditório Professor Lúcio Botelho, no Bloco B do Centro de Ciências da Saúde (CCS). O evento é dividido em duas partes, a primeira será na terça-feira, 8 de setembro, às 14h, e a segunda parte ocorre na quarta-feira, 9 de setembro, às 9h.\n\nO palestrante será o professor Michael Reichenheim, do Instituto de Medicina Social da Universidade do Estado do Rio de Janeiro (IMS/UERJ). A atividade é voltada a pesquisadores, docentes e estudantes de pós-graduação que atuam na construção, adaptação ou validação de escalas e questionários na área da saúde. A carga horária programada da atividade é de seis horas, com emissão de certificado.\n\nMais informações no formulário de inscrições.\n\nTickets: https://docs.google.com/forms/d/e/1FAIpQLSfO12Khc7g_S5pw7YGDj76GOrecGccs4w8GZOSrcp5RWNV9-A/viewform.",
-      "tags": [
-        "palestra",
-        "ccs",
-        "departamento de saúde pública",
-        "epifloripa idoso",
-        "programa de pós graduação em saúde coletiva"
-      ],
-      "category": "palestra",
-      "is_free": null,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296243",
-      "name": "Palestra sobre Escala de Discriminação Explícita na saúde",
-      "start_date": "2026-09-09T17:00:00.000Z",
-      "end_date": "2026-09-09T20:00:00.000Z",
-      "location": "Auditório Professor Lúcio Botelho — Graduação (B007), no Bloco B do Centro de Ciências da Saúde (CCS)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2020/05/destaque_mosaico_azul_institucional_brasao.jpg",
-      "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSdv9I5wRMVLESkKFJnVniiFskL9HkdaC12dy2DxYFFrpVdMkw/viewform",
-      "info_url": "https://noticias.ufsc.br/event/palestra-sobre-escala-de-discriminacao-explicita-na-saude/",
-      "description": "O Departamento de Saúde Pública da Universidade Federal de Santa Catarina (UFSC), o Programa de Pós-Graduação em Saúde Coletiva (PPGSC/UFSC) e o projeto EpiFloripa Idoso promovem a palestra Apresentação das etapas de desenvolvimento da Escala de Discriminação Explícita. A atividade ocorre na quarta-feira, 9 de setembro, das 14h às 17h, no auditório Professor Lúcio Botelho — Graduação (B007), no Bloco B do Centro de Ciências da Saúde (CCS), no campus Trindade.\n\nMinistrada pelo professor do Departamento de Saúde Pública João Luiz Bastos, a palestra é voltada a pesquisadores, docentes e estudantes de pós-graduação que trabalham com construção, adaptação ou validação de escalas e questionários na área da saúde. Para participar, é necessário preencher o formulário de inscrições.\n\nTickets: https://docs.google.com/forms/d/e/1FAIpQLSdv9I5wRMVLESkKFJnVniiFskL9HkdaC12dy2DxYFFrpVdMkw/viewform.",
-      "tags": [
-        "palestra",
-        "ccs",
-        "departamento de saúde pública",
-        "epifloripa idoso",
-        "programa de pós graduação em saúde coletiva"
-      ],
-      "category": "palestra",
-      "is_free": null,
       "is_all_day": false
     },
     {
@@ -195,26 +151,6 @@
       "is_all_day": false
     },
     {
-      "source_id": "agecom:296295",
-      "name": "Roda de Choro UFSC na Igrejinha nesta sexta-feira",
-      "start_date": "2026-09-11T21:00:00.000Z",
-      "end_date": "2026-09-11T22:00:00.000Z",
-      "location": "Igrejinha da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Roda-de-Choro-UFSC-2026___-819x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/roda-de-choro-ufsc-na-igrejinha-nesta-sexta-feira/",
-      "description": "Nesta sexta-feira, 11 de setembro, às 18h, a Igrejinha da Universidade Federal de Santa Catarina (UFSC), recebe mais uma edição da Roda de Choro UFSC. O evento é livre e gratuito, com participação aberta. Para participar, basta trazer um instrumento musical.\n\nA iniciativa reúne músicos de diferentes idades, aproximando discentes, docentes e a comunidade externa em um evento gratuito e marcado pela partilha de experiências artísticas. A Roda de Choro fortalece os laços entre as comunidades interna e externa da Universidade Federal de Santa Catarina (UFSC) e entre diferentes gerações.\n\nO evento é uma realização do estudante de Engenharia Elétrica da UFSC Nuran Pereira de Faria Campos e do Instituto Choro Campeche, com apoio do Departamento Artístico Cultural (DAC), vinculado à Secretaria de Cultura e Arte da UFSC (SeCArte).",
-      "tags": [
-        "musical",
-        "igrejinha ufsc",
-        "roda de choro ufsc"
-      ],
-      "category": "outro",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
       "source_id": "agecom:296325",
       "name": "Cine Paredão: Father Mother Sister Brother",
       "start_date": "2026-09-11T22:00:00.000Z",
@@ -253,6 +189,29 @@
         "exibição de filme"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296443",
+      "name": "Regenera CCB: plantio de espécies nativas na UFSC",
+      "start_date": "2026-09-12T17:30:00.000Z",
+      "end_date": "2026-09-12T20:00:00.000Z",
+      "location": "Centro de Ciências Biológicas",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Mutirão-de-Plantio-819x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/regenera-ccb-plantio-de-especies-nativas-na-ufsc/",
+      "description": "O Grupo de Estudos em Educação Ambiental e Agroecologia (GEAbio) do curso de Biologia da Universidade Federal de Santa Catarina (UFSC) realizará o Mutirão de plantio: Regenera CCB, no sábado, 12 de setembro, às 14h30, no Centro de Ciências Biológicas (CCB).\n\nA atividade teve início em 2025 e tem como objetivo principal a restauração ecológica da lateral do CCB, próximo à margem do Rio Sertão. O projeto indica o uso apropriado de roupas para o manejo, como: calça e sapato fechado, além de boné, repelente e protetor solar.\n\nOs integrantes irão remover espécies exóticas invasoras, plantar mudas de espécies nativas e entender melhor o histórico e o contexto socioambiental dessa área.\n\nPara mais informações, acesse o Instagram do Projeto.",
+      "tags": [
+        "mutirão",
+        "centro de ciências biológicas (ccb)",
+        "espécies nativas",
+        "geabio",
+        "reflorestamento",
+        "rio sertão"
+      ],
+      "category": "outro",
       "is_free": true,
       "is_all_day": false
     },
@@ -359,20 +318,20 @@
     },
     {
       "source_id": "agecom:296112",
-      "name": "IA no contexto universitário",
+      "name": "Conferência: ‘A IA no contexto universitário’",
       "start_date": "2026-09-15T21:00:00.000Z",
-      "end_date": "2026-09-15T23:00:00.000Z",
+      "end_date": "2026-09-16T00:00:00.000Z",
       "location": "Auditório da Reitoria - Campus Trindade",
       "campus": "florianopolis",
       "image_url": "https://noticias.ufsc.br/files/2026/09/recepcao-calouros-2026-02_cartaz_conferencia-atualizada-212x300-212x300.png",
       "ticket_url": "https://inscricoes.ufsc.br/activities/13531",
       "info_url": "https://noticias.ufsc.br/event/ia-no-contexto-universitario/",
-      "description": "A Pró-Reitoria de Graduação e Educação Básica (Prograd) da Universidade Federal de Santa Catarina (UFSC) promove, no dia 15 de setembro, terça-feira, a conferência A IA no contexto universitário. O evento ocorre às 18h no Auditório da Reitoria, Campus Trindade, e integra um ciclo de debates sobre Inteligência Artificial na UFSC, com debates e reflexões sobre as novas tecnologias e seus impactos e possibilidades nos processos de ensino e aprendizagem.\n\nNo dia da conferência de abertura, haverá uma homenagem aos 40 anos de IA na UFSC e apresentações artísticas. Os palestrantes serão Jônata Tyska e Aldo Von Wangenheim, ambos do Departamento de Informática e Estatística (INE/UFSC).\n\nInscreva-se aqui para participar.\n\nPara mais informações na página Calouros e Calouras UFSC.\n\nTickets: https://inscricoes.ufsc.br/activities/13531.",
+      "description": "A Pró-Reitoria de Graduação e Educação Básica (Prograd) da Universidade Federal de Santa Catarina (UFSC) promove, no dia 15 de setembro, terça-feira, a conferência A IA no contexto universitário. O evento ocorre às 18h no Auditório da Reitoria, Campus Trindade, e integra um ciclo de debates sobre Inteligência Artificial na UFSC, com debates e reflexões sobre as novas tecnologias e seus impactos e possibilidades nos processos de ensino e aprendizagem.\n\nNo dia da conferência de abertura, haverá uma homenagem aos 40 anos de IA na UFSC e apresentações artísticas. Os palestrantes serão Jônata Tyska e Aldo Von Wangenheim, ambos do Departamento de Informática e Estatística (INE/UFSC).\n\nInscreva-se aqui para participar. Será fornecido certificado de 2 horas de participação.\n\nMais informações na página Calouros e Calouras UFSC.\n\nTickets: https://inscricoes.ufsc.br/activities/13531.",
       "tags": [
-        "aula inaugural",
         "conferência",
         "palestra",
         "ctc",
+        "ia",
         "ine",
         "inteligência artificial (ia)",
         "prograd"
