@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-10T20:45:40.316Z",
+  "geradoEm": "2026-09-11T13:27:50.363Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1340,
-      "selecionados": 26,
+      "selecionados": 24,
       "ignorados": {
-        "ja-passou": 1313,
+        "ja-passou": 1315,
         "muito-longe": 1
       },
       "erros": []
@@ -14,78 +14,14 @@
     {
       "fonte": "ara",
       "totalNoFeed": 15,
-      "selecionados": 7,
+      "selecionados": 6,
       "ignorados": {
-        "ja-passou": 8
+        "ja-passou": 9
       },
       "erros": []
     }
   ],
   "eventos": [
-    {
-      "source_id": "ara:24355",
-      "name": "Araranguá de Portas Abertas – Feira de Cursos",
-      "start_date": "2026-09-09T11:00:00.000Z",
-      "end_date": "2026-09-09T21:00:00.000Z",
-      "location": "UFSC Araranguá - Jardim das Avenidas",
-      "campus": "ararangua",
-      "image_url": "https://ara.ufsc.br/files/2025/07/Banner-PortasAbertas.png",
-      "ticket_url": null,
-      "info_url": "https://ara.ufsc.br/event/ararangua-de-portas-abertas-feira-de-cursos/",
-      "description": null,
-      "tags": [
-        "feiras de cursos"
-      ],
-      "category": "academico",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296186",
-      "name": "Dia do Administrador",
-      "start_date": "2026-09-09T12:00:00.000Z",
-      "end_date": "2026-09-10T00:30:00.000Z",
-      "location": "Auditório do Centro Socioeconômico (CSE)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2020/08/academy_blue_png-2.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/dia-do-administrador/",
-      "description": "O Academy UFSC, programa vinculado ao ecossistema de inovação da universidade e integrante das iniciativas da Secretaria de Inovação (Sinova), em parceria com o Centro Acadêmico de Administração, promove um encontro em comemoração ao Dia do Administrador. A proposta é reunir estudantes, profissionais e convidados para um dia de troca de experiências sobre as transformações que estão redesenhando a profissão e os desafios de quem quer construir o futuro da gestão.\n\nO evento é voltado a estudantes da graduação. As inscrições são gratuitas e podem ser realizadas neste link: https://www.even3.com.br/dia-do-administradorv-775751/\n\nNa programação, estão previstas palestras sobre “Gestão, Comunicação e Empreendedorismo” (9h às 10h); “Além dos Eventos: Gestão, Estratégia e Empreendedorismo” (10h30 às 11h30); “NR01 – Segurança Psicológica” (19h às 20h) e “O planejamento estratégico não é para todos!” (20h30 às 21h30). Quem participar das atividades poderá obter um certificado de até 6 horas.\n\nServiço\n\n📅 Data – 9 de setembro\n\n🕘 Horário – A partir das 9h\n\n📍 Local – Auditório do CSE – UFSC\n\n– Mais informações: https://academy.ufsc.br/\n\nhttps://instagram.com/academy.ufsc\n\nhttps://caad.ufsc.br/\n\nhttps://www.instagram.com/caad.ufsc/",
-      "tags": [
-        "encontro",
-        "evento comemorativo",
-        "palestra",
-        "academy ufsc",
-        "administração",
-        "centro socioeconômico",
-        "cse",
-        "dia do administrador",
-        "gestão"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295863",
-      "name": "Lançamento de Livro: ‘O sistema de proteção social brasileiro sob fogo cruzado’",
-      "start_date": "2026-09-09T21:30:00.000Z",
-      "end_date": "2026-09-09T23:30:00.000Z",
-      "location": "Auditório do Centro Socioeconômico",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/978-85-524-0627-3-703x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/lancamento-de-livro-o-sistema-de-protecao-social-brasileiro-sob-fogo-cruzado/",
-      "description": "Capa do livro. (Foto: Divulgação)\n\nO professor Lauro Mattei, do Departamento de Economia e Relações Internacionais da Universidade Federal de Santa Catarina, lança no próximo dia 9 de setembro o livro O sistema de proteção social brasileiro sob fogo cruzado, publicado pela editora Insular. O lançamento será a partir das 18h30, auditório do Centro Socioeconômico (CSE).\n\nA obra do professor Lauro Mattei analisa a trajetória do Sistema de Proteção Social Brasileiro desde a sua consagração na Constituição Federal de 1988 até o processo de desmonte intensificado entre 2016 e 2022, sob os governos de Michel Temer e Jair Bolsonaro.\n\nO livro sustenta que a construção de um Estado de Bem-Estar Social no Brasil enfrentou constante oposição de elites econômicas e políticas. Embora o processo de enfraquecimento das políticas sociais venha desde os anos 1990, com um período de arrefecimento entre 2003 e 2014 nos governos do Partido dos Trabalhadores, a ruptura definitiva da chamada “cidadania social” ocorreu a partir de 2016. Sob a bandeira da austeridade fiscal e do livre mercado, programas fundamentais como Sistema Único de Saúde (SUS), Sistema Único de Assistência Social (SUAS), Benefício de Prestação Continuada (BPC) e Bolsa Família sofreram retrocessos profundos.\n\nO livro está disponível para aquisição na Editora Insular.",
-      "tags": [
-        "evento comemorativo",
-        "lançamento de livro",
-        "centro socioeconomico (cse)"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:296385",
       "name": "Roda de Conversa ‘Saberes e sabores ancestrais: identidade e pertencimento cultural na alimentação Guarani’",
