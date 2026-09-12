@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-11T13:27:50.363Z",
+  "geradoEm": "2026-09-12T12:47:35.429Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1340,
-      "selecionados": 24,
+      "totalNoFeed": 1342,
+      "selecionados": 23,
       "ignorados": {
-        "ja-passou": 1315,
+        "ja-passou": 1318,
         "muito-longe": 1
       },
       "erros": []
@@ -22,70 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:296385",
-      "name": "Roda de Conversa ‘Saberes e sabores ancestrais: identidade e pertencimento cultural na alimentação Guarani’",
-      "start_date": "2026-09-10T17:00:00.000Z",
-      "end_date": "2026-09-10T18:30:00.000Z",
-      "location": "Sala 111 do Bloco D do Centro de Educação (CED)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Cartaz-roda-de-conversa-2-683x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-saberes-e-sabores-ancestrais-identidade-e-pertencimento-cultural-na-alimentacao-guarani/",
-      "description": "A Prosa UFSC – Núcleo de Estudos e Pesquisas em Educação e Tecnologia Ético-Crítica da UFSC promove, nesta quinta-feira, 10 de setembro, das 14h às 15h30, a roda de conversa Saberes e sabores ancestrais: identidade e pertencimento cultural na alimentação Guarani, na Sala 111 do Bloco D do Centro de Educação (CED).\n\nO evento é fruto do projeto de pesquisa desenvolvido junto à comunidade da Aldeia Pira Rupá, no Território Indígena Maciambu, em Palhoça (SC). Ao trazer os resultados da pesquisa para dentro da universidade, a atividade propõe não apenas apresentar os conhecimentos produzidos, mas criar um espaço de encontro e diálogo entre diferentes experiências e perspectivas.\n\nO encontro pretende evidenciar os conhecimentos, significados e relações que atravessam os alimentos no cotidiano Guarani. Entre os temas abordados, estão os modos de fazer, os saberes transmitidos entre gerações, os mitos e ritos e os aspectos sagrados, festivos e de comunhão relacionados à alimentação ancestral. Realizada por meio de trabalho de campo e da metodologia da história oral, a pesquisa buscou mapear e documentar saberes e fazeres relacionados à culinária ancestral Guarani, identificando seus detentores na comunidade, as formas pelas quais esses conhecimentos são transmitidos e transformados ao longo das gerações e os significados culturais atribuídos à alimentação no território.\n\nA roda de conversa também pretende contribuir para o reconhecimento da importância dos saberes ancestrais para a identidade, a memória e o pertencimento cultural Guarani, além de promover uma reflexão sobre os processos históricos de invisibilização dos povos indígenas em Santa Catarina. Ao colocar esses conhecimentos em diálogo dentro da universidade, a atividade reafirma a importância da escuta e da valorização das narrativas produzidas pelos próprios povos indígenas.\n\nPara mais informações acesse o Instagram do Prosa UFSC ou o site.",
-      "tags": [
-        "encontro",
-        "roda de conversa",
-        "centro de ciências da educação (ced)",
-        "comunidade indígena",
-        "prosa ufsc"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296311",
-      "name": "Lançamento de documentário sobre greve docente de 2024",
-      "start_date": "2026-09-10T20:30:00.000Z",
-      "end_date": "2026-09-10T22:30:00.000Z",
-      "location": "Anfiteatro do EFI",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Card-Lançamento-Doc-5-1024x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/lancamento-de-documentario-sobre-greve-docente-de-2024/",
-      "description": "O Coletivo Mobilização Docente da Universidade Federal de Santa Catarina (UFSC) lança o documentário O capítulo que não foi contado: memória, resistência e desagravo à Greve Docente da UFSC de 2024 nesta quinta-feira, 10 de setembro, às 17h30, no anfiteatro do EFI.\n\nSegundo o grupo de professores, a produção surge como resposta direta à invisibilização do movimento grevista no documentário oficial dos 51 anos da APUFSC – Meio Século de Lutas – e propõe narrar, sob a ótica de quem viveu a paralisação, os embates, desafios e conquistas da categoria.\n\nCom duração de 36 minutos, a obra reúne depoimentos de 11 docentes da UFSC, entre eles Samuel Pantoja Lima (Jornalismo), Tatiana Minchoni (Psicologia), Paulo Pinheiro Machado (História) e Astrid Ávila (Educação), além de outros nomes de diferentes unidades acadêmicas. “As falas reconstituem o clima de mobilização e denunciam a inércia da direção sindical à época, ao mesmo tempo em que exaltam a capacidade de organização autônoma dos professores”, informa o coletivo responsável pela idealização do projeto.\n\nA ficha técnica traz a assinatura da Quorum Comunicação na produção, com coordenação, roteiro e edição de Gastão Cassel, direção de fotografia e edição de Soninha Vill, e assistência de Emily N. F. Sá.\n\nApós a estreia, o documentário será disponibilizado no canal do coletivo no Youtube.\n\nEvento de Lançamento\n\nData: 10 de setembro de 2026\n\nHorário: 17h30\n\nLocal: Anfiteatro do EFI\n\nEntrada gratuita e aberta a toda comunidade acadêmica.\n\nMais informações no Instagram @mobilizacaodocenteufsc e no Youtube.",
-      "tags": [
-        "cinema",
-        "documentário",
-        "coletivo mobilização docente"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296192",
-      "name": "Recital de Violão com Eduardo Nascimento na Igrejinha da UFSC",
-      "start_date": "2026-09-10T22:00:00.000Z",
-      "end_date": "2026-09-11T00:00:00.000Z",
-      "location": "Igrejinha da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/DSC_0014-768x510.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/recital-de-violao-com-eduardo-nascimento-na-igrejinha-da-ufsc/",
-      "description": "A Igrejinha da UFSC recebe nesta quinta-feira, 10 de setembro, às 19h, o recital de violão do instrumentista Eduardo Nascimento. A entrada é franca, aberta a toda a comunidade.\n\nNo programa da noite, o público poderá ouvir um repertório que transita entre o clássico e o contemporâneo, com peças de Heitor Villa-Lobos e do compositor espanhol Fernando Sor, além de obras de Fábio Lima, Miguel Llobet e outros compositores.\n\nEduardo, atualmente bacharelando em Violão pela Universidade do Estado de Santa Catarina (UDESC), já esteve na Igrejinha da UFSC, apresentando-se ao lado da Camerata de Violões da UDESC, além de ter exibido na Biblioteca Universitária da UDESC. A formação artística foi enriquecida por masterclasses com nomes de destaque como Andrea Roberto, Marisa Sardo, Gilson Antunes, Giacomo Copiello e Marco Lima.",
-      "tags": [
-        "apresentação musical",
-        "musical",
-        "show musical",
-        "igrejinha da ufsc",
-        "recital de violão"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:296325",
       "name": "Cine Paredão: Father Mother Sister Brother",
@@ -171,6 +107,33 @@
       "category": "palestra",
       "is_free": true,
       "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296475",
+      "name": "7º Fazendo Cruzos: Movimentos Negros por Memória, Verdade, Justiça e Reparação",
+      "start_date": "2026-09-15T03:00:00.000Z",
+      "end_date": "2026-09-16T02:59:59.000Z",
+      "location": "Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/ebó-epistêmico.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/7o-fazendo-cruzos-movimentos-negros-por-memoria-verdade-justica-e-reparacao/",
+      "description": "O programa de pesquisa e extensão Ebó Epistêmico, vinculado aos departamentos de Antropologia e Museologia da Universidade Federal de Santa Catarina (UFSC), realiza o 7º Fazendo Cruzos: Movimentos Negros por Memória, Verdade, Justiça e Reparação, nos dias 15, 16 e 17 de setembro, no Centro de Filosofia e Ciências Humanas (CFH). O encontro é voltado à discussão antirracista e à defesa de direitos humanos e contará com mesas-redondas, oficinas temáticas, exposição, performances, intervenções, apresentações artísticas e uma feira gastronômica. As inscrições são gratuitas, garantem certificado e devem ser realizadas pelo sistema de inscrições da UFSC.\n\nCada edição está voltada para a criação de espaços de diálogo e troca de conhecimento sobre um tema central. A 7ª edição irá abordar o período da ditadura civil-militar e discutir os efeitos que aprofundaram a desigualdade racial na sociedade. “Diante da violência, os movimentos negros se organizaram e, por meio de manifestações políticas, artísticas e culturais, lutaram contra a brutalidade policial, a desigualdade social e o racismo. Ao afirmar o poder das pessoas negras e suas lutas por memória, verdade e justiça contra os desaparecimentos e o apagamento, destacaremos, a partir de uma perspectiva antropológica, o protagonismo da população negra e a urgência de reparações como forma de afirmação antirracista”, informa a organização do evento.\n\n“Fazendo Cruzos com Antropologias, Artes e Museologias” é um projeto realizado pela Ebó Epistêmico/UFSC, a partir da transposição didática dos conteúdos da disciplina Estudos Afro-Brasileiros, ofertada pelo departamento de Antropologia ao curso de Licenciatura em Ciências Sociais, sob a forma de evento acadêmico, científico, artístico e cultural realizado desde 2022.\n\nPara mais informações, acesse o Instagram do projeto.",
+      "tags": [
+        "atrações culturais",
+        "exposição",
+        "feira",
+        "oficina",
+        "roda de conversa",
+        "cfh",
+        "departamento de antropologia",
+        "departamento de museologia",
+        "ebó epistêmico",
+        "fazendo cruzos"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": true
     },
     {
       "source_id": "agecom:295928",
@@ -319,6 +282,29 @@
         "filme menocchi"
       ],
       "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296466",
+      "name": "Clube de Leitura dos Horrores",
+      "start_date": "2026-09-17T21:30:00.000Z",
+      "end_date": "2026-09-17T22:30:00.000Z",
+      "location": "Centro de Comunicação e Expressão (CCE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.paginas.ufsc.br/files/2026/09/calendário-de-leituras-clube-de-leitura-2-1024x427.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/clube-de-leitura-dos-horrores/",
+      "description": "O projeto de extensão Clube de Leitura dos Horrores, vinculado ao Departamento de Artes da Universidade Federal de Santa Catarina (UFSC), segue as atividades do semestre 2026.2, reunindo mensalmente admiradores de histórias de horror, monstros, fantasmas e outras formas do insólito.\n\nNa próxima quinta-feira, 17 de setembro, o grupo discute a obra Incidente em Antares, de Érico Veríssimo. O romance, segundo os organizadores do clube, possui o insólito como chave de leitura para apresentar uma crítica à ditadura cívico-militar no Brasil.\n\nO encontro será realizado às 18h30, na sala 211 (LEC), no bloco D do Centro de Comunicação e Expressão (CCE/UFSC), com a mediação de Matheus Gabriel da Silva Boff, Viviane Vedana de Lima e Peterson Silva. A atividade é aberta à comunidade, sem necessidade de inscrição prévia.\n\nO Clube de Leitura dos Horrores é realizado pelo Grupo FantastiCatarina, em parceria com o PET-Letras e o Programa de Pós-Graduação em Literatura da UFSC. Os encontros são realizados uma vez por mês de março a dezembro. A programação anual completa pode ser conferida no perfil do Instagram @fantasticatarina.",
+      "tags": [
+        "clube de leitura",
+        "cce",
+        "clube de leitura dos horrores",
+        "departamento de artes",
+        "fantasticatarina",
+        "pet letras"
+      ],
+      "category": "outro",
       "is_free": true,
       "is_all_day": false
     },
