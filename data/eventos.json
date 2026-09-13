@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-12T20:27:45.114Z",
+  "geradoEm": "2026-09-13T13:45:23.688Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1342,
-      "selecionados": 23,
+      "selecionados": 21,
       "ignorados": {
-        "ja-passou": 1318,
+        "ja-passou": 1320,
         "muito-longe": 1
       },
       "erros": []
@@ -22,48 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:296325",
-      "name": "Cine Paredão: Father Mother Sister Brother",
-      "start_date": "2026-09-11T22:00:00.000Z",
-      "end_date": "2026-09-12T00:00:00.000Z",
-      "location": "Bosque ou no Auditório do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/POST-FATHER-MOTHER-SISTER-BROTHER-768x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-paredao-father-mother-sister-brother/",
-      "description": "O Cine Paredão apresenta, nesta sexta-feira, 11 de setembro, a partir das 19h, o filme Father Mother Sister Brother, dirigido e roteirizado pelo cineasta norte-americano Jim Jarmusch. A sessão será realizada no Bosque ou no Auditório do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC), em Florianópolis. O evento é gratuito.\n\nCom 1h50min de duração e classificação indicativa de 14 anos, o longa-metragem transita entre a comédia e o drama e reúne um elenco que inclui Tom Waits, Adam Driver, Mayim Bialik, Charlotte Rampling, Cate Blanchett, Vicky Krieps, Sarah Greene, Indya Moore, Luka Sabbat e Françoise Lebrun. Father Mother Sister Brother é estruturado em três histórias independentes, mas conectadas por um tema comum: as relações entre filhos adultos e pais emocionalmente distantes.\n\nDepois de anos sem se encontrarem, os personagens voltam a conviver e são obrigados a lidar com tensões e conflitos que permaneceram sem resolução. Os reencontros também provocam uma reavaliação de vínculos familiares marcados por distanciamento e relações complexas. Cada uma das três partes do filme se passa em um país diferente. Pai é ambientado no nordeste dos Estados Unidos; Mãe, em Dublin, na Irlanda; e Irmã Irmão, em Paris, na França. A sessão integra a programação do Cine Paredão, projeto dedicado à exibição e à discussão de produções cinematográficas. A atividade é aberta ao público e não há cobrança de ingresso.\n\nTrailer: Assista ao trailer no YouTube\n\nMais informações: Instagram do Cine Paredão",
-      "tags": [
-        "filme",
-        "auditório do cfh",
-        "bosque do cfh",
-        "cine paredão",
-        "exibição filme"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296275",
-      "name": "CineClube África no Cinema: filme Tabataba",
-      "start_date": "2026-09-11T23:00:00.000Z",
-      "end_date": "2026-09-12T00:15:00.000Z",
-      "location": "Sala Multimídia do Museu da Imagem e do Som de Santa Catarina (MIS/SC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Post-Africa-no-cinema-Set26-_2_-819x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cineclube-africa-no-cinema-filme-tabataba/",
-      "description": "Uma sessão gratuita de Tabataba, de Raymond Rajaonarivelo, será realizada no dia 11 de setembro, às 20h, na Sala Multimídia do Museu da Imagem e do Som de Santa Catarina (MIS/SC), no Centro Integrado de Cultura (CIC).A entrada é gratuita e não é necessário realizar inscrição.\n\nAmbientado em Madagascar, em 1947, Tabataba acompanha os moradores da aldeia de Tanala durante a grande revolta contra a colonização francesa. A história da insurreição e de sua repressão é apresentada a partir do olhar de Solo, um jovem garoto, cuja infância e cotidiano são profundamente transformados pelos acontecimentos.\n\nCom 1h16min de duração, o longa-metragem é uma obra de ficção que aborda um importante episódio da história de Madagascar a partir da experiência de seus personagens e de sua comunidade. Após a exibição, a equipe responsável pelo projeto promove uma roda de conversa sobre o filme e temas relacionados à obra, proporcionando ao público um espaço para reflexão e debate.\n\nOs participantes podem obter certificado de participação nas atividades de extensão do projeto África no Cinema. Para isso, é necessário assinar a lista de participação durante as sessões realizadas ao longo do semestre. O cineclube tem curadoria do pesquisador Alex Brandão, do LEHAf/UFSC, laboratório coordenado pelo professor Sílvio Marcus de Souza Correa.\n\nA iniciativa conta com apoio institucional da Aliança Francesa de Florianópolis, da Fundação Catarinense de Cultura (FCC), por meio do Museu da Imagem e do Som de Santa Catarina (MIS/SC), e da SECARTE, com o apoio da bolsista Nadia Marcia Dalla Brida.\n\nMais informações: @olhoatentocinema, @aliançafrancesafloripa e @africanocinema",
-      "tags": [
-        "centro integrado de cultura (cic)",
-        "cineclube áfrica no cinema",
-        "exibição de filme"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:296443",
       "name": "Regenera CCB: plantio de espécies nativas na UFSC",
