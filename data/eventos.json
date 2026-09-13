@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-13T13:45:23.688Z",
+  "geradoEm": "2026-09-13T20:39:22.849Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1342,
-      "selecionados": 21,
+      "selecionados": 20,
       "ignorados": {
-        "ja-passou": 1320,
+        "ja-passou": 1321,
         "muito-longe": 1
       },
       "erros": []
@@ -22,29 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:296443",
-      "name": "Regenera CCB: plantio de espécies nativas na UFSC",
-      "start_date": "2026-09-12T17:30:00.000Z",
-      "end_date": "2026-09-12T20:00:00.000Z",
-      "location": "Centro de Ciências Biológicas",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Mutirão-de-Plantio-819x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/regenera-ccb-plantio-de-especies-nativas-na-ufsc/",
-      "description": "O Grupo de Estudos em Educação Ambiental e Agroecologia (GEAbio) do curso de Biologia da Universidade Federal de Santa Catarina (UFSC) realizará o Mutirão de plantio: Regenera CCB, no sábado, 12 de setembro, às 14h30, no Centro de Ciências Biológicas (CCB).\n\nA atividade teve início em 2025 e tem como objetivo principal a restauração ecológica da lateral do CCB, próximo à margem do Rio Sertão. O projeto indica o uso apropriado de roupas para o manejo, como: calça e sapato fechado, além de boné, repelente e protetor solar.\n\nOs integrantes irão remover espécies exóticas invasoras, plantar mudas de espécies nativas e entender melhor o histórico e o contexto socioambiental dessa área.\n\nPara mais informações, acesse o Instagram do Projeto.",
-      "tags": [
-        "mutirão",
-        "centro de ciências biológicas (ccb)",
-        "espécies nativas",
-        "geabio",
-        "reflorestamento",
-        "rio sertão"
-      ],
-      "category": "outro",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:296341",
       "name": "Seminário de Pesquisas em Tradução e Interpretação de/entre/para Línguas de Sinais e Vocais",
