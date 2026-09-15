@@ -1,10 +1,10 @@
 {
-  "geradoEm": "2026-09-14T15:50:57.837Z",
+  "geradoEm": "2026-09-15T14:17:12.037Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1344,
-      "selecionados": 22,
+      "totalNoFeed": 1350,
+      "selecionados": 28,
       "ignorados": {
         "ja-passou": 1321,
         "muito-longe": 1
@@ -135,6 +135,29 @@
       "is_all_day": true
     },
     {
+      "source_id": "agecom:296555",
+      "name": "Exposição Salim Miguel – 100 Anos",
+      "start_date": "2026-09-15T11:00:00.000Z",
+      "end_date": "2026-09-16T01:00:00.000Z",
+      "location": "Hall do CBS- 01 | UFSC – Campus de Curitibano",
+      "campus": "curitibanos",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Salim-Miguel-1024x576.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-salim-miguel-100-anos-2/",
+      "description": "O campus de Curitibanos da Universidade Federal de Santa Catarina (UFSC) recebe a exposição Salim Miguel – 100 Anos a partir desta terça-feira, 15 de setembro, no Hall do CBS-01. A visitação pode ser feita de segunda a sexta-feira das 8h às 12h; das 13 às 17h; e 18 às 22h, até 16 de outubro.\n\nA mostra é um tributo ao centenário de nascimento de Salim Miguel (1924-2016), figura ímpar da literatura brasileira e catarinense contemporâneas. Reconhecido com o Prêmio Machado de Assis da Academia Brasileira de Letras e agraciado com o título de Doutor Honoris Causa pela própria UFSC, Miguel foi um multifacetado escritor, editor, jornalista, roteirista e gestor cultural, cujo legado transcende gerações.\n\nA exposição promete uma imersão na vida e na vasta obra deste intelectual, que dedicou sua vida à cultura. O objetivo é preservar a memória cultural de Santa Catarina, dando visibilidade à sua inestimável contribuição e proporcionando acesso gratuito à história da sua obra e percurso. Esta iniciativa integra o Programa de Extensão Centenário de Salim Miguel, que reúne diversas ações acadêmicas e culturais em torno do seu legado, instigando debates, estudos e pesquisas.\n\nA mostra permanecerá aberta para visitação gratuita até 16 de outubro, de segunda a sexta-feira das 08 às 12h; das 13 às 17h; e 18 às 22h.\n\nMais informações na página da Secretaria de Cultura e Arte (SeCArte/UFSC).",
+      "tags": [
+        "exposição",
+        "100 anos",
+        "escritor",
+        "literatura catarinense",
+        "salim miguel",
+        "ufsc curitibanos"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:296410",
       "name": "Evento: ‘i.a. crítica?’",
       "start_date": "2026-09-15T12:00:00.000Z",
@@ -195,6 +218,27 @@
       ],
       "category": "cultura",
       "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296522",
+      "name": "Documentário ‘Memórias de pescador: tradição e resistência na Costeira do Pirajubaé’",
+      "start_date": "2026-09-16T22:00:00.000Z",
+      "end_date": "2026-09-17T00:00:00.000Z",
+      "location": "Bloco F do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Exibição-Memórias-de-Pescador-821x1024.jpeg",
+      "ticket_url": "https://inscricoes.ufsc.br/documentario-memorias-de-pescador-resex",
+      "info_url": "https://noticias.ufsc.br/event/documentario-memorias-de-pescador-tradicao-e-resistencia-na-costeira-do-pirajubae/",
+      "description": "O Laboratório de Estudos de Gênero e História (LEGH) da Universidade Federal de Santa Catarina (UFSC) exibe o documentário Memórias de pescador: tradição e resistência na Costeira do Pirajubaé nesta quarta-feira, 16 de setembro, às 19h, no auditório do Bloco F do Centro de Filosofia e Ciências Humanas (CFH). Para participar, é necessário realizar inscrição pelo sistema da UFSC. A atividade dá direito a certificado.\n\nRealizado entre março e setembro de 2026, com apoio do Edital Elisabete Anderle da Fundação Catarinense de Cultura, o documentário apresenta a história de resistência dos pescadores da Costeira do Pirajubaé, em Florianópolis, diante do avanço da urbanização sobre seu território de vida e subsistência: a Baía Sul da Ilha de Florianópolis. O roteiro traz também a perspectiva de especialistas, alguns deles professores da UFSC, como Alessandra Fonseca (Oceanografia) e Luiz Fernando Scheibe (Geologia). O documentário tem duração de 49 minutos, e, após sua apresentação, será realizada uma conversa, mediada pela equipe do documentário.\n\nO projeto é coordenado pela pesquisadora e jornalista Morgani Guzzo, que assina a produção e o roteiro com a jornalista Inara Fonseca. A edição é de Elaine Schmitt. A articulação com a comunidade de pescadores foi feita por Patrícia Martins. Tanto Morgani Guzzo quanto Elaine Schmitt são pesquisadoras, doutoras pelo Programa de Pós-graduação Interdisciplinar em Ciências Humanas (PPGICH) da UFSC.\n\nMais informações pelo Instagram @memoriasdepescador.resex.\n\nTickets: https://inscricoes.ufsc.br/documentario-memorias-de-pescador-resex.",
+      "tags": [
+        "cinema",
+        "documentário",
+        "cfh",
+        "laboratório de estudos de gênero e história"
+      ],
+      "category": "cultura",
+      "is_free": null,
       "is_all_day": false
     },
     {
@@ -290,6 +334,52 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296553",
+      "name": "Cine Paredão: ‘Um poeta’",
+      "start_date": "2026-09-18T22:00:00.000Z",
+      "end_date": "2026-09-19T01:00:00.000Z",
+      "location": "Bosque do Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/POST-UN-POETA-768x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-paredao-um-poeta/",
+      "description": "O Cine Paredão exibe o filme “Um poeta” (2025) nesta sexta-feira, 18 de setembro, às 19h, no Bosque do Centro de Filosofia e Ciências Humanas da Universidade Federal de Santa Catarina (CFH/UFSC). Em caso de chuva, a atividade será transferida para o auditório do CFH. A exibição é gratuita e aberta a todos.\n\nO longa-metragem tem roteiro e direção do colombiano Simon Mesa Soto. Ambientado em Medellín e filmado em Super 16mm, o filme acompanha Óscar Restrepo (Ubeimar Rios), poeta de mérito pouco reconhecido que leva uma vida solitária marcada por desilusões. O seu encontro com Yurlady (Rebeca Andrade), uma adolescente da periferia possuidora de um verdadeiro talento literário, vai alterar o rumo da sua vida. Óscar convence a jovem a apresentar os seus poemas num concurso nacional de poesia — mas as coisas não correm bem como o previsto.\n\nSobre o Cine Paredão\n\nO Cine Paredão é um projeto de extensão do Curso de Cinema, vinculado ao Centro de Comunicação e Expressão (CCE) e com exibições no Bosque do CFH. Sempre conta com o apoio logístico do CFH, assim como da Secretaria de Cultura, Arte e Esporte (SeCArtE/UFSC). Há 18 anos o projeto promove a exibição de filmes ao ar livre, fomentando o pensamento crítico e o convívio em um dos espaços mais simbólicos da universidade.\n\nConfira o trailer do filme “Um poeta” aqui.\n\nMais informações no Instagram do Cine Paredão ou pelo e-mail cineparedaoufsc@gmail.com",
+      "tags": [
+        "cinema",
+        "filme",
+        "bosque do cfh",
+        "centro de filosofia e ciências humanas",
+        "cfh",
+        "cine paredão",
+        "um poeta"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296549",
+      "name": "IV Seminário Institucional do PIBID/UFSC – ‘Saberes, Práticas e Territórios: O Pibid na Formação de Professores’",
+      "start_date": "2026-09-19T12:00:00.000Z",
+      "end_date": "2026-09-19T20:00:00.000Z",
+      "location": "Centro de Filosofia e Ciências Humanas (CFH), Bloco B",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/IV-SEMINARIO-PIBID-UFSC-819x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/iv-seminario-institucional-do-pibidufsc-saberes-praticas-e-territorios-o-pibid-na-formacao-de-professores/",
+      "description": "O Programa Institucional de Bolsa de Iniciação à Docência (PIBID) da Universidade Federal de Santa Catarina (UFSC) realiza, no dia 19 de setembro, o IV Seminário Institucional do PIBID UFSC “Saberes, Práticas e Territórios: O Pibid na Formação de Professores”. O evento é uma iniciativa da coordenação institucional do PIBID/UFSC, em colaboração com os coordenadores de área dos subprojetos que integram o programa na Universidade e apoio da Pró-Reitoria de Graduação e Educação Básica (PROGRAD) e da CAPES. O seminário tem como objetivo a socialização de atividades e troca de experiências entre os participantes dos subprojetos que são bolsistas de iniciação à docência, professores da educação básica da rede pública de Santa Catarina e docentes das licenciaturas.\n\nOs trabalhos apresentados no evento resultam das experiências de iniciação à docência de 15 subprojetos que envolvem 19 licenciaturas em diferentes cursos de Florianópolis e Blumenau, nos seguintes eixos temáticos: desenvolvimento de materiais didáticos; formação docente; avaliação da aprendizagem; estratégias e abordagens de ensino e aprendizagem.\n\nAs atividades ocorrem no próximo sábado, entre 9h e 17h, no Centro de Filosofia e Ciências Humanas (CFH), bloco B, no campus da Trindade, em Florianópolis. As inscrições de participação geral, incluindo ouvintes (com certificação de 8h) poderão ser feitas no local.\n\nConfira a programação:\n\n09h – Apresentação artístico cultural do Quilombo Vidal Martins\n\n09h15 – Boas vindas aos participantes do evento\n\n09h30-12h30 – Rodas de conversa com a apresentação e discussão de trabalhos dos subprojetos\n\n12h30-14h – Almoço\n\n14h-17h – Rodas de conversa com a apresentação e discussão de trabalhos dos subprojetos\n\nEncerramento\n\nOutras informações na página do PIBID/UFSC ou no perfil do Programa no Instagram.",
+      "tags": [
+        "seminário",
+        "centro de filosofia e ciência humanas (cfh)",
+        "docência",
+        "educação",
+        "pibid"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "ara:25049",
       "name": "SAFS",
       "start_date": "2026-09-21T03:00:00.000Z",
@@ -353,6 +443,26 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296550",
+      "name": "Congresso Internacional da Rede de Educação OnLIFE",
+      "start_date": "2026-09-22T03:00:00.000Z",
+      "end_date": "2026-09-23T02:59:59.000Z",
+      "location": "IFSC Florianópolis",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Captura-de-Tela-2026-09-15-às-08.28.14-1024x410.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/congresso-internacional-da-rede-de-educacao-onlife/",
+      "description": "O VII Congresso Internacional da Rede de Educação OnLIFE: Inteligência Artificial, CoInteligências e Hiperinteligências, rede colaborativa de pesquisadores, professores e estudantes focada em repensar a educação conectada na era digital e hiperconectada, começa dia 22 e vai até 26 de setembro. O evento será realizado no Campus do IFSC em Florianópolis.\n\nO evento debate Inteligência Artificial, CoInteligência e Hiperinteligência no Paradigma da Educação OnLIFE, reunindo pesquisadores, professores, estudantes, gestores educacionais e profissionais da educação básica, profissional, científica, tecnológica e superior e demais profissionais de área afins interessados na temática do evento. Também são mobilizados integrantes de redes de ensino, pesquisa e extensão, instituições públicas e privadas, organizações sociais e ecossistemas de inovação. A UFSC é uma das instituições organizadoras.\n\nA UFSC também é responsável por uma das trilhas temáticas do evento, que debaterá Ecossistemas Inovativos/Inventivos: ecossistemas de inovação, laboratórios, redes colaborativas, ambientes inventivos, políticas institucionais e processos de cocriação educacional, sob coordenação do professor Rafael Pereira Ocampo Moré.\n\nAs inscrições são gratuitas e podem ser feitas no link https://eventos.ifsc.edu.br/rieonlife2026/. Ao longo do evento, haverá paineis com convidados, imersões culturais, além de feira tecnológica e da conferência da Rede. A programação também está disponível no site.",
+      "tags": [
+        "congresso",
+        "congresso internacional da rede de educação onlife",
+        "ifsc"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
       "source_id": "agecom:294876",
       "name": "Imaginar o impossível – sobre a modernidade e seus fins",
       "start_date": "2026-09-28T03:00:00.000Z",
@@ -388,6 +498,29 @@
       "category": "outro",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:296547",
+      "name": "Webinário: Dano Ambiental no Século XXI e Restauração Ecológica",
+      "start_date": "2026-09-30T12:00:00.000Z",
+      "end_date": "2026-10-01T15:00:00.000Z",
+      "location": "Online",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Webinario_Restauração-819x1024.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/webinario-dano-ambiental-no-seculo-xxi-e-restauracao-ecologica/",
+      "description": "O Grupo de Pesquisa em Direito Ambiental na Sociedade de Risco da Universidade Federal de Santa Catarina (GPDA/UFSC) promove o seminário Dano Ambiental no Século XXI e Restauração Ecológica nos dias 30 de setembro e 1º de outubro. O evento ocorre na modalidade remota e será transmitido pelo Youtube. As inscrições são gratuitas e devem ser feitas pelo formulário on-line. Será fornecido certificado de 6 horas de participação.\n\nO webinário terá a participação de pesquisadores do Programa de Pós-graduação em Direito (PPGD/UFSC) e convidados, que farão exposições sobre o tema “Restauração Ecológica e Danosidade Ambiental”. Considerando os avanços teóricos e jurisprudenciais em torno da Reparação do dano ambiental, como tal, abarcando os seres não humanos da natureza, e os desafios na implementação dessa perspectiva, torna-se relevante compreender como as questões relacionadas ao dano ambiental vêm sendo tratadas nos âmbitos téorico e prático, e em que termos essas soluções alcançam uma justiça ampla em termos ecológicos.\n\nConfira os palestrantes de cada dia:\n\n30/09 – Quarta-feira, das 9h às 12h:\n\nCoordenação Geral: Melissa Ely Melo e José Rubens Morato Leite\n\nMediação: Artur Bittencourt Medeiros\n\nJosé Rubens Morato Leite\n\nKatiele Daiana da Silva Rehbein\n\nÁlvaro Mirra\n\nMelissa Ely Melo – Restauração ecológica: critérios metodológicos\n\nTiago Fensterseifer\n\n01/10 – Quinta-feira, das 9h às 12h:\n\nAna Maria Marchesan\n\nCarolina Medeiros Bahia\n\nFernanda de Salles Cavedon-Capdeville\n\nMauro Figueiredo\n\nTônia A. H. Dutra – Implicações da perspectiva relacional na Restauração: uma questão de Justiça Ecológica\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Centro de Ciências Jurídicas (CCJ/UFSC) ou no Instagram do GPDA.",
+      "tags": [
+        "seminário",
+        "webinar",
+        "direito ambiental",
+        "gpda",
+        "grupo de pesquisa em direito ambiental na sociedade de risc",
+        "youtube"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
     },
     {
       "source_id": "agecom:294522",
