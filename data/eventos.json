@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-15T21:10:24.218Z",
+  "geradoEm": "2026-09-16T14:09:18.175Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1356,
-      "selecionados": 34,
+      "totalNoFeed": 1358,
+      "selecionados": 35,
       "ignorados": {
-        "ja-passou": 1321,
+        "ja-passou": 1322,
         "muito-longe": 1
       },
       "erros": []
@@ -22,27 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:296341",
-      "name": "Seminário de Pesquisas em Tradução e Interpretação de/entre/para Línguas de Sinais e Vocais",
-      "start_date": "2026-09-14T21:00:00.000Z",
-      "end_date": "2026-09-14T23:00:00.000Z",
-      "location": "UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2022/06/Destaque-UFSC-Internet@1.5x-1024x618.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/seminario-de-pesquisas-em-traducao-e-interpretacao-deentrepara-linguas-de-sinais-e-vocais/",
-      "description": "O Núcleo de Pesquisas em Interpretação e Tradução de Línguas de Sinais e Vocais (InterTrads) e o Programa de Pós-Graduação em Estudos da Tradução da Universidade Federal de Santa Catarina (PGET/UFSC), em parceria com o curso de Letras Libras da UFSC e a Academia Trados, realizam, de 14 a 17 de setembro, o V Seminário de Pesquisas em Tradução e Interpretação de/entre/para Línguas de Sinais e Vocais. O evento será realizado on-line, das 18h às 21h30, com transmissões pelos canais da PGET/UFSC e do InterTrads no YouTube.\n\nA participação no evento é gratuita e voltada a estudantes de graduação e pós-graduação, docentes, pesquisadores, tradutores e intérpretes de línguas de sinais, guias-intérpretes, profissionais de áreas afins e demais interessados em tradução, interpretação, acessibilidade e línguas de sinais.\n\nA programação reúne uma palestra de abertura, seis mesas temáticas e o lançamento de livros. Ao longo dos quatro dias, graduados, mestres e doutores vinculados ao InterTrads apresentaram resultados de trabalhos de conclusão de curso, dissertações e teses desenvolvidos sob orientação de pesquisadores do Núcleo. Entre os temas que serão discutidos estão formação e competências profissionais; mapeamentos da produção acadêmica; identidade, preparação, práticas e gestão profissional; circulação e acesso à literatura em línguas de sinais; tradução comentada; processos tradutórios; e tradução e interpretação em contextos jurídicos e legislativos.\n\nNesta edição, o seminário contará com interpretação para português brasileiro, Libras, Língua de Sinais Internacional (IntSL) e Espanhol. A ampliação do acesso em diferentes línguas é impulsionada pela Rede de Formação de Tradutores e Intérpretes de Línguas de Sinais da América Latina e do Caribe (ReForTILS-LAC), desenvolvida pelo InterTrads e pela PGET em parceria com a WASLI – Região Latino-América e Caribe e a Academia Trados. As atividades terão transmissões em Libras e português, além de espanhol e Língua de Sinais Internacional (IntSL), e contarão também com recursos destinados à participação de pessoas surdocegas. Não haverá inscrição antecipada. Os formulários para inscrição, registro de presença e certificação serão disponibilizados durante cada transmissão no YouTube.\n\nA participação é gratuita e haverá certificação conforme as atividades acompanhadas e os respectivos registros de presença realizados durante as transmissões.\n\nProgramação\n\n14 de setembro\n\n18h – Palestra de abertura: ‘Modelo Componencial de Competências de Intérpretes de Línguas de Sinais’, com José Ednilson Gomes de Souza Júnior.\n\n20h20 – Mesa 1: Mapeamentos e panoramas da produção acadêmica.\n\n15 de setembro\n\n18h – Mesa 2: Identidade, preparação, práticas e gestão profissional.\n\n20h20 – Mesa 3: Pesquisas, circulação e acesso à literatura em línguas de sinais.\n\n16 de setembro\n\n18h – Mesa 4: Tradução comentada.\n\n20h20 – Mesa 5: Processos tradutórios.\n\n17 de setembro\n\n18h – Mesa 6: Tradução e interpretação em contextos jurídicos e legislativos.\n\n20h20 – Lançamento de livros.\n\nMais informações sobre o evento, a programação e os procedimentos de participação estão disponíveis no site do InterTrads e da Pós-Graduação em Estudos da Tradução",
-      "tags": [
-        "seminário",
-        "letras libras ufsc",
-        "núcleo intertrads",
-        "programa de pós-graduação em estudos da tradução (pget)"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:296475",
       "name": "7º Fazendo Cruzos: Movimentos Negros por Memória, Verdade, Justiça e Reparação",
@@ -555,6 +534,26 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296586",
+      "name": "Aula magna: ‘Atlas Geográfico de Santa Catarina’",
+      "start_date": "2026-09-21T22:00:00.000Z",
+      "end_date": "2026-09-22T00:00:00.000Z",
+      "location": "Auditório do Centro de Filosofia e Ciências Humanas (CFH) da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/02/315A9995_GustavoDiehl-900px.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/aula-magna-atlas-geografico-de-santa-catarina/",
+      "description": "Foto: Gustavo Diehl/Agecom/UFSC\n\nA Universidade Federal de Santa Catarina (UFSC) promove, no dia 21 de setembro, às 19h, a aula magna Atlas Geográfico de Santa Catarina, com a professora Isa de Oliveira Rocha, da Universidade do Estado de Santa Catarina (UDESC). O evento será realizado no Auditório do Centro de Filosofia e Ciências Humanas (CFH) da UFSC, em Florianópolis. A atividade é voltada à comunidade acadêmica, especialmente graduandos e pós-graduandos em Geografia, e não exige inscrição prévia. A participação é gratuita e dará direito a certificado de quatro horas.\n\nDurante a conferência, Isa de Oliveira Rocha apresentará a trajetória, a concepção metodológica e as contribuições do Atlas Geográfico de Santa Catarina, coleção organizada em fascículos temáticos e editada pela Editora da UDESC. A publicação reúne informações cartográficas, dados históricos e análises sobre diferentes aspectos do território catarinense, constituindo uma importante referência para pesquisas, atividades de ensino e planejamento territorial. A aula magna é realizada pela UFSC, por meio do Departamento de Geociências e do Laboratório de Estudos Urbanos e Regionais (LABEUR), com a participação do professor José Messias Bastos, coordenador do Curso de Graduação em Geografia da universidade. A iniciativa conta ainda com o apoio do Laboratório de Planejamento Urbano e Regional (LABPLAN) da UDESC.\n\nA atual coleção do Atlas Geográfico de Santa Catarina começou a ser publicada em 2013, a partir de uma parceria entre a UDESC e o Governo do Estado. Coordenado pela professora Isa de Oliveira Rocha, o projeto reúne pesquisadores de diferentes instituições e áreas do conhecimento para produzir mapas, séries históricas, textos e análises sobre a formação e as transformações do território catarinense. A coleção é composta por fascículos temáticos. O primeiro, Estado e Território, aborda a formação territorial de Santa Catarina, a evolução da divisão político-administrativa e o processo de criação dos municípios.\n\nO segundo fascículo, Diversidade da Natureza, reúne estudos sobre geossistemas, geologia, relevo, clima, hidrografia, solos, vegetação e ilhas costeiras. Já o terceiro, População, analisa a formação socioespacial catarinense, os povos indígenas, os movimentos migratórios, a distribuição territorial da população, a dinâmica demográfica e a urbanização. O quarto volume, Infraestrutura, apresenta um diagnóstico das redes de transporte, energia elétrica, gás natural, saneamento básico, comunicação e informação no estado. O quinto fascículo, dedicado ao panorama econômico catarinense, está em elaboração e tem lançamento previsto para 2027.",
+      "tags": [
+        "aula magna",
+        "centro de ciências humanas e filosofia (cfh)",
+        "udesc"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:296504",
       "name": "Cineclube Pet Conexões de Saberes: Marte Um",
       "start_date": "2026-09-21T22:00:00.000Z",
@@ -594,6 +593,26 @@
         "ifsc"
       ],
       "category": "academico",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:296591",
+      "name": "6ª Plenária das Licenciaturas da UFSC",
+      "start_date": "2026-09-23T03:00:00.000Z",
+      "end_date": "2026-09-24T02:59:59.000Z",
+      "location": "Auditório do Espaço Físico Integrado (EFI).",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2018/05/dest_efi.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/6a-plenaria-das-licenciaturas-da-ufsc/",
+      "description": "O Fórum das Licenciaturas da Universidade Federal de Santa Catarina (UFSC) realizará sua 6ª Plenária anual nos dias 23 e 24 de setembro, no auditório do Espaço Físico Integrado (EFI).\n\nNesta edição, o evento debaterá os desafios relacionados às condições de trabalho e à saúde de profissionais que atuam na Educação Básica, além de temas importantes para a organização curricular das licenciaturas da UFSC. A mesa-redonda de abertura discutirá a plataformização do ensino e o adoecimento de docentes que atuam nas escolas e demais unidades educacionais.\n\nNa manhã de quinta-feira, a segunda mesa-redonda debaterá os avanços e os desafios dos estágios nas licenciaturas e o Programa Institucional de Iniciação à Docência na UFSC. Antes do encerramento, o último debate reunirá integrantes dos observatórios nacional e regional da violência contra educadores para discutir o tema Violência contra a escola e docentes: um ataque à educação pública.\n\nAlém das mesas-redondas abertas ao público, a programação incluirá dois encontros internos com os colegiados e os núcleos docentes estruturantes dos cursos de licenciatura. Essas atividades, previstas para a manhã e tarde do dia 23, abordarão normas para organização dos cursos e aspectos das avaliações do ENADE Licenciaturas e da Prova Nacional Docente.\n\nAgenda\n\nQuarta-feira: 23/09\n\n08h30 às 11h30\n\nReunião interna com os colegiados e NDEs das Licenciaturas\n\nPauta: Constituição da Divisão de Apoio e Fortalecimento das Licenciaturas – DALIC/PROGRAD; Atualização da Resolução Normativa CNE/CP n. 04/2024; Resolução Normativa n. 229/2026/CUn (Política Institucional de formação de professores da UFSC).\n\n13h30 às 17h30\n\nReunião interna com os colegiados e NDEs das Licenciaturas\n\nPauta: Aspectos da autoavaliação de curso e dados do ENADE das Licenciaturas. Convidados: Professor Guilherme Wagner (CEE/UFSC-Blumenau); professor Hamilton de Godoy Wielewick (MEN/CED/UFSC); Representante da CPA. Mediação da professor Glaucia Santos Zimmermann (DEN/Prograd).\n\n18h30 às 21h30\n\nAbertura oficial da 6ª plenária das licenciaturas\n\nMesa Redonda Desafios com a plataformização e com o adoecimento docente na Educação Básica.\n\nConvidados: Professora, Marina Bazzo De Espíndola (MEN/UFSC); professora Edna Araujo dos Santos de Oliveira (EED/UFSC); professor Julian Borba (SCP/CFH); Professora Cintia P. Ribeiro de Souza (SCP/CFH), com mediação do professor, Rafael Márcio Kretzer – REESC.\n\nQuinta-feira 24/09\n\n08h30 às 11h30\n\nMesa redonda: Avanços e desafios do estágio supervisionado e do PIBID na formação de professores na UFSC.\n\nConvidados: Professor Thiago Jorge Ferreira Santos (MEN/UFSC); professora, Cristiane Dall Cortivo Lebler (MEN/UFSC); professora, Gabriela Furlan Carcaioli (EDC/UFSC); professora Barbara Quadros Isidorio (CA/UFSC) com mediação do Clebson Oliveira da Costa (DALIC/Prograd).\n\n13h30 às 17h30\n\nMesa redonda: Violência contra a escola e docentes: um ataque à educação pública\n\nConvidados: Professor Fernando Penna (UFF; Observatório Nacional da Violência Contra Educadores); professor Graziella Souza dos Santos (EED/UFSC; Observatório Regional da Violência Contra Educadores). com mediação professora Ana Gabriela Pinheiro (Mestranda PPGE; Rede Municipal de Educação de Florianópolis).\n\nEncerramento.\n\nA participação será certificada e as inscrições gratuitas serão feitas no local.",
+      "tags": [
+        "plenária",
+        "espaço físico integrado (efi)",
+        "fórum das licenciaturas da ufsc"
+      ],
+      "category": "palestra",
       "is_free": true,
       "is_all_day": true
     },
