@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-16T14:09:18.175Z",
+  "geradoEm": "2026-09-16T21:11:45.482Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1358,
-      "selecionados": 35,
+      "selecionados": 34,
       "ignorados": {
-        "ja-passou": 1322,
+        "ja-passou": 1323,
         "muito-longe": 1
       },
       "erros": []
@@ -133,22 +133,6 @@
         "ufsc curitibanos"
       ],
       "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296410",
-      "name": "Evento: ‘i.a. crítica?’",
-      "start_date": "2026-09-15T12:00:00.000Z",
-      "end_date": "2026-09-15T20:00:00.000Z",
-      "location": "Auditório Henrique Fontes, no Centro de Comunicação e Expressão da UFSC, em Florianópolis",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.paginas.ufsc.br/files/2026/09/poster_evento_iacritica_p-212x300.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/evento-i-a-critica/",
-      "description": "Os Programas de Pós-Graduação em Literatura e em Estudos da Tradução da Universidade Federal de Santa Catarina (UFSC) promovem, no dia 15 de setembro, o evento i.a. crítica ?, que tem o objetivo de discutir o impacto do uso de recursos de Inteligência Artificial na sociedade e na formação de estudantes, especialmente na área das Humanidades.\n\nOrganizada pelo professor Pedro Falleiros Heise, do Departamento de Línguas e Literaturas Vernáculas, a atividade reúne docentes da UFSC, da Universidade do Estado de Santa Catarina (Udesc), da Universidade de São Paulo (USP) e do Instituto Tecnológico de Aeronáutica (ITA/SP) que discutirão os impactos da I.A. na filosofia, antropologia, saúde, educação e tradução.\n\nA programação será realizada das 9h às 17h, no Auditório Henrique Fontes, no Centro de Comunicação e Expressão da UFSC, em Florianópolis. Não é necessária inscrição prévia, mas haverá certificado para pessoas que cumprirem a carga horária do evento.\n\nConfira a programação:\n\nMesa-redonda – filosofia, antropologia e saúde\n\n9h: Recursividade humano-máquina: o ponto de vista antropológico – Letícia Cesarino (UFSC)\n\n10h: Modo online e esvaziamento do corpo: produção de sofrimento no contexto do suicídio de jovens Guarani Mbyá da Grande Florianópolis – Marina Risi (Udesc)\n\n11h: Estética, Ética, Lógica e I.A.: Proposta de debate – Cassiano Terra Rodrigues (ITA-SP)\n\nMesa-redonda: educação e tradução\n\n14h: Quando Pinóquio virou Oráculo – Caio Gagliardi (USP)\n\n15h: i.a. contra as Humanidades – André Cechinel (UFSC)\n\n16h: Como nascem os deuses? – Pedro Falleiros Heise (UFSC)\n\nOutras informações na página do evento.",
-      "tags": [],
-      "category": "outro",
       "is_free": true,
       "is_all_day": false
     },
