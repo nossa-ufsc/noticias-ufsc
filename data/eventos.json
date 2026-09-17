@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-16T21:11:45.482Z",
+  "geradoEm": "2026-09-17T21:13:41.857Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1358,
+      "totalNoFeed": 1365,
       "selecionados": 34,
       "ignorados": {
-        "ja-passou": 1323,
+        "ja-passou": 1330,
         "muito-longe": 1
       },
       "erros": []
@@ -22,79 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:296475",
-      "name": "7º Fazendo Cruzos: Movimentos Negros por Memória, Verdade, Justiça e Reparação",
-      "start_date": "2026-09-15T03:00:00.000Z",
-      "end_date": "2026-09-16T02:59:59.000Z",
-      "location": "Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Atualizacao_programacao_Fazendo_Cruzos.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/7o-fazendo-cruzos-movimentos-negros-por-memoria-verdade-justica-e-reparacao/",
-      "description": "Evento atualizado em 14/09/2026, às 8h28\n\nO programa de pesquisa e extensão Ebó Epistêmico, vinculado aos departamentos de Antropologia e Museologia da Universidade Federal de Santa Catarina (UFSC), realiza o 7º Fazendo Cruzos: Movimentos Negros por Memória, Verdade, Justiça e Reparação, nos dias 15, 16 e 17 de setembro, no Centro de Filosofia e Ciências Humanas (CFH). O encontro é voltado à discussão antirracista e à defesa de direitos humanos e contará com mesas-redondas, oficinas temáticas, exposição, performances, intervenções, apresentações artísticas e uma feira gastronômica. As inscrições são gratuitas, garantem certificado e devem ser realizadas pelo sistema de inscrições da UFSC.\n\nCada edição está voltada para a criação de espaços de diálogo e troca de conhecimento sobre um tema central. A 7ª edição irá abordar o período da ditadura civil-militar e discutir os efeitos que aprofundaram a desigualdade racial na sociedade. “Diante da violência, os movimentos negros se organizaram e, por meio de manifestações políticas, artísticas e culturais, lutaram contra a brutalidade policial, a desigualdade social e o racismo. Ao afirmar o poder das pessoas negras e suas lutas por memória, verdade e justiça contra os desaparecimentos e o apagamento, destacaremos, a partir de uma perspectiva antropológica, o protagonismo da população negra e a urgência de reparações como forma de afirmação antirracista”, informa a organização do evento.\n\nConfira a programação do evento\n\n15 de setembro (Auditório do CFH)\n\nMesa de abertura\n\n18h: Performance Negros em movimento, ditadura nunca mais! Companhia Ebó Epistémico e Dj Makal\n\nRoda de Conversa Movimentos Negros por memória, verdade, justiça e reparação\n\n18h30: Fábio Garcia(mediador) Flávia Helena de Lima Patrícia Oliveira Vanda Pinedo\n\n16 de setembro\n\nOficinas – a partir das 14h30\n\nMeu poder é negro! Turbantes e penteados MC Jussara Lima – Sala CFH 316\n\nMeu baile é black – Discotecagem Dj Juanita e Dj Mary Jane – Sala CFH 302\n\nPelo fim da violência policial! Jornalismo investigativo com o Desterro Observatório de Violencia – Gabriele Oliveira e Rodrigo Barbosa – Miniauditório do CFH\n\nAquilombar o cuidado! Saberes, prevenção e resistência na promoção da saúde – GAPA SC-Grupo de Apoio à Prevenção da Aids de Santa Catarina – Auditório do Bloco F/CFH\n\n17 de setembro (Entreblocos E/F do CFH)\n\n18h30: Aula-espetáculo Escola de samba e Movimento Negro! A Arte Negra em ContraAtaque – Jeferson Antônio Costa e personalidades das Escolas de Samba de Florianópolis/SC –\n\n“Fazendo Cruzos com Antropologias, Artes e Museologias” é um projeto realizado pela Ebó Epistêmico/UFSC, a partir da transposição didática dos conteúdos da disciplina Estudos Afro-Brasileiros, ofertada pelo departamento de Antropologia ao curso de Licenciatura em Ciências Sociais, sob a forma de evento acadêmico, científico, artístico e cultural realizado desde 2022.\n\nPara mais informações, acesse o Instagram do projeto.",
-      "tags": [
-        "atrações culturais",
-        "exposição",
-        "feira",
-        "oficina",
-        "roda de conversa",
-        "cfh",
-        "departamento de antropologia",
-        "departamento de museologia",
-        "ebó epistêmico",
-        "fazendo cruzos"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295928",
-      "name": "Jornadas Bolivarianas",
-      "start_date": "2026-09-15T03:00:00.000Z",
-      "end_date": "2026-09-18T02:59:59.000Z",
-      "location": "Centro Socioeconômico (CSE), Auditório e Mini auditório do Serviço Social",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/cartaz-Jornadas-Bolivarianas-1024x683.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/jornadas-bolivarianas/",
-      "description": "A edição das Jornadas Bolivarianas nesse segundo semestre traz a presença do advogado, delegado aposentado da Polícia Civil e coordenador do movimento Policiais Antifascistas, Orlando Zaccone. Ele participa de uma conferência aberta no dia 15 de setembro, às 19 horas, no Auditório do Centro Socioeconômico (CSE), e também ministra um minicurso sobre a Economia da Barbárie Capitalista, cujo eixo principal é a violência. O minicurso será nos dias 16 e 17, das 9h às 12 horas, na sala D217 – Bloco D, segundo andar do CSE. A atividade é gratuita, mas é necessário realizar inscrições por meio deste link.\n\n“Se existe algo que definitivamente toca a população é o tema da segurança. No capitalismo dependente periférico, no qual a barbárie é a regra, vive-se bombardeado por notícias de assassinatos, assaltos e violências diversas que atravessam o dia-a-dia. Não é sem razão que seja a partir desse bordão de segurança pública que governos são eleitos, como é o caso de Nayib Bukele, de El Salvador, exemplo bem conformado de um governo autoritário que encarcerou boa parte da população e recebe aplaudida aprovação. Sua proposta de “mão dura” para o crime faz escola e tanto o presidente da Colômbia, quanto do Equador e Chile se elegeram nessa toada.\n\nNo Brasil, e nos demais países da América Latina, a violência tem sido avassaladora. Segundo dados do Atlas da Violência, elaborado pelo IPEA, no Brasil foram 42.590 mortes violentas intencionais, homicídios, em 2024, e praticamente a metade destas mortes envolve pessoas jovens. Agora, em 2026, números ainda parciais revelam também a ascensão do feminicídio, somando quase mil mortes nos últimos sete meses. O uso da arma de fogo para resolver pendências cotidianas vem se tornando banal e os programas de cunho sensacionalista proliferam nas emissoras de televisão, reportando os casos e incutindo medo na população. A falta de emprego e toda a lógica de destruição da vida imposta pelo capitalismo dependente nos países periféricos tornam o tema da violência e da segurança crucial.” (texto publicado no site do IELA)",
-      "tags": [
-        "aula pública",
-        "conferência",
-        "jornada",
-        "minicurso",
-        "cse",
-        "iela",
-        "jornadas bolivarianas",
-        "violência e segurança"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296314",
-      "name": "Seminário de Eletrônica de Potência e Processamento de Energia Elétrica em Blumenau",
-      "start_date": "2026-09-15T03:00:00.000Z",
-      "end_date": "2026-09-16T02:59:59.000Z",
-      "location": "Sala B112 - Campus de Blumenau",
-      "campus": "blumenau",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/1__-SEPPEL-_Semin__rio-de-Eletr__nica-de-Pot__ncia-e-Processamento-de-Energia-El__trica_-724x1024.png",
-      "ticket_url": "https://inscricoes.ufsc.br/seppel",
-      "info_url": "https://noticias.ufsc.br/event/seminario-de-eletronica-de-potencia-e-processamento-de-energia-eletrica-em-blumenau/",
-      "description": "De 15 a 17 de setembro, a UFSC Blumenau realiza o 1º Seminário de Eletrônica de Potência e Processamento de Energia Elétrica (Seppel). O evento é voltado a estudantes do curso de Engenharia de Controle e Automação e contará com palestras e uma mesa-redonda sobre o tema Eletrônica de Potência.\n\nO 1º Seppel é promovido pelo Grupo de Eletrônica de Potência e Processamento de Energia Elétrica (Geppel). As vagas são limitadas e a inscrição prévia pode ser feita neste link.\n\nConfira abaixo a programação completa:\n\n15/09/26 – 18h\n\nTítulo: O que é Eletrônica de Potência? Definições e aplicações\n\nPalestrante: Prof. Adriano Peres\n\nLocal: Sala B112 – Campus Blumenau\n\n15/09/26 – 19h\n\nTítulo: Tecnologia Hardware in the Loop e aplicações em eletrônica de potência\n\nPalestrante: Prof. Tiago Davi Curi Busarello\n\nLocal: Sala B112 – Campus Blumenau\n\n16/09/26 – 18h\n\nTítulo: Dominando a Energia: O papel dos sistemas de controle em Eletrônica de Potência\n\nPalestrante: Prof. Luiz Antonio Maccari Jr.\n\nLocal: Sala B112 – Campus Blumenau\n\n16/09/26 – 19h\n\nTítulo: Do Experimento ao Modelo: Identificação de Sistemas em Conversores de Eletrônica de Potência\n\nPalestrante: Prof. Marcos Vinicius Matsuo\n\nLocal: Sala B112 – Campus Blumenau\n\n17/09/26 – 18h\n\nMesa Redonda – Tópicos Recentes em Eletrônica de Potência\n\nLocal: Sala B112 – Campus Blumenau\n\nDaiana Martini/Divisão de Comunicação UFSC Blumenau\n\nTickets: https://inscricoes.ufsc.br/seppel.",
-      "tags": [
-        "seminário",
-        "departamento de energia elétrica e eletrônica",
-        "seppel",
-        "ufsc blumenau"
-      ],
-      "category": "palestra",
-      "is_free": null,
-      "is_all_day": true
-    },
     {
       "source_id": "ara:25068",
       "name": "SEATIC",
@@ -112,102 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296555",
-      "name": "Exposição Salim Miguel – 100 Anos",
-      "start_date": "2026-09-15T11:00:00.000Z",
-      "end_date": "2026-09-16T01:00:00.000Z",
-      "location": "Hall do CBS- 01 | UFSC – Campus de Curitibano",
-      "campus": "curitibanos",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Salim-Miguel-1024x576.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/exposicao-salim-miguel-100-anos-2/",
-      "description": "O campus de Curitibanos da Universidade Federal de Santa Catarina (UFSC) recebe a exposição Salim Miguel – 100 Anos a partir desta terça-feira, 15 de setembro, no Hall do CBS-01. A visitação pode ser feita de segunda a sexta-feira das 8h às 12h; das 13 às 17h; e 18 às 22h, até 16 de outubro.\n\nA mostra é um tributo ao centenário de nascimento de Salim Miguel (1924-2016), figura ímpar da literatura brasileira e catarinense contemporâneas. Reconhecido com o Prêmio Machado de Assis da Academia Brasileira de Letras e agraciado com o título de Doutor Honoris Causa pela própria UFSC, Miguel foi um multifacetado escritor, editor, jornalista, roteirista e gestor cultural, cujo legado transcende gerações.\n\nA exposição promete uma imersão na vida e na vasta obra deste intelectual, que dedicou sua vida à cultura. O objetivo é preservar a memória cultural de Santa Catarina, dando visibilidade à sua inestimável contribuição e proporcionando acesso gratuito à história da sua obra e percurso. Esta iniciativa integra o Programa de Extensão Centenário de Salim Miguel, que reúne diversas ações acadêmicas e culturais em torno do seu legado, instigando debates, estudos e pesquisas.\n\nA mostra permanecerá aberta para visitação gratuita até 16 de outubro, de segunda a sexta-feira das 08 às 12h; das 13 às 17h; e 18 às 22h.\n\nMais informações na página da Secretaria de Cultura e Arte (SeCArte/UFSC).",
-      "tags": [
-        "exposição",
-        "100 anos",
-        "escritor",
-        "literatura catarinense",
-        "salim miguel",
-        "ufsc curitibanos"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296112",
-      "name": "Conferência: ‘A IA no contexto universitário’",
-      "start_date": "2026-09-15T21:00:00.000Z",
-      "end_date": "2026-09-16T00:00:00.000Z",
-      "location": "Auditório da Reitoria - Campus Trindade",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/recepcao-calouros-2026-02_cartaz_conferencia-atualizada-212x300-212x300.png",
-      "ticket_url": "https://inscricoes.ufsc.br/activities/13531",
-      "info_url": "https://noticias.ufsc.br/event/ia-no-contexto-universitario/",
-      "description": "A Pró-Reitoria de Graduação e Educação Básica (Prograd) da Universidade Federal de Santa Catarina (UFSC) promove, no dia 15 de setembro, terça-feira, a conferência A IA no contexto universitário. O evento ocorre às 18h no Auditório da Reitoria, Campus Trindade, e integra um ciclo de debates sobre Inteligência Artificial na UFSC, com debates e reflexões sobre as novas tecnologias e seus impactos e possibilidades nos processos de ensino e aprendizagem.\n\nNo dia da conferência de abertura, haverá uma homenagem aos 40 anos de IA na UFSC e apresentações artísticas. Os palestrantes serão Jônata Tyska e Aldo Von Wangenheim, ambos do Departamento de Informática e Estatística (INE/UFSC).\n\nInscreva-se aqui para participar. Será fornecido certificado de 2 horas de participação.\n\nMais informações na página Calouros e Calouras UFSC.\n\nTickets: https://inscricoes.ufsc.br/activities/13531.",
-      "tags": [
-        "conferência",
-        "palestra",
-        "ctc",
-        "ia",
-        "ine",
-        "inteligência artificial (ia)",
-        "prograd"
-      ],
-      "category": "palestra",
-      "is_free": null,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296318",
-      "name": "Cineclube Cinecittà: Magari",
-      "start_date": "2026-09-15T22:00:00.000Z",
-      "end_date": "2026-09-16T00:00:00.000Z",
-      "location": "Sala de Projeção do LEC (CCE • BLOCO D).",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Cinecittá-Magari.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cineclube-cinecitta-magari/",
-      "description": "O Cineclube Cinecittà promove a exibição do filme Magari (2019), da diretora italiana Ginevra Elkann, em sessão gratuita aberta à comunidade universitária e ao público externo. A atividade ocorre na próxima terça 15/9, às 19:00, na Sala de Projeção do LEC (CCE • BLOCO D).\n\nFilme de abertura da 72ª edição do Festival de Locarno, Magari acompanha Alma, uma menina de nove anos que vive em Paris com a mãe russo-ortodoxa e os dois irmãos, Jean e Sebastiano. Nas férias de Natal do início dos anos 1990, os três são enviados para passar uma temporada com Carlo, o pai italiano falido e desajeitado, que vive à beira-mar com sua companheira Benedetta. Entre a esperança infantil de reunir os pais e o contato com um universo adulto confuso e afetuoso ao mesmo tempo, o filme constrói, sob o olhar de Alma, um retrato de família fragmentada, marcado por gestos de desencontro e ternura.\n\nEstreando na direção, Ginevra Elkann, produtora de formação, que já atuou como assistente de Bernardo Bertolucci, traz para Magari uma experiência pessoal, também sendo filha de pais separados quando ainda era criança. O próprio título do filme dá pistas de seu tom: magari é uma palavra intraduzível do italiano, que expressa ao mesmo tempo desejo e resignação, um “quem sabe” carregado de esperança e melancolia, um sentimento que atravessa toda a narrativa e que, segundo a diretora, é onde mora a alegria do filme, na fantasia. Com roteiro escrito ao lado de Chiara Barzini e um elenco que reúne Riccardo Scamarcio e Alba Rohrwacher, a obra confirma o interesse do cinema italiano contemporâneo em revisitar a infância e a memória familiar como território narrativo.\n\nO Cineclube Cinecittà é um projeto dedicado à difusão do cinema italiano, à pesquisa do cinema de autoras contemporâneas e à promoção de debates sobre cinema, arte e cultura. Após a sessão, haverá conversa aberta com os participantes.",
-      "tags": [
-        "cinema",
-        "filme",
-        "cce",
-        "cineclube cinecittà",
-        "filme italiano",
-        "magari"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296559",
-      "name": "Palestra: Estratégias de combate ao racismo institucional",
-      "start_date": "2026-09-16T17:00:00.000Z",
-      "end_date": "2026-09-16T21:00:00.000Z",
-      "location": "Auditório E do Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Cátedra-Antonieta-de-Barros-UFSC-1024x567.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/palestra-estrategias-de-combate-ao-racismo-institucional/",
-      "description": "A Cátedra em Educação para Igualdade Racial – Antonieta de Barros da Universidade Federal de Santa Catarina (UFSC) promove a palestra “Estratégias de combate ao racismo institucional” nesta quarta-feira, 16 de setembro, às 14h, no Auditório E Centro de Filosofia e Ciências Humanas (CFH/UFSC).\n\nA atividade compõe a programação que integra a Missão do Programa Abdias Nascimento e contará com a participação da professora Carolina Sánchez (UNAM), do México. Também vão participar do debate o professor Lindberg Nascimento e a professora Lia Vainer Schucman.\n\nMais informações no Instagram.",
-      "tags": [
-        "palestra",
-        "antonieta de barros",
-        "carolina sánchez",
-        "cátedra em educação para igualdade racial",
-        "igualdade racial",
-        "lia vainer schucman",
-        "programa abdias nascimento",
-        "racismo",
-        "racismo institucional"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:296522",
@@ -252,6 +83,31 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:295928",
+      "name": "Jornadas Bolivarianas",
+      "start_date": "2026-09-17T12:00:00.000Z",
+      "end_date": "2026-09-17T15:00:00.000Z",
+      "location": "Centro Socioeconômico (CSE), Auditório e Mini auditório do Serviço Social",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/08/cartaz-Jornadas-Bolivarianas-1024x683.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/jornadas-bolivarianas/",
+      "description": "A edição das Jornadas Bolivarianas nesse segundo semestre traz a presença do advogado, delegado aposentado da Polícia Civil e coordenador do movimento Policiais Antifascistas, Orlando Zaccone. Ele participa de uma conferência aberta no dia 15 de setembro, às 19 horas, no Auditório do Centro Socioeconômico (CSE), e também ministra um minicurso sobre a Economia da Barbárie Capitalista, cujo eixo principal é a violência. O minicurso será nos dias 16 e 17, das 9h às 12 horas, na sala D217 – Bloco D, segundo andar do CSE. A atividade é gratuita, mas é necessário realizar inscrições por meio deste link.\n\n“Se existe algo que definitivamente toca a população é o tema da segurança. No capitalismo dependente periférico, no qual a barbárie é a regra, vive-se bombardeado por notícias de assassinatos, assaltos e violências diversas que atravessam o dia-a-dia. Não é sem razão que seja a partir desse bordão de segurança pública que governos são eleitos, como é o caso de Nayib Bukele, de El Salvador, exemplo bem conformado de um governo autoritário que encarcerou boa parte da população e recebe aplaudida aprovação. Sua proposta de “mão dura” para o crime faz escola e tanto o presidente da Colômbia, quanto do Equador e Chile se elegeram nessa toada.\n\nNo Brasil, e nos demais países da América Latina, a violência tem sido avassaladora. Segundo dados do Atlas da Violência, elaborado pelo IPEA, no Brasil foram 42.590 mortes violentas intencionais, homicídios, em 2024, e praticamente a metade destas mortes envolve pessoas jovens. Agora, em 2026, números ainda parciais revelam também a ascensão do feminicídio, somando quase mil mortes nos últimos sete meses. O uso da arma de fogo para resolver pendências cotidianas vem se tornando banal e os programas de cunho sensacionalista proliferam nas emissoras de televisão, reportando os casos e incutindo medo na população. A falta de emprego e toda a lógica de destruição da vida imposta pelo capitalismo dependente nos países periféricos tornam o tema da violência e da segurança crucial.” (texto publicado no site do IELA)",
+      "tags": [
+        "aula pública",
+        "conferência",
+        "jornada",
+        "minicurso",
+        "cse",
+        "iela",
+        "jornadas bolivarianas",
+        "violência e segurança"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:296572",
       "name": "Roda de conversa sobre ações afirmativas e presença indígena na educação superior",
       "start_date": "2026-09-17T12:00:00.000Z",
@@ -292,6 +148,27 @@
         "centro de filosofia e ciência humanas (cfh)",
         "cine meridianum",
         "filme menocchi"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296607",
+      "name": "Roda de conversa sobre o uso problemático de smartphones",
+      "start_date": "2026-09-17T21:00:00.000Z",
+      "end_date": "2026-09-17T22:30:00.000Z",
+      "location": "Auditório bloco F - CFH",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/167145-822x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-sobre-o-uso-problematico-de-smartphones/",
+      "description": "A Liga Acadêmica de Psicologia Baseada em Evidências (LAPBE), vinculada ao Departamento de Psicologia do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC), promove a roda de conversa Uso problemático de smartphones. O evento ocorre nesta quinta-feira, 17 de setembro, das 18h às 19h30, no Auditório bloco F do CFH. O evento tem como proposta debater a pesquisa de Amanda Vieira Simolini, além de abordar como o uso de smarthphones pode interferir negativamente a vida das pessoas.\n\nAmanda Vieira Simolini é psicóloga formada pela Universidade do Estado de Minas Gerais (UEMG) e mestranda em Psicologia pela UFSC, na área de Saúde e Desenvolvimento Psicológico. Também é pesquisadora no Laboratório de Neuropsicologia Cognitiva e Escolar (LANCE/UFSC), em que estuda o uso problemático de smartphones na adolescência e seus impactos nas funções executivas e regulação emocional.\n\nAs inscrições devem ser feites neste formulário e são limitadas a 60 vagas. Será disponibilizado um certificado de 1h30 para os estudantes que comparecerem.\n\nMais informações na página do evento.",
+      "tags": [
+        "roda de conversa",
+        "auditório do cfh",
+        "lapbe",
+        "psicologia"
       ],
       "category": "palestra",
       "is_free": true,
@@ -384,6 +261,25 @@
         "simpósio do câncer infantojuvenil"
       ],
       "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296642",
+      "name": "Translógica e Corpo: Experiências com Movimentos Essenciais",
+      "start_date": "2026-09-18T13:30:00.000Z",
+      "end_date": "2026-09-18T15:00:00.000Z",
+      "location": "Sala 322 do Centro de Filosofia e Ciências Humanas (CFH) Bloco B UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2022/06/Destaque-UFSC-Internet@1.5x-1024x618.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/translogica-e-corpo-experiencias-com-movimentos-essenciais/",
+      "description": "Entre setembro e dezembro de 2026, será realizado o evento Translógica e Corpo: Experiências com Movimentos Essenciais, iniciativa que propõe integrar conhecimento conceitual e experiência corporal por meio de práticas, vivências e diálogos. A atividade é destinada a membros da comunidade em geral e não exige inscrição prévia.\n\nOrganizado por Mariana Paolozzi, professora do Departamento de Filosofia, e Cristiane Ker de Melo, do Departamento de Educação Física, o projeto será desenvolvido em oito oficinas quinzenais, com duração de uma hora e meia cada. As oficinas serão conduzidas por Silvia Lignon e ocorrerão às sextas-feiras, das 10h30 às 12h, entre setembro e dezembro.\n\nAs atividades presenciais serão realizadas na Sala 322 do CFH, Bloco B, enquanto parte dos encontros ocorrerá de forma on-line, pela plataforma Zoom. As datas previstas são 4 e 18 de setembro; 2, 16 e 30 de outubro; 13 e 27 de novembro; e 11 de dezembro. A proposta parte da necessidade de ampliar a compreensão da experiência humana para além da dimensão individual e da identificação com a mente racional. Nesse contexto, o projeto busca aproximar o saber conceitual do saber vivencial, articulando corpo, experiência e relação.\n\nDurante as oficinas, serão apresentados princípios dos Movimentos Essenciais, acompanhados de exercícios práticos e corporais voltados à presença, ao assentimento e à percepção sistêmica. As atividades também incluem práticas e vivências fenomenológicas destinadas ao desenvolvimento do olhar observador, do assentimento existencial e da linguagem simbólica e sistêmica.\n\nSegundo a proposta, as experiências buscam possibilitar aos participantes uma reflexão sobre a passagem do Eu, associado à personalidade e à mente, para o Nós, compreendido como totalidade. A iniciativa também procura estabelecer uma aproximação entre a ética da reconciliação e a inteligência corporal, criando conexões entre pensamento, corpo e experiência.\n\nCada encontro contará com momentos teóricos e vivenciais, seguidos de diálogos para que os participantes possam compartilhar suas percepções e esclarecer compreensões surgidas durante os exercícios. A participação é gratuita e não haverá emissão de certificado. Também não é necessário realizar inscrição. Mais informações podem ser obtidas com Silvia Lignon, pelo telefone (51) 99982-3360 ou pelo email mesilviadavi@gmail.com.",
+      "tags": [
+        "oficina",
+        "centro de ciências humanas e filosofia (cfh)"
+      ],
+      "category": "curso",
       "is_free": true,
       "is_all_day": false
     },
@@ -518,6 +414,51 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296641",
+      "name": "Semana da Árvore UFSC 2026",
+      "start_date": "2026-09-21T12:00:00.000Z",
+      "end_date": "2026-09-21T13:00:00.000Z",
+      "location": "UFSC, Campus da Trindade",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.paginas.ufsc.br/files/2026/09/Semana_da_Arvore_2026-240x300.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/semana-da-arvore-ufsc-2026/",
+      "description": "Estão abertas as inscrições para a Semana da Árvore 2026, que ocorre na Universidade Federal de Santa Catarina (UFSC), de 21 a 25 de setembro. O evento, promovido pela Sala Verde UFSC e pelo Departamento de Gestão Ambiental (CGA), é realizado anualmente em comemoração ao Dia da Árvore (21 de setembro). A programação reúne oficinas que estimulam a reciclagem e o consumo consciente, chamam a atenção para a importância de pássaros e insetos para os ecossistemas e esclarecem sobre a relevância da recuperação de áreas degradadas.\n\nAs oficinas serão realizadas na Sala Verde, localizada no térreo da Biblioteca Central (BU/UFSC). As atividades são voltadas a pessoas de todas as idades, mas menores de 16 anos devem estar acompanhados de uma pessoa responsável.\n\nOficina de Ecocaderno\n\nA atividade faz parte do projeto Oficinas para uma Vida Consciente, da Sala Verde UFSC, e tem como objetivo a confecção de um caderno ecológico, gerando produto personalizado e consciente. Com base no diálogo sobre os 5R’s – repensar, recusar, reduzir, reutilizar e reciclar – participantes são estimulados a reaproveitar materiais diversos (papéis, espirais, capas, retalhos de tecidos) e orientados para criar encadernações artesanais de ecocadernos, ecoblocos, ecoagendas, etc.\n\nOficina Agentes secretos da natureza\n\nO objetivo da oficina é ampliar a percepção sobre a diversidade de insetos urbanos e sua importância ecológica, por meio de atividades sensoriais com materiais didáticos interativos e atividades externas no próprio campus da UFSC. Na prática, os participantes são convidados a refletir sobre o papel dos insetos (que representam cerca de 75% das espécies animais) no seu dia a dia e na saúde do planeta.\n\nOficina de reciclagem de papel\n\nParte do projeto Oficinas para uma Vida Consciente da Sala Verde UFSC, a reciclagem de papel é fundamental para combater o desperdício desse material. A oficina acontecerá de modo participativo, um momento dedicado à explicação de como fazer o papel artesanal. Serão apresentados os diferentes estágios dessa transformação, proporcionando uma experiência enriquecedora e de troca de conhecimentos\n\nOficina Aves e poleiros ecológicos: Estratégias para a restauração de áreas degradadas\n\nAlém de fazer parte da programação da Semana da Árvore, a atividade integra o Plano de Recuperação de Áreas Degradadas da UFSC (PRAD), e tem como objetivo sensibilizar e envolver a comunidade nas ações do plano. Em um primeiro momento, os participantes serão esclarecidos sobre a importância das aves para o equilíbrio dos ecossistemas, seu papel na dispersão de sementes, polinização e na recuperação de áreas degradadas. Em seguida, poderão visitar poleiros instalados no campus e participar da observação de aves com orientação.\n\nRecuperação de APPs com foco nas áreas degradadas de margens de cursos d’água\n\nTambém integrante do Plano de Recuperação de Áreas Degradadas da UFSC (PRAD), a atividade será composta por uma parte teórica e outra prática. Iniciará com uma breve apresentação do PRAD/UFSC seguida de uma introdução à ecologia da recuperação de áreas degradadas, abordando as definições de degradação e de recuperação, os mecanismos de regeneração natural de florestas e os processos importantes para a recuperação das áreas. A seguir, os conhecimentos serão aplicados em uma atividade prática de discussão em campo sobre como recuperar as margens dos córregos da UFSC\n\nAs atividades são gratuitas, abertas à comunidade universitária e ao público externo e geram certificado. Pessoas interessadas em participar devem fazer sua inscrição com antecedência, na página da Sala Verde UFSC.\n\nConfira a programação:\n\n21/09 – 9h às 12h: Oficina de Ecocaderno – Equipe da Sala Verde UFSC\n\n22/09 – 09h às 12h: Oficina Agentes Secretos da Natureza – Lucy Catherine, Maria Clara Rocha e Maria Luiza Dale, graduandas em Ciências Biológicas\n\n23/09 – 14h às 17h: Oficina de Reciclagem de Papel – Equipe da Sala Verde UFSC\n\n24/09 – 09h às 12h: Oficina Aves e Poleiros…",
+      "tags": [
+        "ao ar livre",
+        "oficina",
+        "semana de atividades",
+        "sala verde",
+        "semana da árvore",
+        "ufsc sustentável"
+      ],
+      "category": "curso",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296655",
+      "name": "Roda de conversa com candidatas às eleições em Santa Catatina",
+      "start_date": "2026-09-21T21:00:00.000Z",
+      "end_date": "2026-09-21T23:00:00.000Z",
+      "location": "Transmissão ao vivo pelo canal do IEG no Youtube",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/roda-de-conversa-candidatas-ieg-819x1024.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-com-candidatas-as-eleicoes-em-santa-catatina/",
+      "description": "O Instituto de Estudos de Gênero (IEG) da Universidade Federal de Santa Catarina (UFSC) promove uma roda de conversa on-line com candidatas a deputadas e senadoras por Santa Catarina no dia 21 de setembro, das 18h às 20h. O encontro será transmitido ao vivo pelo canal IEG no Youtube.\n\nA proposta é reunir as candidatas participantes em um mesmo espaço, destinado à apresentação de suas principais propostas, compromissos e pautas de políticas públicas voltadas às mulheres. As candidatas interessadas em participar deverão preencher o Formulário de Adesão até 17 de setembro.\n\nSegundo o IEG, a iniciativa reafirma o compromisso do instituto com a promoção de debate público, a democracia e a ampliação da discussão sobre políticas públicas voltadas à garantia dos direitos das mulheres.\n\nMais informações pelo e-mail estudosdegenero@gmail.com ou pelo telefone (48) 3721-6440.",
+      "tags": [
+        "roda de conversa",
+        "roda de diálogo",
+        "eleições",
+        "ieg",
+        "instituto de estudos de gênero (ieg)"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:296586",
       "name": "Aula magna: ‘Atlas Geográfico de Santa Catarina’",
       "start_date": "2026-09-21T22:00:00.000Z",
@@ -579,6 +520,51 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
+    },
+    {
+      "source_id": "agecom:296636",
+      "name": "Cineclube Cinecittà: D’amore e d’anarchia",
+      "start_date": "2026-09-22T22:00:00.000Z",
+      "end_date": "2026-09-23T00:00:00.000Z",
+      "location": "Sala de Projeção do LEC – CCE, Bloco D, UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/IMG_7666-1024x739.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cineclube-cinecitta-damore-e-danarchia/",
+      "description": "O Cineclube Cinecittà, projeto de extensão do curso de Letras Italiano da Universidade Federal de Santa Catarina (UFSC), exibe, na próxima terça-feira, 22 de setembro, o filme D’amore e d’anarchia (1973), da diretora italiana Lina Wertmüller. A sessão será realizada às 19h, na Sala de Projeção do LEC, no CCE – Bloco D. A atividade é gratuita e aberta à comunidade universitária e ao público externo. Não é necessário realizar inscrição para participar.\n\nAmbientado na Itália fascista dos anos 1930, o filme acompanha Tunin, um camponês lombardo que chega a Roma com a intenção de assassinar Benito Mussolini, motivado pela morte de um amigo pelas mãos dos camisas-negras. Para colocar o plano em prática, ele se hospeda sob uma falsa identidade em um bordel. No local, porém, acaba dividido entre a missão política e a paixão inesperada por Tripolina, uma das mulheres que trabalham na casa.\n\nEntre a comédia e a tragédia, o filme combina farsa, melodrama e crítica social para abordar as relações entre desejo, violência e política. Com Giancarlo Giannini e Mariangela Melato nos papéis principais, Wertmüller constrói uma narrativa que apresenta o fascismo a partir de personagens e espaços marginalizados, como o campo e o bordel. Lina Wertmüller é considerada uma das cineastas mais singulares do cinema italiano do século XX. Em 1977, tornou-se a primeira mulher indicada ao Oscar de Melhor Direção, por Pasqualino Settebellezze. Sua obra é marcada pela combinação de humor, crítica social e questões políticas.\n\nApós a exibição, haverá uma conversa aberta com os participantes sobre o filme. A sessão integra as atividades do Cineclube Cinecittà, dedicado à difusão do cinema italiano, à pesquisa sobre o cinema realizado por autoras contemporâneas e à promoção de debates sobre cinema, arte e cultura. A curadoria do projeto é de Sofia Fernandes Campos, com orientação da professora Karine Simoni. A iniciativa conta com o apoio da Secretaria de Cultura, Arte e Esporte (SeCArte) e do Laboratório de Estudos Culturais (LEC).\n\nOs participantes que tiverem aproveitamento superior a 75% das sessões do ciclo terão direito ao Certificado de Participação ao final das atividades.\n\nMais informações podem ser acompanhadas no perfil oficial do Cineclube Cinecittà no Instagram, @cinecitta.ufsc",
+      "tags": [
+        "filme",
+        "cineclube cinecittà",
+        "laboratório de estudos de cinema (lec)",
+        "secretaria de cultura arte e esporte (secarte)"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296662",
+      "name": "Longa-Metragem: Marte Um",
+      "start_date": "2026-09-22T22:00:00.000Z",
+      "end_date": "2026-09-23T00:00:00.000Z",
+      "location": "Sala de Projeções",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/CinePET_Marte_Um_metade-1.png",
+      "ticket_url": "https://inscricoes.ufsc.br/activities/13561",
+      "info_url": "https://noticias.ufsc.br/event/longa-metragem-marte-um/",
+      "description": "O Projeto de extensão Diálogos entre comunidades, da Universidade Federal de Santa Catarina (UFSC), vinculado ao Programa de Educação Tutorial (Pet) Conexões de Saberes, promove a exibição do longa-metragem nacional “Marte Um”, dirigido por Gabriel Martins, em 2022. A programação será realizada no dia 22, na sala 108, do bloco D, do Centro de Comunicação e Expressão (CCE), às 19h.\n\nO longa apresenta a história de uma família que vive tranquilamente nas margens de uma cidade grande brasileira após a posse de um presidente extremista de direita. Sendo uma família negra de classe média-baixa, eles sentem a tensão de sua nova realidade. Tércia, a mãe, reinterpreta seu mundo depois que um encontro inesperado a deixa se perguntando se ela é amaldiçoada. Seu marido, Wellington, coloca todas as suas esperanças na carreira do filho, Deivinho, que por pressão e querendo agradar o pai, segue as ambições dele, apesar de secretamente aspirar estudar astrofísica e colonizar Marte. Enquanto isso, a filha mais velha, Eunice, se apaixona por uma jovem de espírito livre e questiona se é a hora de sair de casa.\n\nA participação garante certificação de 6 horas complementares para os estudantes. A inscrição pode ser realizada de forma gratuita, via formulário. Para mais informações, acesse o Instagram do Projeto.\n\nTickets: https://inscricoes.ufsc.br/activities/13561.",
+      "tags": [
+        "exibição",
+        "filme",
+        "centro de comunicação e expressão (cce)",
+        "cinepet",
+        "pet conexão saberes",
+        "programa de educação tutorial (pet)",
+        "sala de projeção"
+      ],
+      "category": "cultura",
+      "is_free": null,
+      "is_all_day": false
     },
     {
       "source_id": "agecom:296591",
