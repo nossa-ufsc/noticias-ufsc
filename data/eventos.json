@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-17T21:13:41.857Z",
+  "geradoEm": "2026-09-18T13:32:37.632Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1365,
-      "selecionados": 34,
+      "totalNoFeed": 1366,
+      "selecionados": 33,
       "ignorados": {
-        "ja-passou": 1330,
+        "ja-passou": 1332,
         "muito-longe": 1
       },
       "erros": []
@@ -39,48 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296522",
-      "name": "Documentário ‘Memórias de pescador: tradição e resistência na Costeira do Pirajubaé’",
-      "start_date": "2026-09-16T22:00:00.000Z",
-      "end_date": "2026-09-17T00:00:00.000Z",
-      "location": "Bloco F do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Exibição-Memórias-de-Pescador-821x1024.jpeg",
-      "ticket_url": "https://inscricoes.ufsc.br/documentario-memorias-de-pescador-resex",
-      "info_url": "https://noticias.ufsc.br/event/documentario-memorias-de-pescador-tradicao-e-resistencia-na-costeira-do-pirajubae/",
-      "description": "O Laboratório de Estudos de Gênero e História (LEGH) da Universidade Federal de Santa Catarina (UFSC) exibe o documentário Memórias de pescador: tradição e resistência na Costeira do Pirajubaé nesta quarta-feira, 16 de setembro, às 19h, no auditório do Bloco F do Centro de Filosofia e Ciências Humanas (CFH). Para participar, é necessário realizar inscrição pelo sistema da UFSC. A atividade dá direito a certificado.\n\nRealizado entre março e setembro de 2026, com apoio do Edital Elisabete Anderle da Fundação Catarinense de Cultura, o documentário apresenta a história de resistência dos pescadores da Costeira do Pirajubaé, em Florianópolis, diante do avanço da urbanização sobre seu território de vida e subsistência: a Baía Sul da Ilha de Florianópolis. O roteiro traz também a perspectiva de especialistas, alguns deles professores da UFSC, como Alessandra Fonseca (Oceanografia) e Luiz Fernando Scheibe (Geologia). O documentário tem duração de 49 minutos, e, após sua apresentação, será realizada uma conversa, mediada pela equipe do documentário.\n\nO projeto é coordenado pela pesquisadora e jornalista Morgani Guzzo, que assina a produção e o roteiro com a jornalista Inara Fonseca. A edição é de Elaine Schmitt. A articulação com a comunidade de pescadores foi feita por Patrícia Martins. Tanto Morgani Guzzo quanto Elaine Schmitt são pesquisadoras, doutoras pelo Programa de Pós-graduação Interdisciplinar em Ciências Humanas (PPGICH) da UFSC.\n\nMais informações pelo Instagram @memoriasdepescador.resex.\n\nTickets: https://inscricoes.ufsc.br/documentario-memorias-de-pescador-resex.",
-      "tags": [
-        "cinema",
-        "documentário",
-        "cfh",
-        "laboratório de estudos de gênero e história"
-      ],
-      "category": "cultura",
-      "is_free": null,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296565",
-      "name": "Recital com o violonista Alisson Alípio",
-      "start_date": "2026-09-16T23:00:00.000Z",
-      "end_date": "2026-09-17T01:00:00.000Z",
-      "location": "UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/C__pia-de-Alisson-Alipio-08__-1024x632.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/recital-com-o-violonista-alisson-alipio/",
-      "description": "O Igrejinha Musical recebe, nesta quarta-feira, 16 de setembro, às 20h, o violonista Alisson Alípio. O artista traz uma programação especial dedicada à tradição musical espanhola e à celebração dos 150 anos de nascimento de Manuel de Falla.\n\nO repertório reúne obras de Manuel de Falla, Enrique Granados, Joaquín Malats, Sebastián Iradier e Isaac Albéniz, incluindo transcrições e versões originais para violão que percorrem desde peças líricas até danças tradicionais, evidenciando diferentes facetas da escola espanhola.\n\nAlisson Alípio é doutor e mestre em Música pela Universidade Federal do Rio Grande do Sul (UFRGS) e professor associado da Universidade Estadual do Paraná (UNESPAR). Como concertista, pesquisador e professor convidado em festivais de violão, acumula premiações em concursos nacionais e internacionais e participação em relevantes projetos fonográficos dedicados ao violão brasileiro.\n\nA entrada é gratuita, consolidando a proposta de democratização do acesso à cultura e à formação musical. A organização convida estudantes, professores e o público em geral a prestigiar a ocasião, que representa uma oportunidade singular de ouvir de perto um dos nomes mais atuantes do violão de concerto no Brasil.\n\nIgrejinha Musical\n\nO Igrejinha Musical é uma ação do Departamento Artístico Cultural, idealizado em julho de 2022, o projeto tem como objetivo incentivar e valorizar a música instrumental e autoral no espaço da Igrejinha da UFSC, ampliando o acesso e a difusão da cultura musical para toda a comunidade.\n\nServiço\n\nO quê: Recital – Alisson Alípio\n\nQuando: 16/09/2026 | quarta -feira | 20h\n\nOnde: Igrejinha da UFSC – Rua Desembargador Vítor Lima, 117, Trindade, Florianópolis – SC\n\nQuanto: Entrada gratuita\n\nContatos Alisson Alípio: alissonalipio.com | @alissonalipioguitar\n\nInformações: dac.ufsc.br | Instagram | dac@contato.ufsc.br | 48 3721-3853",
-      "tags": [
-        "apresentação musical",
-        "departamento artístico cultural",
-        "igrejinha musical",
-        "recital"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:295928",
@@ -433,6 +391,32 @@
         "ufsc sustentável"
       ],
       "category": "curso",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296687",
+      "name": "Aula inaugural: ‘Os feminismos na tradución, a tradución nos feminismos’",
+      "start_date": "2026-09-21T13:00:00.000Z",
+      "end_date": "2026-09-21T16:00:00.000Z",
+      "location": "Sala Machado de Assis – Bloco B do Centro de Comunicação e Expressão (CCE/UFSC).",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/PPGET.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/aula-inaugural-os-feminismos-na-traducion-a-traducion-nos-feminismos/",
+      "description": "O Programa de Pós-graduação em Estudos da Tradução da Universidade Federal de Santa Catarina (PPGET/UFSC) promove sua 44ª Aula Inaugural nesta segunda-feira, 21 de setembro, às 10h, na sala Machado de Assis, localizada no Bloco B do Centro de Comunicação e Expressão (CCE/UFSC). A atividade é aberta a todos.\n\nA palestrante será Olga Castro, professora e pesquisadora da Universitat Autònoma de Barcelona, Espanha, e da University of Warwick, Reino Unido. A palestra será proferida em galego e terá como título: “Os feminismos na tradución, a tradución nos feminismos: encontros, desencontros e estratexias de intervención”. Haverá interpretação em Libras.\n\nSobre a palestrante:\n\nOlga Castro é investigadora distinguida sénior “Beatriz Galindo” no Departamento de Tradución, Interpretación e Estudos de Asia Oriental da Universitat Autònoma de Barcelona (2023–2027), onde fundou o grupo de pesquisa FEMINTRA (Feminismes, Mirades no Hegemòniques i Interseccionalitat en Traducció). Doutora em Tradución e Interpretación pela Universidade de Vigo (2010), entre 2010 e 2023 desenvolveu sua carreira no Reino Unido, onde é Reader em Estudos de Tradución e Transculturais na School of Modern Languages and Cultures da University of Warwick. Nessa instituição, organizou a escola de verão Warwick School of Feminist Translation (2023). Atualmente, é IP do projeto “Translating Intersectional Feminisms in the Iberian Space: Genealogies of Knowledge for an Inclusive Society” (2026–2030), financiado pelo Ministerio de Universidades de España e pela Axencia Estatal de Investigación, e co-IP do projeto “Feminist Translation Network” (2024–2026), financiado pelo AHRC britânico e liderado por Hilary Brown. Em 2024, cofundou, juntamente com María Laura Spoturno, a revista acadêmica Feminist Translation Studies (Taylor & Francis), da qual é coeditora-chefe.\n\nSobre a palestra:\n\nA produção de reflexão teórica e de prática política em torno da interação entre os estudos de tradução e os estudos feministas tem experimentado um auge sem precedentes nas últimas décadas, em uma diversidade de espaços geopolíticos (Castro e Spoturno 2024; Castro, Ergun, Bracke, Spurlin e Fonseca 2024), entre eles o Brasil (Matos 2022; Matos e Castro 2025; Matos e Guerini 2025).\n\nOs campos de conhecimento que poderíamos denominar estudos feministas da tradução e estudos de tradução feminista têm despertado grande interesse não apenas entre pessoas pesquisadoras, mas também entre profissionais que adotam uma perspectiva feminista em sua prática tradutora, assim como entre ativistas feministas que concebem a tradução como ferramenta para possibilitar diálogos transnacionais em prol da justiça social global.\n\nPartindo desse contexto, a palestra propõe uma aproximação crítica à encruzilhada entre essas duas vertentes de investigação, com o objetivo de colocar em evidência seus encontros e desencontros, especialmente no que diz respeito às chamadas estratégias de tradução feminista e/ou estratégias feministas de tradução (veja-se, por exemplo, Jordà Mathiasen 2025; Brown e Saldanha 2025).\n\nA partir de uma posição situada e de observações e conhecimentos experienciais reunidos ao longo de uma participação continuada nesse campo, o objetivo é promover uma reflexão sobre formas mais (e menos) produtivas de pensar as intervenções feministas por meio da tradução. Essa reflexão se torna especialmente urgente em um momento em que, com a irrupção da mal chamada “inteligência” artificial, e parafraseando Anthony Pym (2026), poderíamos estar assistindo “ao fim da tradução tal e como a conhecemos”.\n\nMais informações na página do PPGET ou pelo e-mail secpget@gmail.com",
+      "tags": [
+        "aula inaugural",
+        "palestra",
+        "cce",
+        "feminismo",
+        "olga castro",
+        "ppget",
+        "programa de pós-graduação em estudos da tradução",
+        "tradução",
+        "universitat autònoma de barcelona"
+      ],
+      "category": "palestra",
       "is_free": true,
       "is_all_day": false
     },
