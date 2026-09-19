@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-19T13:02:02.738Z",
+  "geradoEm": "2026-09-19T20:28:41.403Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1368,
-      "selecionados": 30,
+      "selecionados": 28,
       "ignorados": {
-        "ja-passou": 1337,
+        "ja-passou": 1339,
         "muito-longe": 1
       },
       "erros": []
@@ -62,51 +62,6 @@
       "category": "palestra",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296501",
-      "name": "Simpósio do Câncer Infantojuvenil",
-      "start_date": "2026-09-18T11:00:00.000Z",
-      "end_date": "2026-09-18T19:30:00.000Z",
-      "location": "Auditório do bloco 5 do Centro de Desportos da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2022/06/Destaque-UFSC-Publicações2@1.5x-1024x618.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/simposio-do-cancer-infantojuvenil/",
-      "description": "O projeto de extensão AtivaOnco e o Grupo de Pesquisa em Exercício Clínico (GPEC), da Universidade Federal Santa Catarina, promovem o II Simpósio do Câncer Infantojuvenil: cuidado multiprofissional, movimento e humanização, no dia 18 de setembro. O simpósio será realizado das 8h às 16h30, no Auditório do bloco 5 do Centro de Desportos da UFSC. As inscrições são gratuitas, abertas até o dia 17 de setembro, e devem ser feitas pelo formulário.\n\nHaverá palestras e mesas redondas com profissionais da área da saúde e educação. O evento busca promover um espaço de informação, diálogo e conscientização sobre o câncer infanto-juvenil, destacando a importância do cuidado multiprofissional, do movimento e da humanização durante o tratamento.\n\nAlém disso, o simpósio tem como objetivo divulgar e fortalecer o Setembro Dourado, campanha de conscientização sobre o câncer infanto-juvenil, ampliando o conhecimento sobre a importância do diagnóstico precoce e do cuidado com crianças e adolescentes.\n\nPara mais informações acesse o Instagram @ativaonco ou consulte e-mail da coordenação cintia.freitas@ufsc.com ou ativaonco.ufsc@gmail.com.\n\nProgramação\n\n09h – Palestra Câncer Infantojuvenil: Panorama, epidemiologia e fisiopatologia\n\n09h30 – Palestra Funcionalidade e qualidade de vida no câncer infantojuvenil\n\n10h20 – Mesa redonda O cuidado multiprofissional da criança e adolescente com câncer\n\n11h30 – Práticas de dança circulares\n\n13h30 – Mesa temática Exercício e atividade física durante o tratamento oncológico\n\n14h10 – Palestra Impactos além do tratamento no câncer infatojuvenil\n\n14h40 – Palestra Fragilidade sarcopenia no câncer infantojuvenil\n\n15h10 – Palestra Humanização e rede de apoio no câncer infantojuvenil",
-      "tags": [
-        "conferência",
-        "mesa-redonda",
-        "palestra",
-        "simpósio",
-        "ativaonco",
-        "centro de desportos (cds)",
-        "grupo de pesquisa em exercício clínico gpec",
-        "setembro dourado",
-        "simpósio do câncer infantojuvenil"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296642",
-      "name": "Translógica e Corpo: Experiências com Movimentos Essenciais",
-      "start_date": "2026-09-18T13:30:00.000Z",
-      "end_date": "2026-09-18T15:00:00.000Z",
-      "location": "Sala 322 do Centro de Filosofia e Ciências Humanas (CFH) Bloco B UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2022/06/Destaque-UFSC-Internet@1.5x-1024x618.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/translogica-e-corpo-experiencias-com-movimentos-essenciais/",
-      "description": "Entre setembro e dezembro de 2026, será realizado o evento Translógica e Corpo: Experiências com Movimentos Essenciais, iniciativa que propõe integrar conhecimento conceitual e experiência corporal por meio de práticas, vivências e diálogos. A atividade é destinada a membros da comunidade em geral e não exige inscrição prévia.\n\nOrganizado por Mariana Paolozzi, professora do Departamento de Filosofia, e Cristiane Ker de Melo, do Departamento de Educação Física, o projeto será desenvolvido em oito oficinas quinzenais, com duração de uma hora e meia cada. As oficinas serão conduzidas por Silvia Lignon e ocorrerão às sextas-feiras, das 10h30 às 12h, entre setembro e dezembro.\n\nAs atividades presenciais serão realizadas na Sala 322 do CFH, Bloco B, enquanto parte dos encontros ocorrerá de forma on-line, pela plataforma Zoom. As datas previstas são 4 e 18 de setembro; 2, 16 e 30 de outubro; 13 e 27 de novembro; e 11 de dezembro. A proposta parte da necessidade de ampliar a compreensão da experiência humana para além da dimensão individual e da identificação com a mente racional. Nesse contexto, o projeto busca aproximar o saber conceitual do saber vivencial, articulando corpo, experiência e relação.\n\nDurante as oficinas, serão apresentados princípios dos Movimentos Essenciais, acompanhados de exercícios práticos e corporais voltados à presença, ao assentimento e à percepção sistêmica. As atividades também incluem práticas e vivências fenomenológicas destinadas ao desenvolvimento do olhar observador, do assentimento existencial e da linguagem simbólica e sistêmica.\n\nSegundo a proposta, as experiências buscam possibilitar aos participantes uma reflexão sobre a passagem do Eu, associado à personalidade e à mente, para o Nós, compreendido como totalidade. A iniciativa também procura estabelecer uma aproximação entre a ética da reconciliação e a inteligência corporal, criando conexões entre pensamento, corpo e experiência.\n\nCada encontro contará com momentos teóricos e vivenciais, seguidos de diálogos para que os participantes possam compartilhar suas percepções e esclarecer compreensões surgidas durante os exercícios. A participação é gratuita e não haverá emissão de certificado. Também não é necessário realizar inscrição. Mais informações podem ser obtidas com Silvia Lignon, pelo telefone (51) 99982-3360 ou pelo email mesilviadavi@gmail.com.",
-      "tags": [
-        "oficina",
-        "centro de ciências humanas e filosofia (cfh)"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:296563",
