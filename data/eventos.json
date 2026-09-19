@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-18T13:32:37.632Z",
+  "geradoEm": "2026-09-19T13:02:02.738Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1366,
-      "selecionados": 33,
+      "totalNoFeed": 1368,
+      "selecionados": 30,
       "ignorados": {
-        "ja-passou": 1332,
+        "ja-passou": 1337,
         "muito-longe": 1
       },
       "erros": []
@@ -14,147 +14,14 @@
     {
       "fonte": "ara",
       "totalNoFeed": 15,
-      "selecionados": 6,
+      "selecionados": 5,
       "ignorados": {
-        "ja-passou": 9
+        "ja-passou": 10
       },
       "erros": []
     }
   ],
   "eventos": [
-    {
-      "source_id": "ara:25068",
-      "name": "SEATIC",
-      "start_date": "2026-09-15T03:00:00.000Z",
-      "end_date": "2026-09-18T02:59:59.000Z",
-      "location": "UFSC",
-      "campus": "ararangua",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
-      "ticket_url": null,
-      "info_url": "https://ara.ufsc.br/event/seatic/",
-      "description": "Semana Acadêmica de Tecnologias da Informação e Comunicação",
-      "tags": [
-        "semana acadêmica"
-      ],
-      "category": "academico",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:295928",
-      "name": "Jornadas Bolivarianas",
-      "start_date": "2026-09-17T12:00:00.000Z",
-      "end_date": "2026-09-17T15:00:00.000Z",
-      "location": "Centro Socioeconômico (CSE), Auditório e Mini auditório do Serviço Social",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/cartaz-Jornadas-Bolivarianas-1024x683.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/jornadas-bolivarianas/",
-      "description": "A edição das Jornadas Bolivarianas nesse segundo semestre traz a presença do advogado, delegado aposentado da Polícia Civil e coordenador do movimento Policiais Antifascistas, Orlando Zaccone. Ele participa de uma conferência aberta no dia 15 de setembro, às 19 horas, no Auditório do Centro Socioeconômico (CSE), e também ministra um minicurso sobre a Economia da Barbárie Capitalista, cujo eixo principal é a violência. O minicurso será nos dias 16 e 17, das 9h às 12 horas, na sala D217 – Bloco D, segundo andar do CSE. A atividade é gratuita, mas é necessário realizar inscrições por meio deste link.\n\n“Se existe algo que definitivamente toca a população é o tema da segurança. No capitalismo dependente periférico, no qual a barbárie é a regra, vive-se bombardeado por notícias de assassinatos, assaltos e violências diversas que atravessam o dia-a-dia. Não é sem razão que seja a partir desse bordão de segurança pública que governos são eleitos, como é o caso de Nayib Bukele, de El Salvador, exemplo bem conformado de um governo autoritário que encarcerou boa parte da população e recebe aplaudida aprovação. Sua proposta de “mão dura” para o crime faz escola e tanto o presidente da Colômbia, quanto do Equador e Chile se elegeram nessa toada.\n\nNo Brasil, e nos demais países da América Latina, a violência tem sido avassaladora. Segundo dados do Atlas da Violência, elaborado pelo IPEA, no Brasil foram 42.590 mortes violentas intencionais, homicídios, em 2024, e praticamente a metade destas mortes envolve pessoas jovens. Agora, em 2026, números ainda parciais revelam também a ascensão do feminicídio, somando quase mil mortes nos últimos sete meses. O uso da arma de fogo para resolver pendências cotidianas vem se tornando banal e os programas de cunho sensacionalista proliferam nas emissoras de televisão, reportando os casos e incutindo medo na população. A falta de emprego e toda a lógica de destruição da vida imposta pelo capitalismo dependente nos países periféricos tornam o tema da violência e da segurança crucial.” (texto publicado no site do IELA)",
-      "tags": [
-        "aula pública",
-        "conferência",
-        "jornada",
-        "minicurso",
-        "cse",
-        "iela",
-        "jornadas bolivarianas",
-        "violência e segurança"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296572",
-      "name": "Roda de conversa sobre ações afirmativas e presença indígena na educação superior",
-      "start_date": "2026-09-17T12:00:00.000Z",
-      "end_date": "2026-09-17T14:00:00.000Z",
-      "location": "miniauditório do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/roda-de-conversa-ações-afirmativas-819x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-sobre-acoes-afirmativas-e-presenca-indigena-na-educacao-superior/",
-      "description": "Uma roda de conversa discute as ações afirmativas e a presença indígena na educação superior nesta quinta-feira, 17 de setembro, às 9h, no miniauditório do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC). Na ocasião, também será lançado o livro Educación Superior y Pueblos Indígenas y Afrodescendientes en América Latina: racismo y formación docente: problemas, avances y desafíos.\n\nO evento é promovido pela Cátedra em Educação para a Igualdade Racial – Antonieta de Barros; pelo Laboratório de História Indígena (Labhin) do Departamento de História e do Programa de Pós-Graduação em História da UFSC; e pela Universidade Autônoma do México (Unam).\n\nO encontro contará com a presença de Juliana Salles Machado, coordenadora do Labhin; Carolina Sanchez Garcia, da Unam; e Jessica Saraiva da Silva, representante da Cátedra Antonieta de Barros da UFSC.\n\nMais informações nos sites do Labhin e da Cátedra Antonieta de Barros e no Instagram @labhin.ufsc e @catedraantonietadebarros.",
-      "tags": [
-        "roda de conversa",
-        "ações afirmativas",
-        "cátedra antonieta de barros",
-        "cfh",
-        "indígena",
-        "labhin"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296369",
-      "name": "Cine Meridianum – Menocchio",
-      "start_date": "2026-09-17T17:00:00.000Z",
-      "end_date": "2026-09-17T19:00:00.000Z",
-      "location": "Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/menocchi-768x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-meridianum-menocchio/",
-      "description": "O Cine Meridianum, promovido pelo Núcleo Interdisciplinar de Estudos Medievais (Meridianum) da Universidade Federal de Santa Catarina (UFSC), exibe o filme Menocchio, 2018, de Alberto Fasulo, no dia 17 de setembro, às 14 horas, no Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH). A entrada é gratuita e aberta ao público, com direito a certificado. Ao final da exibição haverá roda de debates.\n\nSinopse\n\nItália, final do século XVI. A Igreja, ameaçada pelos protestantes, instaura a Inquisição. Menocchio, um velho moleiro teimoso e autodidata, opõe-se à nova ordem. Acusado de heresia, ignora as acusações e enfrenta o julgamento. A história de um homem incapaz de trair seus próprios princípios. O filme é baseado na obra O Queijo e os Vermes, do historiador Carlo Ginzburg.\n\nPara mais informações acesse o site e o Instagram do Meridianum.",
-      "tags": [
-        "cinema",
-        "debate",
-        "filme",
-        "centro de filosofia e ciência humanas (cfh)",
-        "cine meridianum",
-        "filme menocchi"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296607",
-      "name": "Roda de conversa sobre o uso problemático de smartphones",
-      "start_date": "2026-09-17T21:00:00.000Z",
-      "end_date": "2026-09-17T22:30:00.000Z",
-      "location": "Auditório bloco F - CFH",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/167145-822x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-sobre-o-uso-problematico-de-smartphones/",
-      "description": "A Liga Acadêmica de Psicologia Baseada em Evidências (LAPBE), vinculada ao Departamento de Psicologia do Centro de Filosofia e Ciências Humanas (CFH) da Universidade Federal de Santa Catarina (UFSC), promove a roda de conversa Uso problemático de smartphones. O evento ocorre nesta quinta-feira, 17 de setembro, das 18h às 19h30, no Auditório bloco F do CFH. O evento tem como proposta debater a pesquisa de Amanda Vieira Simolini, além de abordar como o uso de smarthphones pode interferir negativamente a vida das pessoas.\n\nAmanda Vieira Simolini é psicóloga formada pela Universidade do Estado de Minas Gerais (UEMG) e mestranda em Psicologia pela UFSC, na área de Saúde e Desenvolvimento Psicológico. Também é pesquisadora no Laboratório de Neuropsicologia Cognitiva e Escolar (LANCE/UFSC), em que estuda o uso problemático de smartphones na adolescência e seus impactos nas funções executivas e regulação emocional.\n\nAs inscrições devem ser feites neste formulário e são limitadas a 60 vagas. Será disponibilizado um certificado de 1h30 para os estudantes que comparecerem.\n\nMais informações na página do evento.",
-      "tags": [
-        "roda de conversa",
-        "auditório do cfh",
-        "lapbe",
-        "psicologia"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296466",
-      "name": "Clube de Leitura dos Horrores",
-      "start_date": "2026-09-17T21:30:00.000Z",
-      "end_date": "2026-09-17T22:30:00.000Z",
-      "location": "Centro de Comunicação e Expressão (CCE)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.paginas.ufsc.br/files/2026/09/calendário-de-leituras-clube-de-leitura-2-1024x427.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/clube-de-leitura-dos-horrores/",
-      "description": "O projeto de extensão Clube de Leitura dos Horrores, vinculado ao Departamento de Artes da Universidade Federal de Santa Catarina (UFSC), segue as atividades do semestre 2026.2, reunindo mensalmente admiradores de histórias de horror, monstros, fantasmas e outras formas do insólito.\n\nNa próxima quinta-feira, 17 de setembro, o grupo discute a obra Incidente em Antares, de Érico Veríssimo. O romance, segundo os organizadores do clube, possui o insólito como chave de leitura para apresentar uma crítica à ditadura cívico-militar no Brasil.\n\nO encontro será realizado às 18h30, na sala 211 (LEC), no bloco D do Centro de Comunicação e Expressão (CCE/UFSC), com a mediação de Matheus Gabriel da Silva Boff, Viviane Vedana de Lima e Peterson Silva. A atividade é aberta à comunidade, sem necessidade de inscrição prévia.\n\nO Clube de Leitura dos Horrores é realizado pelo Grupo FantastiCatarina, em parceria com o PET-Letras e o Programa de Pós-Graduação em Literatura da UFSC. Os encontros são realizados uma vez por mês de março a dezembro. A programação anual completa pode ser conferida no perfil do Instagram @fantasticatarina.",
-      "tags": [
-        "clube de leitura",
-        "cce",
-        "clube de leitura dos horrores",
-        "departamento de artes",
-        "fantasticatarina",
-        "pet letras"
-      ],
-      "category": "outro",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:296107",
       "name": "Conferência de Arqueoastronomia",
@@ -571,6 +438,27 @@
       "is_all_day": true
     },
     {
+      "source_id": "agecom:296703",
+      "name": "Cinedebate ‘Democracia em Vertigem’",
+      "start_date": "2026-09-23T21:30:00.000Z",
+      "end_date": "2026-09-23T23:30:00.000Z",
+      "location": "Auditório do Bloco E do Centro de Filosofia e Ciências Humanas (CFH)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/cinedebate-819x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cinedebate-democracia-em-vertigem/",
+      "description": "Os Programas de Educação Tutorial (PET) Biologia e História organizam um cinedebate sobre o filme Democracia em Vertigem (Petra Costa, 2019) na próxima quarta-feira, 23 de setembro, às 18h30. A atividade ocorre no auditório do Bloco E do Centro de Filosofia e Ciências Humanas (CFH) e contará com a presença da professora Gláucia Fraccaro, do Departamento de História.\n\nEm 14 de outubro, os PETs promovem outro cinedebate sobre filme Apocalipse nos Trópicos (Petra Costa, 2024), às 18h30, no auditório do Centro de Ciências Biológicas (CCB).\n\nOs participantes terão direito a certificado.",
+      "tags": [
+        "cinema",
+        "cinedebate",
+        "pet biologia",
+        "pet história"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:294876",
       "name": "Imaginar o impossível – sobre a modernidade e seus fins",
       "start_date": "2026-09-28T03:00:00.000Z",
@@ -711,6 +599,26 @@
         "vi jornada de estudos áfrica em imagens"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296705",
+      "name": "Cinedebate ‘Apocalipse nos Trópicos’",
+      "start_date": "2026-10-14T21:30:00.000Z",
+      "end_date": "2026-10-14T22:30:00.000Z",
+      "location": "Auditório do Centro de Ciências Biológicas (CCB)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/cinedebate-819x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cinedebate-apocalipse-nos-tropicos/",
+      "description": "Os Programas de Educação Tutorial (PET) Biologia e História organizam um cinedebate sobre o filme Apocalipse nos Trópicos (Petra Costa, 2024), em 14 de outubro, às 18h30. A atividade ocorre no auditório do Centro de Ciências Biológicas (CCB) e contará com a presença da professora Gláucia Fraccaro, do Departamento de História.\n\nOs participantes terão direito a certificado.",
+      "tags": [
+        "cinedebate",
+        "pet biologia",
+        "pet história"
+      ],
+      "category": "outro",
       "is_free": true,
       "is_all_day": false
     },
