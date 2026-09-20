@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-19T20:28:41.403Z",
+  "geradoEm": "2026-09-20T20:40:38.630Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1368,
-      "selecionados": 28,
+      "selecionados": 23,
       "ignorados": {
-        "ja-passou": 1339,
+        "ja-passou": 1344,
         "muito-longe": 1
       },
       "erros": []
@@ -22,114 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:296107",
-      "name": "Conferência de Arqueoastronomia",
-      "start_date": "2026-09-18T03:00:00.000Z",
-      "end_date": "2026-09-19T02:59:59.000Z",
-      "location": "Auditório e Anfiteatro - EFI - Espaço Físico Integrado",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/banner_site-agosto.31c2b73ab2a14b8ab26c-1-1024x410.jpg",
-      "ticket_url": "https://www.even3.com.br/conferencia-de-arqueoastronomia-florianopolis-722154/",
-      "info_url": "https://noticias.ufsc.br/event/conferencia-de-arqueoastronomia/",
-      "description": "A Universidade Federal de Santa Catarina (UFSC), em parceria com o Instituto Multidisciplinar do Meio Ambiente e Arqueoastronomia (IMMA), promove a I Conferência de Arqueoastronomia: “Conexão entre o Mar, a Terra e o Céu”. O evento nasce com o propósito de fortalecer o diálogo entre ciência, cultura, educação, patrimônio e saberes ancestrais, reunindo estudantes, pesquisadores, docentes, profissionais e todas as pessoas interessadas em explorar o fascinante universo da arqueoastronomia.\n\nA conferência ocorre entre os dias 18 e 23 de setembro de 2026, em Florianópolis, com programação presencial na UFSC e no IMMA. Ao longo de seis dias, os participantes poderão vivenciar palestras, mesas-redondas, painéis temáticos, oficinas, exposições artísticas, observações astronômicas, vivências culturais e atividades de campo.\n\nDurante o evento, especialistas renomados apresentarão temas relacionados aos conhecimentos ancestrais, às relações entre antigas civilizações e os astros, aos monumentos arqueológicos e às conexões entre céu, território, cultura e natureza. A programação também discutirá o papel da arqueoastronomia na educação, na preservação patrimonial e na valorização dos saberes tradicionais e dos povos originários. Clique aqui para a inscrição do evento.\n\nMais informações acesse o site da conferência.\n\nTickets: https://www.even3.com.br/conferencia-de-arqueoastronomia-florianopolis-722154/.",
-      "tags": [
-        "conferência",
-        "arqueoastronomia",
-        "astronomia"
-      ],
-      "category": "palestra",
-      "is_free": null,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296568",
-      "name": "Encontro Sul-Brasileiro de Catadores e Catadoras de Materiais Recicláveis",
-      "start_date": "2026-09-18T03:00:00.000Z",
-      "end_date": "2026-09-19T02:59:59.000Z",
-      "location": "Auditório do Espaço Físico Integrado (EFI)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/exposul-818x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/encontro-sul-brasileiro-de-catadores-e-catadoras-de-materiais-reciclaveis/",
-      "description": "A Universidade Federal de Santa Catarina (UFSC) sedia o IV ExpoSul – Encontro Sul-Brasileiro de Catadores e Catadoras de Materiais Recicláveis nos dias 18 e 19 de setembro, no auditório do Espaço Físico Integrado (EFI), em Florianópolis. O evento reunirá trabalhadores vinculados a associações e cooperativas e que atuam de forma autônoma em Santa Catarina, Paraná, Rio Grande do Sul, São Paulo e Mato Grosso do Sul, com o objetivo de promover o debate sobre pautas estratégicas para o fortalecimento da categoria e para o avanço da sustentabilidade relacionada à reciclagem.\n\nNo primeiro dia, o evento pretende reunir representantes de instituições públicas e privadas capazes de contribuir com os debates para o futuro da reciclagem e da gestão de resíduos sólidos no Brasil. Já o segundo dia será dedicado a painéis e debates internos entre cooperativas e associações de reciclagem. A programação discutirá temas como educação ambiental, licenciamento e contratação de serviços. Também haverá apresentações de experiências desenvolvidas por instituições de referência e discussões específicas voltadas às mulheres catadoras.\n\nConfira a programação completa (em pdf).\n\nEm 2025, o encontro reuniu mais de 350 participantes, provenientes de 33 municípios, representando 51 entidades de catadores e catadoras, além de 21 empresas, universidades, organizações da sociedade civil e órgãos públicos. O evento marcou a celebração dos 10 anos da Federação Catarinense dos Catadores e Catadoras de materiais recicláveis (Feccat) e resultou na aprovação de duas cartas abertas, que consolidaram as principais reivindicações da categoria. Além disso, impulsionou a criação de uma coordenação voltada à estruturação do Coletivo de Mulheres Catadoras de Santa Catarina, reconhecendo que mais de 70% da categoria é composta por mulheres.\n\nMais informações pelo e-mail feccat2016@gmail.com.",
-      "tags": [
-        "encontro",
-        "seminário",
-        "catadores",
-        "exposul"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296563",
-      "name": "Roda de Choro na Igrejinha",
-      "start_date": "2026-09-18T21:00:00.000Z",
-      "end_date": "2026-09-18T23:00:00.000Z",
-      "location": "UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Roda-de-Choro-UFSC-2026____001-819x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/roda-de-choro-na-igrejinha-2/",
-      "description": "Nesta sexta-feira, 18 de setembro, às 18h, a Igrejinha da Universidade Federal de Santa Catarina (UFSC) recebe mais uma edição da Roda de Choro UFSC. O evento é livre e gratuito, com participação aberta. Para participar, basta trazer um instrumento musical.\n\nA iniciativa reúne músicos de diferentes idades, aproximando discentes, docentes e a comunidade externa em um evento gratuito e marcado pela partilha de experiências artísticas. A Roda de Choro fortalece os laços entre as comunidades interna e externa da Universidade Federal de Santa Catarina (UFSC) e entre diferentes gerações.\n\nO evento é uma realização do estudante de Engenharia Elétrica da UFSC Nuran Pereira de Faria Campos e do Instituto Choro Campeche, com apoio do Departamento Artístico Cultural (DAC), vinculado à Secretaria de Cultura e Arte da UFSC (SeCArte).\n\n>> Serviço\n\nO quê: Roda de Choro UFSC\n\nQuando: 18/09/2026 | sexta-feira | 18h\n\nOnde: Igrejinha da UFSC | Rua Desembargador Vítor Lima, n. 117 – Trindade, Florianópolis – SC\n\nQuanto: Evento gratuito e aberto a toda a comunidade\n\nInformações: dac.ufsc.br | @dac.secarte.ufsc | dac@contato.ufsc.br | 48 3721-3853",
-      "tags": [
-        "apresentação musical",
-        "igrejinha",
-        "música",
-        "roda de choro"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296553",
-      "name": "Cine Paredão: ‘Um poeta’",
-      "start_date": "2026-09-18T22:00:00.000Z",
-      "end_date": "2026-09-19T01:00:00.000Z",
-      "location": "Bosque do Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/POST-UN-POETA-768x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-paredao-um-poeta/",
-      "description": "O Cine Paredão exibe o filme “Um poeta” (2025) nesta sexta-feira, 18 de setembro, às 19h, no Bosque do Centro de Filosofia e Ciências Humanas da Universidade Federal de Santa Catarina (CFH/UFSC). Em caso de chuva, a atividade será transferida para o auditório do CFH. A exibição é gratuita e aberta a todos.\n\nO longa-metragem tem roteiro e direção do colombiano Simon Mesa Soto. Ambientado em Medellín e filmado em Super 16mm, o filme acompanha Óscar Restrepo (Ubeimar Rios), poeta de mérito pouco reconhecido que leva uma vida solitária marcada por desilusões. O seu encontro com Yurlady (Rebeca Andrade), uma adolescente da periferia possuidora de um verdadeiro talento literário, vai alterar o rumo da sua vida. Óscar convence a jovem a apresentar os seus poemas num concurso nacional de poesia — mas as coisas não correm bem como o previsto.\n\nSobre o Cine Paredão\n\nO Cine Paredão é um projeto de extensão do Curso de Cinema, vinculado ao Centro de Comunicação e Expressão (CCE) e com exibições no Bosque do CFH. Sempre conta com o apoio logístico do CFH, assim como da Secretaria de Cultura, Arte e Esporte (SeCArtE/UFSC). Há 18 anos o projeto promove a exibição de filmes ao ar livre, fomentando o pensamento crítico e o convívio em um dos espaços mais simbólicos da universidade.\n\nConfira o trailer do filme “Um poeta” aqui.\n\nMais informações no Instagram do Cine Paredão ou pelo e-mail cineparedaoufsc@gmail.com",
-      "tags": [
-        "cinema",
-        "filme",
-        "bosque do cfh",
-        "centro de filosofia e ciências humanas",
-        "cfh",
-        "cine paredão",
-        "um poeta"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296549",
-      "name": "IV Seminário Institucional do PIBID/UFSC – ‘Saberes, Práticas e Territórios: O Pibid na Formação de Professores’",
-      "start_date": "2026-09-19T12:00:00.000Z",
-      "end_date": "2026-09-19T20:00:00.000Z",
-      "location": "Centro de Filosofia e Ciências Humanas (CFH), Bloco B",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/IV-SEMINARIO-PIBID-UFSC-819x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/iv-seminario-institucional-do-pibidufsc-saberes-praticas-e-territorios-o-pibid-na-formacao-de-professores/",
-      "description": "O Programa Institucional de Bolsa de Iniciação à Docência (PIBID) da Universidade Federal de Santa Catarina (UFSC) realiza, no dia 19 de setembro, o IV Seminário Institucional do PIBID UFSC “Saberes, Práticas e Territórios: O Pibid na Formação de Professores”. O evento é uma iniciativa da coordenação institucional do PIBID/UFSC, em colaboração com os coordenadores de área dos subprojetos que integram o programa na Universidade e apoio da Pró-Reitoria de Graduação e Educação Básica (PROGRAD) e da CAPES. O seminário tem como objetivo a socialização de atividades e troca de experiências entre os participantes dos subprojetos que são bolsistas de iniciação à docência, professores da educação básica da rede pública de Santa Catarina e docentes das licenciaturas.\n\nOs trabalhos apresentados no evento resultam das experiências de iniciação à docência de 15 subprojetos que envolvem 19 licenciaturas em diferentes cursos de Florianópolis e Blumenau, nos seguintes eixos temáticos: desenvolvimento de materiais didáticos; formação docente; avaliação da aprendizagem; estratégias e abordagens de ensino e aprendizagem.\n\nAs atividades ocorrem no próximo sábado, entre 9h e 17h, no Centro de Filosofia e Ciências Humanas (CFH), bloco B, no campus da Trindade, em Florianópolis. As inscrições de participação geral, incluindo ouvintes (com certificação de 8h) poderão ser feitas no local.\n\nConfira a programação:\n\n09h – Apresentação artístico cultural do Quilombo Vidal Martins\n\n09h15 – Boas vindas aos participantes do evento\n\n09h30-12h30 – Rodas de conversa com a apresentação e discussão de trabalhos dos subprojetos\n\n12h30-14h – Almoço\n\n14h-17h – Rodas de conversa com a apresentação e discussão de trabalhos dos subprojetos\n\nEncerramento\n\nOutras informações na página do PIBID/UFSC ou no perfil do Programa no Instagram.",
-      "tags": [
-        "seminário",
-        "centro de filosofia e ciência humanas (cfh)",
-        "docência",
-        "educação",
-        "pibid"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:296561",
       "name": "Retratos do Absurdo",
