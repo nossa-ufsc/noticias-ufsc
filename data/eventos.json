@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-20T20:40:38.630Z",
+  "geradoEm": "2026-09-21T15:50:43.878Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1368,
-      "selecionados": 23,
+      "selecionados": 22,
       "ignorados": {
-        "ja-passou": 1344,
+        "ja-passou": 1345,
         "muito-longe": 1
       },
       "erros": []
@@ -22,29 +22,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:296561",
-      "name": "Retratos do Absurdo",
-      "start_date": "2026-09-19T23:00:00.000Z",
-      "end_date": "2026-09-20T01:00:00.000Z",
-      "location": "UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/SaveClip_App_728184313_17974014825102323_5854425092630362034_n-1024x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/retratos-do-absurdo/",
-      "description": "O Teatro Carmen Fossari recebe o espetáculo Retratos do Absurdo. A Oficina Permanente de Teatro (OPT), vinculada ao Departamento Artístico Cultural (DAC) da Secretaria de Cultura e Arte da Universidade Federal de Santa Catarina (SeCArte/UFSC), em parceria com o Grupo Pesquisa Teatro Novo, apresenta a montagem nos dias 19 e 20 de setembro, sábado e domingo, às 20h. O espetáculo tem entrada gratuita, e os ingressos podem ser retirados na bilheteria a partir das 19h.\n\nA apresentação convida o público a mergulhar em situações inspiradas no cotidiano, onde o humor, a surpresa e o absurdo caminham lado a lado. São cenas que refletem comportamentos, relações humanas e pequenos acontecimentos do dia a dia, revelando que, muitas vezes, a realidade pode ser tão estranha e divertida quanto a imaginação.\n\nRetratos do Absurdo representa uma importante etapa do processo de formação artística dos participantes da Oficina Permanente de Teatro. Durante meses de trabalho, os alunos exploraram jogos teatrais, improvisações, criação de personagens, expressão corporal e construção coletiva de cenas, transformando aprendizado em experiências cênicas. O espetáculo celebra não apenas o fazer teatral, mas também a convivência, a escuta, o trabalho em grupo e o poder transformador da arte.\n\nA Oficina Permanente de Teatro (OPT)\n\nA Oficina Permanente de Teatro (OPT), vem sendo realizada há mais de três décadas e tem por objetivo uma vivência na área das Artes Cênicas, compreendendo o estudo teórico e a vivência teatral. Possui uma grade disciplinar básica em que se desenvolve a metodologia “de como ser, para representar outro ser”. A cada turma, dependendo da vocação do grupo aí formado, ela realiza o processo de montagem seguindo a tendência natural do grupo e vivências. Depois desta etapa, os participantes, que de fato sintonizam sua vocação, podem integrar o elenco do Grupo Pesquisa Teatro Novo da UFSC.\n\nServiço\n\nO quê: Espetáculo Retratos do Absurdo\n\nQuando: 19 e 20 de setembro de 2026 | sábado e domingo | 20 horas.\n\nOnde: Teatro Carmen Fossari – Rua Desembargador Vítor Lima, 117, Trindade, Florianópolis – SC.\n\nQuanto: Entrada gratuita, retirar o ingresso na bilheteria, uma hora antes da apresentação.\n\nInformações: dac.ufsc.br | dac@contato.ufsc.br | (48) 3721-3853",
-      "tags": [
-        "teatro",
-        "dac",
-        "departamento artístico cultural",
-        "grupo pesquisa teatro novo",
-        "retratos do absurdo",
-        "secarte"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "ara:25049",
       "name": "SAFS",
