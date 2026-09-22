@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-22T13:59:29.606Z",
+  "geradoEm": "2026-09-22T21:10:42.995Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1368,
-      "selecionados": 21,
+      "totalNoFeed": 1373,
+      "selecionados": 24,
       "ignorados": {
-        "ja-passou": 1346,
+        "ja-passou": 1348,
         "muito-longe": 1
       },
       "erros": []
@@ -39,54 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296147",
-      "name": "Feira Redescobrindo a Matemática",
-      "start_date": "2026-09-21T12:00:00.000Z",
-      "end_date": "2026-09-21T21:00:00.000Z",
-      "location": "Colégio de Aplicação da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Captura-de-Tela-2026-09-03-às-09.42.11.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/feira-redescobrindo-a-matematica-2/",
-      "description": "O PET Matemática da Universidade Federal de Santa Catarina (UFSC) realiza, no dia 21 de setembro, a 16ª edição da Feira Redescobrindo a Matemática (FERMAT). O evento será realizado no Colégio de Aplicação da UFSC, das 9h às 12h e das 13h30 às 18h, e é aberto à comunidade. Neste ano, o tema ‘Espaço’ estará presente nas atividades e propostas apresentadas ao longo do evento.\n\nA programação contará com estandes de jogos, desafios e trivias envolvendo Matemática, permitindo que os participantes explorem conceitos matemáticos de forma descontraída e participativa. Durante a feira, os visitantes poderão participar de diversos jogos, desafios, exposições, curiosidades e atividades interativas, desenvolvidos para estimular o raciocínio lógico e proporcionar momentos de aprendizagem e entretenimento. As atividades são voltadas a diferentes faixas etárias, podendo ser aproveitadas tanto por estudantes quanto pela comunidade em geral.\n\nTurmas de escolas de Santa Catarina, do Ensino Fundamental e Médio, poderão participar mediante visitas previamente agendadas por formulário. A iniciativa também é uma oportunidade para a comunidade acadêmica e para estudantes conhecerem diferentes possibilidades de interação com a Matemática fora do ambiente tradicional de sala de aula.\n\nTambém estão abertas as inscrições para voluntários para trabalharem na feira. O papel dos voluntários consiste em auxiliar os visitantes nos estandes, recepcionar as escolas e excursões, e dar apoio à coordenação da FERMAT para eventuais necessidades. As horas trabalhadas terão certificado que poderão contar como horas complementares para os alunos da graduação. Os interessados devem preencher o formulário de inscrição.\n\nA realização da XVI FERMAT conta com a parceria do Laboratório de Estudos de Matemática e Tecnologias (LEMAT-UFSC), do projeto Círculo Matemático, do programa de extensão UFSCience, do Núcleo de Atividades de Altas Habilidades/Superdotação (NAAHS) e do Observatório Astronômico do Grupo de Astrofísica (GAS) da UFSC.\n\nO PET Matemática desenvolve atividades de ensino, pesquisa e extensão e tem a feira como um dos seus projetos de extensão promovidos anualmente. O principal objetivo é apresentar a Matemática de maneira lúdica, criativa e interessante, aproximando o conhecimento matemático do público.",
-      "tags": [
-        "feira",
-        "colégio de aplicação",
-        "feira redescobrindo a matemática (fermat)",
-        "lemat ufsc",
-        "pet matemática"
-      ],
-      "category": "outro",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296687",
-      "name": "Aula inaugural: ‘Os feminismos na tradución, a tradución nos feminismos’",
-      "start_date": "2026-09-21T13:00:00.000Z",
-      "end_date": "2026-09-21T16:00:00.000Z",
-      "location": "Sala Machado de Assis – Bloco B do Centro de Comunicação e Expressão (CCE/UFSC).",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/PPGET.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/aula-inaugural-os-feminismos-na-traducion-a-traducion-nos-feminismos/",
-      "description": "O Programa de Pós-graduação em Estudos da Tradução da Universidade Federal de Santa Catarina (PPGET/UFSC) promove sua 44ª Aula Inaugural nesta segunda-feira, 21 de setembro, às 10h, na sala Machado de Assis, localizada no Bloco B do Centro de Comunicação e Expressão (CCE/UFSC). A atividade é aberta a todos.\n\nA palestrante será Olga Castro, professora e pesquisadora da Universitat Autònoma de Barcelona, Espanha, e da University of Warwick, Reino Unido. A palestra será proferida em galego e terá como título: “Os feminismos na tradución, a tradución nos feminismos: encontros, desencontros e estratexias de intervención”. Haverá interpretação em Libras.\n\nSobre a palestrante:\n\nOlga Castro é investigadora distinguida sénior “Beatriz Galindo” no Departamento de Tradución, Interpretación e Estudos de Asia Oriental da Universitat Autònoma de Barcelona (2023–2027), onde fundou o grupo de pesquisa FEMINTRA (Feminismes, Mirades no Hegemòniques i Interseccionalitat en Traducció). Doutora em Tradución e Interpretación pela Universidade de Vigo (2010), entre 2010 e 2023 desenvolveu sua carreira no Reino Unido, onde é Reader em Estudos de Tradución e Transculturais na School of Modern Languages and Cultures da University of Warwick. Nessa instituição, organizou a escola de verão Warwick School of Feminist Translation (2023). Atualmente, é IP do projeto “Translating Intersectional Feminisms in the Iberian Space: Genealogies of Knowledge for an Inclusive Society” (2026–2030), financiado pelo Ministerio de Universidades de España e pela Axencia Estatal de Investigación, e co-IP do projeto “Feminist Translation Network” (2024–2026), financiado pelo AHRC britânico e liderado por Hilary Brown. Em 2024, cofundou, juntamente com María Laura Spoturno, a revista acadêmica Feminist Translation Studies (Taylor & Francis), da qual é coeditora-chefe.\n\nSobre a palestra:\n\nA produção de reflexão teórica e de prática política em torno da interação entre os estudos de tradução e os estudos feministas tem experimentado um auge sem precedentes nas últimas décadas, em uma diversidade de espaços geopolíticos (Castro e Spoturno 2024; Castro, Ergun, Bracke, Spurlin e Fonseca 2024), entre eles o Brasil (Matos 2022; Matos e Castro 2025; Matos e Guerini 2025).\n\nOs campos de conhecimento que poderíamos denominar estudos feministas da tradução e estudos de tradução feminista têm despertado grande interesse não apenas entre pessoas pesquisadoras, mas também entre profissionais que adotam uma perspectiva feminista em sua prática tradutora, assim como entre ativistas feministas que concebem a tradução como ferramenta para possibilitar diálogos transnacionais em prol da justiça social global.\n\nPartindo desse contexto, a palestra propõe uma aproximação crítica à encruzilhada entre essas duas vertentes de investigação, com o objetivo de colocar em evidência seus encontros e desencontros, especialmente no que diz respeito às chamadas estratégias de tradução feminista e/ou estratégias feministas de tradução (veja-se, por exemplo, Jordà Mathiasen 2025; Brown e Saldanha 2025).\n\nA partir de uma posição situada e de observações e conhecimentos experienciais reunidos ao longo de uma participação continuada nesse campo, o objetivo é promover uma reflexão sobre formas mais (e menos) produtivas de pensar as intervenções feministas por meio da tradução. Essa reflexão se torna especialmente urgente em um momento em que, com a irrupção da mal chamada “inteligência” artificial, e parafraseando Anthony Pym (2026), poderíamos estar assistindo “ao fim da tradução tal e como a conhecemos”.\n\nMais informações na página do PPGET ou pelo e-mail secpget@gmail.com",
-      "tags": [
-        "aula inaugural",
-        "palestra",
-        "cce",
-        "feminismo",
-        "olga castro",
-        "ppget",
-        "programa de pós-graduação em estudos da tradução",
-        "tradução",
-        "universitat autònoma de barcelona"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:296655",
@@ -260,6 +212,70 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296806",
+      "name": "17 anos do Objethos – Observatório da Ética Jornalística",
+      "start_date": "2026-09-25T12:00:00.000Z",
+      "end_date": "2026-09-25T20:00:00.000Z",
+      "location": "Auditório Henrique Fontes, Bloco B do Centro de Comunicação e Expressão (CCE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Captura-de-tela-2026-09-22-143607.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/17-anos-do-objethos-observatorio-da-etica-jornalistica/",
+      "description": "O projeto de extensão Observatório da Ética Jornalística (Objethos), vinculado ao curso de Jornalismo da Universidade Federal de Santa Catarina (UFSC), realiza o Seminário Nacional de 17 anos do Objethos: ética jornalística como elemento central à formação profissional, nesta sexta-feira, 25 de setembro, no auditório Henrique Fontes, no Bloco B do Centro de Comunicação e Expressão (CCE). O evento é gratuito e aberto a toda a comunidade acadêmica. Não é necessário realizar inscrições.\n\nO seminário contará com dois painéis e presença de especialistas na área. A primeira mesa começa às 9h, com o tema Ética jornalística, democracia e opinião pública, e será apresentada pelos jornalistas e pesquisadores Rogério Christofoletti, professor da UFSC, e Eugênio Bucci, professor da Universidade de São Paulo (USP).\n\nÀs 14h, a mesa Ética e prática profissional: de qual jornalismo e democracia precisamos? contará com a participação das jornalistas Alexandra Moraes, da Folha de São Paulo, e Amanda Miranda, da Agência de Comunicação da UFSC (Agecom) e do ICL.\n\nPara mais informações, acesse o Instagram do Projeto.",
+      "tags": [
+        "debate",
+        "seminário",
+        "cce",
+        "departamento de jornalismo da ufsc",
+        "objethos",
+        "seminário objethos"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296820",
+      "name": "Cinedebate – Luta da Pessoa com Deficiência",
+      "start_date": "2026-09-25T20:00:00.000Z",
+      "end_date": "2026-09-25T22:00:00.000Z",
+      "location": "Auditório do Sintufsc",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/cinedebate-pcd-1024x576.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cinedebate-luta-da-pessoa-com-deficiencia/",
+      "description": "Para marcar o Dia Nacional de Luta da Pessoa com Deficiência, o Sindicato de Trabalhadores em Educação da UFSC (Sintufsc) promove um cinedebate sobre acessibilidade, inclusão e os direitos das pessoas com deficiência nesta sexta-feira, 25 de setembro, às 17h, no auditório do sindicato. A atividade é gratuita e aberta a toda a comunidade.\n\nSerão exibidos três curtas que abordam, a partir de diferentes perspectivas, as experiências de pessoas com deficiência e os desafios enfrentados no cotidiano:\n\n•\nOutro olhar de ver a vida: filme com audiodescrição que apresenta o mundo a partir das experiências de pessoas com deficiência visual.\n\n•\nCalçadas acompanha uma jovem cadeirante diante das barreiras e da falta de acessibilidade no espaço urbano.\n\n•\nVir à Luz é um documentário com audiodescrição sobre o cotidiano de pessoas com deficiência visual, abordando atividades domésticas, esporte, mobilidade e autonomia.\n\nApós as exibições, haverá um debate com Sarita Locks de Souza e Patrick Alencastro Pinheiro.\n\nSarita é servidora técnico-administrativa em educação da UFSC, formada em História, mestra em Ciência da Informação e especialista em Coordenação Pedagógica. Pessoa com deficiência auditiva, Sarita atua e participa de espaços de discussão sobre educação, acessibilidade, inclusão e direitos das pessoas com deficiência.\n\nPatrick é formado em Direito pela UFSC, pós-graduado em Direitos Humanos e mestrando na área de Direito, Política e Sociedade na UFSC. Servidor da Universidade há nove anos, já trabalhou na Coordenadoria de Graduação do Curso de Enfermagem e na Coordenadoria de Residência Médica. Também já participou de força-tarefa na Autoridade Nacional de Proteção de Dados (ANPD), tendo sido requisitado pela Presidência da República. Trabalha atualmente no Setor de Ações Judiciais, na Pró-Reitoria de Desenvolvimento e Gestão de Pessoas (Prodegesp). Tem 46 anos e é PCD desde 1997, quando houve necessidade de amputar a mão esquerda devido a um câncer na mão.",
+      "tags": [
+        "cinema",
+        "cinedebate",
+        "dia nacional de luta da pessoa com deficiência",
+        "sintufsc"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296799",
+      "name": "Cine Paredão: O conto de Silyan",
+      "start_date": "2026-09-25T22:00:00.000Z",
+      "end_date": "2026-09-26T00:00:00.000Z",
+      "location": "Bosque do CFH",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/1000169035-768x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cine-paredao-o-conto-de-silyan/",
+      "description": "O Cine Paredão, vinculado ao curso de Cinema da Universidade Federal de Santa Catarina (UFSC), exibirá The Tale of Silyan (O Conto de Silyan, em português). A programação será nesta sexta-feira, 25 de setembro, às 19h, no Bosque do Centro de Filosofia e Ciências Humanas (CFH).\n\nA sinopse do filme é inspirada no menino de Silyan, que decide ir embora da casa de seu pai. O pai, para se vingar do filho, pede aos céus um castigo. O filho se transforma em cegonha e vai embora. Ambientado na Macedônia do Norte, devastada pela emigração em massa, o filme faz um paralelo com a história do fazendeiro Nikola, que lida com crises econômicas e a partida de sua família, enquanto cria um vínculo profundo com uma cegonha-branca ferida. O filme é sugerido para maiores de 12 anos e possui duração de 1h29.\n\nPara mais informações, acesse o Instagram do Cine Paredão e assista ao trailer disponível no Youtube.",
+      "tags": [
+        "cinema",
+        "bosque do cfh",
+        "cine paredão"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:294876",
       "name": "Imaginar o impossível – sobre a modernidade e seus fins",
       "start_date": "2026-09-28T03:00:00.000Z",
@@ -314,6 +330,31 @@
         "gpda",
         "grupo de pesquisa em direito ambiental na sociedade de risc",
         "youtube"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296778",
+      "name": "Grupo de Estudos do Núcleo de Identidade de Gênero e Subjetividades (GENIGS)",
+      "start_date": "2026-09-30T21:30:00.000Z",
+      "end_date": "2026-09-30T23:30:00.000Z",
+      "location": "Auditório do Bloco F no Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/GENIGS-725x1024.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/grupo-de-estudos-do-nucleo-de-identidade-de-genero-e-subjetividades-genigs/",
+      "description": "O Grupo de Estudos do Núcleo de Identidade de Gênero e Subjetividades da Universidade Federal de Santa Catarina (GENIGS/UFSC) promove o próximo encontro no dia 30 de setembro de 2026, quarta-feira, das 18h30 às 20h30, no Auditório do Bloco F, no Centro de Filosofia e Ciências Humanas (CFH/UFSC). O encontro, que integra as atividades relacionadas aos 35 anos do NIGS, é gratuito e aberto a todos.\n\nA programação reunirá apresentações de pesquisas atualmente desenvolvidas por pesquisadoras integrantes do NIGS, articuladas à discussão coletiva de um texto previamente indicado. Neste encontro, o texto proposto para a discussão coletiva é “Às voltas com a escrita e com o outro: intersubjetividades e diferenças de gênero na antropologia”, de Francisco Cleiton Vieira Silva do Rego e Rozeli Maria Porto, publicado no livro Trabalho de campo, ética e subjetividade, nas páginas 105–120. O material está disponível no Repositório Institucional da UFSC.\n\nSerão apresentadas as seguintes pesquisas:\n\n•\n“Coloco o volume no baixo para ela não perceber”: como as crianças se apropriam da cultura digital – Lígia Antunes de Siqueira (PPGICH/UFSC)\n\n•\nGênero, parentalidade e família em relações entre humanos e animais de estimação – Alana Pacheco dos Reis Verani (PPGAS/UFSC)\n\n•\n“Eu sou o toque”: relações de masculinidades na prática do grau de moto – Adriana Angerami (PPGAS/UFSC)\n\n•\n“O giro que só o festival tem”: formação e profissionalização de mulheres do teatro em Santa Catarina – Suzana Morelo Vergara Martins Costa (PPGICH/UFSC)\n\nAcesse o texto que será discutido aqui.\n\nMais informações na página do NIGS ou pelo e-mail nigsufsc1991@gmail.com",
+      "tags": [
+        "debate",
+        "grupo de estudos",
+        "centro de filosofia e ciências humanas",
+        "cfh",
+        "gênero",
+        "genigs",
+        "nigs",
+        "núcleo de identidade de gênero e subjetividades"
       ],
       "category": "palestra",
       "is_free": true,
@@ -436,6 +477,28 @@
       "description": "VII Simpósio do Programa de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES)\n\nBreve descrição do evento: O VII Simpósio do Programa de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES) é um evento científico promovido pelo PPGES/UFSC, destinado à divulgação de pesquisas e à troca de conhecimentos nas áreas de energia e sustentabilidade. O simpósio reúne estudantes, docentes, pesquisadores, profissionais e representantes dos setores público e privado para palestras, mesas-redondas, apresentações de trabalhos e debates, fortalecendo a integração entre a universidade e a sociedade.Data e horário: 21 e 22 de outubro de 2026, das 13:30 às 20:30.\n\nLocal do evento: Auditório da Universidade Federal de Santa Catarina (UFSC), Campus Araranguá, Unidade Jardim das Avenidas – Araranguá/SC.\n\nOrganização: Programa de Pós-Graduação em Energia e Sustentabilidade (PPGES) da Universidade Federal de Santa Catarina (UFSC).\n\nOrganizadores na UFSC:\n\nCoordenação Geral:\n\n•\nProf. Dr. Leonardo Elizeire Bremermann – PPGES/UFSC (Coordenador)\n\nComissão Organizadora – Docentes:\n\n•\nProf. Dr. Afonso Henrique da Silva Júnior – PPGES/UFSC\n\n•\nProf. Dr. Giuliano Arns Rampinelli – PPGES/UFSC\n\n•\nProf. Dr. Luiz Fernando Belchior Ribeiro – PPGES/UFSC\n\nComissão Organizadora – Discentes:\n\n•\nAlesandra Bez Birolo\n\n•\nAline Rodrigues\n\n•\nAndrei Leandro Morsch Franco\n\n•\nBiasse Paulino Biasse Cadente\n\n•\nCaroline Winke Ávila\n\n•\nCristini da Rosa Pedroso\n\n•\nDouglas de Matos Magnus\n\n•\nGessica Candiotto Possamai\n\n•\nGuilherme Velho\n\n•\nJessica Patrício dos Santos\n\n•\nJessika Sumariva Saturno\n\n•\nJonathan Maceda Silveira\n\n•\nLaércio Luiz Teixeira\n\n•\nLucas Batista Crepaldi\n\n•\nLuis Fernando Espinosa Cocian\n\n•\nMarcos Ricardo Giehl\n\n•\nPedro Rodrigo Silva Moura\n\n•\nSara Cristine Denoni Ghedin\n\n•\nTiago da Rosa Augustinho",
       "tags": [],
       "category": "academico",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296780",
+      "name": "2º Seminário de Compartilhamento de Ações de Enfrentamento à Evasão e Promoção da Permanência Estudantil",
+      "start_date": "2026-10-27T17:00:00.000Z",
+      "end_date": "2026-10-27T21:00:00.000Z",
+      "location": "Auditório do Centro Socioeconômico (CSE/UFSC)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Cartaz-II-Seminário-819x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/2o-seminario-de-compartilhamento-de-acoes-de-enfrentamento-a-evasao-e-promocao-da-permanencia-estudantil/",
+      "description": "O Setor de Acompanhamento da Trajetória Estudantil da Pró-Reitoria de Graduação e Educação Básica (SATE/PROGRAD/UFSC) promove o II Seminário de Compartilhamento de Ações de Enfrentamento à Evasão e Promoção da Permanência Estudantil no dia 27 de outubro, das 14h às 18h, no Auditório do Centro Socioeconômico (CSE/UFSC) e também on-line.\n\nO evento é voltado a coordenadores(as) e secretários(as) de curso de graduação da UFSC e demais servidores(as) que desenvolvem atividades inerentes ao enfrentamento à evasão e promoção da permanência estudantil. A inscrição para participação como ouvinte ou para submissão de trabalhos deve ser feita pelo link.\n\nO seminário tem como objetivo promover o compartilhamento de ações que já vêm sendo adotadas por diferentes cursos de graduação da UFSC e demais setores da instituição, para o enfrentamento da evasão e promoção da permanência estudantil. Todas as informações sobre inscrições e submissão de trabalhos constam no Edital de Chamada para apresentação de trabalhos e participação no II Seminário de Compartilhamento de Ações de Enfrentamento à Evasão e Promoção da Permanência Estudantil.\n\nMais informações na página do evento, na página do Setor de Acompanhamento da Trajetória Estudantil ou pelo e-mail evasao@contato.ufsc.br.",
+      "tags": [
+        "seminário",
+        "evasão",
+        "permanência estudantil",
+        "prograd",
+        "setor de acompanhamento da trajetória estudantil"
+      ],
+      "category": "palestra",
       "is_free": true,
       "is_all_day": false
     },
