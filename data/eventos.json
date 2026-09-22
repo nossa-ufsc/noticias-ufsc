@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-21T15:50:43.878Z",
+  "geradoEm": "2026-09-22T13:59:29.606Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1368,
-      "selecionados": 22,
+      "selecionados": 21,
       "ignorados": {
-        "ja-passou": 1345,
+        "ja-passou": 1346,
         "muito-longe": 1
       },
       "erros": []
@@ -59,29 +59,6 @@
         "pet matemática"
       ],
       "category": "outro",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296641",
-      "name": "Semana da Árvore UFSC 2026",
-      "start_date": "2026-09-21T12:00:00.000Z",
-      "end_date": "2026-09-21T13:00:00.000Z",
-      "location": "UFSC, Campus da Trindade",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.paginas.ufsc.br/files/2026/09/Semana_da_Arvore_2026-240x300.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/semana-da-arvore-ufsc-2026/",
-      "description": "Estão abertas as inscrições para a Semana da Árvore 2026, que ocorre na Universidade Federal de Santa Catarina (UFSC), de 21 a 25 de setembro. O evento, promovido pela Sala Verde UFSC e pelo Departamento de Gestão Ambiental (CGA), é realizado anualmente em comemoração ao Dia da Árvore (21 de setembro). A programação reúne oficinas que estimulam a reciclagem e o consumo consciente, chamam a atenção para a importância de pássaros e insetos para os ecossistemas e esclarecem sobre a relevância da recuperação de áreas degradadas.\n\nAs oficinas serão realizadas na Sala Verde, localizada no térreo da Biblioteca Central (BU/UFSC). As atividades são voltadas a pessoas de todas as idades, mas menores de 16 anos devem estar acompanhados de uma pessoa responsável.\n\nOficina de Ecocaderno\n\nA atividade faz parte do projeto Oficinas para uma Vida Consciente, da Sala Verde UFSC, e tem como objetivo a confecção de um caderno ecológico, gerando produto personalizado e consciente. Com base no diálogo sobre os 5R’s – repensar, recusar, reduzir, reutilizar e reciclar – participantes são estimulados a reaproveitar materiais diversos (papéis, espirais, capas, retalhos de tecidos) e orientados para criar encadernações artesanais de ecocadernos, ecoblocos, ecoagendas, etc.\n\nOficina Agentes secretos da natureza\n\nO objetivo da oficina é ampliar a percepção sobre a diversidade de insetos urbanos e sua importância ecológica, por meio de atividades sensoriais com materiais didáticos interativos e atividades externas no próprio campus da UFSC. Na prática, os participantes são convidados a refletir sobre o papel dos insetos (que representam cerca de 75% das espécies animais) no seu dia a dia e na saúde do planeta.\n\nOficina de reciclagem de papel\n\nParte do projeto Oficinas para uma Vida Consciente da Sala Verde UFSC, a reciclagem de papel é fundamental para combater o desperdício desse material. A oficina acontecerá de modo participativo, um momento dedicado à explicação de como fazer o papel artesanal. Serão apresentados os diferentes estágios dessa transformação, proporcionando uma experiência enriquecedora e de troca de conhecimentos\n\nOficina Aves e poleiros ecológicos: Estratégias para a restauração de áreas degradadas\n\nAlém de fazer parte da programação da Semana da Árvore, a atividade integra o Plano de Recuperação de Áreas Degradadas da UFSC (PRAD), e tem como objetivo sensibilizar e envolver a comunidade nas ações do plano. Em um primeiro momento, os participantes serão esclarecidos sobre a importância das aves para o equilíbrio dos ecossistemas, seu papel na dispersão de sementes, polinização e na recuperação de áreas degradadas. Em seguida, poderão visitar poleiros instalados no campus e participar da observação de aves com orientação.\n\nRecuperação de APPs com foco nas áreas degradadas de margens de cursos d’água\n\nTambém integrante do Plano de Recuperação de Áreas Degradadas da UFSC (PRAD), a atividade será composta por uma parte teórica e outra prática. Iniciará com uma breve apresentação do PRAD/UFSC seguida de uma introdução à ecologia da recuperação de áreas degradadas, abordando as definições de degradação e de recuperação, os mecanismos de regeneração natural de florestas e os processos importantes para a recuperação das áreas. A seguir, os conhecimentos serão aplicados em uma atividade prática de discussão em campo sobre como recuperar as margens dos córregos da UFSC\n\nAs atividades são gratuitas, abertas à comunidade universitária e ao público externo e geram certificado. Pessoas interessadas em participar devem fazer sua inscrição com antecedência, na página da Sala Verde UFSC.\n\nConfira a programação:\n\n21/09 – 9h às 12h: Oficina de Ecocaderno – Equipe da Sala Verde UFSC\n\n22/09 – 09h às 12h: Oficina Agentes Secretos da Natureza – Lucy Catherine, Maria Clara Rocha e Maria Luiza Dale, graduandas em Ciências Biológicas\n\n23/09 – 14h às 17h: Oficina de Reciclagem de Papel – Equipe da Sala Verde UFSC\n\n24/09 – 09h às 12h: Oficina Aves e Poleiros…",
-      "tags": [
-        "ao ar livre",
-        "oficina",
-        "semana de atividades",
-        "sala verde",
-        "semana da árvore",
-        "ufsc sustentável"
-      ],
-      "category": "curso",
       "is_free": true,
       "is_all_day": false
     },
