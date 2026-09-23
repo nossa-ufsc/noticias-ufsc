@@ -42,7 +42,7 @@ export type FeedSource = {
   nome: string;
   url: string;
   campusPadrao: Campus;
-  /** Hosts aceitos para imagens/páginas (o resto vira fallback). */
+  /** Hosts aceitos para imagens/páginas (o resto vira `""` / null). */
   hosts: string[];
 };
 

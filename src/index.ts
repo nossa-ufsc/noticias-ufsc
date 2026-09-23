@@ -23,10 +23,6 @@ import type { PipelineStats, SourceId, UfscEventRow } from './lib/types.js';
 import { validarLote } from './lib/validate.js';
 import { FONTES, FONTES_PADRAO } from './sources/index.js';
 
-// Imagem padrão (bucket público do app) para o raro evento sem imagem no feed.
-const FALLBACK_IMAGEM =
-  'https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg';
-
 type Args = {
   cmd: string;
   dry: boolean;
@@ -74,7 +70,7 @@ async function coletar(fonteId: SourceId, agora: number, fixture: string | null)
   const stats: PipelineStats = { fonte: fonteId, totalNoFeed: eventos.length, selecionados: 0, ignorados: {}, erros: [] };
   const rows: UfscEventRow[] = [];
   for (const ev of eventos) {
-    const sel = normalizarEvento(ev, fonte, agora, FALLBACK_IMAGEM);
+    const sel = normalizarEvento(ev, fonte, agora);
     if (sel.ok) {
       rows.push(sel.row);
     } else {

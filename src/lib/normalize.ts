@@ -64,8 +64,7 @@ function paraHttps(url: string): string {
 export function normalizarEvento(
   ev: IcalEvent,
   fonte: FeedSource,
-  agora: number,
-  fallbackImagem: string
+  agora: number
 ): Selecao {
   try {
     const id = idDoUid(text(ev, 'UID'));
@@ -105,7 +104,9 @@ export function normalizarEvento(
       end_date: end,
       location,
       campus,
-      image_url: imagem ? paraHttps(imagem) : fallbackImagem,
+      // Sem imagem confiável → string vazia: o app mostra a imagem padrão empacotada
+      // (não gastar egress do bucket com um fallback remoto).
+      image_url: imagem ? paraHttps(imagem) : '',
       ticket_url: httpsOuNull(text(ev, 'X-TICKETS-URL')),
       info_url,
       description: descricao || null,

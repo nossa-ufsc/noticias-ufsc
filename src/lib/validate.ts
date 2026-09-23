@@ -28,7 +28,7 @@ export function validarLote(rows: UfscEventRow[], stats: PipelineStats[]): void 
       problemas.push(`${r.source_id}: data inválida`);
     }
     if (r.end_date < r.start_date) problemas.push(`${r.source_id}: fim antes do início`);
-    if (!/^https?:\/\//.test(r.image_url)) problemas.push(`${r.source_id}: image_url inválida`);
+    if (r.image_url !== '' && !/^https?:\/\//.test(r.image_url)) problemas.push(`${r.source_id}: image_url inválida`);
   }
 
   // Se mais de 30% das linhas vieram sem imagem própria ou sem descrição, o feed mudou de forma.

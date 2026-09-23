@@ -29,7 +29,7 @@ ara.ufsc.br       ─┴──▶ parse → normaliza → valida ──▶ ufsc-
    | `start_date` / `end_date` | `DTSTART`/`DTEND` em UTC. Dia inteiro: 00:00 do 1º dia → **23:59:59 do último dia (inclusivo)**, BRT |
    | `location` | `LOCATION` à esquerda do `@`; vazio → `Online` (se houver pista) ou `UFSC` |
    | `campus` | padrão da fonte; `LOCATION`/título citando Joinville/Blumenau/Araranguá/Curitibanos sobrescreve |
-   | `image_url` | `X-WP-IMAGES-URL` (large > medium > thumbnail), só `*.ufsc.br`; senão imagem padrão do bucket |
+   | `image_url` | `X-WP-IMAGES-URL` (large > medium > thumbnail), só `*.ufsc.br`; senão `""` (o app mostra a imagem padrão empacotada) |
    | `ticket_url` | `X-TICKETS-URL` (inscrições), só https |
    | `info_url` | `URL` (página do evento) |
    | `description` | `X-ALT-DESC` (HTML → texto, ≤ 4000 chars) |

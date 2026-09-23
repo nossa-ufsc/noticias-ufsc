@@ -12,7 +12,6 @@ import { validarLote } from '../src/lib/validate.js';
 import { FONTES } from '../src/sources/index.js';
 
 const AGORA = Date.parse('2026-08-17T15:00:00-03:00');
-const FALLBACK = 'https://example.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg';
 const agecom = parseEvents(readFileSync(new URL('../fixtures/agecom.ics', import.meta.url), 'utf8'));
 const ara = parseEvents(readFileSync(new URL('../fixtures/ara.ics', import.meta.url), 'utf8'));
 
@@ -97,7 +96,7 @@ describe('normalize', () => {
   });
 
   test('seleciona a janela e mapeia campos (Agecom)', () => {
-    const rows = agecom.map((e) => normalizarEvento(e, FONTES.agecom, AGORA, FALLBACK)).filter((s) => s.ok).map((s) => s.row);
+    const rows = agecom.map((e) => normalizarEvento(e, FONTES.agecom, AGORA)).filter((s) => s.ok).map((s) => s.row);
     expect(rows.length).toBe(26);
     const concerto = rows.find((r) => r.name === 'Concerto Trio Internacional')!;
     expect(concerto).toMatchObject({
@@ -126,19 +125,19 @@ describe('normalize', () => {
   });
 
   test('ARA usa campus padrão ararangua e fallback de imagem/local', () => {
-    const rows = ara.map((e) => normalizarEvento(e, FONTES.ara, AGORA, FALLBACK)).filter((s) => s.ok).map((s) => s.row);
+    const rows = ara.map((e) => normalizarEvento(e, FONTES.ara, AGORA)).filter((s) => s.ok).map((s) => s.row);
     expect(rows.length).toBe(8);
     for (const r of rows) expect(r.campus).toBe('ararangua');
     const saene = rows.find((r) => r.name === 'SAENE')!;
     expect(saene.location).toBe('UFSC');
-    expect(saene.image_url).toBe(FALLBACK);
+    expect(saene.image_url).toBe('');
     expect(saene.is_all_day).toBe(true);
     expect(saene.start_date).toBe('2026-08-31T03:00:00.000Z');
     expect(saene.end_date).toBe('2026-09-05T02:59:59.000Z');
   });
 
   test('validarLote aceita o lote real e rejeita duplicata', () => {
-    const rows = agecom.map((e) => normalizarEvento(e, FONTES.agecom, AGORA, FALLBACK)).filter((s) => s.ok).map((s) => s.row);
+    const rows = agecom.map((e) => normalizarEvento(e, FONTES.agecom, AGORA)).filter((s) => s.ok).map((s) => s.row);
     const stats = [{ fonte: 'agecom' as const, totalNoFeed: agecom.length, selecionados: rows.length, ignorados: {}, erros: [] }];
     expect(() => validarLote(rows, stats)).not.toThrow();
     expect(() => validarLote([...rows, rows[0]], stats)).toThrow(/duplicado/);
