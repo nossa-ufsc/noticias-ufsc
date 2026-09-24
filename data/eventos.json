@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-22T21:10:42.995Z",
+  "geradoEm": "2026-09-24T14:09:22.828Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1373,
-      "selecionados": 24,
+      "totalNoFeed": 1377,
+      "selecionados": 22,
       "ignorados": {
-        "ja-passou": 1348,
+        "ja-passou": 1354,
         "muito-longe": 1
       },
       "erros": []
@@ -29,7 +29,7 @@
       "end_date": "2026-09-26T02:59:59.000Z",
       "location": "UFSC",
       "campus": "ararangua",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "image_url": "",
       "ticket_url": null,
       "info_url": "https://ara.ufsc.br/event/safs/",
       "description": "Semana Acadêmica de Fisioterapia",
@@ -39,136 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296655",
-      "name": "Roda de conversa com candidatas às eleições em Santa Catatina",
-      "start_date": "2026-09-21T21:00:00.000Z",
-      "end_date": "2026-09-21T23:00:00.000Z",
-      "location": "Transmissão ao vivo pelo canal do IEG no Youtube",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/roda-de-conversa-candidatas-ieg-819x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/roda-de-conversa-com-candidatas-as-eleicoes-em-santa-catatina/",
-      "description": "O Instituto de Estudos de Gênero (IEG) da Universidade Federal de Santa Catarina (UFSC) promove uma roda de conversa on-line com candidatas a deputadas e senadoras por Santa Catarina no dia 21 de setembro, das 18h às 20h. O encontro será transmitido ao vivo pelo canal IEG no Youtube.\n\nA proposta é reunir as candidatas participantes em um mesmo espaço, destinado à apresentação de suas principais propostas, compromissos e pautas de políticas públicas voltadas às mulheres. As candidatas interessadas em participar deverão preencher o Formulário de Adesão até 17 de setembro.\n\nSegundo o IEG, a iniciativa reafirma o compromisso do instituto com a promoção de debate público, a democracia e a ampliação da discussão sobre políticas públicas voltadas à garantia dos direitos das mulheres.\n\nMais informações pelo e-mail estudosdegenero@gmail.com ou pelo telefone (48) 3721-6440.",
-      "tags": [
-        "roda de conversa",
-        "roda de diálogo",
-        "eleições",
-        "ieg",
-        "instituto de estudos de gênero (ieg)"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296586",
-      "name": "Aula magna: ‘Atlas Geográfico de Santa Catarina’",
-      "start_date": "2026-09-21T22:00:00.000Z",
-      "end_date": "2026-09-22T00:00:00.000Z",
-      "location": "Auditório do Centro de Filosofia e Ciências Humanas (CFH) da UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/02/315A9995_GustavoDiehl-900px.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/aula-magna-atlas-geografico-de-santa-catarina/",
-      "description": "Foto: Gustavo Diehl/Agecom/UFSC\n\nA Universidade Federal de Santa Catarina (UFSC) promove, no dia 21 de setembro, às 19h, a aula magna Atlas Geográfico de Santa Catarina, com a professora Isa de Oliveira Rocha, da Universidade do Estado de Santa Catarina (UDESC). O evento será realizado no Auditório do Centro de Filosofia e Ciências Humanas (CFH) da UFSC, em Florianópolis. A atividade é voltada à comunidade acadêmica, especialmente graduandos e pós-graduandos em Geografia, e não exige inscrição prévia. A participação é gratuita e dará direito a certificado de quatro horas.\n\nDurante a conferência, Isa de Oliveira Rocha apresentará a trajetória, a concepção metodológica e as contribuições do Atlas Geográfico de Santa Catarina, coleção organizada em fascículos temáticos e editada pela Editora da UDESC. A publicação reúne informações cartográficas, dados históricos e análises sobre diferentes aspectos do território catarinense, constituindo uma importante referência para pesquisas, atividades de ensino e planejamento territorial. A aula magna é realizada pela UFSC, por meio do Departamento de Geociências e do Laboratório de Estudos Urbanos e Regionais (LABEUR), com a participação do professor José Messias Bastos, coordenador do Curso de Graduação em Geografia da universidade. A iniciativa conta ainda com o apoio do Laboratório de Planejamento Urbano e Regional (LABPLAN) da UDESC.\n\nA atual coleção do Atlas Geográfico de Santa Catarina começou a ser publicada em 2013, a partir de uma parceria entre a UDESC e o Governo do Estado. Coordenado pela professora Isa de Oliveira Rocha, o projeto reúne pesquisadores de diferentes instituições e áreas do conhecimento para produzir mapas, séries históricas, textos e análises sobre a formação e as transformações do território catarinense. A coleção é composta por fascículos temáticos. O primeiro, Estado e Território, aborda a formação territorial de Santa Catarina, a evolução da divisão político-administrativa e o processo de criação dos municípios.\n\nO segundo fascículo, Diversidade da Natureza, reúne estudos sobre geossistemas, geologia, relevo, clima, hidrografia, solos, vegetação e ilhas costeiras. Já o terceiro, População, analisa a formação socioespacial catarinense, os povos indígenas, os movimentos migratórios, a distribuição territorial da população, a dinâmica demográfica e a urbanização. O quarto volume, Infraestrutura, apresenta um diagnóstico das redes de transporte, energia elétrica, gás natural, saneamento básico, comunicação e informação no estado. O quinto fascículo, dedicado ao panorama econômico catarinense, está em elaboração e tem lançamento previsto para 2027.",
-      "tags": [
-        "aula magna",
-        "centro de ciências humanas e filosofia (cfh)",
-        "udesc"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296504",
-      "name": "Cineclube Pet Conexões de Saberes: Marte Um",
-      "start_date": "2026-09-21T22:00:00.000Z",
-      "end_date": "2026-09-22T00:00:00.000Z",
-      "location": "Sala de projeção 108 | Bloco D - CCE",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Marte_Um_2022.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cineclube-pet-conexoes-de-saberes-marte-um/",
-      "description": "O Programa de Educação Tutorial PET Conexões de Saberes: diálogos entre a universidade e as comunidades populares realizará no dia 21 de setembro, às 19h, o Cineclube PET Conexões de Saberes. A atividade consiste em um encontro presencial para a exibição e apreciação do longa-metragem nacional Marte Um (2022), dirigido por Gabriel Martins. Após a sessão, será promovido um breve debate com os participantes sobre suas impressões do filme. O evento ocorre na Sala de projeção 108 do Bloco D do Centro de Comunicação e Expressão (CCE).\n\nSinopse\n\nA família Martins vive tranquilamente nas margens de uma grande cidade brasileira após a decepcionante posse de um presidente extremista de direita. Sendo uma família negra de classe média-baixa, eles sentem a tensão de sua nova realidade. Tércia, a mãe, reinterpreta seu mundo depois que um encontro inesperado a deixa se perguntando se ela é amaldiçoada. Seu marido, Wellington, coloca todas as suas esperanças na carreira do filho, Deivinho, que por pressão e querendo agradar o pai, segue as ambições dele, apesar de secretamente aspirar estudar astrofísica e colonizar Marte. Enquanto isso, a filha mais velha, Eunice, se apaixona por uma jovem de espírito livre e questiona se é a hora de sair de casa.\n\nO Programa de Educação Tutorial – PET Conexões de Saberes: diálogos entre a universidade e as comunidades populares – é um programa desenvolvido pelo Ministério da Educação junto a Instituições de Ensino Superior, sendo que a UFSC participa desde 2006.\n\nEste PET tem o objetivo de desenvolver ações inovadoras que ampliam a troca de saberes entre as comunidades populares e a universidade, valorizando o protagonismo dos estudantes universitários beneficiários das ações afirmativas no âmbito das Universidades públicas brasileiras, contribuindo com a inclusão social e a permanência de jovens oriundos das comunidades do campo, quilombola, indígena e em situação de vulnerabilidade social e econômica.\n\nAs inscrições podem ser feitas neste link\n\nMais informações no site",
-      "tags": [
-        "cinema",
-        "encontro",
-        "exibição",
-        "centro de comunicação e expressão (cce)",
-        "pet",
-        "programa de educação tutorial (pet)"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296550",
-      "name": "Congresso Internacional da Rede de Educação OnLIFE",
-      "start_date": "2026-09-22T03:00:00.000Z",
-      "end_date": "2026-09-23T02:59:59.000Z",
-      "location": "IFSC Florianópolis",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Captura-de-Tela-2026-09-15-às-08.28.14-1024x410.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/congresso-internacional-da-rede-de-educacao-onlife/",
-      "description": "O VII Congresso Internacional da Rede de Educação OnLIFE: Inteligência Artificial, CoInteligências e Hiperinteligências, rede colaborativa de pesquisadores, professores e estudantes focada em repensar a educação conectada na era digital e hiperconectada, começa dia 22 e vai até 26 de setembro. O evento será realizado no Campus do IFSC em Florianópolis.\n\nO evento debate Inteligência Artificial, CoInteligência e Hiperinteligência no Paradigma da Educação OnLIFE, reunindo pesquisadores, professores, estudantes, gestores educacionais e profissionais da educação básica, profissional, científica, tecnológica e superior e demais profissionais de área afins interessados na temática do evento. Também são mobilizados integrantes de redes de ensino, pesquisa e extensão, instituições públicas e privadas, organizações sociais e ecossistemas de inovação. A UFSC é uma das instituições organizadoras.\n\nA UFSC também é responsável por uma das trilhas temáticas do evento, que debaterá Ecossistemas Inovativos/Inventivos: ecossistemas de inovação, laboratórios, redes colaborativas, ambientes inventivos, políticas institucionais e processos de cocriação educacional, sob coordenação do professor Rafael Pereira Ocampo Moré.\n\nAs inscrições são gratuitas e podem ser feitas no link https://eventos.ifsc.edu.br/rieonlife2026/. Ao longo do evento, haverá paineis com convidados, imersões culturais, além de feira tecnológica e da conferência da Rede. A programação também está disponível no site.",
-      "tags": [
-        "congresso",
-        "congresso internacional da rede de educação onlife",
-        "ifsc"
-      ],
-      "category": "academico",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296636",
-      "name": "Cineclube Cinecittà: D’amore e d’anarchia",
-      "start_date": "2026-09-22T22:00:00.000Z",
-      "end_date": "2026-09-23T00:00:00.000Z",
-      "location": "Sala de Projeção do LEC – CCE, Bloco D, UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/IMG_7666-1024x739.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cineclube-cinecitta-damore-e-danarchia/",
-      "description": "O Cineclube Cinecittà, projeto de extensão do curso de Letras Italiano da Universidade Federal de Santa Catarina (UFSC), exibe, na próxima terça-feira, 22 de setembro, o filme D’amore e d’anarchia (1973), da diretora italiana Lina Wertmüller. A sessão será realizada às 19h, na Sala de Projeção do LEC, no CCE – Bloco D. A atividade é gratuita e aberta à comunidade universitária e ao público externo. Não é necessário realizar inscrição para participar.\n\nAmbientado na Itália fascista dos anos 1930, o filme acompanha Tunin, um camponês lombardo que chega a Roma com a intenção de assassinar Benito Mussolini, motivado pela morte de um amigo pelas mãos dos camisas-negras. Para colocar o plano em prática, ele se hospeda sob uma falsa identidade em um bordel. No local, porém, acaba dividido entre a missão política e a paixão inesperada por Tripolina, uma das mulheres que trabalham na casa.\n\nEntre a comédia e a tragédia, o filme combina farsa, melodrama e crítica social para abordar as relações entre desejo, violência e política. Com Giancarlo Giannini e Mariangela Melato nos papéis principais, Wertmüller constrói uma narrativa que apresenta o fascismo a partir de personagens e espaços marginalizados, como o campo e o bordel. Lina Wertmüller é considerada uma das cineastas mais singulares do cinema italiano do século XX. Em 1977, tornou-se a primeira mulher indicada ao Oscar de Melhor Direção, por Pasqualino Settebellezze. Sua obra é marcada pela combinação de humor, crítica social e questões políticas.\n\nApós a exibição, haverá uma conversa aberta com os participantes sobre o filme. A sessão integra as atividades do Cineclube Cinecittà, dedicado à difusão do cinema italiano, à pesquisa sobre o cinema realizado por autoras contemporâneas e à promoção de debates sobre cinema, arte e cultura. A curadoria do projeto é de Sofia Fernandes Campos, com orientação da professora Karine Simoni. A iniciativa conta com o apoio da Secretaria de Cultura, Arte e Esporte (SeCArte) e do Laboratório de Estudos Culturais (LEC).\n\nOs participantes que tiverem aproveitamento superior a 75% das sessões do ciclo terão direito ao Certificado de Participação ao final das atividades.\n\nMais informações podem ser acompanhadas no perfil oficial do Cineclube Cinecittà no Instagram, @cinecitta.ufsc",
-      "tags": [
-        "filme",
-        "cineclube cinecittà",
-        "laboratório de estudos de cinema (lec)",
-        "secretaria de cultura arte e esporte (secarte)"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296662",
-      "name": "Longa-Metragem: Marte Um",
-      "start_date": "2026-09-22T22:00:00.000Z",
-      "end_date": "2026-09-23T00:00:00.000Z",
-      "location": "Sala de Projeções",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/CinePET_Marte_Um_metade-1.png",
-      "ticket_url": "https://inscricoes.ufsc.br/activities/13561",
-      "info_url": "https://noticias.ufsc.br/event/longa-metragem-marte-um/",
-      "description": "O Projeto de extensão Diálogos entre comunidades, da Universidade Federal de Santa Catarina (UFSC), vinculado ao Programa de Educação Tutorial (Pet) Conexões de Saberes, promove a exibição do longa-metragem nacional “Marte Um”, dirigido por Gabriel Martins, em 2022. A programação será realizada no dia 22, na sala 108, do bloco D, do Centro de Comunicação e Expressão (CCE), às 19h.\n\nO longa apresenta a história de uma família que vive tranquilamente nas margens de uma cidade grande brasileira após a posse de um presidente extremista de direita. Sendo uma família negra de classe média-baixa, eles sentem a tensão de sua nova realidade. Tércia, a mãe, reinterpreta seu mundo depois que um encontro inesperado a deixa se perguntando se ela é amaldiçoada. Seu marido, Wellington, coloca todas as suas esperanças na carreira do filho, Deivinho, que por pressão e querendo agradar o pai, segue as ambições dele, apesar de secretamente aspirar estudar astrofísica e colonizar Marte. Enquanto isso, a filha mais velha, Eunice, se apaixona por uma jovem de espírito livre e questiona se é a hora de sair de casa.\n\nA participação garante certificação de 6 horas complementares para os estudantes. A inscrição pode ser realizada de forma gratuita, via formulário. Para mais informações, acesse o Instagram do Projeto.\n\nTickets: https://inscricoes.ufsc.br/activities/13561.",
-      "tags": [
-        "exibição",
-        "filme",
-        "centro de comunicação e expressão (cce)",
-        "cinepet",
-        "pet conexão saberes",
-        "programa de educação tutorial (pet)",
-        "sala de projeção"
-      ],
-      "category": "cultura",
-      "is_free": null,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:296591",
@@ -208,6 +78,25 @@
         "pet história"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296867",
+      "name": "O papel do campus na arquitetura organizacional universitária: o caso da Universitat Politècnica de València",
+      "start_date": "2026-09-24T18:00:00.000Z",
+      "end_date": "2026-09-24T20:00:00.000Z",
+      "location": "Online",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/inpeau.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/o-papel-do-campus-na-arquitetura-organizacional-universitaria-o-caso-da-universitat-politecnica-de-valencia/",
+      "description": "O Instituto de Pesquisas e Estudos em Administração Universitária (INPEAU) promove, com o apoio da Universitat Politècnica de València (UPV), a Conferência Internacional Virtual intitulada O papel do campus na arquitetura organizacional universitária: o caso da Universitat Politècnica de València, Espanha. O palestrante convidado é o subdiretor de Promoção e Relações com o Entorno da Escola Politècnica Superior de Gandia (ESPG), Luis Miret Pastor.\n\nO evento será realizado no dia 24 de setembro de 2026, quinta-feira, às 15h. A palestra contará com a moderação do professor Pedro Antônio de Melo, presidente do INPEAU, e do professor Marcos Schiefler, da UTFPR. Para assistir a conferência, acesse o link.\n\nO INPEAU propõe-se a ser um agente de mudanças na condução da administração universitária, propiciando o desenvolvimento das Instituições de Ensino Superior (IES). Entre seus objetivos está o de desenvolver e apoiar atividades de ensino, pesquisa e extensão no campo da Administração Universitária, visando ao aprimoramento acadêmico, técnico-científico e administrativo da área.",
+      "tags": [
+        "conferência",
+        "evento online"
+      ],
+      "category": "palestra",
       "is_free": true,
       "is_all_day": false
     },
@@ -297,13 +186,53 @@
       "is_all_day": true
     },
     {
+      "source_id": "agecom:296793",
+      "name": "Simpósio ao contrário: pré-estórias",
+      "start_date": "2026-09-29T03:00:00.000Z",
+      "end_date": "2026-09-30T02:59:59.000Z",
+      "location": "Centro de Comunicação e Expressão (CCE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/simpósio-pré-estórias-1024x724.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/simposio-ao-contrario-pre-estorias/",
+      "description": "O Ao Contrário – Laboratório Experimental de Estudos da Literatura e Seus Avessos, vinculado ao curso de Letras-Português da Universidade Federal de Santa Catarina (UFSC), promove o Simpósio ao contrário: pré-estórias, nos dias 29 e 30 de setembro, 1º e 23 de outubro. O evento contará com a participação da escritora Paulliny Tort e do antropólogo Eduardo Viveiros de Castro e reunirá professores, pesquisadores, estudantes e convidados para discutir literatura, arte, pensamento, mito e outras formas de imaginar e narrar mundos. As atividades ocorrem no Centro de Comunicação e Expressão (CCE).\n\nO simpósio é realizado em duas etapas. Ao longo dos três primeiros três dias, 29 e 30 de setembro e 1º de outubro, ocorrem palestras e mesas de comunicações com professores, pesquisadores, estudantes do laboratório e convidados. A conferência de encerramento, no dia 1º, às 19h, será com a escritora Paulliny Tort, autora de Os imortais. A obra propõe uma investigação literária sobre a pré-história humana, a linguagem, o ritual, a figuração, a especulação, a arte e a própria literatura.\n\nA segunda etapa será realizada em 23 de outubro, às 19h, com conferência do antropólogo Eduardo Viveiros de Castro, um dos principais nomes da antropologia contemporânea. Sua obra ocupa um lugar importante nas pesquisas desenvolvidas pelo Ao Contrário – Laboratório Experimental de Estudos da Literatura e Seus Avessos e está também na origem de seu nome: a expressão “identidade ao contrário”, utilizada pelo antropólogo, inspirou a denominação do coletivo.\n\nO simpósio parte da ideia de “pré-estórias” para refletir sobre um território comum à história e à ficção, ao pensamento e à arte, à ciência e ao mito. Inspirado também nas “pré-histórias” de Veronica Stigger (contos em germe, ficções embrionárias ou potenciais), o conceito convida a pensar aquilo que antecede, atravessa e continuamente dá origem às histórias, abrindo espaço para outras formas de criação, memória, imaginação e existência.\n\nO evento também marca os primeiros dois anos de atividades do Ao Contrário – Laboratório Experimental de Estudos da Literatura e Seus Avessos, fundado em 2024. O grupo dedica-se a investigar a literatura a partir de perspectivas que tensionam a tradição moderna e ocidental, voltando a atenção para textos, sujeitos, saberes, não-ditos e formas de expressão historicamente situados às margens do que se convencionou reconhecer como literário. Durante o evento será lançado ainda o e-book Cadernos de campo especulativo: primeiro tempo (2024-2026), que reúne e sintetiza as atividades desenvolvidas pelo laboratório desde sua criação.\n\nServiço\n\nO quê: I Simpósio ao contrário: pré-estórias\n\nQuando: 29 e 30 de setembro, 1º e 23 de outubro de 2026\n\nOnde: Centro de Comunicação e Expressão (CCE) da UFSC | Campus Trindade, Florianópolis\n\nProgramação vespertina: Sala Drummond, 1º andar do Bloco B\n\nConferências: Auditório Henrique Fontes, 1º andar do Bloco B, a partir das 19h\n\nConvidados: Paulliny Tort e Eduardo Viveiros de Castro\n\nRealização: Ao Contrário – Laboratório Experimental de Estudos da Literatura e Seus Avessos\n\nConfira a programação completa e mais informações no site aocontrario.paginas.ufsc.br e no Instagram @ao.contra.rio.",
+      "tags": [
+        "simpósio",
+        "cce",
+        "literatura"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:296920",
+      "name": "Cineclube Lumière: Grisbi, ouro maldito",
+      "start_date": "2026-09-29T22:00:00.000Z",
+      "end_date": "2026-09-30T00:00:00.000Z",
+      "location": "Sala de projeção LEC, no Bloco D do Centro de Comunicação e Expressão (CCE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Grisbi-ouro-maldito-768x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/cineclube-lumiere-grisbi-ouro-maldito/",
+      "description": "O cineclube Lumière retoma suas atividades na terça-feira, 29 de setembro, com o filme Grisbi, ouro maldito (Touchez pas au grisbi, 1954), dirigido por Jacques Becker. A exibição tem início às 19h, na sala de projeção LEC, no Bloco D do Centro de Comunicação e Expressão (CCE). A atividade é gratuita e aberta a toda a comunidade.\n\nBaseado no livro homônimo de Albert Simonin, Grisbi, ouro maldito conta com Jean Gabin e Jeanne Moreau no elenco e obteve grande sucesso de público e crítica, destacando-se entre os clássicos do cinema noir da década de 1950.\n\nO filme conta a história de Max (Jean Gabin), um velho gangster parisiense, popular com as mulheres e respeitado entre criminosos por sua decência. Pronto para se aposentar, Max e seu parceiro Ritton cometem um último grande roubo que deixará Max com a vida feita. Porém, antes que Max consiga se livrar do ouro que roubaram, Ritton é feito refém por uma gangue rival. Max deverá escolher entre a lealdade ao seu amigo ou ao dinheiro, sujando suas mãos uma última vez antes de se retirar do mundo do crime.\n\nO filme é legendado em português e tem classificação indicativa de 16 anos. Após a sessão, haverá um bate-papo, e os participantes terão direito a certificado.\n\nMais informações no Instagram @cine_club_lumiere.",
+      "tags": [
+        "cinema",
+        "cce",
+        "ciné-club lumière"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "ara:26052",
       "name": "SEAME",
       "start_date": "2026-09-30T03:00:00.000Z",
       "end_date": "2026-10-03T02:59:59.000Z",
       "location": "UFSC",
       "campus": "ararangua",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "image_url": "",
       "ticket_url": null,
       "info_url": "https://ara.ufsc.br/event/seame/",
       "description": "Semana Acadêmica de Medicina",
@@ -357,6 +286,28 @@
         "núcleo de identidade de gênero e subjetividades"
       ],
       "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296868",
+      "name": "Exposição: ‘As Aves-do-terror do Cenozóico Brasileiro’",
+      "start_date": "2026-10-01T10:30:00.000Z",
+      "end_date": "2026-10-31T01:00:00.000Z",
+      "location": "Janela da Arte",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/portal-aves-do-terror-.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-as-aves-do-terror-do-cenozoico-brasileiro/",
+      "description": "A Biblioteca Central da Universidade Federal de Santa Catarina recebe, de 1º a 30 de outubro, na Janela da Arte, a exposição As Aves-do-Terror do Cenozóico Brasileiro, do artista e estudante de Ciências Biológicas Arthur Baggio. A mostra é gratuita e aberta à comunidade. A exposição apresenta uma coleção de obras de paleoarte inspiradas nas Phorusrhacidae, família de aves já extintas que viveu na América do Sul durante o período Cenozóico, entre aproximadamente 50 e 15 milhões de anos atrás.\n\nConhecidas popularmente como aves-do-terror, essas aves chamam a atenção pelo tamanho e pelas características de seus crânios, que possuíam bicos grandes e curvados. Não voadoras e carnívoras, elas ocuparam o topo das cadeias alimentares em diferentes períodos da história da América do Sul, após a extinção dos dinossauros não avianos.\n\nNas obras expostas, Arthur Baggio reconstrói artisticamente algumas espécies do grupo a partir de referências paleontológicas, utilizando materiais como lápis, caneta e tinta guache. As ilustrações procuram representar esses animais em seus ambientes naturais, contribuindo para aproximar o público da paleontologia por meio da arte.\n\nSobre o artista\n\nNatural do Rio Grande do Sul, Arthur Baggio desenvolveu desde a infância o interesse pela natureza e pela diversidade de formas de vida. O contato com os campos e riachos do Sul do Brasil despertou inicialmente sua curiosidade pelos animais atuais, que passaram a ser representados em seus desenhos. Com o tempo, o interesse se estendeu aos animais extintos, conhecidos por meio de livros e documentários.\n\nAtualmente, Baggio cursa Ciências Biológicas na Universidade Federal de Santa Catarina (UFSC) e dedica-se à divulgação da paleontologia, área de maior interesse dentro de sua formação. Para o artista, a produção visual atua como complemento à pesquisa e à divulgação científica, aproximando a arte e o conhecimento sobre a vida no passado da Terra.",
+      "tags": [
+        "exposição",
+        "aberta e gratuita",
+        "biblioteca central",
+        "bu/ufsc",
+        "ciências biológicas"
+      ],
+      "category": "cultura",
       "is_free": true,
       "is_all_day": false
     },
@@ -471,7 +422,7 @@
       "end_date": "2026-10-22T23:30:00.000Z",
       "location": "UFSC",
       "campus": "ararangua",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "image_url": "",
       "ticket_url": null,
       "info_url": "https://ara.ufsc.br/event/vii-simposio-do-programa-de-pos-graduacao-em-energia-e-sustentabilidade-vii-simppges/",
       "description": "VII Simpósio do Programa de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES)\n\nBreve descrição do evento: O VII Simpósio do Programa de Pós-Graduação em Energia e Sustentabilidade (VII SIMPPGES) é um evento científico promovido pelo PPGES/UFSC, destinado à divulgação de pesquisas e à troca de conhecimentos nas áreas de energia e sustentabilidade. O simpósio reúne estudantes, docentes, pesquisadores, profissionais e representantes dos setores público e privado para palestras, mesas-redondas, apresentações de trabalhos e debates, fortalecendo a integração entre a universidade e a sociedade.Data e horário: 21 e 22 de outubro de 2026, das 13:30 às 20:30.\n\nLocal do evento: Auditório da Universidade Federal de Santa Catarina (UFSC), Campus Araranguá, Unidade Jardim das Avenidas – Araranguá/SC.\n\nOrganização: Programa de Pós-Graduação em Energia e Sustentabilidade (PPGES) da Universidade Federal de Santa Catarina (UFSC).\n\nOrganizadores na UFSC:\n\nCoordenação Geral:\n\n•\nProf. Dr. Leonardo Elizeire Bremermann – PPGES/UFSC (Coordenador)\n\nComissão Organizadora – Docentes:\n\n•\nProf. Dr. Afonso Henrique da Silva Júnior – PPGES/UFSC\n\n•\nProf. Dr. Giuliano Arns Rampinelli – PPGES/UFSC\n\n•\nProf. Dr. Luiz Fernando Belchior Ribeiro – PPGES/UFSC\n\nComissão Organizadora – Discentes:\n\n•\nAlesandra Bez Birolo\n\n•\nAline Rodrigues\n\n•\nAndrei Leandro Morsch Franco\n\n•\nBiasse Paulino Biasse Cadente\n\n•\nCaroline Winke Ávila\n\n•\nCristini da Rosa Pedroso\n\n•\nDouglas de Matos Magnus\n\n•\nGessica Candiotto Possamai\n\n•\nGuilherme Velho\n\n•\nJessica Patrício dos Santos\n\n•\nJessika Sumariva Saturno\n\n•\nJonathan Maceda Silveira\n\n•\nLaércio Luiz Teixeira\n\n•\nLucas Batista Crepaldi\n\n•\nLuis Fernando Espinosa Cocian\n\n•\nMarcos Ricardo Giehl\n\n•\nPedro Rodrigo Silva Moura\n\n•\nSara Cristine Denoni Ghedin\n\n•\nTiago da Rosa Augustinho",
@@ -551,7 +502,7 @@
       "end_date": "2026-11-12T02:59:59.000Z",
       "location": "UFSC",
       "campus": "ararangua",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "image_url": "",
       "ticket_url": null,
       "info_url": "https://ara.ufsc.br/event/14o-simposio-de-integracao-cientifica-e-tecnologica-do-sul-catarinense-sict-sul/",
       "description": "Acontece no campus Araranguá, Jardim das Avenidas.",
@@ -612,7 +563,7 @@
       "end_date": "2026-12-19T00:30:00.000Z",
       "location": "Multiuso",
       "campus": "ararangua",
-      "image_url": "https://tpqzvgsilwrrogylzhui.supabase.co/storage/v1/object/public/events/events-images/fallback-ufsc.jpg",
+      "image_url": "",
       "ticket_url": null,
       "info_url": "https://ara.ufsc.br/event/colacao-de-grau-202602/",
       "description": "Curso de Medicina",
