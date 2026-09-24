@@ -1,10 +1,10 @@
 {
-  "geradoEm": "2026-09-24T14:09:22.828Z",
+  "geradoEm": "2026-09-24T21:25:28.078Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1377,
-      "selecionados": 22,
+      "totalNoFeed": 1379,
+      "selecionados": 24,
       "ignorados": {
         "ja-passou": 1354,
         "muito-longe": 1
@@ -288,6 +288,49 @@
       "category": "palestra",
       "is_free": true,
       "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296942",
+      "name": "Exposição: ‘Colheita Coleção’",
+      "start_date": "2026-10-01T03:00:00.000Z",
+      "end_date": "2026-10-02T02:59:59.000Z",
+      "location": "Hall Principal da BU",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Prancheta-1-16-360x450.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-colheita-colecao/",
+      "description": "A exposição Colheita Coleção, de Tissier, estará aberta ao público na Biblioteca Central (BU) do campus Florianópolis da Universidade Federal de Santa Catarina, entre os dias 1° e 30 de outubro, no Hall Principal.\n\nA obra é uma pequena coleção de restos de animais marinhos, pequenos objetos e esculturas confeccionadas com fragmentos de mangue, vértebras e costelas de baleia, todos encontrados e recolhidos na praia de Ponta das Canas, no norte da Ilha de Santa Catarina.\n\nA pequena quantidade e a diversidade das espécies observadas dão uma ideia dos cuidados – ou da falta de cuidado – na relação das pessoas com os outros seres vivos, dos quais também dependem para sobreviver.\n\nCom a instalação Extermínio, abre-se um caminho inverso: a taxonomia ganha, enquanto a humanidade perde.\n\nPor fim, a coleção de pequenas esculturas revela toda a magia da natureza na criação de formas incríveis e convida a lembrar que somos parte dela – e não algo separado ou alheio à sua existência.\n\nSobre o artista\n\nTissier nasceu em Buenos Aires, em 1959. Formou-se Ator Nacional na década de 1980 e teve participação ativa no movimento de abertura cultural sul-americana. Ligado a movimentos internacionais de teatro popular, foi laureado com um prêmio nacional e outro no Festival de Cannes.\n\nEm 1994, estabeleceu-se definitivamente em Minas Gerais e, desde 2004, reside em Florianópolis.\n\nSeu trabalho possui um propósito educativo: destacar a importância da conservação e da preservação ambiental, ampliar a percepção sobre o meio ambiente e estimular uma reflexão crítica sobre a existência humana, a arte e a história, por meio das narrativas intrínsecas às suas obras.",
+      "tags": [
+        "exposição",
+        "biblioteca universitária (bu)",
+        "direitos dos animais",
+        "sistemas marinhos",
+        "tissier"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:296940",
+      "name": "Exposição: ‘Intimidade Urbana: ‘Cidades Invisíveis’, Conexões e Desafios na Vida Contemporânea’",
+      "start_date": "2026-10-01T03:00:00.000Z",
+      "end_date": "2026-10-02T02:59:59.000Z",
+      "location": "Hall da BU",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Prancheta-1-17-360x450.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-intimidade-urbana-cidades-invisiveis-conexoes-e-desafios-na-vida-contemporanea/",
+      "description": "A exposição Intimidade Urbana: “Cidades Invisíveis”, Conexões e Desafios na Vida Contemporânea, de Hélio Bastida Lopes, estará aberta ao público entre os dias 1° e 30 de outubro, no Hall do Auditório da Biblioteca Universitária Central (BU) da Universidade Federal de Santa Catarina (UFSC).\n\nAs obras relatam que a rotina diária pode ser suavizada com momentos de parada e descanso, como se espera que o façamos para descompressão na jornada de trabalho. Sob uma ótica relevante em sua vida e trabalho, o autor da exposição gosta de pensar que hoje é sempre o melhor dia de nossas vidas, por esta razão, não devemos sobrecarregá-lo com pensamentos pouco producentes do ontem, nem tão pouco com temores excessivos do amanhã, recomendando-se manter seu foco como presente, no aqui e agora.\n\nA referência ao livro Cidades Invisíveis, de Italo Calvino, por ser uma obra seminal que transcende o simples relato de cidades imaginárias, utilizando a narrativa para explorar a complexidade das relações humanas e a experiência urbana. Através das conversas entre Marco Polo e Kublai Khan, Calvino não só inventa lugares fictícios, mas também reflete sobre a subjetividade da percepção da cidade, um tema bastante relevante nos dias atuais.\n\nO autor é desembargador do Tribunal Regional do Trabalho da 12ª Região (TRT-SC), graduado em Direito pela Faculdade de Direito de Sorocaba (FADI) e desenvolve uma trajetória ligada às artes visuais. Sua produção artística dialoga com a experiência urbana, a memória, o cotidiano e as dimensões subjetivas da vida contemporânea.",
+      "tags": [
+        "exibição",
+        "bu ufsc",
+        "cidades invisíveis",
+        "prática de exposição"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": true
     },
     {
       "source_id": "agecom:296868",
