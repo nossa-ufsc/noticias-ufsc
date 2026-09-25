@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-24T21:25:28.078Z",
+  "geradoEm": "2026-09-25T21:27:02.721Z",
   "fontes": [
     {
       "fonte": "agecom",
-      "totalNoFeed": 1379,
-      "selecionados": 24,
+      "totalNoFeed": 1381,
+      "selecionados": 23,
       "ignorados": {
-        "ja-passou": 1354,
+        "ja-passou": 1357,
         "muito-longe": 1
       },
       "erros": []
@@ -39,66 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296591",
-      "name": "6ª Plenária das Licenciaturas da UFSC",
-      "start_date": "2026-09-23T03:00:00.000Z",
-      "end_date": "2026-09-24T02:59:59.000Z",
-      "location": "Auditório do Espaço Físico Integrado (EFI).",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2018/05/dest_efi.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/6a-plenaria-das-licenciaturas-da-ufsc/",
-      "description": "O Fórum das Licenciaturas da Universidade Federal de Santa Catarina (UFSC) realizará sua 6ª Plenária anual nos dias 23 e 24 de setembro, no auditório do Espaço Físico Integrado (EFI).\n\nNesta edição, o evento debaterá os desafios relacionados às condições de trabalho e à saúde de profissionais que atuam na Educação Básica, além de temas importantes para a organização curricular das licenciaturas da UFSC. A mesa-redonda de abertura discutirá a plataformização do ensino e o adoecimento de docentes que atuam nas escolas e demais unidades educacionais.\n\nNa manhã de quinta-feira, a segunda mesa-redonda debaterá os avanços e os desafios dos estágios nas licenciaturas e o Programa Institucional de Iniciação à Docência na UFSC. Antes do encerramento, o último debate reunirá integrantes dos observatórios nacional e regional da violência contra educadores para discutir o tema Violência contra a escola e docentes: um ataque à educação pública.\n\nAlém das mesas-redondas abertas ao público, a programação incluirá dois encontros internos com os colegiados e os núcleos docentes estruturantes dos cursos de licenciatura. Essas atividades, previstas para a manhã e tarde do dia 23, abordarão normas para organização dos cursos e aspectos das avaliações do ENADE Licenciaturas e da Prova Nacional Docente.\n\nAgenda\n\nQuarta-feira: 23/09\n\n08h30 às 11h30\n\nReunião interna com os colegiados e NDEs das Licenciaturas\n\nPauta: Constituição da Divisão de Apoio e Fortalecimento das Licenciaturas – DALIC/PROGRAD; Atualização da Resolução Normativa CNE/CP n. 04/2024; Resolução Normativa n. 229/2026/CUn (Política Institucional de formação de professores da UFSC).\n\n13h30 às 17h30\n\nReunião interna com os colegiados e NDEs das Licenciaturas\n\nPauta: Aspectos da autoavaliação de curso e dados do ENADE das Licenciaturas. Convidados: Professor Guilherme Wagner (CEE/UFSC-Blumenau); professor Hamilton de Godoy Wielewick (MEN/CED/UFSC); Representante da CPA. Mediação da professor Glaucia Santos Zimmermann (DEN/Prograd).\n\n18h30 às 21h30\n\nAbertura oficial da 6ª plenária das licenciaturas\n\nMesa Redonda Desafios com a plataformização e com o adoecimento docente na Educação Básica.\n\nConvidados: Professora, Marina Bazzo De Espíndola (MEN/UFSC); professora Edna Araujo dos Santos de Oliveira (EED/UFSC); professor Julian Borba (SCP/CFH); Professora Cintia P. Ribeiro de Souza (SCP/CFH), com mediação do professor, Rafael Márcio Kretzer – REESC.\n\nQuinta-feira 24/09\n\n08h30 às 11h30\n\nMesa redonda: Avanços e desafios do estágio supervisionado e do PIBID na formação de professores na UFSC.\n\nConvidados: Professor Thiago Jorge Ferreira Santos (MEN/UFSC); professora, Cristiane Dall Cortivo Lebler (MEN/UFSC); professora, Gabriela Furlan Carcaioli (EDC/UFSC); professora Barbara Quadros Isidorio (CA/UFSC) com mediação do Clebson Oliveira da Costa (DALIC/Prograd).\n\n13h30 às 17h30\n\nMesa redonda: Violência contra a escola e docentes: um ataque à educação pública\n\nConvidados: Professor Fernando Penna (UFF; Observatório Nacional da Violência Contra Educadores); professor Graziella Souza dos Santos (EED/UFSC; Observatório Regional da Violência Contra Educadores). com mediação professora Ana Gabriela Pinheiro (Mestranda PPGE; Rede Municipal de Educação de Florianópolis).\n\nEncerramento.\n\nA participação será certificada e as inscrições gratuitas serão feitas no local.",
-      "tags": [
-        "plenária",
-        "espaço físico integrado (efi)",
-        "fórum das licenciaturas da ufsc"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296703",
-      "name": "Cinedebate ‘Democracia em Vertigem’",
-      "start_date": "2026-09-23T21:30:00.000Z",
-      "end_date": "2026-09-23T23:30:00.000Z",
-      "location": "Auditório do Bloco E do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/cinedebate-819x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cinedebate-democracia-em-vertigem/",
-      "description": "Os Programas de Educação Tutorial (PET) Biologia e História organizam um cinedebate sobre o filme Democracia em Vertigem (Petra Costa, 2019) na próxima quarta-feira, 23 de setembro, às 18h30. A atividade ocorre no auditório do Bloco E do Centro de Filosofia e Ciências Humanas (CFH) e contará com a presença da professora Gláucia Fraccaro, do Departamento de História.\n\nEm 14 de outubro, os PETs promovem outro cinedebate sobre filme Apocalipse nos Trópicos (Petra Costa, 2024), às 18h30, no auditório do Centro de Ciências Biológicas (CCB).\n\nOs participantes terão direito a certificado.",
-      "tags": [
-        "cinema",
-        "cinedebate",
-        "pet biologia",
-        "pet história"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296867",
-      "name": "O papel do campus na arquitetura organizacional universitária: o caso da Universitat Politècnica de València",
-      "start_date": "2026-09-24T18:00:00.000Z",
-      "end_date": "2026-09-24T20:00:00.000Z",
-      "location": "Online",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/inpeau.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/o-papel-do-campus-na-arquitetura-organizacional-universitaria-o-caso-da-universitat-politecnica-de-valencia/",
-      "description": "O Instituto de Pesquisas e Estudos em Administração Universitária (INPEAU) promove, com o apoio da Universitat Politècnica de València (UPV), a Conferência Internacional Virtual intitulada O papel do campus na arquitetura organizacional universitária: o caso da Universitat Politècnica de València, Espanha. O palestrante convidado é o subdiretor de Promoção e Relações com o Entorno da Escola Politècnica Superior de Gandia (ESPG), Luis Miret Pastor.\n\nO evento será realizado no dia 24 de setembro de 2026, quinta-feira, às 15h. A palestra contará com a moderação do professor Pedro Antônio de Melo, presidente do INPEAU, e do professor Marcos Schiefler, da UTFPR. Para assistir a conferência, acesse o link.\n\nO INPEAU propõe-se a ser um agente de mudanças na condução da administração universitária, propiciando o desenvolvimento das Instituições de Ensino Superior (IES). Entre seus objetivos está o de desenvolver e apoiar atividades de ensino, pesquisa e extensão no campo da Administração Universitária, visando ao aprimoramento acadêmico, técnico-científico e administrativo da área.",
-      "tags": [
-        "conferência",
-        "evento online"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:296806",
@@ -265,6 +205,26 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:296995",
+      "name": "Encontro com candidatos ao Legislativo: o que as candidaturas têm a dizer sobre as universidades públicas?",
+      "start_date": "2026-09-30T20:00:00.000Z",
+      "end_date": "2026-09-30T22:00:00.000Z",
+      "location": "Auditório da Reitoria",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/encontro-candidatos1-819x1024.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/encontro-com-candidatos-ao-legislativo-o-que-as-candidaturas-tem-a-dizer-sobre-as-universidades-publicas/",
+      "description": "O Sindicato de Trabalhadores em Educação da UFSC (Sintufsc) e o Diretório Central dos Estudantes (DCE) promovem um encontro com candidatos e candidatas a deputado(a) e senador(a) na próxima quarta-feira, 30 de setembro, às 17h, no auditório da Reitoria da UFSC.\n\nO objetivo é conhecer os compromissos das candidaturas com a universidade pública e suas propostas para temas que impactam diretamente a comunidade universitária, como financiamento da educação, valorização dos trabalhadores, permanência estudantil e a defesa da universidade pública, gratuita e de qualidade.\n\nAs candidaturas interessadas em participar devem preencher o formulário de inscrição até 28 de setembro.",
+      "tags": [
+        "dce",
+        "eleições",
+        "sintufsc"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:296778",
       "name": "Grupo de Estudos do Núcleo de Identidade de Gênero e Subjetividades (GENIGS)",
       "start_date": "2026-09-30T21:30:00.000Z",
@@ -349,6 +309,28 @@
         "biblioteca central",
         "bu/ufsc",
         "ciências biológicas"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:296977",
+      "name": "Exposição ‘Tardes de quinta’",
+      "start_date": "2026-10-02T10:30:00.000Z",
+      "end_date": "2026-10-03T01:00:00.000Z",
+      "location": "Espaço Lounge - Biblioteca Central (BU/UFSC)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/09/Prancheta-1-819x1024.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-tardes-de-quinta/",
+      "description": "A Biblioteca Central da Universidade Federal de Santa Catarina (BU/UFSC) recebe, de 2 a 30 de outubro, a exposição coletiva Tardes de quinta, no Espaço Lounge. Com curadoria de Patrícia Di Loreto, a mostra reúne trabalhos produzidos por mulheres de diferentes gerações, experiências e repertórios a partir das atividades desenvolvidas na Oficina de Artes Visuais da UFSC.\n\nRealizada às quintas-feiras à tarde, a oficina é um espaço de estudo, prática e troca voltado à pesquisa e à experimentação em pintura. Sob orientação de Patrícia Di Loreto, professora e pintora, as participantes percorrem diferentes gêneros da pintura, como retrato, paisagem, natureza-morta e figura humana, além de estudarem artistas de diferentes períodos e contextos que contribuíram para transformar e reinventar essas linguagens.\n\nO processo inclui ainda a experimentação de diversas técnicas e procedimentos, entre eles óleo, acrílica, aquarela, giz pastel e colagem. As participantes investigam diferentes formas de construção da imagem, explorando elementos como luz, cor, composição, matéria e gesto, além de procedimentos como a pincelada impressionista e o sfumato. Mais do que o estudo de períodos e nomes da história da arte, a proposta da oficina busca compreender como diferentes artistas constroem seus olhares e fazem escolhas diante da pintura. A partir dessas referências, cada participante desenvolve sua própria pesquisa, estabelecendo diálogos entre os conhecimentos adquiridos e aquilo que deseja expressar.\n\nAs obras reunidas em Tardes de quinta abordam temas como a infância, os dias em família, a nudez, os gritos desesperados, as cadeiras de descanso, o rosto feminino e paisagens aquareladas. São imagens que partem do cotidiano, da memória, da experiência e da imaginação, transformadas pela pintura em diferentes formas de expressão. A presença de mulheres de diferentes gerações e trajetórias constitui um dos aspectos centrais da exposição. A diversidade de experiências e sensibilidades evidencia os múltiplos caminhos que a pintura pode assumir e faz da mostra um registro do percurso coletivo desenvolvido na oficina.\n\nAs atividades também são marcadas pelo diálogo com outras áreas do conhecimento, como filosofia, fotografia, jornalismo e biologia. Essas interlocuções ampliam as possibilidades de reflexão sobre a imagem e integram o processo de criação desenvolvido pelas participantes.\n\nMais informações no Instagram @exposicoes.bu ou pelo e-mail exposicoes.bu@contato.ufsc.br",
+      "tags": [
+        "exposição",
+        "biblioteca universitária (bu)",
+        "bu ufsc",
+        "patrícia di loreto",
+        "tardes de quinta"
       ],
       "category": "cultura",
       "is_free": true,
