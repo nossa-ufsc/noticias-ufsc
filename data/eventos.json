@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-26T13:42:49.928Z",
+  "geradoEm": "2026-09-26T20:58:41.528Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1381,
-      "selecionados": 23,
+      "selecionados": 22,
       "ignorados": {
-        "ja-passou": 1357,
+        "ja-passou": 1358,
         "muito-longe": 1
       },
       "erros": []
@@ -39,29 +39,6 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296806",
-      "name": "17 anos do Objethos – Observatório da Ética Jornalística",
-      "start_date": "2026-09-25T12:00:00.000Z",
-      "end_date": "2026-09-25T20:00:00.000Z",
-      "location": "Auditório Henrique Fontes, Bloco B do Centro de Comunicação e Expressão (CCE)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/Captura-de-tela-2026-09-22-143607.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/17-anos-do-objethos-observatorio-da-etica-jornalistica/",
-      "description": "O projeto de extensão Observatório da Ética Jornalística (Objethos), vinculado ao curso de Jornalismo da Universidade Federal de Santa Catarina (UFSC), realiza o Seminário Nacional de 17 anos do Objethos: ética jornalística como elemento central à formação profissional, nesta sexta-feira, 25 de setembro, no auditório Henrique Fontes, no Bloco B do Centro de Comunicação e Expressão (CCE). O evento é gratuito e aberto a toda a comunidade acadêmica. Não é necessário realizar inscrições.\n\nO seminário contará com dois painéis e presença de especialistas na área. A primeira mesa começa às 9h, com o tema Ética jornalística, democracia e opinião pública, e será apresentada pelos jornalistas e pesquisadores Rogério Christofoletti, professor da UFSC, e Eugênio Bucci, professor da Universidade de São Paulo (USP).\n\nÀs 14h, a mesa Ética e prática profissional: de qual jornalismo e democracia precisamos? contará com a participação das jornalistas Alexandra Moraes, da Folha de São Paulo, e Amanda Miranda, da Agência de Comunicação da UFSC (Agecom) e do ICL.\n\nPara mais informações, acesse o Instagram do Projeto.",
-      "tags": [
-        "debate",
-        "seminário",
-        "cce",
-        "departamento de jornalismo da ufsc",
-        "objethos",
-        "seminário objethos"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:296820",
