@@ -1,12 +1,12 @@
 {
-  "geradoEm": "2026-09-26T20:58:41.528Z",
+  "geradoEm": "2026-09-27T14:39:12.802Z",
   "fontes": [
     {
       "fonte": "agecom",
       "totalNoFeed": 1381,
-      "selecionados": 22,
+      "selecionados": 20,
       "ignorados": {
-        "ja-passou": 1358,
+        "ja-passou": 1360,
         "muito-longe": 1
       },
       "erros": []
@@ -14,73 +14,14 @@
     {
       "fonte": "ara",
       "totalNoFeed": 15,
-      "selecionados": 5,
+      "selecionados": 4,
       "ignorados": {
-        "ja-passou": 10
+        "ja-passou": 11
       },
       "erros": []
     }
   ],
   "eventos": [
-    {
-      "source_id": "ara:25049",
-      "name": "SAFS",
-      "start_date": "2026-09-21T03:00:00.000Z",
-      "end_date": "2026-09-26T02:59:59.000Z",
-      "location": "UFSC",
-      "campus": "ararangua",
-      "image_url": "",
-      "ticket_url": null,
-      "info_url": "https://ara.ufsc.br/event/safs/",
-      "description": "Semana Acadêmica de Fisioterapia",
-      "tags": [
-        "semana acadêmica"
-      ],
-      "category": "academico",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:296820",
-      "name": "Cinedebate – Luta da Pessoa com Deficiência",
-      "start_date": "2026-09-25T20:00:00.000Z",
-      "end_date": "2026-09-25T22:00:00.000Z",
-      "location": "Auditório do Sintufsc",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/cinedebate-pcd-1024x576.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cinedebate-luta-da-pessoa-com-deficiencia/",
-      "description": "Para marcar o Dia Nacional de Luta da Pessoa com Deficiência, o Sindicato de Trabalhadores em Educação da UFSC (Sintufsc) promove um cinedebate sobre acessibilidade, inclusão e os direitos das pessoas com deficiência nesta sexta-feira, 25 de setembro, às 17h, no auditório do sindicato. A atividade é gratuita e aberta a toda a comunidade.\n\nSerão exibidos três curtas que abordam, a partir de diferentes perspectivas, as experiências de pessoas com deficiência e os desafios enfrentados no cotidiano:\n\n•\nOutro olhar de ver a vida: filme com audiodescrição que apresenta o mundo a partir das experiências de pessoas com deficiência visual.\n\n•\nCalçadas acompanha uma jovem cadeirante diante das barreiras e da falta de acessibilidade no espaço urbano.\n\n•\nVir à Luz é um documentário com audiodescrição sobre o cotidiano de pessoas com deficiência visual, abordando atividades domésticas, esporte, mobilidade e autonomia.\n\nApós as exibições, haverá um debate com Sarita Locks de Souza e Patrick Alencastro Pinheiro.\n\nSarita é servidora técnico-administrativa em educação da UFSC, formada em História, mestra em Ciência da Informação e especialista em Coordenação Pedagógica. Pessoa com deficiência auditiva, Sarita atua e participa de espaços de discussão sobre educação, acessibilidade, inclusão e direitos das pessoas com deficiência.\n\nPatrick é formado em Direito pela UFSC, pós-graduado em Direitos Humanos e mestrando na área de Direito, Política e Sociedade na UFSC. Servidor da Universidade há nove anos, já trabalhou na Coordenadoria de Graduação do Curso de Enfermagem e na Coordenadoria de Residência Médica. Também já participou de força-tarefa na Autoridade Nacional de Proteção de Dados (ANPD), tendo sido requisitado pela Presidência da República. Trabalha atualmente no Setor de Ações Judiciais, na Pró-Reitoria de Desenvolvimento e Gestão de Pessoas (Prodegesp). Tem 46 anos e é PCD desde 1997, quando houve necessidade de amputar a mão esquerda devido a um câncer na mão.",
-      "tags": [
-        "cinema",
-        "cinedebate",
-        "dia nacional de luta da pessoa com deficiência",
-        "sintufsc"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296799",
-      "name": "Cine Paredão: O conto de Silyan",
-      "start_date": "2026-09-25T22:00:00.000Z",
-      "end_date": "2026-09-26T00:00:00.000Z",
-      "location": "Bosque do CFH",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/1000169035-768x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-paredao-o-conto-de-silyan/",
-      "description": "O Cine Paredão, vinculado ao curso de Cinema da Universidade Federal de Santa Catarina (UFSC), exibirá The Tale of Silyan (O Conto de Silyan, em português). A programação será nesta sexta-feira, 25 de setembro, às 19h, no Bosque do Centro de Filosofia e Ciências Humanas (CFH).\n\nA sinopse do filme é inspirada no menino de Silyan, que decide ir embora da casa de seu pai. O pai, para se vingar do filho, pede aos céus um castigo. O filho se transforma em cegonha e vai embora. Ambientado na Macedônia do Norte, devastada pela emigração em massa, o filme faz um paralelo com a história do fazendeiro Nikola, que lida com crises econômicas e a partida de sua família, enquanto cria um vínculo profundo com uma cegonha-branca ferida. O filme é sugerido para maiores de 12 anos e possui duração de 1h29.\n\nPara mais informações, acesse o Instagram do Cine Paredão e assista ao trailer disponível no Youtube.",
-      "tags": [
-        "cinema",
-        "bosque do cfh",
-        "cine paredão"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:294876",
       "name": "Imaginar o impossível – sobre a modernidade e seus fins",
