@@ -66,8 +66,9 @@ export function alertas(snap: Snapshot, agora: number, erroPoda: string | null):
       const dias = f.ultimoSucesso ? (agora - Date.parse(f.ultimoSucesso)) / 86_400_000 : Infinity;
       const desde = f.ultimoSucesso ? `sem sincronizar desde ${f.ultimoSucesso.slice(0, 10)} (${Math.floor(dias)} dias)` : 'nunca sincronizou';
       out.push({ nivel: dias >= DIAS_ALERTA ? 'error' : 'warning', texto: `fonte ${f.fonte} falhou — ${desde}: ${f.erro}` });
-    } else if (f.modo === 'html') {
-      out.push({ nivel: 'warning', texto: `fonte ${f.fonte}: export iCal fora do ar; coleta parcial via página (sem poda)` });
+    } else if (f.modo === 'html' || f.modo === 'arquivo') {
+      const via = f.modo === 'arquivo' ? 'arquivo /event/' : 'widget da home';
+      out.push({ nivel: 'warning', texto: `fonte ${f.fonte}: export iCal fora do ar; coleta parcial via ${via} (sem poda)` });
     }
   }
   if (erroPoda) out.push({ nivel: 'error', texto: `poda falhou: ${erroPoda}` });

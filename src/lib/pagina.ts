@@ -36,6 +36,34 @@ export function linksDoWidget(html: string, host: string): LinkEvento[] {
   return [...porPost].map(([postId, url]) => ({ postId, url }));
 }
 
+/**
+ * Links das páginas de evento listados no arquivo público /event/ (e /event/page/N/),
+ * na ordem da página. O arquivo é ordenado por publicação, do mais novo ao mais
+ * antigo — cobre a agenda além dos ~10 dias do widget. Só aceita o mesmo host.
+ */
+export function linksDoArquivo(html: string, host: string): LinkEvento[] {
+  const $ = cheerio.load(html);
+  const vistos = new Set<string>();
+  const links: LinkEvento[] = [];
+  $('a[href]').each((_, el) => {
+    try {
+      const u = new URL($(el).attr('href') ?? '');
+      const slug = /^\/event\/([^/]+)\/?$/.exec(u.pathname)?.[1];
+      if (u.hostname !== host || !slug || slug === 'page') return;
+      u.protocol = 'https:';
+      u.search = '';
+      u.hash = '';
+      const url = u.toString();
+      if (vistos.has(url)) return;
+      vistos.add(url);
+      links.push({ postId: slug, url });
+    } catch {
+      // href quebrado: ignora
+    }
+  });
+  return links;
+}
+
 /** Escapa TEXT do RFC 5545 (o inverso de unescapeText) para reaproveitar text()/textList(). */
 function esc(v: string): string {
   return v.replace(/\\/g, '\\\\').replace(/;/g, '\\;').replace(/,/g, '\\,').replace(/\r?\n/g, '\\n');

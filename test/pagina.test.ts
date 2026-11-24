@@ -1,9 +1,10 @@
-// Plano B (widget + páginas de evento) sobre HTML gravado em fixtures/html/ (2026-11-24).
+// Planos B/C (arquivo /event/, widget + páginas de evento) sobre HTML gravado em
+// fixtures/html/ (2026-11-24).
 
 import { describe, expect, test } from 'bun:test';
 import { readFileSync } from 'node:fs';
-import { coletarFonte, type Baixar } from '../src/lib/coleta.js';
-import { eventoDaPagina, linksDoWidget } from '../src/lib/pagina.js';
+import { coletarFonte, eventosDoArquivo, type Baixar } from '../src/lib/coleta.js';
+import { eventoDaPagina, linksDoArquivo, linksDoWidget } from '../src/lib/pagina.js';
 import { normalizarEvento } from '../src/lib/normalize.js';
 import { FONTES } from '../src/sources/index.js';
 
@@ -24,6 +25,62 @@ describe('widget de agenda', () => {
     expect(linksDoWidget(html('ara-home.html'), 'ara.ufsc.br')).toEqual([
       { postId: '24354', url: 'https://ara.ufsc.br/event/colacao-de-grau-202602/?instance_id=6009' },
     ]);
+  });
+});
+
+describe('arquivo /event/', () => {
+  const ARQUIVO = 'https://noticias.ufsc.br/event/';
+
+  test('links de evento do próprio host, sem query, sem repetir, sem paginação', () => {
+    const links = linksDoArquivo(html('agecom-arquivo.html'), 'noticias.ufsc.br');
+    expect(links.length).toBe(39);
+    expect(new Set(links.map((l) => l.url)).size).toBe(39);
+    for (const l of links) expect(l.url).toMatch(/^https:\/\/noticias\.ufsc\.br\/event\/[^/?#]+\/$/);
+    expect(linksDoArquivo(html('agecom-arquivo.html'), 'ara.ufsc.br')).toEqual([]);
+  });
+
+  test('pagina até não ter links novos', async () => {
+    const pedidas: string[] = [];
+    const baixar: Baixar = async (url) => {
+      pedidas.push(url);
+      if (url === ARQUIVO || url.endsWith('/event/page/2/')) return html('agecom-arquivo.html');
+      return html('agecom-evento.html');
+    };
+    const r = await eventosDoArquivo(FONTES.agecom, AGORA, baixar, 0);
+    expect(r.paginas).toBe(2); // a página 2 só repete links já vistos → para
+    expect(r.eventos.length).toBe(39);
+    expect(pedidas.filter((u) => u.includes('/event/page/')).length).toBe(1);
+  });
+
+  test('404 numa página além da primeira = fim do arquivo, não erro', async () => {
+    const baixar: Baixar = async (url) => {
+      if (url === ARQUIVO) return html('agecom-arquivo.html');
+      if (url.includes('/event/page/')) throw new Error(`GET ${url} -> HTTP 404`);
+      return html('agecom-evento.html');
+    };
+    const r = await eventosDoArquivo(FONTES.agecom, AGORA, baixar, 0);
+    expect(r.paginas).toBe(1); // só a 1ª foi lida; a 2ª deu 404 e encerrou
+    expect(r.eventos.length).toBe(39);
+  });
+
+  test('para na primeira página em que todos os eventos já passaram', async () => {
+    const baixar: Baixar = async (url) =>
+      url === ARQUIVO ? html('agecom-arquivo.html') : html('agecom-evento.html');
+    const r = await eventosDoArquivo(FONTES.agecom, Date.parse('2027-06-01T12:00:00-03:00'), baixar, 0);
+    expect(r.paginas).toBe(1);
+  });
+
+  test('export derrubado → plano B pelo arquivo, parcial', async () => {
+    const baixar: Baixar = async (url) => {
+      if (url.includes('ai1ec_exporter_controller')) throw new Error('ECONNRESET');
+      if (url === ARQUIVO) return html('agecom-arquivo.html');
+      if (url.includes('/event/page/')) return '<html></html>';
+      if (url.includes('processos-criativos')) return html('agecom-evento.html');
+      throw new Error('HTTP 404');
+    };
+    const c = await coletarFonte(FONTES.agecom, AGORA, { baixar, pausaMs: 0, log: () => {} });
+    expect(c).toMatchObject({ modo: 'arquivo', completa: false });
+    expect(c.rows.map((r) => r.source_id)).toEqual(['agecom:296383']);
   });
 });
 
@@ -80,7 +137,7 @@ describe('coletarFonte', () => {
     expect(c.rows.length).toBe(8);
   });
 
-  test('export derrubado → plano B pelo widget, parcial; página quebrada é pulada', async () => {
+  test('export e arquivo derrubados → plano C pelo widget, parcial; página quebrada é pulada', async () => {
     const pedidas: string[] = [];
     const baixar: Baixar = async (url) => {
       pedidas.push(url);
@@ -96,16 +153,16 @@ describe('coletarFonte', () => {
     expect(c.rows.map((r) => r.source_id).sort()).toEqual(['agecom:296383', 'agecom:298456']);
     expect(c.stats.totalNoFeed).toBe(2);
     expect(c.stats.erros.length).toBe(25);
-    expect(pedidas.length).toBe(1 + 1 + 27);
+    expect(pedidas.length).toBe(1 + 1 + 1 + 27); // export, arquivo, home, 27 páginas
     expect(logs[0]).toContain('plano B');
   });
 
-  test('export e home fora → erro com os dois motivos', async () => {
+  test('export, arquivo e home fora → erro com os três motivos', async () => {
     const baixar: Baixar = async (url) => {
       throw new Error(url.includes('exporter') ? 'ECONNRESET' : 'HTTP 403');
     };
     expect(coletarFonte(FONTES.agecom, AGORA, { baixar, log: () => {} })).rejects.toThrow(
-      'iCal: ECONNRESET | página: HTTP 403'
+      'iCal: ECONNRESET | arquivo: HTTP 403 | widget: HTTP 403'
     );
   });
 });

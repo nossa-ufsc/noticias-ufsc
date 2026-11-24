@@ -51,10 +51,13 @@ ara.ufsc.br       ─┴──▶ parse → normaliza → valida ──▶ ufsc-
   independentes — a Agecom fora do ar não impede o Araranguá.
 - **Rede** (`src/lib/http.ts`): backoff exponencial com jitter (5 s → 15 s → 45 s), prazo total de 6 min
   por URL, 403 não é repetido (é bloqueio, não instabilidade).
-- **Plano B** (`src/lib/pagina.ts`): se o export iCal cair, a fonte lê o widget de agenda da home
-  (`paginaEventos`) e a página pública de cada evento, montando o mesmo VEVENT. Cobre só os próximos
-  ~10 dias, então é **parcial e nunca poda**. Motivo: desde 2026-09-28 a UFSC derruba (RST) qualquer
-  requisição ao `ai1ec_exporter_controller` e `/calendario/` dá 404, mas home e `/event/…` seguem no ar.
+- **Plano B** (`src/lib/coleta.ts`, `src/lib/pagina.ts`): se o export iCal cair, a fonte percorre o
+  arquivo público `/event/` (`/event/page/N/`, ordenado por publicação, do mais novo ao mais antigo) e
+  lê a página de cada evento, montando o mesmo VEVENT; para na primeira página só com eventos que já
+  passaram (teto de 12 páginas). Um evento futuro publicado há muito tempo pode ficar de fora, então é
+  **parcial e nunca poda**. Motivo: desde 2026-09-28 a UFSC derruba (RST) qualquer requisição ao
+  `ai1ec_exporter_controller` e `/calendario/` dá 404, mas `/event/…` segue no ar.
+- **Plano C**: se o arquivo também falhar, lê o widget de agenda da home (`paginaEventos`, ~10 dias).
 - **Status visível** em `data/eventos.json` (`fontes[].status`, `modo`, `erro`, `ultimoSucesso`) e no
   Actions: fonte que falhou gera `::warning::`, ou `::error::` se está sem sincronizar há ≥ 3 dias;
   coleta parcial gera `::warning::`; tabela no resumo do job. **Exit 1 só se todas as fontes falharem**
@@ -79,9 +82,13 @@ desfeitas pelo feed; `updated_at` só muda quando o conteúdo muda.
 
 ## Workflows
 
-- `eventos.yml` — cron 06:00 e 15:00 BRT (`0 9,18 * * *`) + `workflow_dispatch` (com opção *dry run*).
-  Roda os testes, sincroniza e commita `data/eventos.json` + `data/last-run.txt` via **deploy key SSH**
-  (push com deploy key conta como atividade e impede o auto-disable de 60 dias do GitHub).
+- **Cron do VPS** (desde 2026-11-24) — os sites `*.ufsc.br` dão 403 aos runners do GitHub, então a
+  sincronização agendada roda em `/opt/noticias-runner/run.sh` (cron 06:00 e 15:00 BRT, log em
+  `/var/log/noticias/run.log`, envs em `/opt/secrets/noticias.env`). Ele faz `git reset --hard
+  origin/main`, sincroniza e commita `data/` com uma deploy key própria do VPS.
+- `eventos.yml` — só `workflow_dispatch` (com opção *dry run*): roda os testes, sincroniza e commita
+  `data/eventos.json` + `data/last-run.txt` via **deploy key SSH** (push com deploy key conta como
+  atividade e impede o auto-disable de 60 dias do GitHub).
 - `keepalive.yml` — heartbeat semanal de backstop.
 - `ci.yml` — typecheck + testes + pipeline offline em PRs.
 
@@ -97,4 +104,5 @@ desfeitas pelo feed; `updated_at` só muda quando o conteúdo muda.
 
 `fixtures/agecom.ics` (recorte de julho/2026 em diante) e `fixtures/ara.ics` são snapshots de
 2026-08-17 usados pelos testes. Para atualizar: baixe os feeds das URLs em `src/sources/index.ts`.
-`fixtures/html/` (home da Agecom e do ARA + duas páginas de evento) são de 2026-11-24 e cobrem o plano B.
+`fixtures/html/` (home e arquivo `/event/` da Agecom, home do ARA e duas páginas de evento) são de
+2026-11-24 e cobrem os planos B e C.

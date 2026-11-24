@@ -13,8 +13,9 @@ on:
         description: "Só validar (não grava nem poda)"
         type: boolean
         default: false
-  schedule:
-    - cron: "0 9,18 * * *" # 06:00 e 15:00 BRT
+  # Sem schedule desde 2026-11-24: os sites *.ufsc.br dão 403 aos runners do GitHub, então
+  # a sincronização agendada roda no cron do VPS (/opt/noticias-runner/run.sh, 06:00 e
+  # 15:00 BRT), que também commita o snapshot. Este workflow fica para rodar à mão.
 
 concurrency:
   group: eventos-ufsc

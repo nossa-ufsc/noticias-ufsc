@@ -57,7 +57,7 @@ export async function sincronizar(o: OpcoesSync): Promise<ResultadoSync> {
       r.completa = c.completa;
       r.stats = c.stats;
       log(
-        `   ${c.stats.totalNoFeed} no feed${c.modo === 'html' ? ' (via página, parcial)' : ''} | ` +
+        `   ${c.stats.totalNoFeed} no feed${c.modo === 'ical' ? '' : ` (via ${c.modo === 'arquivo' ? 'arquivo /event/' : 'widget'}, parcial)`} | ` +
           `${c.stats.selecionados} selecionados | ignorados ${JSON.stringify(c.stats.ignorados)}`
       );
       for (const e of c.stats.erros) log(`   ⚠ ${e}`);
