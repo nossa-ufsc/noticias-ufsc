@@ -1,58 +1,41 @@
 {
-  "geradoEm": "2026-11-24T20:04:18.736Z",
+  "geradoEm": "2026-11-24T20:57:45.256Z",
   "fontes": [
     {
       "fonte": "agecom",
       "status": "ok",
-      "modo": "html",
+      "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-24T20:04:18.736Z",
-      "totalNoFeed": 27,
-      "selecionados": 27,
-      "ignorados": {},
+      "ultimoSucesso": "2026-11-24T20:57:45.256Z",
+      "totalNoFeed": 77,
+      "selecionados": 23,
+      "ignorados": {
+        "ja-passou": 54
+      },
       "erros": []
     },
     {
       "fonte": "ara",
       "status": "ok",
-      "modo": "html",
+      "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-24T20:04:18.736Z",
-      "totalNoFeed": 1,
+      "ultimoSucesso": "2026-11-24T20:57:45.256Z",
+      "totalNoFeed": 15,
       "selecionados": 1,
-      "ignorados": {},
+      "ignorados": {
+        "ja-passou": 14
+      },
       "erros": []
     }
   ],
   "eventos": [
     {
-      "source_id": "agecom:298456",
-      "name": "26º Congresso Brasileiro de Engenharia e Ciência dos Materiais",
-      "start_date": "2026-11-24T03:00:00.000Z",
-      "end_date": "2026-11-25T02:59:59.000Z",
-      "location": "UFSC",
-      "campus": "florianopolis",
-      "image_url": "",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/26o-congresso-brasileiro-de-engenharia-e-ciencia-dos-materiais/",
-      "description": "O 26º Congresso Brasileiro de Engenharia e Ciência dos Materiais (CBECIMAT 26) será realizado de 22 a 26 de novembro de 2026, no Costão do Santinho, em Florianópolis. Com participação de docentes da UFSC na organização, o encontro reunirá pesquisadores, estudantes, educadores e profissionais da indústria do Brasil e do exterior.\n\nSob o tema Materiais sustentáveis moldando o futuro!, o congresso discutirá como a pesquisa e a inovação em materiais podem contribuir para reduzir impactos ambientais, descarbonizar processos produtivos e ampliar a economia circular. As atividades abordarão o desenvolvimento de materiais e tecnologias que conciliem desempenho, eficiência e responsabilidade ambiental.\n\nA edição recebeu mais de 2000 submissões de trabalhos. A programação contempla metais, cerâmicas, polímeros e compósitos, além do ensino de Ciência e Engenharia de Materiais, com palestras plenárias, conferências convidadas, apresentações orais e sessões de pôsteres eletrônicos. Também estão previstas premiações de trabalhos e atividades relacionadas ao lançamento e à distribuição de livros.\n\nEntre os palestrantes confirmados estão João Labrincha, da Universidade de Aveiro, em Portugal; Claire Dancer e Jacqueline Edge, da Universidade de Birmingham, no Reino Unido; Sébastien Livi, do INSA Lyon, na França; Kaline Furlan, do Instituto de Tecnologia de Karlsruhe, na Alemanha; Bluma Guenther Soares e Veronica Calado, da Universidade Federal do Rio de Janeiro; e Sandro Amico, da Universidade Federal do Rio Grande do Sul.\n\nRealizado a cada dois anos desde 1974, o CBECIMAT é um dos principais encontros nacionais da área. Para a comunidade universitária, o evento oferece oportunidades de divulgação de pesquisas, formação de estudantes e estabelecimento de parcerias científicas e tecnológicas. Para a sociedade, promove o diálogo entre universidades e setor produtivo sobre soluções para desafios ambientais e industriais. Mais informações: https://www.cbecimat.com.br/ e https://www.instagram.com/cbecimat.oficial/",
-      "tags": [
-        "congresso",
-        "cbecimat 26",
-        "congresso brasileiro de engenharia e ciência dos materiais",
-        "materiais sustentáveis"
-      ],
-      "category": "academico",
-      "is_free": null,
-      "is_all_day": true
-    },
-    {
       "source_id": "agecom:298457",
       "name": "Colóquio Internacional Antonio Gramsci: Questão Meridional e Colonialismo",
-      "start_date": "2026-11-24T03:00:00.000Z",
-      "end_date": "2026-11-25T02:59:59.000Z",
+      "start_date": "2026-11-23T03:00:00.000Z",
+      "end_date": "2026-11-24T02:59:59.000Z",
       "location": "UFSC e UDESC",
       "campus": "florianopolis",
       "image_url": "https://noticias.ufsc.br/files/2026/11/Captura-de-Tela-2026-11-12-às-07.24.10-1024x400.png",
@@ -69,68 +52,6 @@
       ],
       "category": "palestra",
       "is_free": null,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:297785",
-      "name": "Exposição ‘Arte, memória e educação decolonial: a boniteza da resistência social’",
-      "start_date": "2026-11-24T03:00:00.000Z",
-      "end_date": "2026-11-25T02:59:59.000Z",
-      "location": "Biblioteca Central (BU/UFSC) - espaço Janela da Arte",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/Exposicao_Arte_Memoria_Educacao_Decolonial-819x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/exposicao-arte-memoria-e-educacao-decolonial-a-boniteza-da-resistencia-social/",
-      "description": "O espaço Janela da Arte, da Biblioteca Central da Universidade Federal de Santa Catarina (BU/UFSC) recebe, até 30 de novembro, a exposição coletiva Arte, memória e educação decolonial: a boniteza da resistência social. A mostra faz parte das ações do projeto de extensão Vozes Decoloniais na Escola: saberes interculturais para a transformação social, que a partir de um edital, lançado no segundo semestre de 2025, selecionou obras que expunham produções artísticas que emergem de saberes e expressões de resistência social, de modo a fortalecer a conexão entre arte, memória, educação e pensamento decolonial. A exposição é gratuita e aberta à comunidade, e pode ser visitada de segunda a sexta-feira, das 7h30 às 22h.\n\nO projeto de extensão Vozes Decoloniais na Escola: saberes interculturais para a transformação social integra o Programa de Extensão da Educação Superior na Pós-Graduação – PROEXT-PG/UFSC, coordenado pela professora Adriana Angelita da Conceição, do Departamento de Metodologia de Ensino do Centro de Ciências da Educação da UFSC. As obras fazem parte de um livro publicado pelo projeto em 2026 e contribuem com as ações de extensão que visam, a partir de pesquisas desenvolvidas na pós-graduação, fortalecer os vínculos entre comunidade e Universidade, especificamente vínculos com pessoas e/ou coletivos que produzem arte – independentemente do reconhecimento formal como artistas.\n\nArtistas da exposição\n\nChantal Araujo Lage, Balbúrdia – Juliana Jungblut Geissler França, Francielli Cristina Campiolo, Júlia de Souza Resende, Michele Coimbra Montenegro e Leonel Patrício Sánchez Briones, Fabíola Roberta Oliveira Góes, Larissa dos Santos Cunha, Willen Barbosa de Sousa.\n\nMais informações no Instagram @exposicoes.bu ou pelo e-mail exposicoes.bu@contato.ufsc.br.",
-      "tags": [
-        "exposição",
-        "biblioteca central",
-        "biblioteca universitária (bu)",
-        "bu/ufsc"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:297650",
-      "name": "Exposição ‘Caminhos Andinos’",
-      "start_date": "2026-11-24T03:00:00.000Z",
-      "end_date": "2026-11-25T02:59:59.000Z",
-      "location": "Salão Circulação - Biblioteca Central (BU/UFSC)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/Exposicao_Caminhos_Andinos-819x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/exposicao-caminhos-andinos/",
-      "description": "O Salão Circulação da Biblioteca Central da Universidade Federal de Santa Catarina (BU/UFSC) recebe, de 3 a 30 de novembro, a exposição Caminhos Andinos, das artistas Juliana Bernardi e Zulma Borges, com curadoria de José Carlos da Rocha. A mostra retrata as experiências vivenciadas em 2025 pelas aquarelistas ao visitarem os países andinos – Chile, Bolívia, Peru e Argentina.\n\nNo percurso, foram utilizados registros fotográficos, filmagens e observação atenta dos elementos da paisagem andina, com relação à natureza, ao relevo, aos animais, às pessoas, aos modos de vida, às construções históricas, entre outros.\n\nOs trabalhos são apresentados em aquarela sobre papel, em forma de pinturas, cartões-postais e livros de artistas. A exposição está disponível para visitação de forma gratuita, de segunda a sexta-feira das 7h30 às 22h.\n\nSobre as artistas\n\nJuliana Bernardi é Engenheira Agrônoma, com mestrado e doutorado em genética e melhoramento vegetal. Profissionalmente, trabalhou cerca de 33 anos como professora de graduação e pós-graduação da UFSC, em temas relacionados ao manejo e à conservação da biodiversidade, à conservação de germoplasma, bem como ao desenvolvimento participativo de novas variedades de plantas cultivadas. Foi iniciada no mundo artístico aos cinco anos, com foco no aprendizado de música clássica ao piano. Nos últimos sete anos, sua maior dedicação artística tem sido à pintura feita com a técnica da aquarela. Em novembro de 2019, ingressou no ateliê Alvéolo, coordenado por Zulma Borges. Desde então, tem participado ativamente como um membro desse ateliê, participando de várias exposições coletivas, bem como de grupos de arte urbana. As principais séries pintadas com a técnica de aquarela pela artista têm sido sobre a biodiversidade, o meio ambiente, os animais e as pessoas, dentro de um contexto ecológico, antropológico e naturalista.\n\nZulma Borges é formada em Letras pela Universidade Federal do Rio Grande do Sul (URGS), especializou-se em História das Artes, graduou-se em Artes Plásticas na Universidade do Estado de Santa Catarina (UDESC). Formou-se em Filosofia na UFSC, é funcionária aposentada da UFSC, tendo atuado como revisora de texto no Gabinete do Reitor/UFSC. Na arte, dedica-se à gravura e aquarela, com produção de pinturas e livros de artista. Ministrou oficinas de Aquarela no Departamento Artístico e Cultural (DAC) da UFSC, de 1995 a 2004. Atualmente, coordena e promove encontros de aquarelistas no Ateliê Alvéolo. Sua poética é voltada para a paisagem como vivências e a memória como duração.\n\nRealização: @exposicoes.bu",
-      "tags": [
-        "exposição",
-        "biblioteca universitária (bu)",
-        "bu/ufsc",
-        "exposições"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:297703",
-      "name": "Exposição ‘Fazendo arte no NETI’",
-      "start_date": "2026-11-24T03:00:00.000Z",
-      "end_date": "2026-11-25T02:59:59.000Z",
-      "location": "Galeria Hall Principal - Biblioteca Central - BU/UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/Exposicao_Fazendo_Arte_NETI.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/exposicao-fazendo-arte-no-neti/",
-      "description": "Durante o mês de novembro, obras criadas pelos participantes das oficinas de arte da Universidade Aberta para as Pessoas Idosas (NETI-UNAPI/UFSC) estarão disponíveis para a visitação da comunidade universitária. A exposição Fazendo arte no NETI ocupa a Galeria Hall Principal da Biblioteca Central da Universidade Federal de Santa Catarina (BU/UFSC), de 3 a 30 de novembro, das 7h30 às 22h.\n\nAs obras foram produzidas por participantes das oficinas “Introdução à Aquarela” e “Lápis de Cor”, promovidas pelo NETI-UNAPI (UFSC), sob orientação das professoras Maria Inés Castiñera e Tereza C. Gomes Maia. As oficinas têm como objetivo estimular e aprimorar a percepção estética e as técnicas de expressão artística dos participantes, em um ambiente colaborativo que valoriza tanto o desenvolvimento individual quanto a troca de experiências e a interação social.\n\nAlgumas das obras exploram a combinação de técnicas, como aquarela, lápis de cor, nanquim e grafite, evidenciando a diversidade de linguagens e caminhos encontrados pelos participantes ao longo de seu processo artístico.\n\nSobre o NETI – UNAPI\n\nA Universidade Aberta para as Pessoas Idosas (NETI-UNAPI) é uma iniciativa voltada à promoção da aprendizagem ao longo da vida, oferecendo cursos, oficinas e atividades que estimulam o desenvolvimento intelectual, artístico, cultural e social das pessoas idosas. Surgida na França, na década de 1960, a proposta se expandiu para diferentes países e universidades, consolidando-se como um importante espaço de educação, convivência e participação social. Na UFSC, essa trajetória teve início em 1982, com a criação do Núcleo de Estudos da Terceira Idade (NETI). Pioneiro no desenvolvimento de ações de extensão voltadas às pessoas idosas no Brasil, o NETI ampliou ao longo dos anos suas atividades e propostas de formação, dando origem ao NETI-UNAPI. Atualmente, a Universidade Aberta para as Pessoas Idosas oferece diferentes cursos, oficinas e atividades que valorizam a criatividade, a autonomia, a convivência e a troca de experiências, contribuindo para o bem-estar e para a construção de novos conhecimentos ao longo da vida.\n\nRealização: @exposicoes.bu",
-      "tags": [
-        "exposição",
-        "biblioteca universitária (bu)",
-        "bu/ufsc"
-      ],
-      "category": "cultura",
-      "is_free": true,
       "is_all_day": true
     },
     {
@@ -153,88 +74,24 @@
       "is_all_day": true
     },
     {
-      "source_id": "agecom:297664",
-      "name": "Exposição: ‘Virando Esquinas Urbanas’",
-      "start_date": "2026-11-24T03:00:00.000Z",
-      "end_date": "2026-11-25T02:59:59.000Z",
-      "location": "Hall do auditório - Biblioteca Central (BU/UFSC)",
+      "source_id": "agecom:298183",
+      "name": "Cinedebate: ‘M-8: Quando a Morte Socorre a Vida’",
+      "start_date": "2026-11-24T17:00:00.000Z",
+      "end_date": "2026-11-24T17:15:00.000Z",
+      "location": "Auditório Elke Hering",
       "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/Exposicao_Virando_Esquinas_Urbanas-819x1024.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/exposicao-virando-esquinas-urbanas/",
-      "description": "O Hall do auditório da Biblioteca Central da Universidade Federal de Santa Catarina (BU/UFSC) recebe, de 4 a 30 de novembro, a exposição Virando Esquinas Urbanas, da artista Lisete Assen, com curadoria de Ari de Goes e cocuradoria de Blagojco Dimitrov. A mostra reúne pinturas em técnicas aguadas sobre papel, que investigam a esquina como lugar físico e, sobretudo, como metáfora de passagens, encontros e mudanças. A exposição está disponível para visitação de forma gratuita, de segunda a sexta-feira, das 7h30 às 22h.\n\nTransitando entre o figurativo e o abstrato, as obras revelam a esquina como espaço público de luz mutante, de instabilidade e de virada na paisagem urbana. Com curadoria de Ari de Goes e cocuradoria de Blagojco Dimitrov, a mostra nasce de um processo de pesquisa e experimentação que alia memória e reflexão plástica. As obras propõem ao público uma experiência visual em que a pintura se torna convite para “virar esquinas” e abrir-se ao inesperado.\n\nSobre a artista\n\nLisete Assen (Porto Alegre, 1954) vive em Florianópolis desde 1982. Artista visual e arquiteta-urbanista, é doutora em Estruturas Ambientais Urbanas e atuou como docente de projeto urbano nos Cursos de Arquitetura e Urbanismo da UFSC e da UNIVALI. Sua pesquisa transita entre o figurativo e o abstrato, com ênfase em técnicas aguadas.\n\nRealização: @exposicoes.bu",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/WhatsApp-Image-2026-11-03-at-11.27.45-1-212x300.jpeg",
+      "ticket_url": "https://inscricoes.ufsc.br/activities/13888",
+      "info_url": "https://noticias.ufsc.br/event/cinedebate-m-8-quando-a-morte-socorre-a-vida-2/",
+      "description": "A Pró-Reitoria de Graduação e Educação Básica (Prograd) da Universidade Federal de Santa Catarina (UFSC), por meio dos Programas de Monitoria e Monitoria Indígena e Quilombola (PMIQ), promove mais uma edição do Cinedebate com a exibição do filme M-8: Quando a Morte Socorre a Vida, no dia 24 de novembro, às 14h, no auditório Elke Hering da Biblioteca Universitária (BU). A atividade é presencial e gratuita.\n\nDirigido pelo cineasta Jeferson De, o filme foi produzido em 2020 e baseado no livro homônimo de Salomão Polakiewicz. A história narra a vida de Maurício, calouro de uma prestigiada universidade federal de Medicina, filho de Cida, uma auxiliar de enfermagem, que dá duro para ver seu filho entrar pra faculdade. Em sua primeira aula de anatomia, Maurício é apresentado a M-8, corpo que servirá para estudo dele e dos amigos durante o primeiro semestre. Em uma jornada permeada de mistério e realidade, Mauricio enfrenta suas próprias angústias para desvendar a identidade desse rosto desconhecido.\n\nO evento convida monitores do PMIQ e estudantes de graduação da UFSC, em especial dos cursos da área de Saúde. Os participantes receberão certificação de horas complementares.\n\nPara realizar as inscrições, acesse o formulário. Mais informações encaminhe e-mail para monitoria.caap@contato.ufsc.br.",
       "tags": [
-        "exposição",
-        "biblioteca universitária (bu)",
-        "bu/ufsc",
-        "exposições"
+        "cinema",
+        "debate",
+        "cinedebate",
+        "pró-reitoria de graduação e educação básica (prograd)",
+        "programas de monitoria"
       ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:297940",
-      "name": "Exposição: ‘Encontro de Olhares’",
-      "start_date": "2026-11-24T10:30:00.000Z",
-      "end_date": "2026-11-25T01:00:00.000Z",
-      "location": "Espaço Lounge",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/download-2.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/exposicao-encontro-de-olhares/",
-      "description": "A exposição Encontro de Olhares, do fotógrafo Miguel Serrão, estará aberta ao público na Biblioteca Central (BU) do campus Florianópolis da Universidade Federal de Santa Catarina, entre os dias 3 e 30 de novembro, no Espaço Lounge.\n\nA mostra nasceu de momentos raros e silenciosos que o fotógrafo viveu durante suas observações a natureza. Através das fotografias, ele procura registrar não apenas a beleza e a presença das aves, mas a intensidade desse instante em que, segundo ele, percebe que também está sendo observado.\n\nPara o autor, existe uma magia especial nesse encontro. “É como se, por alguns segundos, estabelecêssemos um diálogo sem palavras, feito de curiosidade, presença e conexão. Esses momentos despertam em mim uma sensação profunda de pertencimento e de proximidade com a natureza”, diz Miguel.\n\nSobre o fotógrafo\n\nMiguel Serrão tem 60 anos e é natural de Angola, mas vive no Brasil desde os 10 anos de idade. Foi em 2009 que começou a fotografar aves. A partir daí, a fotografia de pássaros foi tomando conta dos seus dias.\n\nAo longo desse caminho, desenvolveu um método próprio de observação, no qual procura criar uma conexão cada vez maior com as aves e registrar, através da fotografia, esses momentos especiais de encontro e interação. Hoje, ele transforma algumas dessas fotografias em quadros, buscando compartilhar com outras pessoas um pouco da beleza e da magia que encontro nesses momentos.\n\nMais informações no instagram @exposicoes.bu ou @aves.arteserrao",
-      "tags": [
-        "exposição",
-        "aves",
-        "biblioteca universitária (bu)"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:298086",
-      "name": "Encontro e Capacitação em Virologia",
-      "start_date": "2026-11-24T11:00:00.000Z",
-      "end_date": "2026-11-24T20:00:00.000Z",
-      "location": "Auditório do Centro de Ciências Biológicas (CCB)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/WhatsApp-Image-2026-10-28-at-15.56.53-819x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/encontro-e-capacitacao-em-virologia/",
-      "description": "Estão abertas, até 5 de novembro, as inscrições para o ViruSul – Encontro e Capacitação em Virologia. O evento ocorre de 23 a 25 novembro, no Auditório do Centro de Ciências Biológicas (CCB) da Universidade Federal de Santa Catarina (UFSC).\n\nO ViruSul promove a integração e a troca de conhecimentos entre centros de pesquisa, instituições públicas e empresas que atuam nas áreas de diagnóstico, monitoramento, biotecnologia, pesquisa científica, inovação e outras relacionadas à Saúde Única. São ofertadas 20 vagas isentas para cursos de saúde e pós-graduação da UFSC.\n\nAs inscrições podem ser realizadas pelo formulário. O pedido de isenção deve ser solicitado via acompanhamento@fees.org.br. A seleção será por ordem de chegada.\n\nPara mais informações sobre a inscrição e o pagamento entre em contato pelo e-mail eventos@feesc.org.br, ou por telefone (48) 3231-4440 e (48) 3231-4442.",
-      "tags": [
-        "encontro",
-        "centro de ciências biológicas (ccb)",
-        "encontro e capacitação em virologia",
-        "laboratório de virologia aplicada",
-        "saúde única",
-        "virusul"
-      ],
-      "category": "curso",
-      "is_free": null,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:295167",
-      "name": "Laboratório de autorregulação: técnicas de respiração, meditação e mindfulness",
-      "start_date": "2026-11-24T19:00:00.000Z",
-      "end_date": "2026-11-24T20:30:00.000Z",
-      "location": "Serviço de Atenção Psicológica (SAPSI)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/08/WhatsApp-Image-2026-07-17-at-14.58.07-819x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/laboratorio-de-autorregulacao-tecnicas-de-respiracao-meditacao-e-mindfulness/",
-      "description": "Estão abertas as inscrições para o projeto Laboratório de autorregulação: Técnicas de meditação, mindfulness e respiração para manejo de ansiedade, que busca proporcionar um ambiente seguro e de acolhimento com técnicas de autorregulação. As inscrições ocorrem pelo formulário até o dia 14 de agosto. As atividades ocorrem de 25 de agosto a 24 de novembro, às terças-feiras, das 16h às 17h30, no Serviço de Atenção Psicológica (SAPSI), no Departamento de Psicologia da Universidade Federal de Santa Catarina (UFSC).\n\nO público alvo é comunidade interna da UFSC, com limite para 20 inscrições. Em cada encontro serão apresentados fundamentos básicos de cada técnica, com práticas de uma técnica respiratória e uma técnica de meditação/mindfulness. As atividades também abordam temas como autopercepção, interocepção, respiração, atenção, relaxamento, ansiedade e estresse. A coordenação é da professora Carolina Baptista Menezes. Para mais informações no e-mail lab.autorregulacao@gmail.com ou no site.",
-      "tags": [
-        "meditação",
-        "saúde",
-        "departamento de psicologia",
-        "laboratório de autorregulação",
-        "serviço de atenção psicológica (sapsi)"
-      ],
-      "category": "saude",
+      "category": "palestra",
       "is_free": true,
       "is_all_day": false
     },
@@ -261,6 +118,29 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:298568",
+      "name": "Mostra de documentários: ‘Saberes da Grande Desterro’",
+      "start_date": "2026-11-24T22:00:00.000Z",
+      "end_date": "2026-11-25T00:00:00.000Z",
+      "location": "Teatro da Ubro - Centro de Florianópolis",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/Documentário-768x1083.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/mostra-de-documentarios-saberes-da-grande-desterro/",
+      "description": "Estudantes do curso de graduação em História da Universidade Federal de Santa Catarina (UFSC) promovem a mostra de documentários “Saberes da Grande Desterro” no dia 24 de novembro, terça-feira, às 19h. O evento ocorre no Teatro da Ubro (R. Pedro Soares, 15 – Centro) e é aberto a todos.\n\nOs documentários foram produzidos por graduandos do curso de História para a disciplina de Extensão II no semestre de 2026.2\n\nMais informações no Instagram.",
+      "tags": [
+        "mostra",
+        "desterro",
+        "documentário",
+        "graduação",
+        "história",
+        "teatro da ubro"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:298372",
       "name": "Espetáculo Flores em Vida – GinasticArte",
       "start_date": "2026-11-24T22:00:00.000Z",
@@ -279,29 +159,6 @@
         "ginástica",
         "ginástica para todos",
         "ginasticarte"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:298568",
-      "name": "Mostra de documentários: ‘Saberes da Grande Desterro’",
-      "start_date": "2026-11-24T22:00:00.000Z",
-      "end_date": "2026-11-25T00:00:00.000Z",
-      "location": "Teatro da Ubro - Centro de Florianópolis",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/11/Documentário-768x1083.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/mostra-de-documentarios-saberes-da-grande-desterro/",
-      "description": "Estudantes do curso de graduação em História da Universidade Federal de Santa Catarina (UFSC) promovem a mostra de documentários “Saberes da Grande Desterro” no dia 24 de novembro, terça-feira, às 19h. O evento ocorre no Teatro da Ubro (R. Pedro Soares, 15 – Centro) e é aberto a todos.\n\nOs documentários foram produzidos por graduandos do curso de História para a disciplina de Extensão II no semestre de 2026.2\n\nMais informações no Instagram.",
-      "tags": [
-        "mostra",
-        "desterro",
-        "documentário",
-        "graduação",
-        "história",
-        "teatro da ubro"
       ],
       "category": "cultura",
       "is_free": true,
@@ -469,25 +326,6 @@
       "is_all_day": false
     },
     {
-      "source_id": "agecom:296642",
-      "name": "Translógica e Corpo: Experiências com Movimentos Essenciais",
-      "start_date": "2026-11-27T13:30:00.000Z",
-      "end_date": "2026-11-27T15:00:00.000Z",
-      "location": "Sala 321 do Centro de Filosofia e Ciências Humanas (CFH) Bloco B UFSC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2022/06/Destaque-UFSC-Internet@1.5x-1024x618.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/translogica-e-corpo-experiencias-com-movimentos-essenciais/",
-      "description": "Entre setembro e dezembro de 2026, será realizado o evento Translógica e Corpo: Experiências com Movimentos Essenciais, iniciativa que propõe integrar conhecimento conceitual e experiência corporal por meio de práticas, vivências e diálogos. A atividade é destinada a membros da comunidade em geral e não exige inscrição prévia.\n\nOrganizado por Mariana Paolozzi, professora do Departamento de Filosofia, e Cristiane Ker de Melo, do Departamento de Educação Física, o projeto será desenvolvido em oito oficinas quinzenais, com duração de uma hora e meia cada. As oficinas serão conduzidas por Silvia Lignon e Davi Sampaio e ocorrerão às sextas-feiras, das 10h30 às 12h, entre setembro e dezembro.\n\nAs atividades presenciais serão realizadas na Sala 321 do CFH, Bloco B, enquanto parte dos encontros ocorrerá de forma on-line, pela plataforma Zoom. As datas previstas são 4 e 18 de setembro; 2, 16 e 30 de outubro; 13 e 27 de novembro; e 11 de dezembro. A proposta parte da necessidade de ampliar a compreensão da experiência humana para além da dimensão individual e da identificação com a mente racional. Nesse contexto, o projeto busca aproximar o saber conceitual do saber vivencial, articulando corpo, experiência e relação.\n\nDurante as oficinas, serão apresentados princípios dos Movimentos Essenciais, acompanhados de exercícios práticos e corporais voltados à presença, ao assentimento e à percepção sistêmica. As atividades também incluem práticas e vivências fenomenológicas destinadas ao desenvolvimento do olhar observador, do assentimento existencial e da linguagem simbólica e sistêmica.\n\nSegundo a proposta, as experiências buscam possibilitar aos participantes uma reflexão sobre a passagem do Eu, associado à personalidade e à mente, para o Nós, compreendido como totalidade. A iniciativa também procura estabelecer uma aproximação entre a ética da reconciliação e a inteligência corporal, criando conexões entre pensamento, corpo e experiência.\n\nCada encontro contará com momentos teóricos e vivenciais, seguidos de diálogos para que os participantes possam compartilhar suas percepções e esclarecer compreensões surgidas durante os exercícios. A participação é gratuita e não haverá emissão de certificado. Mais informações e inscrições podem ser obtidas com Silvia Lignon, pelo telefone (51) 99982-3360 ou pelo email mesilviadavi@gmail.com.",
-      "tags": [
-        "oficina",
-        "centro de ciências humanas e filosofia (cfh)"
-      ],
-      "category": "curso",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
       "source_id": "agecom:298577",
       "name": "Simpósio Multiprofssional CannCiência Saúde Pública",
       "start_date": "2026-11-28T10:30:00.000Z",
@@ -587,26 +425,96 @@
       "is_all_day": false
     },
     {
-      "source_id": "agecom:297623",
-      "name": "Cruzadas através da perspectiva da Idade Média Global",
-      "start_date": "2026-12-02T20:00:00.000Z",
-      "end_date": "2026-12-02T21:00:00.000Z",
-      "location": "Sala 312, bloco D do Centro de Filosofia e Ciências Humanas (CFH)",
+      "source_id": "agecom:298873",
+      "name": "Palestra: Construção e desconstrução do diagnóstico da doença de Lyme",
+      "start_date": "2026-12-07T17:00:00.000Z",
+      "end_date": "2026-12-07T17:15:00.000Z",
+      "location": "Auditório do Centro de Filosofia e Ciências Humanas (CFH)",
       "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/ENCONTROS-MERIDIANUM_-CRUZADAS-ATRAVÉS-DA-PERSPECTIVA-DA-IDADE-MÉDIA-GLOBAL-1-724x1024.png",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/cartazdivulga.png",
       "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cruzadas-atraves-da-perspectiva-da-idade-media-global/",
-      "description": "O Núcleo de Estudos Medievais Interdisciplinar (Meridianum) da Universidade Federal de Santa Catarina (UFSC) realiza os Estudos sobre Cruzadas: Cruzadas através da perspectiva da Idade Média Global. Os encontros ocorrem nos dias 28 de outubro, 11 de novembro e 2 de dezembro, das 17h às 18h, na Sala 312, bloco D do Centro de Filosofia e Ciências Humanas (CFH).\n\nA participação é aberta a estudantes e a comunidade e garante certificado. Para mais informações acesse o site do Meridianum ou o Instagram do grupo de estudos.",
+      "info_url": "https://noticias.ufsc.br/event/palestra-construcao-e-desconstrucao-do-diagnostico-da-doenca-de-lyme/",
+      "description": "O Núcleo de Ecologia Humana e Sociologia da Saúde (ECOS) e o Programa de Pós-Graduação em Sociologia e Ciência Política (PPGSP) da Universidade Federal de Santa Catarina (UFSC) realizam um evento conjunto no dia 7 de dezembro, às 14h, no Auditório do Centro de Filosofia e Ciências Humanas (CFH). As atividades serão a palestra Construção e desconstrução do diagnóstico da doença de Lyme: um contexto de controvérsia científica e social e o lançamento do website Navegando a pandemia: um guia interativo sobre a Covid-19 no Brasil. A inscrição gratuita dá direito a certificado de 4 horas, e deve ser feita pelo formulário.\n\nA palestra será ministrada pela professora Costanza Puppo, da Universidade Lumière Lyon 2, que irá abordar as controvérsias científicas e sociais em torno do diagnóstico da doença de Lyme, desde uma perspectiva dos Estudos de Ciência e Tecnologia (STS).\n\nO lançamento do website será apresentado pelas professoras Isaura Ferrari e Marcia Grisotti, da UFSC, que irão mostrar o resultado de um ano de projeto conduzido no mapeamento de uma rede de atores no contexto de controvérsias científicas da pandemia de Covid-19 no Brasil.\n\nMais informações no pelo Instagram ou pelo e-mail ufscecos@gmail.com.",
       "tags": [
-        "encontro",
-        "grupo de estudos",
-        "centro de filosofia e ciência humanas (cfh)",
-        "estudos sobre cruzadas",
-        "meridianum"
+        "palestra",
+        "centro de filosofia e ciências humanas (cfh)",
+        "doença lyme",
+        "lançamento de website",
+        "núcleo de ecologia humana e sociologia da saúde (ecos)"
       ],
-      "category": "academico",
+      "category": "palestra",
+      "is_free": null,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:298665",
+      "name": "Webinário: TransForma – FormaTrans",
+      "start_date": "2026-12-07T22:00:00.000Z",
+      "end_date": "2026-12-08T00:00:00.000Z",
+      "location": "/transmissão On-line",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/FormaTrans.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/webinario-transforma-formatrans/",
+      "description": "A Universidade Federal de Santa Catarina (UFSC), por meio do MentalTrans – Laboratório de Pesquisas, Tecnologias e Inovação em Enfermagem Psiquiátrica, Atenção Psicossocial e Transgeneridades, em parceria com o Instituto Federal da Bahia (IFBA), promove o Webinário TransForma – FormaTrans de 7 a 11 de dezembro de 2026, das 19h às 21h. As inscrições são gratuitas e podem ser feitas pelo formulário on-line.\n\nO evento será realizado na modalidade on-line, com transmissão pelo YouTube. O público-alvo são profissionais e trabalhadores do Sistema Único de Saúde (SUS), estudantes de graduação e pós-graduação da área da saúde, docentes, pesquisadores, gestores, integrantes de movimentos sociais e demais interessados na saúde da população trans e intersexo. Será fornecido certificado de 10 horas de participação para quem estiver ao vivo no chat no evento.\n\nO webnário reunirá especialistas de diferentes regiões do Brasil para debater temas fundamentais à qualificação da atenção integral à saúde da população trans e intersexo no Sistema Único de Saúde (SUS). Ao longo de cinco encontros, serão abordados temas como redes de atenção à saúde; saúde bucal; saúde mental; hormonização; cuidados clínicos; saúde de crianças e adolescentes trans; saúde da população intersexo; e exames por imagem e terapias com radiação.\n\nA iniciativa busca promover o intercâmbio de conhecimentos, ampliar o diálogo entre diferentes áreas profissionais e contribuir para a construção de práticas de cuidado qualificadas, inclusivas e comprometidas com os direitos humanos, a diversidade e a integralidade da atenção à saúde.\n\nPara se inscrever, acesse aqui.\n\nPara acompanhar o evento pelo Youtube, acesse aqui.\n\nMais informações no Instagram.",
+      "tags": [
+        "webinar",
+        "atenção psicossocial",
+        "intersexo",
+        "mentaltrans",
+        "população trans",
+        "sistema único de saúde",
+        "sus",
+        "transgeneridades"
+      ],
+      "category": "palestra",
       "is_free": true,
       "is_all_day": false
+    },
+    {
+      "source_id": "agecom:298556",
+      "name": "Workshop: Complexidade da água, vida e mudanças climáticas",
+      "start_date": "2026-12-11T15:00:00.000Z",
+      "end_date": "2026-12-13T15:00:00.000Z",
+      "location": "UFSC - campus Araranguá",
+      "campus": "ararangua",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/Evnto-Araranguá-1024x582.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/workshop-complexidade-da-agua-vida-e-mudancas-climaticas/",
+      "description": "O campus Araranguá da Universidade Federal de Santa Catarina (UFSC) sediará a 16ª edição do Workshop in Complexity of Water, Life and Climate Changes de 11 a 13 de dezembro de 2026. As inscrições estão abertas até 20 de novembro neste link.\n\nO evento tem como objetivo promover o intercâmbio científico, conectando estudos sobre água, matéria mole e sistemas biológicos aos desafios ambientais e climáticos contemporâneos. O tema desta edição será “Materiais Sustentáveis ​​para a Resiliência Climática”. Serão abordados a simulação molecular, os estudos teóricos e a caracterização avançada de sistemas aquosos e materiais nanoestruturados, além de temas como qualidade ambiental, resiliência climática e segurança hídrica e alimentar.\n\nA programação contará com palestras, apresentações de trabalhos científicos, sessões de pôsteres e mesa-redonda, reunindo pesquisadores, estudantes e profissionais das áreas de Física, Química, Ciência dos Materiais, Biologia e Ciências Ambientais.\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do evento.",
+      "tags": [
+        "workshop",
+        "água",
+        "campus de araranguá",
+        "mudanças climáticas",
+        "resiliência climática",
+        "workshop in complexity of water life and climate changes"
+      ],
+      "category": "curso",
+      "is_free": null,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:298628",
+      "name": "Exposição coletiva 11ª Mostra LápisLab",
+      "start_date": "2026-12-14T03:00:00.000Z",
+      "end_date": "2026-12-15T02:59:59.000Z",
+      "location": "UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/portal-lapislab-11-amostra-1.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-coletiva-11a-mostra-lapislab/",
+      "description": "Começa no dia 14 de dezembro a Exposição coletiva 11ª Mostra LápisLab, aberta até 20 de janeiro, de segunda a sexta-feira, das 7h às 13h, no espaço expositivo hall do auditório. A LápisLab é uma escola de desenho e animação com sedes físicas em Florianópolis e São José, Santa Catarina. A mostra expositiva contempla desenhos, HQs, zines, telas, bonecos, cenários e animações produzidos pelos alunos da escola, com idades entre 8 e 18 anos, ao longo de 2026.\n\nA exposição é gratuita e aberta à comunidade. A escola é um laboratório de criatividade cujo foco é promover o desenvolvimento intelectual e artístico dos alunos, estimulando a curiosidade, o comprometimento e a gentileza na construção coletiva do aprendizado.\n\nServiço\n\nO quê? Exposição “11ª Mostra LápisLab”\n\nOnde? Espaço expositivo hall do auditório\n\nQuando? De 14/12/26 a 20/01/27 , de segunda a sexta-feira das 7h00 às 13h.",
+      "tags": [
+        "exposição",
+        "11ª mostra lápislab",
+        "biblioteca universitária",
+        "biblioteca universitária (bu)",
+        "escola de arte"
+      ],
+      "category": "cultura",
+      "is_free": null,
+      "is_all_day": true
     },
     {
       "source_id": "ara:24354",
@@ -625,6 +533,25 @@
       "category": "academico",
       "is_free": true,
       "is_all_day": false
+    },
+    {
+      "source_id": "agecom:298629",
+      "name": "Exposição coletiva ‘Entre o Corpo e o Traço – Modelo Vivo Floripa’",
+      "start_date": "2026-12-20T03:00:00.000Z",
+      "end_date": "2026-12-21T02:59:59.000Z",
+      "location": "Espaço Expositivo Salão Circulação da Biblioteca Central da UFSC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/portal-entre-traço-e-corpo.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-coletiva-entre-o-corpo-e-o-traco-modelo-vivo-floripa/",
+      "description": "A Biblioteca Central da Universidade Federal de Santa Catarina recebe a exposição coletiva Entre o Corpo e o Traço – Modelo Vivo Floripa, que reúne trabalhos de artistas integrantes do coletivo Modelo Vivo Floripa (MVF). A mostra será apresentada no Espaço Expositivo Salão Circulação e é aberta gratuitamente à comunidade, de segunda a sexta-feira, das 7h30 às 22h. A partir de 14 de janeiro de 2027 ocorre das 7h às 13h.\n\nA exposição tem como objetivo valorizar a produção artística dos integrantes do grupo, que conta com aproximadamente 350 participantes. As obras foram desenvolvidas tanto durante os encontros de desenho com modelo vivo quanto nas práticas artísticas individuais de seus integrantes. A diversidade de experiências e trajetórias está presente na seleção de trabalhos, que contempla desde pequenos croquis produzidos por pessoas que encontram no desenho uma forma de expressão e lazer até produções digitais profissionais voltadas à indústria de videogames. Diferentes técnicas, estilos e linguagens artísticas compõem a mostra.\n\nCom mais de dez anos de atuação em Florianópolis, o coletivo Modelo Vivo Floripa é uma referência no cenário das artes visuais da região. Os encontros semanais, realizados na região central da Ilha de Santa Catarina, são espaços dedicados à prática do desenho de observação, à troca de experiências e à convivência entre artistas com diferentes níveis de conhecimento. Além de contribuir para o aprimoramento técnico, o desenho de modelo vivo estimula habilidades de observação, representação e expressão artística. O coletivo busca manter essa prática acessível e democrática, incentivando a participação de pessoas interessadas em conhecer e desenvolver suas habilidades no desenho.\n\nA exposição também pretende aproximar o público do trabalho desenvolvido pelo grupo e despertar o interesse de novos participantes.\n\nMais informações pelo Portal BU ou @modelo.vivo.floripa",
+      "tags": [
+        "exposição",
+        "biblioteca universitária (bu)"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": true
     }
   ]
 }
