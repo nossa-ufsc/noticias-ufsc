@@ -37,12 +37,28 @@ ara.ufsc.br       ─┴──▶ parse → normaliza → valida ──▶ ufsc-
    | `category` | `src/lib/categorias.ts`: festa · palestra · curso · cultura · academico · esporte · saude · outro (rótulo da fonte vence o título) |
    | `is_free` | `X-COST-TYPE=free` → true; `X-COST` numérico → false; senão null |
 4. **Seleção**: eventos que terminaram há < 1 dia e começam em < 120 dias.
-5. **Validação** (`src/lib/validate.ts`): feed vazio, zero futuros na Agecom, `source_id` duplicado,
-   datas inválidas ou > 30% sem descrição **falham o job antes de gravar**.
+5. **Validação** (`src/lib/validate.ts`), **por fonte**: feed vazio, zero futuros na Agecom, `source_id`
+   duplicado, datas inválidas ou > 30% sem descrição **reprovam a fonte antes de gravar** (as outras seguem).
 6. **Gravação** (`src/lib/admin.ts`): `POST events-admin { action: 'ufsc-upsert', rows }` em lotes de
-   100 e, no fim, `ufsc-prune` (rejeita eventos futuros que sumiram do feed). A function é quem tem a
+   100, uma fonte por vez, e no fim `ufsc-prune` (rejeita eventos futuros que sumiram do feed) **só para as
+   fontes coletadas pelo export iCal completo e gravadas com sucesso**. A function é quem tem a
    service role; este repo só conhece o `PIPELINE_TOKEN`, que autoriza **exclusivamente** essas duas
    ações.
+
+## Tolerância a falhas
+
+- **Isolamento por fonte** (`src/lib/sync.ts`): coleta, validação e upsert de cada fonte são
+  independentes — a Agecom fora do ar não impede o Araranguá.
+- **Rede** (`src/lib/http.ts`): backoff exponencial com jitter (5 s → 15 s → 45 s), prazo total de 6 min
+  por URL, 403 não é repetido (é bloqueio, não instabilidade).
+- **Plano B** (`src/lib/pagina.ts`): se o export iCal cair, a fonte lê o widget de agenda da home
+  (`paginaEventos`) e a página pública de cada evento, montando o mesmo VEVENT. Cobre só os próximos
+  ~10 dias, então é **parcial e nunca poda**. Motivo: desde 2026-09-28 a UFSC derruba (RST) qualquer
+  requisição ao `ai1ec_exporter_controller` e `/calendario/` dá 404, mas home e `/event/…` seguem no ar.
+- **Status visível** em `data/eventos.json` (`fontes[].status`, `modo`, `erro`, `ultimoSucesso`) e no
+  Actions: fonte que falhou gera `::warning::`, ou `::error::` se está sem sincronizar há ≥ 3 dias;
+  coleta parcial gera `::warning::`; tabela no resumo do job. **Exit 1 só se todas as fontes falharem**
+  — falha parcial ainda commita o snapshot.
 
 ## Rodar local
 
@@ -81,3 +97,4 @@ desfeitas pelo feed; `updated_at` só muda quando o conteúdo muda.
 
 `fixtures/agecom.ics` (recorte de julho/2026 em diante) e `fixtures/ara.ics` são snapshots de
 2026-08-17 usados pelos testes. Para atualizar: baixe os feeds das URLs em `src/sources/index.ts`.
+`fixtures/html/` (home da Agecom e do ARA + duas páginas de evento) são de 2026-11-24 e cobrem o plano B.

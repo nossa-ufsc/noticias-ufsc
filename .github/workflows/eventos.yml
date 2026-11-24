@@ -24,6 +24,8 @@ jobs:
   eventos:
     name: Sincronizar eventos
     runs-on: ubuntu-latest
+    # Export fora do ar: até ~6 min de retries por fonte + plano B pelas páginas.
+    timeout-minutes: 30
     permissions:
       contents: write
     steps:

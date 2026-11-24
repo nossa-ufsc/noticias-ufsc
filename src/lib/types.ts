@@ -41,6 +41,8 @@ export type FeedSource = {
   id: SourceId;
   nome: string;
   url: string;
+  /** Página com o widget de agenda (plano B quando o export iCal cai; coleta parcial). */
+  paginaEventos: string;
   campusPadrao: Campus;
   /** Hosts aceitos para imagens/páginas (o resto vira `""` / null). */
   hosts: string[];

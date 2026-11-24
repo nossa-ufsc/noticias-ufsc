@@ -1,0 +1,1167 @@
+<section id="home" class="section group clearfix">
+
+    <!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="robots" content="index,follow" />
+    <meta name="author" content="SeTIC-UFSC" />
+    <meta name="generator" content="WordPress 4.7.4-RC1" />
+    <meta name="description" content="Universidade Federal de Santa Catarina &#8211; Campus de Araranguá" />
+    <meta name="copyright" content="Universidade Federal de Santa Catarina" />
+    <meta name="Keywords" content="universidade, federal, santa, catarina, a universidade, faculdade, estudantes, faculdade, ensino superior, licenciatura, mestrado, doutorado, pós-graduações, bolsas, candidatura ao ensino superior" />
+
+    <title>UFSC &#8211; Campus de Araranguá</title>        
+
+    <link rel="stylesheet" type="text/css" href="https://ara.ufsc.br/wp-content/themes/brasilGovInterno/css/reset.css?ver=1794242171" />
+    <link rel="stylesheet" type="text/css" href="https://ara.ufsc.br/wp-content/themes/brasilGovInterno/css/style.css?ver=1794242171" />
+    <link rel="alternate stylesheet" type="text/css" href="https://ara.ufsc.br/wp-content/themes/brasilGovInterno/css/high.css?ver=1794242171" title="high" disabled="disabled" />
+            <link rel="shortcut icon" type="image/x-icon" href="https://ara.ufsc.br/wp-content/themes/brasilGovInterno/img/favicon.ico?ver=1794242172"/>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:700,400' rel='stylesheet' type='text/css'>
+    <script src="https://ara.ufsc.br/wp-content/themes/brasilGovInterno/js/modernizr-2.7.min.js?ver=1794242172"></script>
+    <script src="https://ara.ufsc.br/wp-content/themes/brasilGovInterno/js/font-resizer.js?ver=1794242172"></script>           
+
+
+    
+	<style type="text/css">
+		#fancybox-close{right:-15px;top:-15px}
+		div#fancybox-content{border-color:#FFFFFF}
+		div#fancybox-title{background-color:#FFFFFF}
+		div#fancybox-outer{background-color:#FFFFFF}
+		div#fancybox-title-inside{color:#333333}
+	</style>
+
+	<link rel='dns-prefetch' href='//ara.ufsc.br' />
+<link rel='dns-prefetch' href='//ararangua.paginas.ufsc.br' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/ara.ufsc.br\/wp-includes\/js\/wp-emoji.js?ver=4.7.4-RC1","twemoji":"https:\/\/ara.ufsc.br\/wp-includes\/js\/twemoji.js?ver=4.7.4-RC1"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, technologist, technologist2;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+				 * - The United Nations flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'emoji4':
+				/*
+				 * Emoji 4 has the best technologists. So does WordPress!
+				 *
+				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (woman technologist: medium skin tone + personal computer).
+				 */
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+				technologist = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+				technologist2 = canvas.toDataURL();
+
+				return technologist !== technologist2;
+		}
+
+		return false;
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji4' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://ara.ufsc.br/wp-includes/css/dashicons.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='https://ara.ufsc.br/wp-includes/js/thickbox/thickbox.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='patrocinio-css'  href='https://ara.ufsc.br/wp-content/plugins/patrocinio/patrocinio.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='ufsc-carrossel-css'  href='https://ara.ufsc.br/wp-content/plugins/ufsc-carrossel/ufsc-carrossel.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='ai1ec_style-css'  href='//ararangua.paginas.ufsc.br/wp-content/plugins/all-in-one-event-calendar/cache/799ef8a7_ai1ec_parsed_css.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='collapseomatic-css-css'  href='https://ara.ufsc.br/wp-content/mu-plugins/jquery-collapse-o-matic/style.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://ara.ufsc.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sharity-style-css'  href='https://ara.ufsc.br/wp-content/plugins/email-sharity/style/sharity-style.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://ara.ufsc.br/wp-content/plugins/fancybox/fancybox/fancybox.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap_funBox_style-css'  href='https://ara.ufsc.br/wp-content/plugins/wp-visual-slidebox-builder/bootstrap.min.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_funBox_style-css'  href='https://ara.ufsc.br/wp-content/plugins/wp-visual-slidebox-builder/custom-fun-box.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='animated_css-css'  href='https://ara.ufsc.br/wp-content/plugins/wp-visual-slidebox-builder/animate-custom.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<link rel='stylesheet' id='auto-thickbox-css'  href='https://ara.ufsc.br/wp-content/plugins/auto-thickbox/css/styles-pre39.css?ver=20140420' type='text/css' media='all' />
+<link rel='stylesheet' id='h5p-plugin-styles-css'  href='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/styles/h5p.css?ver=1.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dry_awp_theme_style-css'  href='https://ara.ufsc.br/wp-content/plugins/advanced-wp-columns/assets/css/awp-columns.css?ver=4.7.4-RC1' type='text/css' media='all' />
+<style id='dry_awp_theme_style-inline-css' type='text/css'>
+@media screen and (max-width: 1024px) {	.csColumn {		clear: both !important;		float: none !important;		text-align: center !important;		margin-left:  10% !important;		margin-right: 10% !important;		width: 80% !important;	}	.csColumnGap {		display: none !important;	}}
+</style>
+<link rel='stylesheet' id='tablepress-default-css'  href='https://ara.ufsc.br/wp-content/plugins/tablepress/css/default.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-custom-css'  href='https://ara.ufsc.br/files/tablepress-custom.css?ver=23' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-smoothness-css'  href='https://ara.ufsc.br/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.min.css?ver=1.11.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='slideshow-css3-css'  href='https://ara.ufsc.br/wp-content/themes/brasilGovInterno/js/pikachoose/styles/css3.css?ver=0.5' type='text/css' media='screen' />
+<script type='text/javascript' src='https://ara.ufsc.br/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/mu-plugins/jquery-collapse-o-matic/collapse.min.js?ver=1.3.5'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/themes/brasilGovInterno/js/functions.js?ver=4.7.4-RC1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/themes/brasilGovInterno/js/ufsc.js?ver=4.7.4-RC1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/themes/brasilGovInterno/js/pikachoose/lib/jquery.pikachoose.js?ver=4.7.4-RC1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/themes/brasilGovInterno/js/pikachoose/lib/jquery.jcarousel.min.js?ver=4.7.4-RC1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/email-sharity/js/sharity.js?ver=4.7.4-RC1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/email-sharity/fancybox/source/jquery.fancybox.pack.js?v=2.1.4&#038;ver=4.7.4-RC1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/fancybox/fancybox/jquery.fancybox.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/wp-visual-slidebox-builder/js/fun_box.js?ver=4.7.4-RC1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/wp-visual-slidebox-builder/js/bootstrap.min.js?ver=4.7.4-RC1'></script>
+<link rel='https://api.w.org/' href='https://ara.ufsc.br/wp-json/' />
+ 
+    <link href="/wp-content/mu-plugins/videojs/video-js.min.css" rel="stylesheet" />
+    <script src="/wp-content/mu-plugins/videojs/video.min.js" type="text/javascript"></script>
+   <script type="text/javascript">
+    _V_.options.flash.swf = "/wp-content/mu-plugins/videojs/video-js.swf";
+  </script>
+
+    
+<!-- Fancybox for WordPress v3.0.2 -->
+<script type="text/javascript">
+jQuery(function(){
+
+jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+	var arr = jQuery("a.fancybox");
+	jQuery.each(arr, function() {
+		var title = jQuery(this).children("img").attr("title");
+		jQuery(this).attr('title',title);
+	})
+}
+
+// Supported file extensions
+var thumbnails = jQuery("a:has(img)").not(".nolightbox").filter( function() { return /\.(jpe?g|png|gif|bmp)$/i.test(jQuery(this).attr('href')) });
+
+thumbnails.addClass("fancybox").attr("rel","fancybox").getTitle();
+jQuery("a.fancybox").fancybox({
+	'cyclic': false,
+	'autoScale': true,
+	'padding': 10,
+	'opacity': true,
+	'speedIn': 500,
+	'speedOut': 500,
+	'changeSpeed': 300,
+	'overlayShow': true,
+	'overlayOpacity': "0.3",
+	'overlayColor': "#666666",
+	'titleShow': true,
+	'titlePosition': 'inside',
+	'enableEscapeButton': true,
+	'showCloseButton': true,
+	'showNavArrows': true,
+	'hideOnOverlayClick': true,
+	'hideOnContentClick': false,
+	'width': 560,
+	'height': 340,
+	'transitionIn': "fade",
+	'transitionOut': "fade",
+	'centerOnScroll': true
+});
+
+
+})
+</script>
+<!-- END Fancybox for WordPress -->
+<!-- styles for Simple Google Map -->
+<style type='text/css'>
+#SGM {width:100%; height:275px;}
+#SGM .infoWindow {line-height:13px; font-size:10px;}
+#SGM input {margin:4px 4px 0 0; font-size:10px;}
+#SGM input.text {border:solid 1px #ccc; background-color:#fff; padding:2px;}
+</style>
+<!-- end styles for Simple Google Map -->
+<style type="text/css">
+.qtranxs_flag_pt {background-image: url(https://ararangua.paginas.ufsc.br/wp-content/plugins/qtranslate-x/flags/br.png); background-repeat: no-repeat;}
+.qtranxs_flag_en {background-image: url(https://ararangua.paginas.ufsc.br/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="pt" href="https://ara.ufsc.br/?lang=pt" rel="alternate" />
+<link hreflang="en" href="https://ara.ufsc.br/?lang=en" rel="alternate" />
+<link hreflang="x-default" href="https://ara.ufsc.br/?lang=pt" rel="alternate" />
+<meta name="generator" content="qTranslate-X 3.4.6.8" />
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Próximo &gt;","prev":"&lt; Anterior","image":"Imagem","of":"de","close":"Fechar","loadingAnimation":"https:\/\/ara.ufsc.br\/wp-content\/plugins\/auto-thickbox\/images\/loadingAnimation.gif"};
+try{convertEntities(thickboxL10n);}catch(e){};;
+/* ]]> */
+</script>
+<meta name="gm-gpx-v" content="1.25" />
+	  <script type="text/javascript">jQuery.noConflict();</script>
+	  </head>
+<div id="barra-brasil">
+    <div id="barra-brasil">
+        <div id="wrapper-barra-brasil">
+            <script src="//barra.brasil.gov.br/barra.js" type="text/javascript"></script>
+        </div>
+    </div>
+</div>
+
+<div id="wrapper">
+    <header id="header">
+            <div id="header_grid" class="grid">
+            <div>
+                <ul id="shortcuts" class="hide_mobile">
+                    <li><a accesskey="1" href="#conteudo">Ir para o conteúdo <span>1</span></a></li>
+                    <li><a accesskey="2" href="#menu">Ir para o menu <span>2</span></a></li>
+                    <li><a accesskey="3" href="#busca">Ir para a busca <span>3</span></a></li>
+                    <li><a accesskey="4" href="#rodape">Ir para o rodapé <span>4</span></a></li>
+                </ul>
+                <ul id="topbar">
+                    <li><a accesskey="7" href="http://ufsc.br/acessibilidade/">Acessibilidade</a></li>
+                    <li><a accesskey="8" href="#" id="contrast">Alto Contraste</a></li>
+                    <li><a accesskey="9" href="/mapa-do-site">Mapa do Site</a></li>
+                </ul>
+                <div id="logo">
+                    <a href="https://ara.ufsc.br" accesskey="0" id="portal-logo">
+                        <img id="brasaoUfsc_Header" src="https://ara.ufsc.br/wp-content/themes/brasilGovInterno/img/brasao_site_ufsc.svg?ver=1794242171" alt="Brasão da UFSC: A parte central do brasão é composta por uma flâmula. Ela é azul na porção superior e amarela na inferior. Sobre o azul, à esquerda, cinco estrelas brancas formam o cruzeiro do sul; à direita, uma faixa branca tem o texto escrito em vermelho: ars et scientia. Centralizada na parte amarela, há uma roda dentada vermelha quebrada na seção inferior. Duas folhas verdes de palma estão encaixadas no eixo da roda. Uma folha pende para o lado direito e a outra para o lado esquerdo. Atrás da flâmula há uma tocha amarela, da qual enxergamos os extremos: acima, com o fogo desenhado em vermelho, e abaixo, a parte inferior do bastão. Do lado esquerdo da flâmula, há um ramo verde de carvalho e do lado direito um ramo verde de louro. A parte inferior do brasão é composta por uma faixa estreita vermelha, escrito em branco: Universidade Federal de Santa Catarina. Abaixo da faixa, escrito em fonte maiúscula azul: UFSC."/>
+                        <h1>UFSC &#8211; Campus de Araranguá</h1>
+                    </a>
+                </div>
+                <form action="/" method="get" name="busca">
+                    <input type="text" placeholder="Buscar no portal" id="s" name="s"/>
+                    <input type="submit" id="submit" value="" />
+                </form>
+                <ul id="social" class="hide_mobile">
+                    <li><a href="https://www.facebook.com/Ufscara" title="Curta no Facebook" class="icon-facebook"></a></li>
+                    <li><a href="https://twitter.com/ufsc" title="Siga no Twitter" class="icon-twitter"></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCpUzrfzEgsmzoGNLHTWiOzg" title="Vídeos no Youtube" class="icon-youtube"></a></li>
+                    <li><a href="https://www.instagram.com/ufscara/" title="Veja no Instagram" class="icon-camera"></a></li>
+                    <li><a href="/feed" title="Assine as atualizações via RSS" class="icon-feed"></a></li>
+                </ul>
+            </div>
+        </div>
+
+        
+        <div id="menu-nav">
+            <ul>
+                <li id="menu-link-nav-acessoRestrito">
+                    <a href="http://ararangua.paginas.ufsc.br//wp-admin">
+                        Área Restrita                    </a>
+                    <a href="/?administradores" class="thickbox" title="Lista de Administradores deste Site">
+                        Administradores do Site                    </a>
+                </li>
+            </ul>
+            <a href="#dropmenu" class="menu-link"><span aria-hidden="true" class="icon-menu"></span> Menu</a>
+                    </div>
+    </header>
+    <section id="home" class="grid section group clearfix ">
+
+
+
+
+
+
+
+
+
+
+                <div id="sidebar_left" name="menu">
+    <div id="menu_secundario_logo" class="hide_mobile">
+                <a id="atalho-navegacao" href="https://ara.ufsc.br">
+            <img src="https://ara.ufsc.br/files/2026/08/cropped-selo-17-anos-Baixa.jpg" alt="Menu de Navegação"/>
+        </a>
+    </div>
+
+    <ul role='navigation'>
+        <li>
+            <dl id='margin_space'>
+                <div class="pagenav"><ul id="menu--navegacao" class="pagenav"><li id="menu-item-10362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10362"><a  href="http://ararangua.paginas.ufsc.br/">ara.ufsc.br</a></li>
+<li id="menu-item-18017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18017"><a  href="https://ara.ufsc.br/o-campus/?lang=pt">O Campus</a></li>
+<li id="menu-item-18834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18834"><a  href="https://ara.ufsc.br/ararangua/graduacao/?lang=pt">Graduação</a></li>
+<li id="menu-item-23433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23433"><a  href="https://pos.ara.ufsc.br/">Pós-Graduação</a></li>
+<li id="menu-item-18034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18034"><a  href="https://ara.ufsc.br/pesquisa/?lang=pt">Pesquisa</a></li>
+<li id="menu-item-18035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18035"><a  href="https://ara.ufsc.br/extensao-ufsc-ararangua/?lang=pt">Extensão</a></li>
+<li id="menu-item-19256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19256"><a  href="https://ara.ufsc.br/concursos-e-processos-seletivos/?lang=pt">Concursos e processos seletivos</a></li>
+<li id="menu-item-20630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20630"><a  href="https://ara.ufsc.br/consultas-publicas-e-eleicoes/?lang=pt">Consultas públicas e eleições</a></li>
+<li id="menu-item-23014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23014"><a  href="https://ara.ufsc.br/ararangua/comites-permanentes/?lang=pt">Comitês permanentes</a></li>
+<li id="menu-item-26402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26402"><a  href="https://ara.ufsc.br/espacos-de-acolhimento/?lang=pt">Espaços de acolhimento</a></li>
+</ul></div>            </dl>
+        </li>
+    </ul>
+    <ul id="nav_menu-30" class="widget widget_nav_menu"><li><h2>Institucional</h2></li></ul><ul id="nav_menu-37" class="widget widget_nav_menu"><li><h2>Coordenadorias de Serviços Integrados</h2><div class="pagenav"><ul id="menu--coordenadorias" class="menu"><li id="menu-item-17997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17997"><a  href="https://ara.ufsc.br/cap/?lang=pt">CAP &#8211; Coordenadoria de <b>Administração e Planejamento</b> &raquo;</a>
+<ul>
+	<li id="menu-item-20277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20277"><a  href="https://ara.ufsc.br/cap/compras/?lang=pt">Setor de Compras</a></li>
+	<li id="menu-item-20276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20276"><a  href="https://ara.ufsc.br/cap/setor-de-contratos-e-servicos-terceirizados/?lang=pt">Setor de Contratos e Serviços Terceirizados</a></li>
+	<li id="menu-item-20257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20257"><a  href="https://ara.ufsc.br/cap/setor-de-gestao-de-pessoas/?lang=pt">Setor de Gestão de Pessoas</a></li>
+	<li id="menu-item-20275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20275"><a  href="https://ara.ufsc.br/cap/setor-financeiro/?lang=pt">Setor de Orçamento e Finanças</a></li>
+	<li id="menu-item-20274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20274"><a  href="https://ara.ufsc.br/cap/setor-de-patrimonio/?lang=pt">Setor de Patrimônio</a></li>
+	<li id="menu-item-20269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20269"><a  href="https://ara.ufsc.br/cap/setor-de-recepcao/?lang=pt">Setor de Recepção</a></li>
+	<li id="menu-item-20273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20273"><a  href="https://ara.ufsc.br/cap/setor-de-transportes-e-logistica/?lang=pt">Setor de Transportes e logística</a></li>
+</ul>
+</li>
+<li id="menu-item-18006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18006"><a  href="https://ara.ufsc.br/ciae/?lang=pt">CIAE &#8211; Coordenadoria de<b> Apoio ao Estudante</b></a></li>
+<li id="menu-item-18003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18003"><a  href="https://ara.ufsc.br/cice/?lang=pt">CICE &#8211; Coordenadoria de <b>Comunicação e Eventos</b> &raquo;</a>
+<ul>
+	<li id="menu-item-18197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18197"><a  href="https://ara.ufsc.br/cice/setor-de-cerimonial-e-eventos/?lang=pt">Setor de Cerimonial e Eventos</a></li>
+	<li id="menu-item-18196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18196"><a  href="https://ara.ufsc.br/cice/setor-de-comunicacao-estrategica/?lang=pt">Setor de Comunicação Estratégica</a></li>
+</ul>
+</li>
+<li id="menu-item-17998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17998"><a  href="https://ara.ufsc.br/cim/?lang=pt">CIM &#8211; Coordenadoria de <b>Infraestrutura e Manutenção</b> &raquo;</a>
+<ul>
+	<li id="menu-item-26199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26199"><a  href="https://ara.ufsc.br/cim/setor-de-apoio-administrativo/?lang=pt">Setor de Apoio Administrativo (SADD)</a></li>
+	<li id="menu-item-26200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26200"><a  href="https://ara.ufsc.br/cim/setor-de-obras-e-projetos/?lang=pt">Setor de Obras e Projetos (OP)</a></li>
+	<li id="menu-item-26210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26210"><a  href="https://ara.ufsc.br/cim/setor-de-manutencao-e-gestao-predial/?lang=pt">Setor de Manutenção e Gestão Predial (MGP)</a></li>
+	<li id="menu-item-17459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17459"><a  href="https://ara.ufsc.br/cim/suporte-e-manutencao-de-equipamentos/?lang=pt">Setor de Suporte e Manutenção Eletroeletrônica (SUMAE)</a></li>
+	<li id="menu-item-22365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22365"><a  href="https://sti.ararangua.ufsc.br/">Setor de Tecnologia da Informação (STI)</a></li>
+</ul>
+</li>
+</ul></div></li></ul><ul id="nav_menu-41" class="widget widget_nav_menu"><li><h2>CTS &#8211; Centro de Ciências, Tecnologias e Saúde</h2><div class="pagenav"><ul id="menu--centro-de-ciencias-tecnologias-e-saude" class="menu"><li id="menu-item-19039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19039"><a  href="https://ara.ufsc.br/cts/conselho-de-unidade/?lang=pt">Conselho de Unidade</a></li>
+<li id="menu-item-19035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19035"><a  href="https://ara.ufsc.br/ararangua/gestao/?lang=pt">Gestão &raquo;</a>
+<ul>
+	<li id="menu-item-19033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19033"><a  href="https://ara.ufsc.br/cts/secretaria-administrativa/?lang=pt">Secretaria de Apoio à Direção – SAD/CTS/ARA</a></li>
+	<li id="menu-item-19034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19034"><a  href="https://ara.ufsc.br/cts/legislacoes-do-cts/?lang=pt">Legislações do CTS</a></li>
+</ul>
+</li>
+<li id="menu-item-19036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19036"><a  href="https://ara.ufsc.br/cts/secretarias-integradas/?lang=pt">Secretarias Integradas</a></li>
+<li id="menu-item-23202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23202"><a  href="https://ara.ufsc.br/cts/caped/?lang=pt"><b>CAPEd</b> &#8211; Coord. de Assuntos Pedagógicos</a></li>
+<li id="menu-item-22006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22006"><a  href="https://ara.ufsc.br/cts/leabs/?lang=pt"><b>LEABS</b> &#8211; Laboratórios de Ensino das Áreas Básicas da Saúde</a></li>
+<li id="menu-item-26546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26546"><a  href="https://ara.ufsc.br/cts-dipece/?lang=pt"><b>DIPECE</b> &#8211; Divisão de Permanência Estudantil e Combate à Evasão &raquo;</a>
+<ul>
+	<li id="menu-item-26550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26550"><a  href="https://ara.ufsc.br/cts-dipece/atendimento/?lang=pt">Atendimento – DIPECE/CTS</a></li>
+	<li id="menu-item-26548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26548"><a  href="https://ara.ufsc.br/cts-dipece/ideias-para-a-permanencia/?lang=pt">Contribua com Ideias e Sugestões – DIPECE/CTS</a></li>
+	<li id="menu-item-26549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26549"><a  href="https://ara.ufsc.br/cts-dipece/eventos/?lang=pt">Eventos – DIPECE/CTS</a></li>
+	<li id="menu-item-26547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26547"><a  href="https://ara.ufsc.br/cts-dipece/outros-canais-de-apoio/?lang=pt">Outros Canais de Apoio – DIPECE/CTS</a></li>
+</ul>
+</li>
+<li id="menu-item-18056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18056"><a  href="https://ara.ufsc.br/cts/cit/?lang=pt"><b>CIT &#8211; </b>Coordenadoria em Tecnologias da Informação e Comunicação &raquo;</a>
+<ul>
+	<li id="menu-item-23503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23503"><a  href="https://ara.ufsc.br/cts/cit/?lang=pt">Gestão do Departamento</a></li>
+	<li id="menu-item-19052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19052"><a  href="https://ara.ufsc.br/transparencia/?lang=pt">Atas / Portarias / Certidões</a></li>
+	<li id="menu-item-19064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19064"><a  href="https://ara.ufsc.br/cts/cit/corpo-docente-cit/?lang=pt">Corpo docente</a></li>
+	<li id="menu-item-19809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19809"><a  href="https://ara.ufsc.br/cts/programas-de-ensino/?lang=pt">Diciplinas e Programas de Ensino</a></li>
+	<li id="menu-item-19895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19895"><a  href="https://ara.ufsc.br/cts/cit/laboratorios/?lang=pt">Laboratórios</a></li>
+	<li id="menu-item-19772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19772"><a  href="https://ara.ufsc.br/concursos-e-processos-seletivos/?lang=pt">Concursos e processos seletivos</a></li>
+	<li id="menu-item-19066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19066"><a  href="https://ara.ufsc.br/category/cit/?lang=pt">Notícias</a></li>
+</ul>
+</li>
+<li id="menu-item-21952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21952"><a  href="https://ara.ufsc.br/cts/dcm/?lang=pt"><b>DCM &#8211; </b> Departamento de Ciências Médicas &raquo;</a>
+<ul>
+	<li id="menu-item-23505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23505"><a  href="https://ara.ufsc.br/cts/dcm/?lang=pt">Gestão do Departamento</a></li>
+	<li id="menu-item-21957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21957"><a  href="https://ara.ufsc.br/transparencia/?lang=pt">Atas / Portarias / Certidões</a></li>
+	<li id="menu-item-21953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21953"><a  href="https://ara.ufsc.br/cts/dcm/corpo-docente-dcm/?lang=pt">Corpo docente</a></li>
+	<li id="menu-item-21956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21956"><a  href="https://ara.ufsc.br/cts/programas-de-ensino/?lang=pt">Diciplinas e Programas de Ensino</a></li>
+	<li id="menu-item-21949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21949"><a  href="https://ara.ufsc.br/cts/dft/laboratorios-de-ensino-dcm/?lang=pt">Laboratórios de ensino</a></li>
+	<li id="menu-item-21950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21950"><a  href="https://ara.ufsc.br/cts/dcm/grupos-e-laboratorios-de-pesquisa-dcm/?lang=pt">Grupos e laboratórios de pesquisa</a></li>
+	<li id="menu-item-21954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21954"><a  href="https://ara.ufsc.br/concursos-e-processos-seletivos/?lang=pt">Concursos e processos seletivos</a></li>
+</ul>
+</li>
+<li id="menu-item-18058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18058"><a  href="https://ara.ufsc.br/cts/dec/?lang=pt"><b>DEC &#8211; </b>Departamento de Computação &raquo;</a>
+<ul>
+	<li id="menu-item-23513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23513"><a  href="https://ara.ufsc.br/cts/dec/?lang=pt">Gestão do Departamento</a></li>
+	<li id="menu-item-19055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19055"><a  href="https://ara.ufsc.br/transparencia/?lang=pt">Atas / Portarias / Certidões</a></li>
+	<li id="menu-item-19085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19085"><a  href="https://ara.ufsc.br/cts/dec/corpo-docente-dec/?lang=pt">Corpo docente</a></li>
+	<li id="menu-item-19806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19806"><a  href="https://ara.ufsc.br/cts/programas-de-ensino/?lang=pt">Diciplinas e Programas de Ensino</a></li>
+	<li id="menu-item-19100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19100"><a  href="https://ara.ufsc.br/cts/dec/laboratorios-dec/?lang=pt">Laboratórios da Computação</a></li>
+	<li id="menu-item-19770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19770"><a  href="https://ara.ufsc.br/concursos-e-processos-seletivos/?lang=pt">Concursos e processos seletivos</a></li>
+	<li id="menu-item-19068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19068"><a  href="https://ara.ufsc.br/category/dec/?lang=pt">Notícias</a></li>
+</ul>
+</li>
+<li id="menu-item-21923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21923"><a  href="https://ara.ufsc.br/cts/dft/?lang=pt"><b>DFT &#8211; </b> Departamento de Fisioterapia &raquo;</a>
+<ul>
+	<li id="menu-item-23514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23514"><a  href="https://ara.ufsc.br/cts/dft/?lang=pt">Gestão do Departamento</a></li>
+	<li id="menu-item-21926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21926"><a  href="https://ara.ufsc.br/transparencia/?lang=pt">Atas / Portarias / Certidões</a></li>
+	<li id="menu-item-21924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21924"><a  href="https://ara.ufsc.br/cts/dft/corpo-docente-dft/?lang=pt">Corpo docente</a></li>
+	<li id="menu-item-21929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21929"><a  href="https://ara.ufsc.br/cts/programas-de-ensino/?lang=pt">Diciplinas e Programas de Ensino</a></li>
+	<li id="menu-item-21920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21920"><a  href="https://ara.ufsc.br/cts/dft/laboratorios-de-ensino-dft/?lang=pt">Laboratórios de ensino</a></li>
+	<li id="menu-item-21921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21921"><a  href="https://ara.ufsc.br/cts/dft/grupos-e-laboratorios-de-pesquisa-dft/?lang=pt">Grupos e laboratórios de pesquisa</a></li>
+	<li id="menu-item-21930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21930"><a  href="https://ara.ufsc.br/concursos-e-processos-seletivos/?lang=pt">Concursos e processos seletivos</a></li>
+	<li id="menu-item-23687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23687"><a  href="https://ara.ufsc.br/corpo-tecnico-dft/?lang=pt">Corpo Técnico</a></li>
+</ul>
+</li>
+<li id="menu-item-18055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18055"><a  href="https://ara.ufsc.br/cts/ees/?lang=pt"><b>EES &#8211; </b>Departamento de Energia e Sustentabilidade &raquo;</a>
+<ul>
+	<li id="menu-item-23515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23515"><a  href="https://ara.ufsc.br/cts/ees/?lang=pt">Gestão do Departamento</a></li>
+	<li id="menu-item-19053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19053"><a  href="https://ara.ufsc.br/transparencia/?lang=pt">Atas / Portarias / Certidões</a></li>
+	<li id="menu-item-19823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19823"><a  href="https://ara.ufsc.br/cts/ees/camara-de-administracao-ees/?lang=pt">Câmara de administração</a></li>
+	<li id="menu-item-19824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19824"><a  href="https://ara.ufsc.br/cts/ees/corpo-docente-ees/?lang=pt">Corpo docente</a></li>
+	<li id="menu-item-19808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19808"><a  href="https://ara.ufsc.br/cts/programas-de-ensino/?lang=pt">Diciplinas e Programas de Ensino</a></li>
+	<li id="menu-item-19828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19828"><a  href="https://ara.ufsc.br/cts/ees/laboratorios-de-ensino-ees/?lang=pt">Laboratórios de ensino</a></li>
+	<li id="menu-item-19838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19838"><a  href="https://ara.ufsc.br/cts/ees/laboratorios-de-pesquisa/?lang=pt">Grupos e laboratórios de pesquisa</a></li>
+	<li id="menu-item-19774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19774"><a  href="https://ara.ufsc.br/concursos-e-processos-seletivos/?lang=pt">Concursos e processos seletivos</a></li>
+	<li id="menu-item-19069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19069"><a  href="https://ara.ufsc.br/category/ees/?lang=pt">Notícias</a></li>
+</ul>
+</li>
+<li id="menu-item-18054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18054"><a  href="https://ara.ufsc.br/cts/fqm/?lang=pt"><b>FQM &#8211; </b>Coordenadoria de Física, Química e Matemática &raquo;</a>
+<ul>
+	<li id="menu-item-23516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23516"><a  href="https://ara.ufsc.br/cts/fqm/?lang=pt">Gestão do Departamento</a></li>
+	<li id="menu-item-19056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19056"><a  href="https://ara.ufsc.br/transparencia/?lang=pt">Atas / Portarias / Certidões</a></li>
+	<li id="menu-item-19019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19019"><a  href="https://ara.ufsc.br/cts/fqm/corpo-docente-fqm/?lang=pt">Corpo docente</a></li>
+	<li id="menu-item-19805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19805"><a  href="https://ara.ufsc.br/cts/programas-de-ensino/?lang=pt">Diciplinas e Programas de Ensino</a></li>
+	<li id="menu-item-19773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19773"><a  href="https://ara.ufsc.br/concursos-e-processos-seletivos/?lang=pt">Concursos e processos seletivos</a></li>
+	<li id="menu-item-19070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19070"><a  href="https://ara.ufsc.br/category/fqm/?lang=pt">Notícias FQM</a></li>
+</ul>
+</li>
+</ul></div></li></ul></div>
+<script>
+    "use strict";
+    var menus = document.querySelectorAll(".widget_nav_menu > li");
+    for(var i = 0; i < menus.length; i++) {
+        if(menus[i].children.length == 1) {
+            menus[i].remove();
+        }
+    }
+</script>
+    
+    <div class="col">
+        <div id="portal-title">
+            <a>
+            Universidade Federal de Santa Catarina &#8211; Campus de Araranguá            </a>
+        </div>
+
+        <div id="content" name="conteudo">
+            <ul class="posts">
+                            <li id="post-26265" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/26265-2/?lang=pt"><h1></h1></a>
+                                <p><a href="https://vestibularunificado2027.ufsc.br/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-26269 size-full" src="http://ararangua.paginas.ufsc.br/files/2026/09/vestibular.jpg" alt="" width="680" height="277" srcset="https://ara.ufsc.br/files/2026/09/vestibular.jpg 680w, https://ara.ufsc.br/files/2026/09/vestibular-300x122.jpg 300w, https://ara.ufsc.br/files/2026/09/vestibular-100x41.jpg 100w, https://ara.ufsc.br/files/2026/09/vestibular-200x81.jpg 200w" sizes="(max-width: 680px) 100vw, 680px" /></a></p>            </li>
+            <hr/>
+
+                    <li id="post-23618" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/23618-2/?lang=pt"><h1></h1></a>
+                                <div class="caixa-slides">
+            <div id="square_production_graduação1636814" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-2.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 50px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-3.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://ara.ufsc.br/ararangua/graduacao/" target="blank"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 50px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_posgrad998677" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-14.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(113, 83, 142); width: 167px; height: 50px; border-radius: 10px; border-width: 0px; opacity: 1;" dw="167" dh="50">
+                                <span class="textArea" style="height: 0px; width: 147px; font-size: 20px; line-height: 10px; margin-top: 30px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape inOut swrillOut animated fadeOut" style="height: 50px; width: 167px; top: 0px; right: 0px; transform: rotate(0deg); margin-left: 0px; background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-15.png&quot;) left top / 100% no-repeat transparent; border-radius: 10px;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://pos.ara.ufsc.br/" target="blank"><h3 class="title" style="transform: rotate(0deg); padding-top: 8%; font-size: 0px; margin-left: -8%;"></h3></a>
+                    <hr class="divLit hidden" style="border-color: rgb(255, 255, 255);">
+                    <div class="textAreaWrapper" style="margin-top: 32px; transform: rotate(0deg); padding-right: 14px;">
+                                        <span class="textArea" style="height: 0px; width: 147px; font-size: 12px; line-height: 10px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_pesquisa2230918" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-1.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px; border-width: 0px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 50px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://ara.ufsc.br/pesquisa/" target=""><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 50px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_extensao6569464" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-4.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 50px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-5.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://ara.ufsc.br/extensao-ufsc-ararangua/" target="blank"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 50px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        <br />
+
+            <div id="square_production_portas_abertas9353735" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-6.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 50px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; margin-left: 0px; right: 0px; transform: rotate(0deg); border-radius: 10px; background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-7.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://portasabertas.ara.ufsc.br/" target="blank"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 50px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_cts5450655" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-8.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 0px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-9.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" target="blank" href="http://ara.ufsc.br/cts"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 0px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_transparencia7680667" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-10.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 0px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-11.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://ara.ufsc.br/transparencia/" target="blank"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 0px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_sou_ufsc1277714" class="squareDemo squareDemo_production shape box" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-12.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 50px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/09/botões-13.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://souufsc.ararangua.ufsc.br/" target="blank"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 50px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        <br />
+
+            <div id="square_production_cice1213256" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/10/botões-CIT-30.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 50px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/10/botões-CIT-31.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" target="blank" href="https://ara.ufsc.br/cice/"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 50px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_ciae8656471" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/10/botões-CIT-32.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 50px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/10/botões-CIT-33.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" target="blank" href="https://ara.ufsc.br/ciae/"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 50px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_cim5103585" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/10/botões-CIT-28.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 50px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/10/botões-CIT-29.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://ara.ufsc.br/cim/"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 50px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="square_production_cap610984" class="squareDemo squareDemo_production shape box maskImg" style="background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/10/botões-CIT-34.png&quot;) left top / 100% no-repeat transparent; border-color: rgb(185, 184, 184); width: 167px; height: 50px; border-radius: 10px;" dw="167" dh="50">
+                                <span class="textArea" style="height: 0px; width: 147px;"></span>
+
+                <div entrance="effect" id="square-lit" class="squareLitDemo shape animated fadeOut" style="height: 50px; width: 167px; top: 0px; border-radius: 10px; margin-left: 0px; right: 0px; transform: rotate(0deg); background: url(&quot;http://ararangua.paginas.ufsc.br/files/2025/10/botões-CIT-36.png&quot;) left top / 100% no-repeat transparent;" in="fadeIn" out="fadeOut">
+                    <a class="title_2 title_link_out" href="https://ara.ufsc.br/cap/" target="blank"><h3 class="title" style="transform: rotate(0deg);"></h3></a>
+                    <hr class="divLit hidden">
+                    <div class="textAreaWrapper" style="padding-right: 14px; transform: rotate(0deg);">
+                                        <span class="textArea" style="height: 0px; width: 147px;"></span>
+                    </div>
+                </div>
+            </div>
+        </div>            </li>
+            <hr/>
+
+                    <li id="post-26965" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/aberto-edital-para-contratacao-de-professores-substitutos-para-o-departamento-de-ciencias-medicas/?lang=pt"><h1>Aberto Edital para contratação de professores substitutos para o Departamento de Ciências Médicas</h1></a>
+                                <p><img class="alignright wp-image-26967" src="http://ararangua.paginas.ufsc.br/files/2026/11/PROCESSO-SELETIVO-2.jpg" alt="" width="400" height="500" srcset="https://ara.ufsc.br/files/2026/11/PROCESSO-SELETIVO-2.jpg 1080w, https://ara.ufsc.br/files/2026/11/PROCESSO-SELETIVO-2-240x300.jpg 240w, https://ara.ufsc.br/files/2026/11/PROCESSO-SELETIVO-2-768x960.jpg 768w, https://ara.ufsc.br/files/2026/11/PROCESSO-SELETIVO-2-819x1024.jpg 819w, https://ara.ufsc.br/files/2026/11/PROCESSO-SELETIVO-2-80x100.jpg 80w, https://ara.ufsc.br/files/2026/11/PROCESSO-SELETIVO-2-160x200.jpg 160w" sizes="(max-width: 400px) 100vw, 400px" />A Universidade Federal de Santa Catarina (UFSC), campus Araranguá, lançou o edital Nº 160/2026/DDP para abertura do Processo Seletivo Simplificado para contratação de Professor Substituto.</p>
+<p>Serão ofertadas 6 vagas para o para o Departamento de Ciências Médicas nas seguintes áreas:<br />
+&#8211; Morfologia Humana / Embriologia Humana / Histologia Humana / Ensino Tutorial / Habilidades Médicas: 3 vagas, com regime de trabalho de 40 horas semanais;<br />
+&#8211; Medicina / Clínica Médica / Habilidades Médicas / Ensino Tutorial / Ensino Comunidades: 2 vagas, com regime de trabalho de 20 horas semanais;<br />
+&#8211; Medicina / Pediatria / Habilidades Médicas / Ensino Tutorial / Ensino Comunidades: 1 vaga, com regime de trabalho de 20 horas semanais, preferencialmente reservada para pessoas candidatas pretas e pardas, conforme o item 2 do edital.</p>
+<p>O período de inscrições é do dia 17 a 24 de novembro de 2026 até às 17 horas. A documentação necessária para inscrição é o Formulário de Inscrição preenchido, o Documento de Identificação e o Comprovante de pagamento da inscrição, todos em formato PDF.</p>
+<p>Para demais informações sobre o Processo Seletivo, acesse o Edital através do link: <a href="http://ara.ufsc.br/concursos-e-processos-seletivos">ara.ufsc.br/concursos-e-processos-seletivos</a></p>            </li>
+            <hr/>
+
+                    <li id="post-26961" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/restaurante-universitario-da-ufsc-ararangua-foi-interditado-pela-vigilancia-sanitaria-na-ultima-quarta-feira/?lang=pt"><h1>Restaurante Universitário da UFSC Araranguá foi interditado pela Vigilância Sanitária na última quarta-feira</h1></a>
+                                <p><img class="alignright wp-image-26962" src="http://ararangua.paginas.ufsc.br/files/2026/11/RESTAURANTE-UNIVERSITÁRIO.jpg" alt="" width="400" height="500" srcset="https://ara.ufsc.br/files/2026/11/RESTAURANTE-UNIVERSITÁRIO.jpg 1080w, https://ara.ufsc.br/files/2026/11/RESTAURANTE-UNIVERSITÁRIO-240x300.jpg 240w, https://ara.ufsc.br/files/2026/11/RESTAURANTE-UNIVERSITÁRIO-768x960.jpg 768w, https://ara.ufsc.br/files/2026/11/RESTAURANTE-UNIVERSITÁRIO-819x1024.jpg 819w, https://ara.ufsc.br/files/2026/11/RESTAURANTE-UNIVERSITÁRIO-80x100.jpg 80w, https://ara.ufsc.br/files/2026/11/RESTAURANTE-UNIVERSITÁRIO-160x200.jpg 160w" sizes="(max-width: 400px) 100vw, 400px" />A Direção Geral e Direção Administrativa da Universidade Federal de Santa Catarina Campus Araranguá informam que o Restaurante Universitário foi interditado por ordens da Vigilância Sanitária do Município de Araranguá na última quarta-feira, dia 18 de novembro de 2026.</p>
+<p>Foi emitido o OFÍCIO CIRCULAR Nº 02/2026/DADM/ARA que informa que a medida foi motivada pelo não atendimento de exigências da Vigilância Sanitária estabelecidas pelo órgão fiscalizador, conforme inspeções realizadas no estabelecimento, conforme Auto de Intimação nº 116.26/DVS/ARA.</p>
+<p>Diante disso, a Administração do Campus está acompanhando e cobrando da empresa contratada a adoção das providências necessárias à regularização do estabelecimento e ao atendimento das exigências da Vigilância Sanitária, condição indispensável para a retomada das atividades. A comunidade universitária será informada sobre os desdobramentos e eventuais atualizações acerca do funcionamento do Restaurante Universitário.</p>
+<p>Para maiores informações, acesse o <a href="http://ararangua.paginas.ufsc.br/files/2026/11/Oficio-Circular-02.2026_DADM.ARA_.pdf">OFÍCIO COMPLETO</a></p>            </li>
+            <hr/>
+
+                    <li id="post-26943" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/a-biblioteca-setorial-do-campus-ararangua-fechara-no-dia-19-de-novembro-para-reuniao-interna/?lang=pt"><h1>A Biblioteca Setorial do Campus Araranguá fechará no dia 19 de novembro para reunião interna</h1></a>
+                                <p><img class="alignright wp-image-26947" src="http://ararangua.paginas.ufsc.br/files/2026/11/Inserir-um-subtítulo-3.jpg" alt="" width="400" height="500" srcset="https://ara.ufsc.br/files/2026/11/Inserir-um-subtítulo-3.jpg 1080w, https://ara.ufsc.br/files/2026/11/Inserir-um-subtítulo-3-240x300.jpg 240w, https://ara.ufsc.br/files/2026/11/Inserir-um-subtítulo-3-768x960.jpg 768w, https://ara.ufsc.br/files/2026/11/Inserir-um-subtítulo-3-819x1024.jpg 819w, https://ara.ufsc.br/files/2026/11/Inserir-um-subtítulo-3-80x100.jpg 80w, https://ara.ufsc.br/files/2026/11/Inserir-um-subtítulo-3-160x200.jpg 160w" sizes="(max-width: 400px) 100vw, 400px" />A Biblioteca Setorial do Campus Araranguá temporariamente no dia 19 de novembro de 2026 das 13h às 15h em decorrência de reunião interna.<br />
+As atividades ocorrerão normalmente após este horário.</p>            </li>
+            <hr/>
+
+                    <li id="post-26931" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/espaco-de-inovacao-pedagogica-e-inaugurado-no-campus-ararangua-para-apoio-as-atividades-de-ensino-pesquisa-e-extensao/?lang=pt"><h1>Espaço de Inovação Pedagógica é inaugurado no Campus Araranguá para apoio às atividades de ensino, pesquisa e extensão</h1></a>
+                                <p><img class="wp-image-26935 alignright" src="http://ararangua.paginas.ufsc.br/files/2026/11/1-1-240x300.png" alt="" width="316" height="395" srcset="https://ara.ufsc.br/files/2026/11/1-1-240x300.png 240w, https://ara.ufsc.br/files/2026/11/1-1-768x960.png 768w, https://ara.ufsc.br/files/2026/11/1-1-819x1024.png 819w, https://ara.ufsc.br/files/2026/11/1-1-80x100.png 80w, https://ara.ufsc.br/files/2026/11/1-1-160x200.png 160w, https://ara.ufsc.br/files/2026/11/1-1.png 1080w" sizes="(max-width: 316px) 100vw, 316px" />O Campus Araranguá da Universidade Federal de Santa Catarina (UFSC) inaugurou nesta quinta-feira, 12 de novembro de 2026, o Espaço de Inovação Pedagógica, localizado na sala A203 do Bloco A, na Unidade Jardim das Avenidas. O novo local foi criado com o intuito ampliar as formas de ensino e aprendizagem, reunindo tecnologias e novas metodologias para uso de toda a comunidade acadêmica.</p>
+<p>A criação da sala foi possível graças a recursos captados pelo projeto de Cooperação Técnica do Curso de Especialização em Tecnologias Digitais e Inovação Pedagógica na Educação Básica, com a participação do Laboratório de Experimentação Remota (RExLab). A reforma da sala contou com o apoio de alunos, servidores e da comunidade externa.</p>
+<p>A cerimônia de inauguração contou com a presença da diretora em exercício do Centro de Ciências, Tecnologias e Saúde (CTS), professora Josete Mazon; dos coordenadores do RExLab, professores Juarez Bento da Silva e Simone Meister Sommer Bilessimo; além de professores de cursos de graduação.</p>
+<p> <a title='Leia mais sobre Espaço de Inovação Pedagógica é inaugurado no Campus Araranguá para apoio às atividades de ensino, pesquisa e extensão' href="https://ara.ufsc.br/espaco-de-inovacao-pedagogica-e-inaugurado-no-campus-ararangua-para-apoio-as-atividades-de-ensino-pesquisa-e-extensao/?lang=pt#more-26931" class="more-link">Continue a leitura &raquo; &raquo;</a></p>            </li>
+            <hr/>
+
+                    <li id="post-26928" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/iv-novembro-negro-da-ufsc-campus-ararangua/?lang=pt"><h1>IV Novembro Negro da UFSC – Campus Araranguá</h1></a>
+                                <p>Entre os dias <strong>16 e 18 de novembro de 2026</strong>, a UFSC – Campus Araranguá realiza o <strong>IV Novembro Negro</strong>. Convidamos estudantes, docentes e servidoras e servidores técnico-admin<img class=" wp-image-26929 alignright" src="http://ararangua.paginas.ufsc.br/files/2026/11/CARTAZ-1_page-0001-212x300.jpg" alt="" width="336" height="476" srcset="https://ara.ufsc.br/files/2026/11/CARTAZ-1_page-0001-212x300.jpg 212w, https://ara.ufsc.br/files/2026/11/CARTAZ-1_page-0001-768x1085.jpg 768w, https://ara.ufsc.br/files/2026/11/CARTAZ-1_page-0001-725x1024.jpg 725w, https://ara.ufsc.br/files/2026/11/CARTAZ-1_page-0001-71x100.jpg 71w, https://ara.ufsc.br/files/2026/11/CARTAZ-1_page-0001-142x200.jpg 142w" sizes="(max-width: 336px) 100vw, 336px" />istrativos a participar das atividades e do debate sobre a responsabilidade da universidade pública no enfrentamento ao racismo e valorização do povo negro.</p>
+<p>O Novembro Negro nasce das lutas do movimento negro brasileiro pelo direito à memória, à educação e à participação na vida pública. Na universidade, essa luta nos chama a olhar para o nosso cotidiano: quem consegue ingressar e em que condições pode permanecer? Que histórias e conhecimentos ensinamos? Como a instituição responde quando alguém sofre racismo?</p>
+<p>As ações afirmativas ampliaram o acesso à universidade pública. Sustentar essa conquista exige políticas de permanência, o reconhecimento das contribuições negras, afro-brasileiras e africanas no ensino, na pesquisa e na extensão, e respostas institucionais diante da discriminação. Essa responsabilidade é de toda a universidade.</p>
+<p>Ao longo dos três dias, oficinas, mesas de debate, minicurso e apresentações culturais vão reunir diferentes experiências e saberes. A programação abre espaço para discutir ações afirmativas, saúde mental da população negra, educação antirracista e a presença negra e africana na UFSC.</p>
+<p>Confira nossa programação no Instagram: <a href="https://bit.ly/neabiufscara" target="_blank" rel="noopener noreferrer">https://bit.ly/neabiufscara</a></p>            </li>
+            <hr/>
+
+                    <li id="post-26909" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/prorrogada-a-apresentacao-da-defesa-de-memorial-do-professor-rogerio-gomes-de-oliveira-para-o-dia-24-de-novembro-as-14-horas/?lang=pt"><h1>Prorrogada a apresentação da Defesa de Memorial do Professor Rogério Gomes de Oliveira para o dia 24 de novembro às 14 horas</h1></a>
+                                <p><img class="alignright wp-image-26910" src="http://ararangua.paginas.ufsc.br/files/2026/11/memorial-rogerio-1.png" alt="" width="400" height="500" srcset="https://ara.ufsc.br/files/2026/11/memorial-rogerio-1.png 1080w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-1-240x300.png 240w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-1-768x960.png 768w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-1-819x1024.png 819w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-1-80x100.png 80w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-1-160x200.png 160w" sizes="(max-width: 400px) 100vw, 400px" />A Direção do Centro de Ciências, Tecnologias e Saúde (CTS) tem o prazer de convidar a Comunidade Universitária e demais interessados para a Apresentação e Defesa de Memorial de Atividades Acadêmicas (MAA) do professor Rogério Gomes de Oliveira, do Departamento de Energia e Sustentabilidade (EES/CTS), como parte dos requisitos para a promoção à classe D– Professor Titular da Carreira de Magistério Superior, nos termos da Resolução 114/CUn/2017, prorrogada para o dia 24 de novembro (terça-feira) às 14 horas, por meio de videoconferência online. A sessão será transmitida pelo canal do Youtube @ufsc.ara e poderá ser acessada através do link: <a href="http://www.youtube.com/@ufscara">www.youtube.com/@ufscara</a></p>
+<p>Comissão Avaliadora de Titulares:</p>
+<p>Marcia Barbosa Henriques Mantelli (UFSC) – Titular Interno e Presidente<br />
+Paulo Smith Schneider (UFRGS) – Titular Externo<br />
+Luís Mauro Moura (PUC-PR) – Titular Externo<br />
+Antonio Gilson Barbosa de Lima (UFCG) &#8211; Titular Externo<br />
+Werther Alexandre de Oliveira Serralheiro (IFSC) &#8211; Suplente Externo<br />
+Anderson Luiz Fernandes Perez (UFSC) &#8211; Suplente Interno</p>            </li>
+            <hr/>
+
+                    <li id="post-26904" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/convite-inauguracao-do-espaco-de-inovacao-pedagogica/?lang=pt"><h1>CONVITE: Inauguração do Espaço de Inovação Pedagógica</h1></a>
+                                <p><img class="aligncenter wp-image-26905 size-large" src="http://ararangua.paginas.ufsc.br/files/2026/11/Inauguração-EIP-845x597.png" alt="" width="845" height="597" srcset="https://ara.ufsc.br/files/2026/11/Inauguração-EIP-845x597.png 845w, https://ara.ufsc.br/files/2026/11/Inauguração-EIP-300x212.png 300w, https://ara.ufsc.br/files/2026/11/Inauguração-EIP-768x543.png 768w, https://ara.ufsc.br/files/2026/11/Inauguração-EIP-100x71.png 100w, https://ara.ufsc.br/files/2026/11/Inauguração-EIP-200x141.png 200w" sizes="(max-width: 845px) 100vw, 845px" /></p>            </li>
+            <hr/>
+
+                    <li id="post-26876" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/o-campus-ararangua-sediara-a-16a-edicao-do-complexity-of-water-life-and-climate-changes-entre-os-dias-11-e-13-de-dezembro/?lang=pt"><h1>O Campus Araranguá sediará a 16ª edição do Complexity of Water, Life and Climate Changes entre os dias 11 e 13 de dezembro</h1></a>
+                                <p><img class="alignright wp-image-26877" src="http://ararangua.paginas.ufsc.br/files/2026/11/f30fc468-4adb-430f-898f-72c7e23b9e25-1.jpeg" alt="" width="400" height="228" srcset="https://ara.ufsc.br/files/2026/11/f30fc468-4adb-430f-898f-72c7e23b9e25-1.jpeg 1600w, https://ara.ufsc.br/files/2026/11/f30fc468-4adb-430f-898f-72c7e23b9e25-1-300x171.jpeg 300w, https://ara.ufsc.br/files/2026/11/f30fc468-4adb-430f-898f-72c7e23b9e25-1-768x438.jpeg 768w, https://ara.ufsc.br/files/2026/11/f30fc468-4adb-430f-898f-72c7e23b9e25-1-845x482.jpeg 845w, https://ara.ufsc.br/files/2026/11/f30fc468-4adb-430f-898f-72c7e23b9e25-1-100x57.jpeg 100w, https://ara.ufsc.br/files/2026/11/f30fc468-4adb-430f-898f-72c7e23b9e25-1-200x114.jpeg 200w" sizes="(max-width: 400px) 100vw, 400px" />A Universidade Federal de Santa Catarina Campus Araranguá sediará a 16ª edição do Workshop in Complexity of Water, Life and Climate Changes entre os dias 11 e 13 de dezembro de 2026.<br />
+O período de inscrições estará aberto até 20 de novembro de 2026 através do link: <a href="https://docs.google.com/forms/d/e/1FAIpQLScL_bMDM7DRfVwrJpcUyT0QU-MPBr1uvLlJDk6gx-pFquvNfQ/viewform">Clique aqui</a></p>
+<p>O evento tem como objetivo promover o intercâmbio científico e fortalecer colaborações entre pesquisadores de diferentes áreas, conectando estudos sobre água, matéria mole e sistemas biológicos aos desafios ambientais e climáticos contemporâneos. Esta edição dará destaque à simulação molecular, aos estudos teóricos e à caracterização avançada de sistemas aquosos e materiais nanoestruturados, abordando também temas como qualidade ambiental, resiliência climática e segurança hídrica e alimentar.</p>
+<p>A programação contará com palestras, apresentações de trabalhos científicos, sessões de pôsteres e mesa-redonda, reunindo pesquisadores, estudantes e profissionais das áreas de Física, Química, Ciência dos Materiais, Biologia e Ciências Ambientais.</p>
+<p>Para demais informações, acesse: <a href="https://wp.ufpel.edu.br/water/">https://wp.ufpel.edu.br/water/</a></p>            </li>
+            <hr/>
+
+                    <li id="post-26869" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/convite-para-apresentacao-e-defesa-de-memorial-de-atividades-academicas-do-professor-eugenio-simao/?lang=pt"><h1>Convite para a Defesa de Tese para Promoção Funcional do Professor Eugênio Simão</h1></a>
+                                <p><img class="wp-image-26873 alignright" src="http://ararangua.paginas.ufsc.br/files/2026/11/memorial-rogerio-240x300.png" alt="" width="369" height="462" srcset="https://ara.ufsc.br/files/2026/11/memorial-rogerio-240x300.png 240w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-768x960.png 768w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-819x1024.png 819w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-80x100.png 80w, https://ara.ufsc.br/files/2026/11/memorial-rogerio-160x200.png 160w, https://ara.ufsc.br/files/2026/11/memorial-rogerio.png 1080w" sizes="(max-width: 369px) 100vw, 369px" />A Direção do Centro de Ciências, Tecnologias e Saúde (CTS) tem o prazer de convidar a Comunidade Universitária e demais interessados para a Defesa de Tese para Promoção Funcional do professor Eugênio Simão, do Departamento de Computação (DEC/CTS), como parte dos requisitos para a promoção à classe D– Professor Titular da Carreira de Magistério Superior, nos termos da Resolução 114/CUn/2017, a realizar-se na sexta-feira, dia 04 de dezembro de 2026, às 13h30 horas, por meio de videoconferência online.</p>
+<p>A sessão será transmitida pelo canal do Youtube @ufsc.ara e poderá ser acessada através do link: <a href="http://www.youtube.com/@ufscara">www.youtube.com/@ufscara</a></p>
+<p>Comissão Avaliadora de Titulares:</p>
+<p>Max Hering de Queiroz (UFSC) – Titular Interno e Presidente<br />
+Luciane Maria Pereira Pessaglia (UFRGS) – Titular Externo<br />
+Álvaro Freitas Moreira (UFRGS) – Titular Externo<br />
+Paulo Romero Martins Maciel (UFPE) &#8211; Titular Externo<br />
+Fernando Junges (Unipampa) &#8211; Suplente Externo<br />
+Giovani Mendonça Lunardi (UFSC) &#8211; Suplente Interno</p>            </li>
+            <hr/>
+
+                    <li id="post-26866" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/a-11a-edicao-do-experimenta-na-ufsc-ararangua-ocorrera-neste-dia-06-de-novembro/?lang=pt"><h1>A 11ª Edição do Experimenta na UFSC Araranguá ocorrerá neste dia 06 de novembro</h1></a>
+                                <p><img class="alignright wp-image-26867" src="http://ararangua.paginas.ufsc.br/files/2026/11/UFSC-ARARANGUÁ-3.jpg" alt="" width="400" height="500" srcset="https://ara.ufsc.br/files/2026/11/UFSC-ARARANGUÁ-3.jpg 1080w, https://ara.ufsc.br/files/2026/11/UFSC-ARARANGUÁ-3-240x300.jpg 240w, https://ara.ufsc.br/files/2026/11/UFSC-ARARANGUÁ-3-768x960.jpg 768w, https://ara.ufsc.br/files/2026/11/UFSC-ARARANGUÁ-3-819x1024.jpg 819w, https://ara.ufsc.br/files/2026/11/UFSC-ARARANGUÁ-3-80x100.jpg 80w, https://ara.ufsc.br/files/2026/11/UFSC-ARARANGUÁ-3-160x200.jpg 160w" sizes="(max-width: 400px) 100vw, 400px" />A 11ª Edição do Experimenta &#8220;Mosaico das Artes&#8221; da Universidade Federal de Santa Catarina Campus Araranguá ocorrerá no dia 06 de novembro de 2026 na Unidade Jardim das Avenidas.<br />
+O evento contará com duas iniciativas culturais distintas, a fim de integrar a comunidade acadêmica com o Experimenta.</p>
+<p>Confira a programação:</p>
+<p>SustentabiliaARTE: oficina de escrita criativa e sarau cultural<br />
+Das 10 às 12h &#8211; Sala Geovani Fiuza &#8211; Bloco A<br />
+Orientação/Mediação: Profª Kátia Madruga e Jhessie Milena (bolsista de extensão)</p>
+<p>Apresentação: Movimentos, danças e corpos<br />
+10h &#8211; Hall de entrada do Bloco A<br />
+Responsável: Vitor Giongo</p>            </li>
+            <hr/>
+
+                    <li id="post-26851" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/ufsc-ararangua-promove-acao-de-conscientizacao-sobre-prevencao-e-cuidado-com-o-diabetes/?lang=pt"><h1>UFSC Araranguá promove ação de conscientização sobre prevenção e cuidado com o diabetes</h1></a>
+                                <p>A U<img class="alignright wp-image-26852" src="http://ararangua.paginas.ufsc.br/files/2026/11/WhatsApp-Image-2026-11-02-at-17.53.36.jpeg" alt="" width="450" height="563" srcset="https://ara.ufsc.br/files/2026/11/WhatsApp-Image-2026-11-02-at-17.53.36.jpeg 800w, https://ara.ufsc.br/files/2026/11/WhatsApp-Image-2026-11-02-at-17.53.36-240x300.jpeg 240w, https://ara.ufsc.br/files/2026/11/WhatsApp-Image-2026-11-02-at-17.53.36-768x960.jpeg 768w, https://ara.ufsc.br/files/2026/11/WhatsApp-Image-2026-11-02-at-17.53.36-80x100.jpeg 80w, https://ara.ufsc.br/files/2026/11/WhatsApp-Image-2026-11-02-at-17.53.36-160x200.jpeg 160w" sizes="(max-width: 450px) 100vw, 450px" />niversidade Federal de Santa Catarina – Campus Araranguá realizará no dia 9 de novembro (segunda-feira), das 8h às 16h, uma ação de conscientização em alusão à campanha <strong>Novembro Diabetes Azul</strong>. A atividade será aberta à comunidade e ocorrerá no hall da UFSC Araranguá.</p>
+<p>Em 2026, a campanha promovida pela Sociedade Brasileira de Diabetes traz como mensagem <strong>“Agir cedo. O cuidado muda o futuro”</strong>, reforçando a importância da informação, da identificação dos fatores de risco, do diagnóstico precoce e do acesso ao tratamento e ao acompanhamento contínuo das pessoas com diabetes.</p>
+<p>A iniciativa busca aproximar a Universidade da comunidade, promovendo a educação em saúde e incentivando atitudes de prevenção e cuidado. A ação também pretende sensibilizar os participantes sobre a importância de conhecer os fatores de risco para o desenvolvimento do diabetes e de buscar orientação e acompanhamento nos serviços de saúde.</p>
+<p>A ação contará com atividades de rastreamento do risco para diabetes, por meio da aplicação de questionário específico e da verificação da glicemia capilar.</p>
+<p>Venha participar e cuidar da sua saúde!</p>
+<p>📅 Segunda-feira, 09 de novembro<br />
+🕗 Das 8h às 16h<br />
+📍 Hall da UFSC Araranguá</p>
+<p><a href="https://www.instagram.com/p/DfQOGTYMj8C/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/p/DfQOGTYMj8C/</a></p>            </li>
+            <hr/>
+
+                    <li id="post-26820" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/convite-2o-congresso-de-ligas-academicas-cirurgicas-colac/?lang=pt"><h1>CONVITE: 2º Congresso de Ligas Acadêmicas Cirúrgicas (COLAC)</h1></a>
+                                <div class="elementToProof">
+<p><img class="alignright wp-image-26821" src="http://ararangua.paginas.ufsc.br/files/2026/10/Publicação-1.jpeg" alt="" width="400" height="500" srcset="https://ara.ufsc.br/files/2026/10/Publicação-1.jpeg 1087w, https://ara.ufsc.br/files/2026/10/Publicação-1-240x300.jpeg 240w, https://ara.ufsc.br/files/2026/10/Publicação-1-768x960.jpeg 768w, https://ara.ufsc.br/files/2026/10/Publicação-1-819x1024.jpeg 819w, https://ara.ufsc.br/files/2026/10/Publicação-1-80x100.jpeg 80w, https://ara.ufsc.br/files/2026/10/Publicação-1-160x200.jpeg 160w" sizes="(max-width: 400px) 100vw, 400px" />Nos dias 31 de outubro e 1º de novembro, Araranguá/SC será palco de um evento pensado para estudantes e profissionais que buscam aprofundar seus conhecimentos em Cirurgia, trocar experiências e fortalecer a integração entre as Ligas Acadêmicas.</p>
+<p>&nbsp;</p>
+<p>Será uma oportunidade única de participar de palestras, discussões científicas, networking e muito aprendizado ao lado de grandes nomes da área.</p>
+<p>&nbsp;</p>
+<p>📍 Local: Centro Multiuso – Araranguá/SC<br />
+📅 Data: 31/10 e 01/11</p>
+<p>&nbsp;</p>
+<p>O 2º COLAC está preparando uma experiência repleta de conhecimento, atualização científica e troca de experiências com profissionais de referência na área cirúrgica.<br />
+Contará com uma programação pensada para enriquecer a formação acadêmica, ampliar perspectivas e aproximar os estudantes da prática médica.<br />
+<br /> <a title='Leia mais sobre CONVITE: 2º Congresso de Ligas Acadêmicas Cirúrgicas (COLAC)' href="https://ara.ufsc.br/convite-2o-congresso-de-ligas-academicas-cirurgicas-colac/?lang=pt#more-26820" class="more-link">Continue a leitura &raquo; &raquo;</a></div>            </li>
+            <hr/>
+
+                    <li id="post-26799" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/ponto-facultativo-do-dia-do-servidor-publico-federal/?lang=pt"><h1>Ponto Facultativo do Dia do Servidor Público Federal</h1></a>
+                                <p><img class="alignright wp-image-26800" src="http://ararangua.paginas.ufsc.br/files/2026/10/PONTO-FAC-28.png" alt="" width="400" height="500" />A Reitoria da Universidade Federal de Santa Catarina emitiu ofício informando que transferiu o ponto facultativo do Dia do Servidor Público Federal (28 de outubro) para a sexta-feira, 30 de outubro de 2026:</p>
+<p>OFÍCIO CIRCULAR Nº 33/2026/GR<br />
+Florianópolis, 27 de outubro de 2026.</p>
+<p>À Comunidade Universitária</p>
+<p>1. Informamos à Comunidade Universitária que, por meio da Portaria MGI Nº 8.821, de 26 de outubro de 2026, publicada no DOU nº 203, desta terça-feira, 27 de outubro de 2026, o Ministério da Gestão e da Inovação em Serviços Públicos (MGI) transferiu o ponto facultativo do Dia do Servidor Público Federal (28 de outubro) para a sexta-feira, 30 de outubro de 2026.<br />
+2. Em decorrência desta determinação, <span style="text-decoration: underline">fica transferido</span>, na UFSC, o ponto facultativo para a <strong>sexta-feira, dia 30 de outubro de 2026</strong>.<br />
+3. Não obstante, dada a temporalidade da decisão, orienta-se que as atividades acadêmicas e administrativas já planejadas para a sexta-feira, 30 de outubro, em caráter excepcional, poderão ocorrer conforme previstas desde que haja a concordância de todas as partes envolvidas. Caberá aos responsáveis garantir os meios para que a atividade seja realizada.<br />
+4. O ponto facultativo do Dia do Servidor Público Federal faz parte do calendário de feriados nacionais e pontos facultativos de 2026, estabelecido pela Portaria MGI nº 11.460/2025.</p>            </li>
+            <hr/>
+
+                    <li id="post-26781" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/convite-para-apresentacao-e-defesa-de-memorial-de-atividades-academicas-do-professor-juarez-bento-da-silva/?lang=pt"><h1>Convite para apresentação e Defesa de Memorial de Atividades Acadêmicas do Professor Juarez Bento da Silva</h1></a>
+                                <p><img class="alignright wp-image-26782" src="http://ararangua.paginas.ufsc.br/files/2026/10/DEFESA-JUAREZ.jpg" alt="" width="400" height="500" srcset="https://ara.ufsc.br/files/2026/10/DEFESA-JUAREZ.jpg 1080w, https://ara.ufsc.br/files/2026/10/DEFESA-JUAREZ-240x300.jpg 240w, https://ara.ufsc.br/files/2026/10/DEFESA-JUAREZ-768x960.jpg 768w, https://ara.ufsc.br/files/2026/10/DEFESA-JUAREZ-819x1024.jpg 819w, https://ara.ufsc.br/files/2026/10/DEFESA-JUAREZ-80x100.jpg 80w, https://ara.ufsc.br/files/2026/10/DEFESA-JUAREZ-160x200.jpg 160w" sizes="(max-width: 400px) 100vw, 400px" />A Direção do Centro de Ciências, Tecnologias e Saúde (CTS) tem o prazer de convidar a Comunidade Universitária e demais interessados para a Apresentação e Defesa de Memorial de Atividades Acadêmicas (MAA) do professor Juarez Bento da Silva da Coordenadoria em Tecnologias da Informação e Comunicação (CIT), como parte dos requisitos para a promoção à classe D– Professor Titular da Carreira de Magistério Superior, nos termos da Resolução 114/CUn/2017, a realizar-se na terça-feira, dia 27 de outubro de 2026, às 13h30, transmitida pelo canal do YouTube com a Comissão Avaliadora abaixo, designada pela portaria 192/CTS/ARA/2026.</p>
+<p>A sessão será transmitida pelo canal do Youtube @ufsc.ara e poderá ser acessada através do link: <a href="http://www.youtube.com/@ufscara">www.youtube.com/@ufscara</a></p>
+<p>Comissão Avaliadora de Titulares:</p>
+<p>&#8211; Gertrudes Aparecida Dandolini (UFSC) &#8211; Titular Interno &#8211; presidente<br />
+&#8211; Carlos Takiya (UESB) &#8211; Titular Externo<br />
+&#8211; Geovana Mendonça Lunardi Mendes (UDESC) &#8211; Titular Externo<br />
+&#8211; Ubiratan Holanda Bezerra (IFBA) &#8211; Titular Externo<br />
+&#8211; Walmir Belinato (UFSC) &#8211; Suplente Externo<br />
+&#8211; Mauricio Girardi (UFSC) &#8211; Suplente Interno</p>            </li>
+            <hr/>
+
+                    <li id="post-26774" class="clearfix">
+                <a class="post_title" href="https://ara.ufsc.br/edital-aberto-para-transferencias-e-retornos-2027-1/?lang=pt"><h1>Edital aberto para Transferências e Retornos 2027.1</h1></a>
+                                <p><img class="wp-image-26778  alignright" src="http://ararangua.paginas.ufsc.br/files/2026/10/TRANSFERÊNCIAS-E-RETORNOS-2026-1-240x300.png" alt="" width="357" height="447" srcset="https://ara.ufsc.br/files/2026/10/TRANSFERÊNCIAS-E-RETORNOS-2026-1-240x300.png 240w, https://ara.ufsc.br/files/2026/10/TRANSFERÊNCIAS-E-RETORNOS-2026-1-768x960.png 768w, https://ara.ufsc.br/files/2026/10/TRANSFERÊNCIAS-E-RETORNOS-2026-1-819x1024.png 819w, https://ara.ufsc.br/files/2026/10/TRANSFERÊNCIAS-E-RETORNOS-2026-1-80x100.png 80w, https://ara.ufsc.br/files/2026/10/TRANSFERÊNCIAS-E-RETORNOS-2026-1-160x200.png 160w, https://ara.ufsc.br/files/2026/10/TRANSFERÊNCIAS-E-RETORNOS-2026-1.png 1080w" sizes="(max-width: 357px) 100vw, 357px" /></p>
+<p>O Departamento de Administração Escolar da Universidade Federal de Santa Catarina (UFSC) lançou o edital de mais uma modalidade de ingresso na universidade pública e gratuita: o processo de transferências e retorno de graduados. São disponibilizadas vagas para cursos de graduação presenciais e a distância, com resultado final previsto para ser divulgado no dia 9 de dezembro. Os documentos, orientações e o quadro completo de vagas para quem quiser participar estão disponíveis na página oficial do DAE.</p>
+<p>As inscrições poderão ser realizadas de 22 a 30 de outubro de 2026, e ocorrerão de maneira não presencial, através do portal <a href="https://cagr.sistemas.ufsc.br/calouros">cagr.sistemas.ufsc.br/calouros</a>, mediante o preenchimento dos dados obrigatórios e o envio da documentação exigida de forma digitalizada e legível.</p>
+<p>Os interessados somente poderão requerer vaga para um único curso e inciso em um mesmo semestre. No caso de existirem requerimentos para mais de um curso ou em um único curso para incisos diferentes, o candidato será desclassificado do processo seletivo de transferências e retornos.</p>
+<p> <a title='Leia mais sobre Edital aberto para Transferências e Retornos 2027.1' href="https://ara.ufsc.br/edital-aberto-para-transferencias-e-retornos-2027-1/?lang=pt#more-26774" class="more-link">Continue a leitura &raquo; &raquo;</a></p>            </li>
+            <hr/>
+
+                    </ul>
+        </div>
+        <div id="navigation">
+            <div class="alignleft"><a href="https://ara.ufsc.br/page/2/?lang=pt"  id='next-page' >&laquo; Anteriores</a></div>
+            <div class="alignright"></div>
+        </div>
+    </div>
+
+    <div id="sidebar_right">
+<div id="text-21" class="widget widget_text">			<div class="textwidget"><a href="https://ara.ufsc.br/agora-mei-pode-prestar-servicos-para-a-ufsc-ararangua-de-maneira-mais-rapida-facil-e-menos-burocracia"><img src="http://ararangua.paginas.ufsc.br/files/2026/03/ContrataBrasil.jpg" width="235" height="159"></a></div>
+		</div><div id="nav_menu-46" class="widget widget_nav_menu"><h2>Acesso Rápido</h2><div class="pagenav"><ul id="menu--acesso-rapido" class="menu"><li id="menu-item-22229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22229"><a  href="https://ara.ufsc.br/ararangua/gestao/?lang=pt">Gestão</a></li>
+<li id="menu-item-24368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24368"><a  href="https://ara.ufsc.br/acoes/?lang=pt">Ações para a comunidade</a></li>
+<li id="menu-item-24360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24360"><a  href="https://ara.ufsc.br/ru/?lang=pt">Restaurante Universitário</a></li>
+<li id="menu-item-24359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24359"><a  href="https://ara.ufsc.br/transparencia/?lang=pt">Transparência</a></li>
+<li id="menu-item-24388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24388"><a  href="https://ara.ufsc.br/cts/professores-e-horarios-de-atendimento/?lang=pt">Horários de Atendimento dos Professores</a></li>
+<li id="menu-item-24351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24351"><a  href="https://ara.ufsc.br/consultas-publicas-e-eleicoes/?lang=pt">Consultas públicas e eleições</a></li>
+<li id="menu-item-24352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24352"><a  href="https://ara.ufsc.br/concursos-e-processos-seletivos/?lang=pt">Concursos e processos seletivos</a></li>
+<li id="menu-item-26668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26668"><a  href="https://ara.ufsc.br/internacionalizacao/?lang=pt">Internacionalização</a></li>
+<li id="menu-item-20370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20370"><a  href="https://telefones.ufsc.br/public/">Ramais da UFSC</a></li>
+<li id="menu-item-18167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18167"><a  href="https://ara.ufsc.br/cts/secretarias-integradas/?lang=pt">Secretarias Integradas</a></li>
+<li id="menu-item-18170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18170"><a  href="https://ara.ufsc.br/o-campus/tecnicos-administrativos/?lang=pt">Técnicos Administrativos</a></li>
+<li id="menu-item-22573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22573"><a  href="https://sistemasara.sites.ufsc.br/sppen/web/login.php">Sistema Integrado de Gestão Acadêmica do Campus</a></li>
+<li id="menu-item-20371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20371"><a  href="https://ararangua.paginas.ufsc.br/files/2018/02/Conex%C3%A3o-do-projetor-via-wireless-reduzido__NOVO.pdf">Tutorial projetores</a></li>
+<li id="menu-item-20464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20464"><a  href="https://servicosti.sistemas.ufsc.br/">Serviços SETIC</a></li>
+</ul></div></div><div id="text-19" class="widget widget_text">			<div class="textwidget"><a href="https://acolhe.ufsc.br/"><img src="http://ararangua.paginas.ufsc.br/files/2026/04/Saúde-Mental-no-Campus-1.png" width="230" height="64"></a>
+<a href="https://ararangua.ufsc.br/ru/"><img src="http://ararangua.paginas.ufsc.br/files/2024/07/ufsc_restaurante_universitario.jpg" width="300" height="84"></a>
+<a href="https://dae.ufsc.br/editais-de-transferencias-e-retornos/"><img src="http://ararangua.paginas.ufsc.br/files/2024/07/ufsc_tranferencias_retornos.jpg" width="300" height="84"></a>
+<a href="https://www.instagram.com/visitasguiadas.ufscara"><img class="centered image" src="http://ararangua.paginas.ufsc.br/files/2025/02/banner-lateralVSITA.png"></a>
+<a href="https://www.instagram.com/cursinhopes"><img class="centered image" src="http://ararangua.paginas.ufsc.br/files/2025/02/banner-PES.png"></a></div>
+		</div><div id="nav_menu-48" class="widget widget_nav_menu"><h2>Portal de Atendimento</h2><div class="pagenav"><ul id="menu--portal-de-atendimento" class="menu"><li id="menu-item-19028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19028"><a  href="http://chamados.setic.ufsc.br/">Chamados TI &#8211; com IDUFSC</a></li>
+<li id="menu-item-19029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19029"><a  href="http://atendimento.setic.ufsc.br/">Chamados TI- sem IDUFSC</a></li>
+<li id="menu-item-19025" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19025"><a  href="https://sistemas.ufsc.br/login?service=https://atendimento.ufsc.br/otrs/customer.pl?Action=NewTicketWizard;QueueID=167">Chamados SAD (Portarias com CH, insalubridade&#8230;)</a></li>
+<li id="menu-item-19030" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19030"><a  href="http://atendimento.infraestrutura.ararangua.ufsc.br/">Chamados Infraestrutura &#8211; com IDUFSC</a></li>
+<li id="menu-item-19031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19031"><a  href="https://atendimento.ufsc.br/otrs/public.pl?Action=NewTicketWizardPublic;QueueID=148">Chamados Infraestrutura &#8211; sem IDUFSC</a></li>
+<li id="menu-item-22377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22377"><a  href="https://ara.ufsc.br/cts/pai-portal-de-atendimento-institucional-da-ufsc-ararangua/?lang=pt">Acesse todos os chamados</a></li>
+</ul></div></div><div id="ai1ec_agenda_widget-2" class="widget widget_ai1ec_agenda_widget">
+
+	<h2>Eventos futuros</h2>
+
+<style>
+<!--
+
+-->
+</style>
+<div class="timely ai1ec-agenda-widget-view ai1ec-clearfix">
+
+			<div>
+													<div class="ai1ec-date
+					">
+					<a class="ai1ec-date-title ai1ec-load-view"
+						href="https&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;calendario-eventos-ufsc-ara&#x2F;&#x3F;lang&#x3D;pt">
+						<div class="ai1ec-month">Dec</div>
+						<div class="ai1ec-day">18</div>
+						<div class="ai1ec-weekday">Fri</div>
+													<div class="ai1ec-year">2026</div>
+											</a>
+					<div class="ai1ec-date-events">
+													 																					<div class="ai1ec-event
+									ai1ec-event-id-24354
+									ai1ec-event-instance-id-6009
+									">
+
+									<a href="https&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;event&#x2F;colacao-de-grau-202602&#x2F;&#x3F;instance_id&#x3D;6009"
+										class="ai1ec-popup-trigger ai1ec-load-event">
+																					<span class="ai1ec-event-time">
+												19:00
+											</span>
+										
+										<span class="ai1ec-event-title">
+											Cola&ccedil;&atilde;o de Grau 2026/02
+																							<span class="ai1ec-event-location"
+													>@Multiuso</span>
+																					</span>
+									</a>
+
+									<div class="ai1ec-popover ai1ec-popup 
+	ai1ec-event-instance-id-6009">
+
+		
+	<span class="ai1ec-popup-title">
+		<a href="https&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;event&#x2F;colacao-de-grau-202602&#x2F;&#x3F;instance_id&#x3D;6009"
+		   class="ai1ec-load-event"
+			>Cola&ccedil;&atilde;o de Grau 2026/02</a>
+					<span class="ai1ec-event-location"
+				>@Multiuso</span>
+					</span>
+
+	
+	<div class="ai1ec-event-time">
+					Dec 18@19:00 – 21:30
+			</div>
+
+	
+			<div class="ai1ec-popup-excerpt">Curso de Medicina</div>
+	
+</div>
+
+								</div>
+							 						 					</div>
+				</div>
+			 		</div>
+	 
+			<div class="ai1ec-subscribe-buttons-widget">
+							<a class="ai1ec-btn ai1ec-btn-default ai1ec-btn-xs ai1ec-pull-right
+					ai1ec-calendar-link"
+					href="https&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;calendario-eventos-ufsc-ara&#x2F;&#x3F;lang&#x3D;pt">
+					Ver calendário
+					<i class="ai1ec-fa ai1ec-fa-arrow-right"></i>
+				</a>
+			
+							<div class="ai1ec-subscribe-dropdown ai1ec-dropdown ai1ec-btn
+	ai1ec-btn-default ai1ec-btn-xs">
+	<span role="button" class="ai1ec-dropdown-toggle ai1ec-subscribe"
+			data-toggle="ai1ec-dropdown">
+		<i class="ai1ec-fa ai1ec-icon-rss ai1ec-fa-lg ai1ec-fa-fw"></i>
+		<span class="ai1ec-hidden-xs">
+							Adicionar
+						<span class="ai1ec-caret"></span>
+		</span>
+	</span>
+			<ul class="ai1ec-dropdown-menu ai1ec-pull-left" role="menu">
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto" target="_blank"
+				data-placement="right" title="Copie esta URL para o seu próprio calendário Timely ou clique para adicionar ao seu calendário dinâmico"
+				href="http&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events">
+				<i class="ai1ec-fa ai1ec-fa-lg ai1ec-fa-fw ai1ec-icon-timely"></i>
+				Adicione ao Calendário Timely
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto" target="_blank"
+			  data-placement="right" title="Adicione este calendário ao seu Calendário Google"
+			  href="https://www.google.com/calendar/render?cid=http&#x25;3A&#x25;2F&#x25;2Fara.ufsc.br&#x25;2F&#x25;3Fplugin&#x25;3Dall-in-one-event-calendar&#x25;26controller&#x25;3Dai1ec_exporter_controller&#x25;26action&#x25;3Dexport_events&#x25;26no_html&#x25;3Dtrue&#x25;26&#x25;26">
+				<i class="ai1ec-fa ai1ec-icon-google ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Adicione ao Google
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto" target="_blank"
+			  data-placement="right" title="Adicione este calendário ao MS Outlook"
+			  href="webcal&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true">
+				<i class="ai1ec-fa ai1ec-icon-windows ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Adicione ao Outlook
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto" target="_blank"
+			  data-placement="right" title="Adicione este calendário no calendário Apple/iCal"
+			  href="webcal&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true">
+				<i class="ai1ec-fa ai1ec-icon-apple ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Adicione ao calendário Apple
+			</a>
+		</li>
+		<li>
+						<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			  data-placement="right" title="Assinar este calendário em outro calendário de texto simples"
+			  href="http&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&amp;no_html&#x3D;true">
+				<i class="ai1ec-fa ai1ec-icon-calendar ai1ec-fa-fw"></i>
+				Adicione a outro calendário
+			</a>
+		</li>
+		<li>
+			<a class="ai1ec-tooltip-trigger ai1ec-tooltip-auto"
+			  data-placement="right" title=""
+			  href="http&#x3A;&#x2F;&#x2F;ara.ufsc.br&#x2F;&#x3F;plugin&#x3D;all-in-one-event-calendar&amp;controller&#x3D;ai1ec_exporter_controller&amp;action&#x3D;export_events&xml=true">
+				<i class="ai1ec-fa ai1ec-fa-file-text ai1ec-fa-lg ai1ec-fa-fw"></i>
+				Export to XML
+			</a>
+		</li>
+	</ul>
+</div>
+
+					</div>
+	 
+</div>
+
+
+
+</div><div id="text-20" class="widget widget_text">			<div class="textwidget"><p><a href="https://ara.ufsc.br/acoes/"><P>CLIQUE E CONHEÇA AS AÇÕES PARA A COMUNIDADE</P></a></p>
+<div class="h5p-iframe-wrapper"><iframe id="h5p-iframe-1" class="h5p-iframe" data-content-id="1" style="height:1px" src="about:blank" frameBorder="0" scrolling="no"></iframe></div>
+</div>
+		</div><div id="text-18" class="widget widget_text"><h2>Endereços</h2>			<div class="textwidget"><h5 style="color:#0F4098"><strong>Unidade Jardim das Avenidas Graduação, Pós-Graduação e Administrativo</strong></h5>
+<p>Rod. Gov. Jorge Lacerda, 3201&nbsp;<br /> Jardim das Avenidas &ndash; Ararangu&aacute; &ndash; SC - CEP: 88.906-072</p>
+<p><a href="https://goo.gl/maps/VpEyLBJAgQw" target="_blank">Como chegar?</a></p>
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+<h5 style="color:#0F4098"><strong>Unidade&nbsp;Mato Alto - Pesquisa e Extensão</strong></h5>
+<p>Rua Pedro Jo&atilde;o Pereira, n&ordm; 150 <br />Mato Alto &ndash; Ararangu&aacute; &ndash; SC<br />CEP: 88.905-120</p>
+<p><a href="https://goo.gl/maps/5UD5aa1gcVr" target="_blank">Como chegar?</a></p>
+<p>&nbsp;</p>
+
+<p></p></div>
+		</div>    <ul id='pu-contatos' class="last">
+        <li><h2>Contatos</h2>
+            <p>
+                <b>Recepção e Informações:</b><br />
+(48) 3721-6255<br />
+<br />
+<b>E-mail institucional:</b> comunicacao.ara@contato.ufsc.br            </p>
+        </li>
+    </ul>
+
+</div>
+
+    </section>
+
+<footer id="footer" class="clearfix" name="footer">
+    <section id="rodape">
+        <script defer="defer" src="//barra.brasil.gov.br/barra.js" type="text/javascript"></script>
+        <div id="footer_links" class="grid clearfix" name="footer_links">
+                    <div id="sponsors">
+                        <dl>
+                    <dt>
+                        <a href="" target="_blank">
+                            <img src="https://ara.ufsc.br/files/2024/03/cropped-GRADUACAO.png" alt=""/>
+                        </a>
+                        <span></span>
+                    </dt>
+                </dl>
+                        <dl>
+                    <dt>
+                        <a href="" target="_blank">
+                            <img src="https://ara.ufsc.br/files/patrocinios/patrocinio_50bf4388889025.44293582.jpg" alt=""/>
+                        </a>
+                        <span></span>
+                    </dt>
+                </dl>
+                        <dl>
+                    <dt>
+                        <a href="" target="_blank">
+                            <img src="https://ara.ufsc.br/files/patrocinios/patrocinio_58de4bc30da2d9.32144416.png" alt=""/>
+                        </a>
+                        <span></span>
+                    </dt>
+                </dl>
+                        <dl>
+                    <dt>
+                        <a href="" target="_blank">
+                            <img src="https://ara.ufsc.br/files/2024/03/cropped-GRADUACAO-1-150x60.png" alt=""/>
+                        </a>
+                        <span></span>
+                    </dt>
+                </dl>
+                </div>
+                </div>
+        <div id="footer-brasil"></div>
+    </section>
+</footer>
+
+<div class="extra-footer">
+    <ul>
+        <li> Desenvolvido com o CMS de código aberto <a href="https://br.wordpress.org/.org">Wordpress</a></li>
+        <li class="last-update">Última atualização do site foi em 23 de November 2026 - 16:43:26</li>
+    </ul>
+</div>
+
+<!-- Google tag (gtag.js) -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-2LJ98VTMN0'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2LJ98VTMN0');
+</script>
+
+<script src='https://google-analytics.com/ga.js'></script>
+<script type='text/javascript'>
+var pageTracker2 = _gat._getTracker('UA-128680485-1');
+pageTracker2._initData();
+pageTracker2._trackPageview();
+</script><div id=bandeirinhas style="float: left; padding-right: 1%;" class=bandeirolas >
+<ul class="language-chooser language-chooser-image qtranxs_language_chooser" id="qtranslate-chooser">
+<li class="lang-pt active"><a href="https://ara.ufsc.br/?lang=pt" hreflang="pt" title="Português (pt)" class="qtranxs_image qtranxs_image_pt"><img src="https://ararangua.paginas.ufsc.br/wp-content/plugins/qtranslate-x/flags/br.png" alt="Português (pt)" /><span style="display:none">Português</span></a></li>
+<li class="lang-en"><a href="https://ara.ufsc.br/?lang=en" hreflang="en" title="English (en)" class="qtranxs_image qtranxs_image_en"><img src="https://ararangua.paginas.ufsc.br/wp-content/plugins/qtranslate-x/flags/gb.png" alt="English (en)" /><span style="display:none">English</span></a></li>
+</ul><div class="qtranxs_widget_end"></div>
+</div><script type='text/javascript'>
+            jQuery('#topbar').prepend(jQuery('#bandeirinhas'));
+            jQuery('#bandeirinhas > ul > li').css('margin','5px 0 0 5px');
+            </script><div style="clear:both;width:100%;text-align:center; font-size:11px; "><a target="_blank" title="Facebook Auto Publish" href="http://xyzscripts.com/wordpress-plugins/facebook-auto-publish/details" >Facebook Auto Publish</a> Powered By : <a target="_blank" title="PHP Scripts & Programs" href="http://www.xyzscripts.com" >XYZScripts.com</a></div><script>H5PIntegration = {"baseUrl":"https:\/\/ara.ufsc.br","url":"\/files\/h5p","postUserStatistics":false,"ajax":{"setFinished":"https:\/\/ara.ufsc.br\/wp-admin\/admin-ajax.php?token=49c5c6128b&action=h5p_setFinished","contentUserData":"https:\/\/ara.ufsc.br\/wp-admin\/admin-ajax.php?token=926a16a500&action=h5p_contents_user_data&content_id=:contentId&data_type=:dataType&sub_content_id=:subContentId"},"saveFreq":false,"siteUrl":"https:\/\/ara.ufsc.br","l10n":{"H5P":{"fullscreen":"Tela cheia","disableFullscreen":"Desabilitar tela cheia.","download":"Baixar","copyrights":"Condi\u00e7\u00f5es de uso","embed":"Incorporar","size":"Medida","showAdvanced":"Mostrar avan\u00e7ado","hideAdvanced":"Ocultar avan\u00e7ado","advancedHelp":"Incluir este script no seu site se quiser que a medida seja din\u00e1mica para teu conte\u00fado incorporado:","copyrightInformation":"Condi\u00e7\u00f5es de uso","close":"Fechar","title":"T\u00edtulo","author":"Autor","year":"Ano","source":"Origem","license":"Licen\u00e7a","thumbnail":"Miniatura","noCopyrights":"N\u00e3o existe informa\u00e7\u00e3o de copyright para este conte\u00fado.","reuse":"Reuse","reuseContent":"Reuse Content","reuseDescription":"Reuse this content.","downloadDescription":"Baixar este conte\u00fado como um arquivo H5P.","copyrightsDescription":"Ver informa\u00e7\u00e3o de copyright para este conte\u00fado.","embedDescription":"Ver o c\u00f3digo de incorpora\u00e7\u00e3o para este conte\u00fado.","h5pDescription":"Visite H5P.org para obter mais informa\u00e7\u00f5es.","contentChanged":"Este conte\u00fado foi modificado desde a \u00faltima vez que utilizaste.","startingOver":"Voc\u00ea vai iniciar novamente.","by":"by","showMore":"Show more","showLess":"Show less","subLevel":"Sublevel","confirmDialogHeader":"Confirm action","confirmDialogBody":"Please confirm that you wish to proceed. This action is not reversible.","cancelLabel":"Cancel","confirmLabel":"Confirm","licenseU":"Undisclosed","licenseCCBY":"Attribution","licenseCCBYSA":"Attribution-ShareAlike","licenseCCBYND":"Attribution-NoDerivs","licenseCCBYNC":"Attribution-NonCommercial","licenseCCBYNCSA":"Attribution-NonCommercial-ShareAlike","licenseCCBYNCND":"Attribution-NonCommercial-NoDerivs","licenseCC40":"4.0 International","licenseCC30":"3.0 Unported","licenseCC25":"2.5 Generic","licenseCC20":"2.0 Generic","licenseCC10":"1.0 Generic","licenseGPL":"General Public License","licenseV3":"Version 3","licenseV2":"Version 2","licenseV1":"Version 1","licensePD":"Public Domain","licenseCC010":"CC0 1.0 Universal (CC0 1.0) Public Domain Dedication","licensePDM":"Public Domain Mark","licenseC":"Copyright","contentType":"Content Type","licenseExtras":"License Extras","changes":"Changelog","contentCopied":"Content is copied to the clipboard","connectionLost":"Connection lost. Results will be stored and sent when you regain connection.","connectionReestablished":"Connection reestablished.","resubmitScores":"Attempting to submit stored results.","offlineDialogHeader":"Your connection to the server was lost","offlineDialogBody":"We were unable to send information about your completion of this task. Please check your internet connection.","offlineDialogRetryMessage":"Retrying in :num....","offlineDialogRetryButtonLabel":"Retry now","offlineSuccessfulSubmit":"Successfully submitted results."}},"hubIsEnabled":true,"reportingIsEnabled":false,"libraryConfig":null,"crossorigin":null,"crossoriginCacheBuster":null,"pluginCacheBuster":"?v=1.15.0","libraryUrl":"https:\/\/ara.ufsc.br\/wp-content\/plugins\/h5p\/h5p-php-library\/js","core":{"styles":["\/wp-content\/plugins\/h5p\/h5p-php-library\/styles\/h5p.css?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/styles\/h5p-confirmation-dialog.css?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/styles\/h5p-core-button.css?ver=1.15.0"],"scripts":["\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/jquery.js?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/h5p.js?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/h5p-event-dispatcher.js?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/h5p-x-api-event.js?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/h5p-x-api.js?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/h5p-content-type.js?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/h5p-confirmation-dialog.js?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/h5p-action-bar.js?ver=1.15.0","\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/request-queue.js?ver=1.15.0"]},"loadedJs":[],"loadedCss":[],"contents":{"cid-1":{"library":"H5P.ImageSlider 1.1","jsonContent":"{\"imageSlides\":[{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca83226a0.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"c61f2ad9-4ef8-4991-a104-ef08456f2f7c\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"fce548bf-3cfb-4148-830d-97cc7e99ac3f\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866c9a4a6f9d.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"3314e726-c3b1-493f-867d-aca396738bb5\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"caea4f13-bf15-4464-acbf-7341b98253d1\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866c9ad5f95b.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"332fc4f0-a601-404d-800d-7e7ae629ace2\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"1a2b5f76-2992-4cb0-b20f-84a64a40e10b\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866c9bce131c.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"78132fc4-8217-4693-beb4-ab03aa823521\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"8b4b2c17-16d1-47ba-9919-db4d41fafdc5\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866c9c2e6bee.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"525028b8-f7eb-484e-875c-ef071c845e59\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"e206d6a8-4d0e-491a-a363-88ad0ed2c75f\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866c9c8a72ca.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"2df14ee7-a27d-452c-bccb-bc3ffce49be1\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"c356c1a8-1d5b-4621-8a71-49d0acd05390\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca12c8de9.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"2b0f1f7e-725a-4972-8746-60955d40e702\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"86bd24ae-4ac3-4de4-ae90-4d1c2a890ba6\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca19ac789.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"a6eea92f-36ff-40a5-a568-cc2ecde3ef0c\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"7aed1e5e-68f3-4e19-b126-389257613261\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca21be59e.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"cd1fcdf4-9c7d-4a50-ad1b-d141539bdd55\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"41a5e638-cf92-4014-9dc2-36608b586a9e\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca2939ce1.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"fc180cc2-e12a-4408-b9e0-c33570716d3e\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"1cd920f3-69ea-475d-8ce7-753555ef44db\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca2f37ab3.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"cc936a49-ab58-4f1f-8d0f-ee179f6781c2\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"2a853fe0-2383-476e-a155-43c942e88b86\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca382ad3a.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"86403005-1369-4f94-9734-f022aaa9b1e5\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"d4c89d1e-cd99-48cd-b771-cd216848b93c\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca40548da.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"381ee132-3101-4b2d-acdd-eb30e9a77a5d\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"66580b3b-ef58-4a47-b2ed-136ff8e66f84\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca488e8e3.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"3aa2db6e-9d05-4a85-8333-43dcaa93a921\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"ded95aa9-261e-455b-bf57-6fea5cdf2f66\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca52da9ce.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"e3ac2ac4-a1ef-4db5-bd03-8e9f86750364\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"7cc9d3ca-3eac-4dcd-ad24-10119f919729\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca5b8fcc5.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"029aea97-0b2f-4035-8a28-2cf1c1cb1401\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"82652ce7-5d23-4e4e-a501-329a1922b650\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca73a74c4.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"ecdcbd38-b6ff-4de1-a5b6-b4bf92d4ac5d\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"9fb72312-6a4a-47b1-8f20-5888de74b928\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866ca7c002e6.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"d7779433-20bd-4c1a-b172-97a950608711\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"f59d752a-471b-4b08-8eb8-97c3b476f1fd\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866caa4b7a07.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"c2aa48a9-1c89-4728-80ee-9695b2e89624\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"855ae861-8c5e-4421-907f-7961a8f094f6\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}},{\"params\":{\"image\":{\"params\":{\"decorative\":true,\"contentName\":\"Imagem\",\"expandImage\":\"Expand Image\",\"minimizeImage\":\"Minimize Image\",\"file\":{\"path\":\"images\\\/file-6866caaed2cc5.png\",\"mime\":\"image\\\/png\",\"copyright\":{\"license\":\"U\"},\"width\":1080,\"height\":1350}},\"library\":\"H5P.Image 1.1\",\"subContentId\":\"18347937-ec06-414c-b95f-098e0fa3a955\",\"metadata\":{\"contentType\":\"Image\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image\"}}},\"library\":\"H5P.ImageSlide 1.1\",\"subContentId\":\"093093db-51f0-4d0d-9e9e-02c6d0403fa6\",\"metadata\":{\"contentType\":\"Image Slide\",\"license\":\"U\",\"title\":\"Sem t\\u00edtulo Image Slide\"}}],\"aspectRatioMode\":\"notFixed\",\"aspectRatio\":{\"aspectWidth\":4,\"aspectHeight\":3},\"a11y\":{\"nextSlide\":\"Imagem seguinte\",\"prevSlide\":\"Imagem anterior\",\"gotoSlide\":\"Ir para a imagem %slide\"}}","fullScreen":"1","exportUrl":"\/files\/h5p\/exports\/ac-es-para-a-comunidade-1.h5p","embedCode":"<iframe src=\"https:\/\/ara.ufsc.br\/wp-admin\/admin-ajax.php?action=h5p_embed&id=1\" width=\":w\" height=\":h\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>","resizeCode":"<script src=\"https:\/\/ara.ufsc.br\/wp-content\/plugins\/h5p\/h5p-php-library\/js\/h5p-resizer.js\" charset=\"UTF-8\"><\/script>","url":"https:\/\/ara.ufsc.br\/wp-admin\/admin-ajax.php?action=h5p_embed&id=1","title":"A\u00e7\u00f5es para a Comunidade","displayOptions":{"frame":false,"export":false,"embed":false,"copyright":false,"icon":true,"copy":false},"metadata":{"title":"A\u00e7\u00f5es para a Comunidade","license":"U"},"contentUserData":[{"state":"{}"}],"scripts":["\/files\/h5p\/cachedassets\/e4c21cd70cb3174758eb755df5b2e9b06feaad26.js"],"styles":["\/files\/h5p\/cachedassets\/e4c21cd70cb3174758eb755df5b2e9b06feaad26.css"]}}};</script><link rel='stylesheet' id='h5p-core-styles-h5p-css'  href='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/styles/h5p.css?ver=1.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='h5p-core-styles-h5p-confirmation-dialog-css'  href='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/styles/h5p-confirmation-dialog.css?ver=1.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='h5p-core-styles-h5p-core-button-css'  href='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/styles/h5p-core-button.css?ver=1.15.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/auto-thickbox/js/auto-thickbox.min.js?ver=20150514'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/ara.ufsc.br\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"jqueryUi":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"dd\/mm\/yy","firstDay":0,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-includes/js/wp-embed.js?ver=4.7.4-RC1'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/?ai1ec_render_js=common_frontend&#038;is_backend=false&#038;ver=2.6.8'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/jquery.js?ver=1.15.0'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/h5p.js?ver=1.15.0'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-event-dispatcher.js?ver=1.15.0'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-x-api-event.js?ver=1.15.0'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-x-api.js?ver=1.15.0'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-content-type.js?ver=1.15.0'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-confirmation-dialog.js?ver=1.15.0'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/h5p-action-bar.js?ver=1.15.0'></script>
+<script type='text/javascript' src='https://ara.ufsc.br/wp-content/plugins/h5p/h5p-php-library/js/request-queue.js?ver=1.15.0'></script>

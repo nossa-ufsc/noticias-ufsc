@@ -7,21 +7,27 @@
 //   --fixture    lê <dir>/<fonte>.ics em vez de baixar (testes/debug offline)
 //   --now        fixa o "agora" (ISO) — usado no CI com fixtures congelados
 //
-// Poda (ufsc-prune) só roda numa execução COMPLETA (todas as fontes, feed de verdade):
-// com --source ou --fixture ela é pulada, senão os eventos das fontes ausentes seriam
-// rejeitados em massa. Mesmo assim a function só poda dentro das fontes enviadas.
+// Cada fonte é isolada (src/lib/sync.ts): uma fora do ar não impede as outras. Se o
+// export iCal cair, a fonte tenta o widget de agenda da home (coleta parcial).
 //
-// Saída: data/eventos.json (snapshot do que foi enviado — commitado pelo workflow como
-// keep-alive) e log em stdout.
+// Poda (ufsc-prune) só roda numa execução sem --source/--fixture/--dry-run/--skip-db, e
+// só para as fontes coletadas pelo export iCal completo e gravadas com sucesso — senão
+// eventos de fontes ausentes/parciais seriam rejeitados em massa. A function, por sua
+// vez, só poda dentro das fontes enviadas.
+//
+// Saída: data/eventos.json (eventos desta execução + status/último sucesso de cada
+// fonte — commitado pelo workflow como keep-alive) e log em stdout. Exit 1 só quando
+// TODAS as fontes falharam; falha parcial vira anotação (warning; error após 3 dias).
 
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { appendFile, mkdir, readFile, writeFile } from 'node:fs/promises';
 import { podarEventos, upsertEventos } from './lib/admin.js';
-import { baixarTexto } from './lib/http.js';
-import { parseEvents } from './lib/ical.js';
-import { normalizarEvento } from './lib/normalize.js';
-import type { PipelineStats, SourceId, UfscEventRow } from './lib/types.js';
-import { validarLote } from './lib/validate.js';
+import { coletarFonte } from './lib/coleta.js';
+import { alertas, montarSnapshot, type Alerta, type Snapshot } from './lib/snapshot.js';
+import { sincronizar } from './lib/sync.js';
+import type { SourceId } from './lib/types.js';
 import { FONTES, FONTES_PADRAO } from './sources/index.js';
+
+const SNAPSHOT = 'data/eventos.json';
 
 type Args = {
   cmd: string;
@@ -63,66 +69,71 @@ function parseArgs(argv: string[]): Args {
   return args;
 }
 
-async function coletar(fonteId: SourceId, agora: number, fixture: string | null) {
-  const fonte = FONTES[fonteId];
-  const ics = fixture ? await readFile(`${fixture}/${fonteId}.ics`, 'utf8') : await baixarTexto(fonte.url);
-  const eventos = parseEvents(ics);
-  const stats: PipelineStats = { fonte: fonteId, totalNoFeed: eventos.length, selecionados: 0, ignorados: {}, erros: [] };
-  const rows: UfscEventRow[] = [];
-  for (const ev of eventos) {
-    const sel = normalizarEvento(ev, fonte, agora);
-    if (sel.ok) {
-      rows.push(sel.row);
-    } else {
-      stats.ignorados[sel.motivo] = (stats.ignorados[sel.motivo] ?? 0) + 1;
-      if (sel.motivo === 'erro' || sel.motivo === 'sem-titulo') stats.erros.push(`${sel.motivo}: ${sel.detalhe}`);
-    }
+async function lerSnapshotAnterior() {
+  try {
+    return JSON.parse(await readFile(SNAPSHOT, 'utf8'));
+  } catch {
+    return null;
   }
-  stats.selecionados = rows.length;
-  return { rows, stats };
 }
 
-async function cmdEventos(args: Args) {
+/** Anotação do GitHub Actions (aparece no resumo do run); fora do Actions, linha comum. */
+function anotar(a: Alerta) {
+  const texto = a.texto.replace(/\r?\n/g, ' ');
+  if (process.env.GITHUB_ACTIONS === 'true') console.log(`::${a.nivel}::${texto}`);
+  else console.log(`${a.nivel === 'error' ? '✖' : '⚠'} ${texto}`);
+}
+
+async function resumoDoJob(snap: Snapshot, alertasDoRun: Alerta[]) {
+  const arquivo = process.env.GITHUB_STEP_SUMMARY;
+  if (!arquivo) return;
+  const linhas = [
+    '| fonte | status | modo | selecionados | último sucesso | erro |',
+    '|---|---|---|---|---|---|',
+    ...snap.fontes.map(
+      (f) =>
+        `| ${f.fonte} | ${f.status} | ${f.modo ?? '—'} | ${f.selecionados ?? '—'} | ${f.ultimoSucesso ?? 'nunca'} | ${(f.erro ?? '').replace(/\|/g, '\\|').slice(0, 200)} |`
+    ),
+    '',
+    ...alertasDoRun.map((a) => `- **${a.nivel}**: ${a.texto}`),
+  ];
+  await appendFile(arquivo, `${linhas.join('\n')}\n`);
+}
+
+/** Código de saída: 1 só se TODAS as fontes falharam (falha parcial vira aviso/erro anotado). */
+async function cmdEventos(args: Args): Promise<number> {
   const agora = args.now ?? Date.now();
-  const todas: UfscEventRow[] = [];
-  const stats: PipelineStats[] = [];
-  for (const f of args.fontes) {
-    console.log(`→ ${FONTES[f].nome}`);
-    const r = await coletar(f, agora, args.fixture);
-    console.log(
-      `   ${r.stats.totalNoFeed} no feed | ${r.stats.selecionados} selecionados | ignorados ${JSON.stringify(r.stats.ignorados)}`
-    );
-    for (const e of r.stats.erros) console.log(`   ⚠ ${e}`);
-    todas.push(...r.rows);
-    stats.push(r.stats);
-  }
-  todas.sort((a, b) => a.start_date.localeCompare(b.start_date));
+  const anterior = await lerSnapshotAnterior();
+  const podaPermitida = !args.dry && !args.skipDb && !args.fontesRestritas && !args.fixture;
 
-  validarLote(todas, stats);
+  const res = await sincronizar({
+    fontes: args.fontes,
+    nomes: Object.fromEntries(Object.values(FONTES).map((f) => [f.id, f.nome])) as Record<SourceId, string>,
+    coletar: (f) => coletarFonte(FONTES[f], agora, { fixture: args.fixture }),
+    upsert: args.skipDb ? null : upsertEventos,
+    podar: podaPermitida ? podarEventos : null,
+    dry: args.dry,
+  });
 
+  const snap = montarSnapshot(res, agora, anterior);
   await mkdir('data', { recursive: true });
-  await writeFile(
-    'data/eventos.json',
-    JSON.stringify({ geradoEm: new Date(agora).toISOString(), fontes: stats, eventos: todas }, null, 2) + '\n'
-  );
-  console.log(`\n${todas.length} eventos → data/eventos.json`);
+  await writeFile(SNAPSHOT, JSON.stringify(snap, null, 2) + '\n');
+  console.log(`\n${snap.eventos.length} eventos → ${SNAPSHOT}`);
 
   const porCategoria: Record<string, number> = {};
-  for (const r of todas) porCategoria[r.category] = (porCategoria[r.category] ?? 0) + 1;
+  for (const r of snap.eventos) porCategoria[r.category] = (porCategoria[r.category] ?? 0) + 1;
   console.log(`por categoria: ${JSON.stringify(porCategoria)}`);
+  if (args.skipDb) console.log('(--skip-db: não chamou a Edge Function)');
+  else if (!podaPermitida && !args.dry) console.log('(poda pulada: execução parcial com --source/--fixture)');
 
-  if (args.skipDb) {
-    console.log('(--skip-db: não chamou a Edge Function)');
-    return;
-  }
-  const saidas = await upsertEventos(todas, args.dry);
-  for (const s of saidas) console.log(`\n${s}`);
-  if (args.dry) return;
-  if (args.fontesRestritas || args.fixture) {
-    console.log('\n(poda pulada: execução parcial com --source/--fixture)');
-    return;
-  }
-  console.log(`\n${await podarEventos(args.fontes, todas.map((r) => r.source_id))}`);
+  const alertasDoRun = alertas(snap, agora, res.erroPoda);
+  if (alertasDoRun.length) console.log('');
+  for (const a of alertasDoRun) anotar(a);
+  await resumoDoJob(snap, alertasDoRun);
+
+  const ok = res.fontes.filter((r) => r.ok).map((r) => r.fonte);
+  console.log(`\nfontes ok: ${ok.join(', ') || 'nenhuma'} de ${res.fontes.length}`);
+  return ok.length === 0 ? 1 : 0;
 }
 
 const args = parseArgs(process.argv.slice(2));
@@ -133,7 +144,7 @@ if (args.cmd !== 'eventos') {
   process.exit(2);
 }
 try {
-  await cmdEventos(args);
+  process.exitCode = await cmdEventos(args);
 } catch (e) {
   console.error(`✖ ${e instanceof Error ? e.message : e}`);
   process.exit(1);

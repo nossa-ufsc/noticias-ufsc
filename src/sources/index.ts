@@ -1,6 +1,7 @@
 // Fontes: calendários All-in-One Event Calendar (Time.ly) dos sites da UFSC.
 // Mesmo plugin em todos, então é só trocar host/campus. Blumenau, Planetário e
 // Estrutura têm o plugin mas o feed está vazio (2026-08); Joinville/Curitibanos não têm.
+// `paginaEventos` é o plano B (src/lib/pagina.ts): página com o widget de agenda do plugin.
 
 import type { FeedSource, SourceId } from '../lib/types.js';
 
@@ -12,6 +13,7 @@ export const FONTES: Record<SourceId, FeedSource> = {
     id: 'agecom',
     nome: 'Agecom (noticias.ufsc.br/calendario)',
     url: `https://noticias.ufsc.br${AI1EC_EXPORT}`,
+    paginaEventos: 'https://noticias.ufsc.br/',
     campusPadrao: 'florianopolis',
     hosts: ['ufsc.br'],
   },
@@ -20,6 +22,7 @@ export const FONTES: Record<SourceId, FeedSource> = {
     nome: 'Campus Araranguá (ara.ufsc.br)',
     // O site redireciona para &lang=pt; o fetch segue.
     url: `https://ara.ufsc.br${AI1EC_EXPORT}&lang=pt`,
+    paginaEventos: 'https://ara.ufsc.br/',
     campusPadrao: 'ararangua',
     hosts: ['ufsc.br'],
   },
