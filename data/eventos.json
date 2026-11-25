@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T09:13:03.881Z",
+  "geradoEm": "2026-11-25T18:13:03.562Z",
   "fontes": [
     {
       "fonte": "agecom",
@@ -7,11 +7,11 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-25T09:13:03.881Z",
+      "ultimoSucesso": "2026-11-25T18:13:03.562Z",
       "totalNoFeed": 77,
-      "selecionados": 22,
+      "selecionados": 24,
       "ignorados": {
-        "ja-passou": 55
+        "ja-passou": 53
       },
       "erros": []
     },
@@ -21,7 +21,7 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-25T09:13:03.881Z",
+      "ultimoSucesso": "2026-11-25T18:13:03.562Z",
       "totalNoFeed": 15,
       "selecionados": 1,
       "ignorados": {
@@ -49,28 +49,6 @@
       "category": "cultura",
       "is_free": true,
       "is_all_day": true
-    },
-    {
-      "source_id": "agecom:298183",
-      "name": "Cinedebate: ‘M-8: Quando a Morte Socorre a Vida’",
-      "start_date": "2026-11-24T17:00:00.000Z",
-      "end_date": "2026-11-24T17:15:00.000Z",
-      "location": "Auditório Elke Hering",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/11/WhatsApp-Image-2026-11-03-at-11.27.45-1-212x300.jpeg",
-      "ticket_url": "https://inscricoes.ufsc.br/activities/13888",
-      "info_url": "https://noticias.ufsc.br/event/cinedebate-m-8-quando-a-morte-socorre-a-vida-2/",
-      "description": "A Pró-Reitoria de Graduação e Educação Básica (Prograd) da Universidade Federal de Santa Catarina (UFSC), por meio dos Programas de Monitoria e Monitoria Indígena e Quilombola (PMIQ), promove mais uma edição do Cinedebate com a exibição do filme M-8: Quando a Morte Socorre a Vida, no dia 24 de novembro, às 14h, no auditório Elke Hering da Biblioteca Universitária (BU). A atividade é presencial e gratuita.\n\nDirigido pelo cineasta Jeferson De, o filme foi produzido em 2020 e baseado no livro homônimo de Salomão Polakiewicz. A história narra a vida de Maurício, calouro de uma prestigiada universidade federal de Medicina, filho de Cida, uma auxiliar de enfermagem, que dá duro para ver seu filho entrar pra faculdade. Em sua primeira aula de anatomia, Maurício é apresentado a M-8, corpo que servirá para estudo dele e dos amigos durante o primeiro semestre. Em uma jornada permeada de mistério e realidade, Mauricio enfrenta suas próprias angústias para desvendar a identidade desse rosto desconhecido.\n\nO evento convida monitores do PMIQ e estudantes de graduação da UFSC, em especial dos cursos da área de Saúde. Os participantes receberão certificação de horas complementares.\n\nPara realizar as inscrições, acesse o formulário. Mais informações encaminhe e-mail para monitoria.caap@contato.ufsc.br.",
-      "tags": [
-        "cinema",
-        "debate",
-        "cinedebate",
-        "pró-reitoria de graduação e educação básica (prograd)",
-        "programas de monitoria"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": false
     },
     {
       "source_id": "agecom:298159",
@@ -136,6 +114,27 @@
         "ginástica",
         "ginástica para todos",
         "ginasticarte"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:298950",
+      "name": "Exposição: Primeiros Olhares",
+      "start_date": "2026-11-25T10:00:00.000Z",
+      "end_date": "2026-11-25T22:00:00.000Z",
+      "location": "Espaço Expositivo do Centro de Cultura e Eventos",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/IMG_20261125_101405084_AE-1024x576.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/exposicao-primeiros-olhares/",
+      "description": "O Espaço Expositivo do Centro de Cultura e Eventos da Universidade Federal de Santa Catarina (UFSC) recebe, até 18 de dezembro, a exposição Primeiros Olhares, da pintora catarinense e estudante de Direito Amanda Ballico.\n\nEm sua primeira mostra individual, a artista reúne obras que refletem seis anos de dedicação à pintura a óleo, sob a orientação do artista plástico Zélio Andrezzo. As telas combinam técnicas clássicas com sua identidade visual e convidam o público a apreciar a beleza das cenas simples do cotidiano.\n\nA mostra permanecerá aberta para visitação gratuita de segunda a sexta-feira, das 7h às 19h, no piso térreo do Centro de Cultura e Eventos. A partir de 14 de dezembro, o horário será das 7h às 13h.\n\nServiço\n\nO quê: Exposição Primeiros Olhares\n\nQuando: 17/11/2026 à 18/12/2026\n\nHorário: De segunda a sexta-feira, das 7h às 19h. A partir de 14/12, das 7h às 13h\n\nOnde: Espaço Expositivo do Centro de Cultura e Eventos da UFSC – piso térreo\n\nMais informações pelo Instagram.",
+      "tags": [
+        "exposição",
+        "centro de cultura e eventos",
+        "exposição primeiros olhares",
+        "pintura a óleo"
       ],
       "category": "cultura",
       "is_free": true,
@@ -319,6 +318,25 @@
       "is_all_day": false
     },
     {
+      "source_id": "agecom:298942",
+      "name": "XXI Expolouro",
+      "start_date": "2026-11-30T13:00:00.000Z",
+      "end_date": "2026-11-30T15:00:00.000Z",
+      "location": "Bloco A do CTC",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2013/01/ctc.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/xxi-expolouro/",
+      "description": "Centro Tecnológico da UFSC\n\nO Hall do Centro Tecnológico (CTC), da Universidade Federal de Santa Catarina (UFSC), recebe, na próxima segunda-feira, 30 de novembro, a XXI Expolouro – Feira de Exposição dos Projetos dos Calouros de Engenharia de Controle e Automação. A atividade será realizada das 10h às 12h, no Bloco A do CTC, com entrada gratuita e aberta ao público, sem necessidade de inscrição.\n\nO evento reúne trabalhos desenvolvidos pelos estudantes da turma de 2026.2 na disciplina de Introdução à Engenharia de Controle e Automação, oferecida na primeira fase do curso. Nesta edição, serão apresentados nove protótipos físicos que exploram soluções tecnológicas para diferentes necessidades do cotidiano.\n\nEntre os projetos está o AquaSense, sistema automatizado para monitorar problemas nos bebedouros da UFSC; o B8M, uma esfera criada para ensinar inteligência artificial de forma lúdica; e o CalliGuard, uma barreira automatizada para impedir a entrada de saguis pelas janelas. A exposição também contará com o CenCar, sistema embarcado voltado à segurança automotiva; o LibraVoice, aplicativo para smartphones que realiza tradução bidirecional entre português e Língua Brasileira de Sinais (Libras); e o Maestro, dispositivo para passar automaticamente partituras musicais físicas.\n\nOutras iniciativas são o PageFlip, sistema inteligente que permite virar páginas de livros por comando de voz, voltado a pessoas com deficiência; o Smart Traffic Network, uma rede semafórica inteligente; e o SmartWalk, bengala inteligente para pessoas idosas, com recursos de detecção de quedas e localização. Organizada pelos professores Hector Bessa Silveira, Publio Macedo Monteiro Lima e Werner Kraus Junior, do Departamento de Engenharia de Automação e Sistemas (EAS), tem como objetivo aproximar a comunidade acadêmica e a sociedade das possibilidades da Engenharia de Controle e Automação.\n\nA feira é aberta a estudantes, servidores da UFSC, escolas da Grande Florianópolis e demais interessados. Não haverá emissão de certificado.",
+      "tags": [
+        "feira",
+        "centro tecnológico (ctc)"
+      ],
+      "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
       "source_id": "agecom:298908",
       "name": "Processos criativos: espetáculos teatrais",
       "start_date": "2026-11-30T22:30:00.000Z",
@@ -400,6 +418,26 @@
       "category": "palestra",
       "is_free": true,
       "is_all_day": false
+    },
+    {
+      "source_id": "agecom:298930",
+      "name": "Encontro de Políticas Linguísticas Educacionais (EPLE)",
+      "start_date": "2026-12-07T03:00:00.000Z",
+      "end_date": "2026-12-08T02:59:59.000Z",
+      "location": "YouTube PoLiTicas",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/capa-III-EPLE-1024x576.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/encontro-de-politicas-linguisticas-educacionais-eple/",
+      "description": "O III Encontro de Políticas Linguísticas Educacionais (EPLE) será realizado entre os dias 7 e 10 de dezembro, em formato on-line e com participação gratuita. Com o tema Sul Global: alianças, potências e inovações, o evento reunirá pesquisadores, professores e demais interessados nas relações entre multilinguismo, educação e políticas linguísticas.\n\nA terceira edição do encontro propõe uma reflexão coletiva sobre os desafios contemporâneos das políticas linguísticas educacionais no Sul Global, considerando questões como repertórios linguísticos, práticas educativas, justiça linguística e gestão das línguas nos sistemas de ensino. A programação será orientada por abordagens críticas, dialógicas e decoloniais, promovendo o intercâmbio de pesquisas, experiências e perspectivas.\n\nAs atividades serão transmitidas ao vivo pelo canal do grupo PoLiTicas no YouTube e incluem duas conferências, quatro mesas-redondas e quatro grupos de trabalho, com a participação de pesquisadores de diferentes instituições nacionais e internacionais. A conferência de abertura, no dia 7 de dezembro, às 9h, será ministrada por Ofélia García, da City University of New York, com o tema Para além do monolinguismo escolar: translinguismo e inovação nas políticas linguísticas educacionais. Já a conferência de encerramento, no dia 9 de dezembro, às 19h, contará com Sinfree Makoni, da Pennsylvania State University, que abordará o tema (Des)inventando línguas: uma perspectiva decolonial.\n\nA programação também contempla debates sobre multilinguismo e práticas educativas; políticas linguísticas, currículo e gestão da linguagem na educação; pesquisa e diversidade linguística no Sul Global; além das relações entre linguagem, território e justiça linguística. O último grupo de trabalho, dedicado ao tema Fronteiras, mobilidade e internacionalização na educação linguística, será realizado no dia 10 de dezembro, às 13h.\n\nParticipação gratuita e on-line. Todas as atividades serão transmitidas pelo YouTube, nos horários indicados na programação. Mais informações e programação completa estão disponíveis no site Políticas linguísticas.",
+      "tags": [
+        "eple",
+        "evento online",
+        "políticas"
+      ],
+      "category": "academico",
+      "is_free": true,
+      "is_all_day": true
     },
     {
       "source_id": "agecom:298873",
