@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T20:57:45.256Z",
+  "geradoEm": "2026-11-25T09:13:03.881Z",
   "fontes": [
     {
       "fonte": "agecom",
@@ -7,11 +7,11 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-24T20:57:45.256Z",
+      "ultimoSucesso": "2026-11-25T09:13:03.881Z",
       "totalNoFeed": 77,
-      "selecionados": 23,
+      "selecionados": 22,
       "ignorados": {
-        "ja-passou": 54
+        "ja-passou": 55
       },
       "erros": []
     },
@@ -21,7 +21,7 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-24T20:57:45.256Z",
+      "ultimoSucesso": "2026-11-25T09:13:03.881Z",
       "totalNoFeed": 15,
       "selecionados": 1,
       "ignorados": {
@@ -31,29 +31,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:298457",
-      "name": "Colóquio Internacional Antonio Gramsci: Questão Meridional e Colonialismo",
-      "start_date": "2026-11-23T03:00:00.000Z",
-      "end_date": "2026-11-24T02:59:59.000Z",
-      "location": "UFSC e UDESC",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/11/Captura-de-Tela-2026-11-12-às-07.24.10-1024x400.png",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/coloquio-internacional-antonio-gramsci-da-igs-brasil/",
-      "description": "O VI Encontro Nacional e V Colóquio Internacional Antonio Gramsci, da International Gramsci Society-Brasil (IGS/Brasil), será realizado de 23 a 27 de novembro de 2026 na Universidade Federal de Santa Catarina (UFSC) e na Universidade do Estado de Santa Catarina (Udesc).\n\nA produção científica e acadêmica do evento, bem como toda programação, está fundamentada no pensamento do intelectual italiano Antonio Gramsci (1891-1937), que traz contribuições teóricas para distintas áreas de conhecimento.\n\nO evento irá reunir pesquisadores, docentes, discentes e membros da comunidade acadêmica e externa para promoção de intercâmbio de conhecimentos e de instrumentos, métodos e fontes de pesquisa envolvendo o pensamento e a obra do pensador italiano Antonio Gramsci, no intuito de aprimorar a produção intelectual e fortalecer a rede de pesquisa construída pela IGS-Brasil nos seus 10 anos de existência.\n\nHaverá mesas-redondas, minicursos, apresentações de trabalhos, lançamento de livros e apresentações culturais. As mesas-redondas e as apresentações de trabalho estão divididas em sete eixos temática que, fundamentados em Gramsci, debatem, entre outras coisas: território, classe, gênero, raça e lutas sociais; Estado, políticas públicas e educação; imperialismo, colonialismo e revolução; a questão meridional na particularidade latino-americana; América Latina, Brics e Cooperações Internacionais.\n\nO evento é gratuito, mas é necessário fazer a inscrição para obter o certificado.\n\nA programação completa e demais informações podem ser encontradas aqui.",
-      "tags": [
-        "congresso",
-        "encontro",
-        "gramsci",
-        "igs",
-        "international gramsci society",
-        "udesc"
-      ],
-      "category": "palestra",
-      "is_free": null,
-      "is_all_day": true
-    },
     {
       "source_id": "agecom:298312",
       "name": "Exposição ‘IV Mostra de Cartazes Cruz e Sousa’",
