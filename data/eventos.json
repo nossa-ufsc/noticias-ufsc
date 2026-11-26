@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T09:13:03.989Z",
+  "geradoEm": "2026-11-26T18:13:03.128Z",
   "fontes": [
     {
       "fonte": "agecom",
@@ -7,9 +7,9 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-26T09:13:03.989Z",
-      "totalNoFeed": 60,
-      "selecionados": 20,
+      "ultimoSucesso": "2026-11-26T18:13:03.128Z",
+      "totalNoFeed": 59,
+      "selecionados": 19,
       "ignorados": {
         "ja-passou": 40
       },
@@ -21,7 +21,7 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-26T09:13:03.989Z",
+      "ultimoSucesso": "2026-11-26T18:13:03.128Z",
       "totalNoFeed": 15,
       "selecionados": 1,
       "ignorados": {
@@ -55,14 +55,14 @@
     {
       "source_id": "agecom:297700",
       "name": "3º Seminário Interno Labeur & LabPlan",
-      "start_date": "2026-11-25T12:00:00.000Z",
-      "end_date": "2026-11-26T20:00:00.000Z",
+      "start_date": "2026-11-26T03:00:00.000Z",
+      "end_date": "2026-11-27T02:59:59.000Z",
       "location": "Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
       "campus": "florianopolis",
       "image_url": "https://noticias.ufsc.br/files/2026/10/Seminário-819x1024.jpeg",
       "ticket_url": null,
       "info_url": "https://noticias.ufsc.br/event/3o-seminario-interno-labeur-labplan/",
-      "description": "O III Seminário Interno Labeur & LabPlan ocorre nos dias 25 e 26 de novembro de 2026 no Centro de Filosofia e Ciências Humanas da Universidade Federal de Santa Catarina (UFSC/CFH). O evento é promovido pelo Laboratório de Estudos Urbanos e Regionais (Labeur/UFSC), vinculado ao Departamento de Geociências em parceria com o Laboratório de Planejamento Urbano e Regional (LabPlan) da Universidade do Estado de Santa Catarina (UDESC). A iniciativa conta com o apoio do Programa de Pós-Graduação em Geografia (PPGG/UFSC), do Programa de Pós-Graduação em Planejamento Territorial e Desenvolvimento Socioambiental (PPGPLAN/UDESC) e do Instituto Ignacio Rangel.\n\nAs inscrições são gratuitas e devem ser feitas neste link até 19 de novembro para apresentação de trabalhos. Será fornecido certificado de participação e a possibilidade de publicação de trabalho nos Cadernos Geográficos da UFSC.\n\nO evento irá reunir pesquisas em Geografia da UFSC e da UDESC e homenagear o centenário do geógrafo Carlos Augusto de Figueiredo Monteiro. Será um espaço de diálogo acadêmico e reflexão crítica em que os dois laboratórios apresentam à comunidade universitária e ao público externo as pesquisas desenvolvidas por seus membros, em áreas como Geografia Urbana, Regional, Econômica, Agrária e Planejamento Territorial. Os temas abordados vão da logística e da geopolítica à energia, ao agronegócio e à reestruturação urbana.\n\nNascido em 23 de março de 1927, Carlos Augusto de Figueiredo Monteiro é uma referência da climatologia geográfica e um dos grandes nomes do pensamento geográfico brasileiro, com contribuição marcante também para a geografia catarinense.\n\nO formato do seminário remete à tradição de orientação coletiva e debate plural implementada pelo professor Armen Mamigonian nos primeiros anos do PPGG, em encontros que contaram com a participação de nomes como Ignacio Rangel e Milton Santos. A segunda edição, realizada em junho de 2025, reuniu 16 trabalhos publicados em anais.\n\nPodem inscrever trabalhos estudantes de graduação e pós-graduação (mestrado e doutorado), pesquisadores e egressos vinculados aos laboratórios, além de convidados externos. Não é necessário enviar o trabalho no ato da inscrição: o texto completo será solicitado apenas em 2027, para publicação nos Anais. A participação como ouvinte é aberta e gratuita a toda a comunidade, interna e externa à Universidade.\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Labeur, pelo e-mail labeur.operacional@gmail.com ou no Instagram.",
+      "description": "O III Seminário Interno Labeur & LabPlan ocorre no dia 26 de novembro de 2026 no Centro de Filosofia e Ciências Humanas da Universidade Federal de Santa Catarina (UFSC/CFH). O evento é promovido pelo Laboratório de Estudos Urbanos e Regionais (Labeur/UFSC), vinculado ao Departamento de Geociências em parceria com o Laboratório de Planejamento Urbano e Regional (LabPlan) da Universidade do Estado de Santa Catarina (UDESC). A iniciativa conta com o apoio do Programa de Pós-Graduação em Geografia (PPGG/UFSC), do Programa de Pós-Graduação em Planejamento Territorial e Desenvolvimento Socioambiental (PPGPLAN/UDESC) e do Instituto Ignacio Rangel.\n\nAs inscrições são gratuitas e devem ser feitas neste link até 19 de novembro para apresentação de trabalhos. Será fornecido certificado de participação e a possibilidade de publicação de trabalho nos Cadernos Geográficos da UFSC.\n\nO evento irá reunir pesquisas em Geografia da UFSC e da UDESC e homenagear o centenário do geógrafo Carlos Augusto de Figueiredo Monteiro. Será um espaço de diálogo acadêmico e reflexão crítica em que os dois laboratórios apresentam à comunidade universitária e ao público externo as pesquisas desenvolvidas por seus membros, em áreas como Geografia Urbana, Regional, Econômica, Agrária e Planejamento Territorial. Os temas abordados vão da logística e da geopolítica à energia, ao agronegócio e à reestruturação urbana.\n\nNascido em 23 de março de 1927, Carlos Augusto de Figueiredo Monteiro é uma referência da climatologia geográfica e um dos grandes nomes do pensamento geográfico brasileiro, com contribuição marcante também para a geografia catarinense.\n\nO formato do seminário remete à tradição de orientação coletiva e debate plural implementada pelo professor Armen Mamigonian nos primeiros anos do PPGG, em encontros que contaram com a participação de nomes como Ignacio Rangel e Milton Santos. A segunda edição, realizada em junho de 2025, reuniu 16 trabalhos publicados em anais.\n\nPodem inscrever trabalhos estudantes de graduação e pós-graduação (mestrado e doutorado), pesquisadores e egressos vinculados aos laboratórios, além de convidados externos. Não é necessário enviar o trabalho no ato da inscrição: o texto completo será solicitado apenas em 2027, para publicação nos Anais. A participação como ouvinte é aberta e gratuita a toda a comunidade, interna e externa à Universidade.\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Labeur, pelo e-mail labeur.operacional@gmail.com ou no Instagram.",
       "tags": [
         "seminário",
         "cadernos geográficos",
@@ -74,7 +74,7 @@
       ],
       "category": "palestra",
       "is_free": true,
-      "is_all_day": false
+      "is_all_day": true
     },
     {
       "source_id": "agecom:298710",
@@ -94,29 +94,6 @@
       ],
       "category": "palestra",
       "is_free": null,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:296383",
-      "name": "Cine Meridianum – O Nome da Rosa",
-      "start_date": "2026-11-26T17:00:00.000Z",
-      "end_date": "2026-11-26T17:15:00.000Z",
-      "location": "Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/09/o-nome-da-rosa-768x1085.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/cine-meridianum-o-nome-da-rosa/",
-      "description": "O Cine Meridianum, promovido pelo Núcleo Interdisciplinar de Estudos Medievais (Meridianum) da Universidade Federal de Santa Catarina (UFSC), exibe o filme O Nome do Rosa, 1986, de Jean-Jacques Annaud, no dia 26 de novembro, às 14 horas no Auditório do Bloco E, do Centro de Filosofia e Ciências Humanas (CFH). A entrada é gratuita e aberta ao público, com direito a certificado. Ao final da exibição haverá roda de debates.\n\nSinopse\n\nNo século XIV, o monge franciscano Guilherme de Baskerville e seu jovem noviço chegam a uma conferência e descobrem que vários monges foram assassinados em circunstâncias misteriosas. Para solucionar os crimes, Guilherme precisa se rebelar contra a autoridade da Igreja e combater a conspiração obscura dos monges do mosteiro, usando apenas sua inteligência, que é considerável.\n\nPara mais informações acesse o site e o Instagram do Meridianum.",
-      "tags": [
-        "cinema",
-        "debate",
-        "filme",
-        "centro de filosofia e ciência humanas (cfh)",
-        "cine meridianum",
-        "filme o nome da rosa"
-      ],
-      "category": "palestra",
-      "is_free": true,
       "is_all_day": false
     },
     {
@@ -258,7 +235,7 @@
       "image_url": "https://noticias.ufsc.br/files/2026/11/A-Lição-768x1086.jpeg",
       "ticket_url": null,
       "info_url": "https://noticias.ufsc.br/event/processos-criativos-espetaculos-teatrais/",
-      "description": "Estudantes da disciplina de Processos Criativos do curso de Artes Cênicas da Universidade Federal de Santa Catarina (UFSC) apresentam nos dias 30 de novembro, 02, 04, 07, 08, 09 e 11 de dezembro uma sequência de espetáculos teatrais gratuitos, que integram a Mostra de Artes Cênicas 2026.2. Ao todo, serão sete apresentações com temas diferentes entre si que serão apresentadas na Caixa Preta (Bloco D do CCE) e no Teatro Carmen Fossari. A retirada de ingressos ocorrerá 30 minutos antes de cada sessão.\n\nAs monatagens abordam assuntos como machismo, conflito conjugal, saúde mental, crítica ao consumismo, cultura indígena e quilombola. Todo o trabalho de escolha da poética, adaptação de textos, concepções, desenvolvimento de personagens e ensaios foi construído durante o segundo semestre de 2026. Os estudantes contaram com o apoio dos professores da disciplina e também de estruturas da própria Universidade, como o Laboratório de Figurinos (LabFig), Laboratório de Estudos em Iluminação Cênica (LabLuz), o Laboratório de Cenotécnica e o Departamento Artístico Cultural (DAC).\n\nO público pode conferir a autoclassificação indicativa de cada espetáculo no site de divulgação, pois algumas montagens podem conter elementos potencialmente desencadeadores (gatilhos), como: luzes estroboscópicas, efeitos sonoros intensos, representações de violência, linguagem adulta e palavrões.\n\nEspetáculos na Caixa Preta, localizada no andar térreo do Bloco D do Centro de Comunicação e Expressão (CCE/UFSC):\n\nAlvorecer – 30/11, às 19h30\n\nUbuntu – eu sou porque nós somos – 02/12, às 20h\n\nA Lição – 04/12, às 19h e 20h30 (sessão dupla)\n\nO papel de parede amarelo – 07/12, às 19h30\n\nSimpatia – 11/12, às 19h\n\nEspetáculo no Teatro Carmen Fossari (Teatrinho da UFSC)\n\nO Santo e a Porca – 08/12, às 19h\n\nMais informações sobre cada espetáculo no site.",
+      "description": "Estudantes da disciplina de Processos Criativos do curso de Artes Cênicas da Universidade Federal de Santa Catarina (UFSC) apresentam nos dias 30 de novembro, 02, 04, 07, 08, 09 e 11 de dezembro uma sequência de espetáculos teatrais gratuitos, que integram a Mostra de Artes Cênicas 2026.2. Ao todo, serão sete apresentações com temas diferentes entre si que serão apresentadas na Caixa Preta (Bloco D do CCE) e no Teatro Carmen Fossari. A retirada de ingressos ocorrerá 30 minutos antes de cada sessão.\n\nAs montagens abordam assuntos como machismo, conflito conjugal, saúde mental, crítica ao consumismo, cultura indígena e quilombola. Todo o trabalho de escolha da poética, adaptação de textos, concepções, desenvolvimento de personagens e ensaios foi construído durante o segundo semestre de 2026. Os estudantes contaram com o apoio dos professores da disciplina e também de estruturas da própria Universidade, como o Laboratório de Figurinos (LabFig), Laboratório de Estudos em Iluminação Cênica (LabLuz), o Laboratório de Cenotécnica e o Departamento Artístico Cultural (DAC).\n\nO público pode conferir a autoclassificação indicativa de cada espetáculo no site de divulgação, pois algumas montagens podem conter elementos potencialmente desencadeadores (gatilhos), como: luzes estroboscópicas, efeitos sonoros intensos, representações de violência, linguagem adulta e palavrões.\n\nEspetáculos na Caixa Preta, localizada no andar térreo do Bloco D do Centro de Comunicação e Expressão (CCE/UFSC):\n\nAlvorecer – 30/11, às 19h30\n\nUbuntu – eu sou porque nós somos – 02/12, às 20h\n\nA Lição – 04/12, às 19h e 20h30 (sessão dupla)\n\nO papel de parede amarelo – 07/12, às 19h30\n\nSimpatia – 11/12, às 19h\n\nEspetáculo no Teatro Carmen Fossari (Teatrinho da UFSC)\n\nO Santo e a Porca – 08/12, às 19h\n\nMais informações sobre cada espetáculo no site.",
       "tags": [
         "espetáculo",
         "teatro",
