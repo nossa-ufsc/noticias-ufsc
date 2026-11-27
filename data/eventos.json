@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T09:13:03.344Z",
+  "geradoEm": "2026-11-27T18:13:03.861Z",
   "fontes": [
     {
       "fonte": "agecom",
@@ -7,11 +7,11 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-27T09:13:03.344Z",
-      "totalNoFeed": 58,
-      "selecionados": 18,
+      "ultimoSucesso": "2026-11-27T18:13:03.861Z",
+      "totalNoFeed": 125,
+      "selecionados": 21,
       "ignorados": {
-        "ja-passou": 40
+        "ja-passou": 104
       },
       "erros": []
     },
@@ -21,7 +21,7 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-27T09:13:03.344Z",
+      "ultimoSucesso": "2026-11-27T18:13:03.861Z",
       "totalNoFeed": 15,
       "selecionados": 1,
       "ignorados": {
@@ -31,6 +31,30 @@
     }
   ],
   "eventos": [
+    {
+      "source_id": "agecom:297700",
+      "name": "3º Seminário Interno Labeur & LabPlan",
+      "start_date": "2026-11-26T03:00:00.000Z",
+      "end_date": "2026-11-27T02:59:59.000Z",
+      "location": "Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/10/Seminário-819x1024.jpeg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/3o-seminario-interno-labeur-labplan/",
+      "description": "O III Seminário Interno Labeur & LabPlan ocorre no dia 26 de novembro de 2026 no Centro de Filosofia e Ciências Humanas da Universidade Federal de Santa Catarina (UFSC/CFH). O evento é promovido pelo Laboratório de Estudos Urbanos e Regionais (Labeur/UFSC), vinculado ao Departamento de Geociências em parceria com o Laboratório de Planejamento Urbano e Regional (LabPlan) da Universidade do Estado de Santa Catarina (UDESC). A iniciativa conta com o apoio do Programa de Pós-Graduação em Geografia (PPGG/UFSC), do Programa de Pós-Graduação em Planejamento Territorial e Desenvolvimento Socioambiental (PPGPLAN/UDESC) e do Instituto Ignacio Rangel.\n\nAs inscrições são gratuitas e devem ser feitas neste link até 19 de novembro para apresentação de trabalhos. Será fornecido certificado de participação e a possibilidade de publicação de trabalho nos Cadernos Geográficos da UFSC.\n\nO evento irá reunir pesquisas em Geografia da UFSC e da UDESC e homenagear o centenário do geógrafo Carlos Augusto de Figueiredo Monteiro. Será um espaço de diálogo acadêmico e reflexão crítica em que os dois laboratórios apresentam à comunidade universitária e ao público externo as pesquisas desenvolvidas por seus membros, em áreas como Geografia Urbana, Regional, Econômica, Agrária e Planejamento Territorial. Os temas abordados vão da logística e da geopolítica à energia, ao agronegócio e à reestruturação urbana.\n\nNascido em 23 de março de 1927, Carlos Augusto de Figueiredo Monteiro é uma referência da climatologia geográfica e um dos grandes nomes do pensamento geográfico brasileiro, com contribuição marcante também para a geografia catarinense.\n\nO formato do seminário remete à tradição de orientação coletiva e debate plural implementada pelo professor Armen Mamigonian nos primeiros anos do PPGG, em encontros que contaram com a participação de nomes como Ignacio Rangel e Milton Santos. A segunda edição, realizada em junho de 2025, reuniu 16 trabalhos publicados em anais.\n\nPodem inscrever trabalhos estudantes de graduação e pós-graduação (mestrado e doutorado), pesquisadores e egressos vinculados aos laboratórios, além de convidados externos. Não é necessário enviar o trabalho no ato da inscrição: o texto completo será solicitado apenas em 2027, para publicação nos Anais. A participação como ouvinte é aberta e gratuita a toda a comunidade, interna e externa à Universidade.\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Labeur, pelo e-mail labeur.operacional@gmail.com ou no Instagram.",
+      "tags": [
+        "seminário",
+        "cadernos geográficos",
+        "centro de filosofia e ciências humanas",
+        "cfh",
+        "labeur",
+        "labplan",
+        "udesc"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": true
+    },
     {
       "source_id": "agecom:298710",
       "name": "34º Encontro Iberoamericano de Governo Eletrônico e Inclusão Digital",
@@ -250,7 +274,7 @@
       "image_url": "https://noticias.ufsc.br/files/2026/11/Principal-Estático_CIDAD-2026-578x770.png",
       "ticket_url": null,
       "info_url": "https://noticias.ufsc.br/event/seminario-de-confiabilidade-informacional-2026/",
-      "description": "O Centro de Informação e Dados sobre Informação (CIDAD), projeto de extensão desenvolvido pela Universidade do Estado de Santa Catarina (Udesc) e pela Biblioteca Universitária da Universidade Federal de Santa Catarina (BU/UFSC), divulgou a programação completa da sexta edição do Seminário de Confiabilidade Informacional 2026, que neste ano tem como tema Realidade Sintética, Guerra Informacional e o Futuro do Conhecimento. O evento será realizado nos dias 2 e 3 de dezembro, em formato online, com transmissão pelo canal do canal do CIDAD no YouTube.\n\nCom quatro mesas de debate e a participação de 12 palestrantes de diferentes instituições, o seminário propõe uma reflexão sobre os desafios contemporâneos da confiabilidade informacional diante do avanço das tecnologias digitais, da inteligência artificial e da concentração de poder econômico e tecnológico nas grandes empresas de tecnologia. A programação aborda questões relacionadas à guerra informacional, à soberania digital, às transformações cognitivas provocadas pela inteligência artificial generativa e ao papel das bibliotecas, da leitura e das instituições científicas na construção e na preservação do conhecimento.\n\nO debate ganha relevância diante do avanço da inteligência artificial agêntica e da crescente presença de conteúdos sintéticos nos ambientes digitais. Essas transformações impactam diretamente as formas de interação, a percepção da realidade e os processos de produção, circulação e validação do conhecimento. Outro eixo central do evento será a discussão sobre as disputas geopolíticas e informacionais, considerando o poder das big techs na gestão dos fluxos de informação, na vigilância de dados e na modulação de narrativas. O seminário também pretende discutir os riscos de deterioração epistêmica e científica, os desafios para a democracia e as possibilidades de construção de caminhos para a soberania tecnológica.\n\nProgramação\n\n2 de dezembro (quarta-feira)\n\n10h às 12h – Abertura e Mesa 1: Guerra informacional\n\n•\nLetícia Cesarino (UFSC)\n\n•\nPaolo Demuru (ESPM)\n\n•\nMarilda Silveira (IDP/IBRADE)\n\nMediação: José Claudio Matos (UDESC/CIDAD).\n\n14h às 16h – Mesa 2: Bibliotecas, leitura e o futuro do conhecimento\n\n•\nLourenço Mutarelli\n\n•\nAlexandre Linck (Unisul)\n\n•\nDaniele Achilles (Unirio)\n\nMediação: José Claudio Matos (Udesc/CIDAD).\n\n3 de dezembro (quinta-feira)\n\n10h às 12h – Mesa 3: Realidade sintética e cognição social\n\n•\nLidiane da Silva\n\n•\nLeticia Moraes (UFPB)\n\n•\nLuis Henrique Gonçalves (USP)\n\nMediação: Suely Figueiredo (CIDAD).\n\n14h às 16h – Mesa 4: Soberania digital\n\n•\nWalter Lippold (UFRGS)\n\n•\nSérgio Amadeu (UFABC)\n\n•\nRoseli Fígaro (USP)\n\nMediação: Marcos Alves (Unesp/CIDAD).\n\nPara mais informações sobre o evento através do site do projeto CIDAD ou pelo instagram @confiabilidadeinformacional",
+      "description": "Confiabilidade Informacional e Combate à Desinformação no Ambiente Digital (CIDAD), projeto de extensão desenvolvido pela Universidade do Estado de Santa Catarina (Udesc) e pela Biblioteca Universitária da Universidade Federal de Santa Catarina (BU/UFSC), divulgou a programação completa da sexta edição do Seminário de Confiabilidade Informacional 2026, que neste ano tem como tema Realidade Sintética, Guerra Informacional e o Futuro do Conhecimento. O evento será realizado nos dias 2 e 3 de dezembro, em formato online, com transmissão pelo canal do canal do CIDAD no YouTube.\n\nCom quatro mesas de debate e a participação de 12 palestrantes de diferentes instituições, o seminário propõe uma reflexão sobre os desafios contemporâneos da confiabilidade informacional diante do avanço das tecnologias digitais, da inteligência artificial e da concentração de poder econômico e tecnológico nas grandes empresas de tecnologia. A programação aborda questões relacionadas à guerra informacional, à soberania digital, às transformações cognitivas provocadas pela inteligência artificial generativa e ao papel das bibliotecas, da leitura e das instituições científicas na construção e na preservação do conhecimento.\n\nO debate ganha relevância diante do avanço da inteligência artificial agêntica e da crescente presença de conteúdos sintéticos nos ambientes digitais. Essas transformações impactam diretamente as formas de interação, a percepção da realidade e os processos de produção, circulação e validação do conhecimento. Outro eixo central do evento será a discussão sobre as disputas geopolíticas e informacionais, considerando o poder das big techs na gestão dos fluxos de informação, na vigilância de dados e na modulação de narrativas. O seminário também pretende discutir os riscos de deterioração epistêmica e científica, os desafios para a democracia e as possibilidades de construção de caminhos para a soberania tecnológica.\n\nProgramação\n\n2 de dezembro (quarta-feira)\n\n10h às 12h – Abertura e Mesa 1: Guerra informacional\n\n•\nLetícia Cesarino (UFSC)\n\n•\nPaolo Demuru (ESPM)\n\n•\nMarilda Silveira (IDP/IBRADE)\n\nMediação: José Claudio Matos (UDESC/CIDAD).\n\n14h às 16h – Mesa 2: Bibliotecas, leitura e o futuro do conhecimento\n\n•\nLourenço Mutarelli\n\n•\nAlexandre Linck (Unisul)\n\n•\nDaniele Achilles (Unirio)\n\nMediação: José Claudio Matos (Udesc/CIDAD).\n\n3 de dezembro (quinta-feira)\n\n10h às 12h – Mesa 3: Realidade sintética e cognição social\n\n•\nLidiane da Silva\n\n•\nLeticia Moraes (UFPB)\n\n•\nLuis Henrique Gonçalves (USP)\n\nMediação: Suely Figueiredo (CIDAD).\n\n14h às 16h – Mesa 4: Soberania digital\n\n•\nWalter Lippold (UFRGS)\n\n•\nSérgio Amadeu (UFABC)\n\n•\nRoseli Fígaro (USP)\n\nMediação: Marcos Alves (Unesp/CIDAD).\n\nPara mais informações sobre o evento através do site do projeto CIDAD ou pelo instagram @confiabilidadeinformacional",
       "tags": [
         "seminário",
         "bu/ufsc",
@@ -348,6 +372,48 @@
         "transgeneridades"
       ],
       "category": "palestra",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:299018",
+      "name": "Colóquio Internacional de Drama Indiano Contemporâneo",
+      "start_date": "2026-12-08T03:00:00.000Z",
+      "end_date": "2026-12-09T02:59:59.000Z",
+      "location": "Sala Machado de Assis, no bloco B do Centro de Comunicação e Expressão (CCE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/PROGRAMAÇÃO-5-1-1024x717.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/coloquio-internacional-de-drama-indiano-contemporaneo/",
+      "description": "O Núcleo de Estudos em Encenação Teatral e Escrita Dramática (NEEDRAM/UFSC) realiza, nos dias 8 e 9 de dezembro, a segunda edição da série Colóquios Internacionais, desta vez dedicada ao tema Drama Indiano Contemporâneo. O evento é voltado a estudantes, pesquisadores e à comunidade acadêmica e artística interessada nas discussões sobre dramaturgia e teatro indiano contemporâneo.\n\nO Colóquio será realizado das 8h30 às 17h30, em formato híbrido, com atividades presenciais na Sala Machado de Assis, localizada no bloco B do Centro de Comunicação e Expressão (CCE), no campus Trindade da Universidade Federal de Santa Catarina (UFSC), e com participação on-line, por meio de link que será disponibilizado posteriormente. Os participantes terão direito a certificado de 20 horas.\n\nA iniciativa busca promover o intercâmbio de conhecimentos e ampliar o diálogo acadêmico e artístico sobre a produção dramática indiana contemporânea, reunindo pessoas interessadas no estudo e na reflexão sobre o teatro e a dramaturgia. As inscrições são gratuitas e devem ser realizadas por meio de formulário on-line: Clique aqui para realizar sua inscrição\n\nMais informações: needram.ufsc@gmail.com",
+      "tags": [
+        "colóquio",
+        "centro de comunicação e expressão (cce)"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": true
+    },
+    {
+      "source_id": "agecom:297360",
+      "name": "Clube de Leitura dos Horrores: ‘Candyman’",
+      "start_date": "2026-12-10T21:30:00.000Z",
+      "end_date": "2026-12-10T22:30:00.000Z",
+      "location": "Sala 211/LEC - Bloco D - Centro de Comunicação e Expressão (CCE)",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/10/Leitura_dos_Horrores_Candyman.jpg",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/clube-de-leitura-dos-horrores-candyman/",
+      "description": "O projeto de extensão Clube de Leitura dos Horrores, vinculado ao Departamento de Artes da Universidade Federal de Santa Catarina (UFSC), segue as atividades do semestre 2026.2, reunindo mensalmente admiradores de histórias de horror, monstros, fantasmas e outras formas do insólito.\n\nNo dia 10 de dezembro, às 18h30, o grupo promove o debate sobre o romance “Candyman”, de Clive Barker. O encontro será realizado na sala 211/LEC, Bloco D do Centro de Comunicação e Expressão (CCE). Esta é uma atividade de extensão promovida pelo Departamento de Artes da UFSC, aberta à comunidade, gratuita e com emissão de certificados para as pessoas participantes.\n\nO Clube de Leitura dos Horrores é realizado pelo Grupo FantastiCatarina, em parceria com o Programa de Pós-Graduação em Literatura da UFSC. Os encontros são realizados uma vez por mês, de março a dezembro. A programação anual completa pode ser conferida no perfil do Instagram @fantasticatarina.",
+      "tags": [
+        "clube de leitura",
+        "projeto",
+        "centro de comunicação e expressão (cce)",
+        "clube de leitura dos horrores",
+        "fantasticatarina",
+        "universidade federal"
+      ],
+      "category": "outro",
       "is_free": true,
       "is_all_day": false
     },
