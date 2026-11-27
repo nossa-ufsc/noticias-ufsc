@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T18:13:03.128Z",
+  "geradoEm": "2026-11-27T03:26:14.594Z",
   "fontes": [
     {
       "fonte": "agecom",
@@ -7,9 +7,9 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-26T18:13:03.128Z",
-      "totalNoFeed": 59,
-      "selecionados": 19,
+      "ultimoSucesso": "2026-11-27T03:26:14.594Z",
+      "totalNoFeed": 58,
+      "selecionados": 18,
       "ignorados": {
         "ja-passou": 40
       },
@@ -21,7 +21,7 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-26T18:13:03.128Z",
+      "ultimoSucesso": "2026-11-27T03:26:14.594Z",
       "totalNoFeed": 15,
       "selecionados": 1,
       "ignorados": {
@@ -31,51 +31,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:298950",
-      "name": "Exposição: Primeiros Olhares",
-      "start_date": "2026-11-25T10:00:00.000Z",
-      "end_date": "2026-11-25T22:00:00.000Z",
-      "location": "Espaço Expositivo do Centro de Cultura e Eventos",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/11/IMG_20261125_101405084_AE-1024x576.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/exposicao-primeiros-olhares/",
-      "description": "O Espaço Expositivo do Centro de Cultura e Eventos da Universidade Federal de Santa Catarina (UFSC) recebe, até 18 de dezembro, a exposição Primeiros Olhares, da pintora catarinense e estudante de Direito Amanda Ballico.\n\nEm sua primeira mostra individual, a artista reúne obras que refletem seis anos de dedicação à pintura a óleo, sob a orientação do artista plástico Zélio Andrezzo. As telas combinam técnicas clássicas com sua identidade visual e convidam o público a apreciar a beleza das cenas simples do cotidiano.\n\nA mostra permanecerá aberta para visitação gratuita de segunda a sexta-feira, das 7h às 19h, no piso térreo do Centro de Cultura e Eventos. A partir de 14 de dezembro, o horário será das 7h às 13h.\n\nServiço\n\nO quê: Exposição Primeiros Olhares\n\nQuando: 17/11/2026 à 18/12/2026\n\nHorário: De segunda a sexta-feira, das 7h às 19h. A partir de 14/12, das 7h às 13h\n\nOnde: Espaço Expositivo do Centro de Cultura e Eventos da UFSC – piso térreo\n\nMais informações pelo Instagram.",
-      "tags": [
-        "exposição",
-        "centro de cultura e eventos",
-        "exposição primeiros olhares",
-        "pintura a óleo"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:297700",
-      "name": "3º Seminário Interno Labeur & LabPlan",
-      "start_date": "2026-11-26T03:00:00.000Z",
-      "end_date": "2026-11-27T02:59:59.000Z",
-      "location": "Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/Seminário-819x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/3o-seminario-interno-labeur-labplan/",
-      "description": "O III Seminário Interno Labeur & LabPlan ocorre no dia 26 de novembro de 2026 no Centro de Filosofia e Ciências Humanas da Universidade Federal de Santa Catarina (UFSC/CFH). O evento é promovido pelo Laboratório de Estudos Urbanos e Regionais (Labeur/UFSC), vinculado ao Departamento de Geociências em parceria com o Laboratório de Planejamento Urbano e Regional (LabPlan) da Universidade do Estado de Santa Catarina (UDESC). A iniciativa conta com o apoio do Programa de Pós-Graduação em Geografia (PPGG/UFSC), do Programa de Pós-Graduação em Planejamento Territorial e Desenvolvimento Socioambiental (PPGPLAN/UDESC) e do Instituto Ignacio Rangel.\n\nAs inscrições são gratuitas e devem ser feitas neste link até 19 de novembro para apresentação de trabalhos. Será fornecido certificado de participação e a possibilidade de publicação de trabalho nos Cadernos Geográficos da UFSC.\n\nO evento irá reunir pesquisas em Geografia da UFSC e da UDESC e homenagear o centenário do geógrafo Carlos Augusto de Figueiredo Monteiro. Será um espaço de diálogo acadêmico e reflexão crítica em que os dois laboratórios apresentam à comunidade universitária e ao público externo as pesquisas desenvolvidas por seus membros, em áreas como Geografia Urbana, Regional, Econômica, Agrária e Planejamento Territorial. Os temas abordados vão da logística e da geopolítica à energia, ao agronegócio e à reestruturação urbana.\n\nNascido em 23 de março de 1927, Carlos Augusto de Figueiredo Monteiro é uma referência da climatologia geográfica e um dos grandes nomes do pensamento geográfico brasileiro, com contribuição marcante também para a geografia catarinense.\n\nO formato do seminário remete à tradição de orientação coletiva e debate plural implementada pelo professor Armen Mamigonian nos primeiros anos do PPGG, em encontros que contaram com a participação de nomes como Ignacio Rangel e Milton Santos. A segunda edição, realizada em junho de 2025, reuniu 16 trabalhos publicados em anais.\n\nPodem inscrever trabalhos estudantes de graduação e pós-graduação (mestrado e doutorado), pesquisadores e egressos vinculados aos laboratórios, além de convidados externos. Não é necessário enviar o trabalho no ato da inscrição: o texto completo será solicitado apenas em 2027, para publicação nos Anais. A participação como ouvinte é aberta e gratuita a toda a comunidade, interna e externa à Universidade.\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Labeur, pelo e-mail labeur.operacional@gmail.com ou no Instagram.",
-      "tags": [
-        "seminário",
-        "cadernos geográficos",
-        "centro de filosofia e ciências humanas",
-        "cfh",
-        "labeur",
-        "labplan",
-        "udesc"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": true
-    },
     {
       "source_id": "agecom:298710",
       "name": "34º Encontro Iberoamericano de Governo Eletrônico e Inclusão Digital",
@@ -284,6 +239,27 @@
       "category": "palestra",
       "is_free": null,
       "is_all_day": false
+    },
+    {
+      "source_id": "agecom:298969",
+      "name": "Seminário de Confiabilidade Informacional 2026",
+      "start_date": "2026-12-02T03:00:00.000Z",
+      "end_date": "2026-12-04T02:59:59.000Z",
+      "location": "Canal do canal do CIDAD no YouTube",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/Principal-Estático_CIDAD-2026-578x770.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/seminario-de-confiabilidade-informacional-2026/",
+      "description": "O Centro de Informação e Dados sobre Informação (CIDAD), projeto de extensão desenvolvido pela Universidade do Estado de Santa Catarina (Udesc) e pela Biblioteca Universitária da Universidade Federal de Santa Catarina (BU/UFSC), divulgou a programação completa da sexta edição do Seminário de Confiabilidade Informacional 2026, que neste ano tem como tema Realidade Sintética, Guerra Informacional e o Futuro do Conhecimento. O evento será realizado nos dias 2 e 3 de dezembro, em formato online, com transmissão pelo canal do canal do CIDAD no YouTube.\n\nCom quatro mesas de debate e a participação de 12 palestrantes de diferentes instituições, o seminário propõe uma reflexão sobre os desafios contemporâneos da confiabilidade informacional diante do avanço das tecnologias digitais, da inteligência artificial e da concentração de poder econômico e tecnológico nas grandes empresas de tecnologia. A programação aborda questões relacionadas à guerra informacional, à soberania digital, às transformações cognitivas provocadas pela inteligência artificial generativa e ao papel das bibliotecas, da leitura e das instituições científicas na construção e na preservação do conhecimento.\n\nO debate ganha relevância diante do avanço da inteligência artificial agêntica e da crescente presença de conteúdos sintéticos nos ambientes digitais. Essas transformações impactam diretamente as formas de interação, a percepção da realidade e os processos de produção, circulação e validação do conhecimento. Outro eixo central do evento será a discussão sobre as disputas geopolíticas e informacionais, considerando o poder das big techs na gestão dos fluxos de informação, na vigilância de dados e na modulação de narrativas. O seminário também pretende discutir os riscos de deterioração epistêmica e científica, os desafios para a democracia e as possibilidades de construção de caminhos para a soberania tecnológica.\n\nProgramação\n\n2 de dezembro (quarta-feira)\n\n10h às 12h – Abertura e Mesa 1: Guerra informacional\n\n•\nLetícia Cesarino (UFSC)\n\n•\nPaolo Demuru (ESPM)\n\n•\nMarilda Silveira (IDP/IBRADE)\n\nMediação: José Claudio Matos (UDESC/CIDAD).\n\n14h às 16h – Mesa 2: Bibliotecas, leitura e o futuro do conhecimento\n\n•\nLourenço Mutarelli\n\n•\nAlexandre Linck (Unisul)\n\n•\nDaniele Achilles (Unirio)\n\nMediação: José Claudio Matos (Udesc/CIDAD).\n\n3 de dezembro (quinta-feira)\n\n10h às 12h – Mesa 3: Realidade sintética e cognição social\n\n•\nLidiane da Silva\n\n•\nLeticia Moraes (UFPB)\n\n•\nLuis Henrique Gonçalves (USP)\n\nMediação: Suely Figueiredo (CIDAD).\n\n14h às 16h – Mesa 4: Soberania digital\n\n•\nWalter Lippold (UFRGS)\n\n•\nSérgio Amadeu (UFABC)\n\n•\nRoseli Fígaro (USP)\n\nMediação: Marcos Alves (Unesp/CIDAD).\n\nPara mais informações sobre o evento através do site do projeto CIDAD ou pelo instagram @confiabilidadeinformacional",
+      "tags": [
+        "seminário",
+        "bu/ufsc",
+        "projeto cidad",
+        "udesc"
+      ],
+      "category": "palestra",
+      "is_free": true,
+      "is_all_day": true
     },
     {
       "source_id": "agecom:297865",
