@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T18:13:03.861Z",
+  "geradoEm": "2026-11-28T09:13:04.128Z",
   "fontes": [
     {
       "fonte": "agecom",
@@ -7,11 +7,11 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-27T18:13:03.861Z",
-      "totalNoFeed": 125,
-      "selecionados": 21,
+      "ultimoSucesso": "2026-11-28T09:13:04.128Z",
+      "totalNoFeed": 77,
+      "selecionados": 17,
       "ignorados": {
-        "ja-passou": 104
+        "ja-passou": 60
       },
       "erros": []
     },
@@ -21,7 +21,7 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-27T18:13:03.861Z",
+      "ultimoSucesso": "2026-11-28T09:13:04.128Z",
       "totalNoFeed": 15,
       "selecionados": 1,
       "ignorados": {
@@ -31,124 +31,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:297700",
-      "name": "3º Seminário Interno Labeur & LabPlan",
-      "start_date": "2026-11-26T03:00:00.000Z",
-      "end_date": "2026-11-27T02:59:59.000Z",
-      "location": "Centro de Filosofia e Ciências Humanas (CFH/UFSC)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/10/Seminário-819x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/3o-seminario-interno-labeur-labplan/",
-      "description": "O III Seminário Interno Labeur & LabPlan ocorre no dia 26 de novembro de 2026 no Centro de Filosofia e Ciências Humanas da Universidade Federal de Santa Catarina (UFSC/CFH). O evento é promovido pelo Laboratório de Estudos Urbanos e Regionais (Labeur/UFSC), vinculado ao Departamento de Geociências em parceria com o Laboratório de Planejamento Urbano e Regional (LabPlan) da Universidade do Estado de Santa Catarina (UDESC). A iniciativa conta com o apoio do Programa de Pós-Graduação em Geografia (PPGG/UFSC), do Programa de Pós-Graduação em Planejamento Territorial e Desenvolvimento Socioambiental (PPGPLAN/UDESC) e do Instituto Ignacio Rangel.\n\nAs inscrições são gratuitas e devem ser feitas neste link até 19 de novembro para apresentação de trabalhos. Será fornecido certificado de participação e a possibilidade de publicação de trabalho nos Cadernos Geográficos da UFSC.\n\nO evento irá reunir pesquisas em Geografia da UFSC e da UDESC e homenagear o centenário do geógrafo Carlos Augusto de Figueiredo Monteiro. Será um espaço de diálogo acadêmico e reflexão crítica em que os dois laboratórios apresentam à comunidade universitária e ao público externo as pesquisas desenvolvidas por seus membros, em áreas como Geografia Urbana, Regional, Econômica, Agrária e Planejamento Territorial. Os temas abordados vão da logística e da geopolítica à energia, ao agronegócio e à reestruturação urbana.\n\nNascido em 23 de março de 1927, Carlos Augusto de Figueiredo Monteiro é uma referência da climatologia geográfica e um dos grandes nomes do pensamento geográfico brasileiro, com contribuição marcante também para a geografia catarinense.\n\nO formato do seminário remete à tradição de orientação coletiva e debate plural implementada pelo professor Armen Mamigonian nos primeiros anos do PPGG, em encontros que contaram com a participação de nomes como Ignacio Rangel e Milton Santos. A segunda edição, realizada em junho de 2025, reuniu 16 trabalhos publicados em anais.\n\nPodem inscrever trabalhos estudantes de graduação e pós-graduação (mestrado e doutorado), pesquisadores e egressos vinculados aos laboratórios, além de convidados externos. Não é necessário enviar o trabalho no ato da inscrição: o texto completo será solicitado apenas em 2027, para publicação nos Anais. A participação como ouvinte é aberta e gratuita a toda a comunidade, interna e externa à Universidade.\n\nPara se inscrever, acesse aqui.\n\nMais informações na página do Labeur, pelo e-mail labeur.operacional@gmail.com ou no Instagram.",
-      "tags": [
-        "seminário",
-        "cadernos geográficos",
-        "centro de filosofia e ciências humanas",
-        "cfh",
-        "labeur",
-        "labplan",
-        "udesc"
-      ],
-      "category": "palestra",
-      "is_free": true,
-      "is_all_day": true
-    },
-    {
-      "source_id": "agecom:298710",
-      "name": "34º Encontro Iberoamericano de Governo Eletrônico e Inclusão Digital",
-      "start_date": "2026-11-26T17:00:00.000Z",
-      "end_date": "2026-11-27T20:00:00.000Z",
-      "location": "UFSC",
-      "campus": "florianopolis",
-      "image_url": "",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/34o-encontro-iberoamericano-de-governo-eletronico-e-inclusao-digital/",
-      "description": "O grupo de pesquisa Governo Eletrônico, Inclusão Digital e Sociedade do Conhecimento (EGOV/UFSC) realiza, nos dias 26 e 27 de novembro de 2026, o 34º Encontro Iberoamericano de Governo Eletrônico e Inclusão Digital. O tema desta edição é Governo eletrônico e as novas tecnologias de Inteligência Artificial.\n\nA programação reúne pesquisadores do Brasil e do exterior para discutir o uso da inteligência artificial no setor público e no Poder Judiciário. Entre os assuntos estão governança, regulação, responsabilidade, devido processo, eleições e transformação digital. Ao todo, são onze palestras, distribuídas nas tardes de quinta-feira (26) e sexta-feira (27), das 14h às 17h. Na sexta-feira pela manhã, das 9h às 12h, são apresentados os 13 (treze) artigos selecionados na chamada de trabalhos.\n\nO evento é 100% online, com transmissão aberta pelo canal do Grupo EGOV/UFSC no YouTube, sem necessidade de inscrição. Os horários seguem o fuso de Brasília.",
-      "tags": [
-        "encontro",
-        "webinar",
-        "egov/ufsc"
-      ],
-      "category": "palestra",
-      "is_free": null,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:298843",
-      "name": "Lançamento de livro: Bíblia Versão Mulher",
-      "start_date": "2026-11-26T22:30:00.000Z",
-      "end_date": "2026-11-26T22:45:00.000Z",
-      "location": "Auditório Henrique Fontes, no Centro de Comunicação e Expressão (CCE)",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/11/IMG_20261123_104849-861x1024.jpg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/lancamento-de-livro-biblia-versao-mulher/",
-      "description": "O livro ficcional Bíblia Versão Mulher, escrito pela professora Salma Ferraz, do Departamento de Língua e Literatura Vernáculas (DLLV) da Universidade Federal de Santa Catarina (UFSC), será lançado nesta quinta-feira, 26 de novembro, às 19h30, no Auditório Henrique Fontes, no Centro de Comunicação e Expressão (CCE). O evento, organizado pelo Núcleo de Estudos de Teopoética no Brasil (Nutel), contará com uma apresentação teatral ensaiada por alunas da Pós-Graduação.\n\n“A história resgata a voz feminina silenciada no Velho Testamento e denuncia a misoginia e o patriarcado das narrativas bíblicas. Revela outro lado desconhecido: um Israel de Saias, construído por mulheres protagonistas, que lideram batalhas e decidem histórias e destinos”, conta Salma.\n\nO livro está disponível no site da Editora Todas as Musas ou pela Amazon, com o custo de R$ 63.\n\nMais informações pelo e-mail salmaferraz@gmail.com.",
-      "tags": [
-        "lançamento de livro",
-        "teatro",
-        "cce",
-        "departamento de língua e literatura vernáculas (dllv)",
-        "núcleo de estudos de teopoética no brasil (nutel)"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:298415",
-      "name": "Evento: ‘Concerto dos Tenores di Neoneli’",
-      "start_date": "2026-11-26T23:00:00.000Z",
-      "end_date": "2026-11-26T23:15:00.000Z",
-      "location": "Museu da Escola Catarinense",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/11/Card-2-819x1024.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/evento-concerto-dos-tenores-di-neoneli/",
-      "description": "O V Colóquio Internacional Antonio Gramsci VI Encontro Nacional, evento organizado em parceria da Universidade Federal de Santa Catarina (UFSC) com a Universidade do Estado de Santa Catarina (Udesc), promove, no dia 26 de novembro, o Concerto dos Tenores di Neoneli. A apresentação será realizada às 20h no Museu da Escola Catarinense, Centro de Florianópolis.\n\nA apresentação marca os 100 anos da prisão do intelectual sardo Antonio Gramsci pelo regime fascista. Antonio Gramsci foi um pensador mundialmente conhecido e admirado pela pertinência de suas ideias e profundidade de suas análises, muitas delas ainda atuais. Através do Cantu a Tenore — uma das expressões musicais mais antigas da Sardenha, executada por seis cantores e dois instrumentistas —, o espetáculo explora a rica escrita, a formação e a militância política de Gramsci, além de sua estrutura moral e relações familiares. Com 50 anos de carreira, o grupo une a tradição poética oral sarda à atualidade do pensamento do pensador italiano.\n\nA obra não se restringe aos aspectos biográficos e à história de vida de Gramsci. O concerto percorre dados ligados à identidade do personagem, às relações com o ambiente e com a família, explorando aspectos de sua intransigente estrutura moral. Indaga ainda o percurso de formação do autor, bem como sua atuação política, sua militância, sua contraposição ao fascismo.\n\nA apresentação resulta de uma parceria dos Tenores di Neoneli com o projeto do VI Encontro Nacional e V Colóquio Internacional Antonio Gramsci da IGS-Brasil, coordenado pelas professoras Luciana Pedrosa Marcassa, do Centro de Ciências da Educação (CED) da UFSC, e Mariléia Maria da Silva, do Centro de Ciências Humanas e da Educação (Faed) da Udesc.\n\nO evento é gratuito e aberto ao público.\n\nMais informações na página do evento.",
-      "tags": [
-        "apresentação",
-        "apresentação musical",
-        "encontro",
-        "performance",
-        "ced",
-        "centro de ciências da educação",
-        "concerto",
-        "faed/udesc",
-        "museu da escola catarinense"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
-    {
-      "source_id": "agecom:298418",
-      "name": "Espetáculo: ‘O Sonho do Ovo’",
-      "start_date": "2026-11-26T23:30:00.000Z",
-      "end_date": "2026-11-26T23:45:00.000Z",
-      "location": "Caixa Preta do Centro de Comunicação e Expressão (CCE/UFSC).",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/11/Fotografia-de-Naluartt-768x1365.jpeg",
-      "ticket_url": "https://www.sympla.com.br/evento/o-sonho-do-ovo---26-a-28-de-novembro/3620295",
-      "info_url": "https://noticias.ufsc.br/event/espetaculo-o-sonho-do-ovo/",
-      "description": "Nos dias 26, 27 e 28 de novembro, às 20h30, a Caixa Preta, no Centro de Comunicação e Expressão (CCE) da Universidade Federal de Santa Catarina (UFSC), recebe o espetáculo de teatro-dança O Sonho do Ovo. A obra propõe uma experiência poética que parte da atmosfera do sonho para explorar as transformações da vida, dos seres e dos fenômenos do mundo, em diálogo com a filosofia chinesa. O espetáculo é resultado de pesquisa de pós-doutorado, criação de teatro-dança e se transforma em projeto de extensão inédito na Universidade, em parceria entre os cursos de Artes Cênicas e Letras Libras.\n\nInspirado na cosmologia taoista e no clássico literário chinês O Vazio Perfeito, atribuído ao filósofo Liezi, o espetáculo investiga a impermanência e os ciclos de transformação que atravessam a existência. Corpos, imagens e sonoridades compõem paisagens cênicas que evocam o fluxo entre aparecimento e desaparecimento, vida e morte, realidade e sonho. A cena se constrói como um poema visual e corporal, convidando o público a experimentar outras formas de perceber e imaginar o mundo.\n\nO espetáculo é resultado da pesquisa de pós-doutorado desenvolvida pela professora Débora Zamarioli, do curso de Artes Cênicas da UFSC. Ao longo do processo, a investigação artística desdobrou-se no projeto de extensão O Sonho do Ovo em Libras, que amplia a proposta original ao incorporar a Língua Brasileira de Sinais (Libras) à composição cênica, transformando o espetáculo em uma experiência bilíngue, em português e Libras.\n\nA iniciativa constitui uma experiência inédita na UFSC ao articular pesquisa artística, extensão universitária e acessibilidade cultural em uma criação cênica. O projeto é realizado em parceria entre o curso de Artes Cênicas e o curso de Letras Libras, sob coordenação da professora Débora Zamarioli, com supervisão da tradução português–Libras pela professora Marilyn Mafra Klamt, de Letras Libras.\n\nA tradução em Libras não acontece de maneira convencional ou externa à cena. A proposta de tradução corporificada integra dois intérpretes-bailarinos, Kelly Susana Matorel Silgado e Everton Luís Cardoso, à composição do espetáculo. Por meio de gestos, expressões faciais e movimentos, a língua e o corpo participam da construção dos sentidos da obra, estabelecendo uma relação entre tradução, dança e criação teatral.\n\nMais do que oferecer recursos de acessibilidade, O Sonho do Ovo propõe pensar a Libras como parte constitutiva da linguagem artística, ampliando as formas de percepção e fruição do espetáculo. A presença dos intérpretes-bailarinos em cena convida o público a experimentar uma criação em que diferentes línguas, corpos e modos de expressão compartilham o mesmo espaço poético.\n\nA entrada é gratuita, mediante reserva antecipada pelo Sympla.\n\nO projeto conta com o apoio da Pró-Reitoria de Extensão (Proex), por meio de bolsa de extensão, e da Secretaria de Cultura, Arte e Esporte (SeCArtE), por meio do Programa Bolsa Cultura.",
-      "tags": [
-        "apresentação",
-        "dança",
-        "espetáculo",
-        "artes cênicas",
-        "cce",
-        "espetáculo de dança",
-        "letras libras ufsc",
-        "secretaria de cultura arte e esporte (secarte)",
-        "teatro dança"
-      ],
-      "category": "cultura",
-      "is_free": true,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:298409",
       "name": "Performance: ‘Nada será devolvido em silêncio’",
@@ -179,7 +61,7 @@
       "image_url": "https://noticias.ufsc.br/files/2026/11/Simposio-1024x576.png",
       "ticket_url": null,
       "info_url": "https://noticias.ufsc.br/event/simposio-multiprofssional-cannciencia-saude-publica/",
-      "description": "O Simpósio Multiprofissional CannCiência Saúde Pública vai reunir profissionais de saúde de diferentes categorias para conhecer o Sistema Endocanabinoite (SEC), sistema orgânico do corpo humano ainda não abordado em cursos de graduação. O evento será das 7h30 às 18h, no dia 28 de novembro, no Auditório do Centro de Ciências Biológicas (CCB).\n\nPodem participar profissionais de saúde vinculados ao Sistema Único de Saúde (SUS) em Santa Catarina. As inscrições são gratuitas e devem ser feitas até 27 de novembro pelo link: https://cannciencia.com/simposio . Terão prioridade na ocupação das vagas os participantes da capacitação Endocanabinologia Saúde Pública, realizada em parceria entre o Dalla Instituto e a UFSC. Profissionais não participantes da capacitação devem enviar o comprovante de inscrição e terão a confirmação ou não da vaga em até 72 horas.\n\nMais informações pelo site https://cannciencia.com/simposio, pelo e-mail: saude.publica@cannciencia.com ou pelo Instagram: @cannciencia",
+      "description": "O Simpósio Multiprofissional CannCiência Saúde Pública vai reunir profissionais de saúde de diferentes categorias para conhecer o Sistema Endocanabinoide (SEC), sistema orgânico do corpo humano ainda não abordado em cursos de graduação. O evento será das 7h30 às 18h, no dia 28 de novembro, no Auditório do Centro de Ciências Biológicas (CCB).\n\nPodem participar profissionais de saúde vinculados ao Sistema Único de Saúde (SUS) em Santa Catarina. As inscrições são gratuitas e devem ser feitas até 27 de novembro pelo link: https://cannciencia.com/simposio . Terão prioridade na ocupação das vagas os participantes da capacitação Endocanabinologia Saúde Pública, realizada em parceria entre o Dalla Instituto e a UFSC. Profissionais não participantes da capacitação devem enviar o comprovante de inscrição e terão a confirmação ou não da vaga em até 72 horas.\n\nMais informações pelo site https://cannciencia.com/simposio, pelo e-mail: saude.publica@cannciencia.com ou pelo Instagram: @cannciencia",
       "tags": [],
       "category": "academico",
       "is_free": null,
@@ -201,6 +83,29 @@
         "centro tecnológico (ctc)"
       ],
       "category": "cultura",
+      "is_free": true,
+      "is_all_day": false
+    },
+    {
+      "source_id": "agecom:299036",
+      "name": "Lançamento de software: Lattes Manager",
+      "start_date": "2026-11-30T22:00:00.000Z",
+      "end_date": "2026-12-01T00:00:00.000Z",
+      "location": "Online - Canal no Youtube do Núcleo de Estudos e Pesquisas em Experimentação e Melhoramento Vegetal",
+      "campus": "florianopolis",
+      "image_url": "https://noticias.ufsc.br/files/2026/11/Ingter4-1024x551.png",
+      "ticket_url": null,
+      "info_url": "https://noticias.ufsc.br/event/lancamento-de-software-lattes-manager/",
+      "description": "Projeto de gestão do Currículo Lattes e comprovantes acadêmicos desenvolvido na Universidade Federal de Santa Catarina (UFSC), o software Lattes Manager tem como objetivo organizar certificações, portarias e artigos na hora de prestar contas em progressões funcionais, concursos, relatórios da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e editais de fomento. O lançamento será realizado nesta segunda-feira, 30 de novembro, às 19h, no canal do Núcleo de Estudos e Pesquisas em Experimentação e Melhoramento Vegetal (Nepem), no Youtube.\n\nCriado pelo professor, Tiago Olivoto, do Centro de Ciências Agrárias (CCA), o Lattes Manager é um software gratuito e 100% local que automatiza a organização e a comprovação do Currículo Lattes.\n\nO espaço web importa o XML oficial do Lattes e organiza os comprovantes automaticamente em pastas no computador, gera um dossiê único em PDF, com milhares de páginas, capa personalizada, sumário interativo e links clicáveis. A ferramenta é utilizada para progressões e concursos. Tudo funciona localmente no computador do usuário, com privacidade total dos dados e código aberto para Windows, macOS e Linux.\n\nPara mais informações, acesse o repositório oficial.",
+      "tags": [
+        "apresentação",
+        "live",
+        "centro de ciências agrárias (cca)",
+        "lattes",
+        "nepem",
+        "software"
+      ],
+      "category": "palestra",
       "is_free": true,
       "is_all_day": false
     },
