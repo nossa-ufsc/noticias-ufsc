@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-28T09:13:04.128Z",
+  "geradoEm": "2026-11-28T18:13:03.540Z",
   "fontes": [
     {
       "fonte": "agecom",
@@ -7,11 +7,11 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-28T09:13:04.128Z",
-      "totalNoFeed": 77,
-      "selecionados": 17,
+      "ultimoSucesso": "2026-11-28T18:13:03.540Z",
+      "totalNoFeed": 59,
+      "selecionados": 16,
       "ignorados": {
-        "ja-passou": 60
+        "ja-passou": 43
       },
       "erros": []
     },
@@ -21,7 +21,7 @@
       "modo": "arquivo",
       "completa": false,
       "erro": null,
-      "ultimoSucesso": "2026-11-28T09:13:04.128Z",
+      "ultimoSucesso": "2026-11-28T18:13:03.540Z",
       "totalNoFeed": 15,
       "selecionados": 1,
       "ignorados": {
@@ -31,26 +31,6 @@
     }
   ],
   "eventos": [
-    {
-      "source_id": "agecom:298409",
-      "name": "Performance: ‘Nada será devolvido em silêncio’",
-      "start_date": "2026-11-27T13:00:00.000Z",
-      "end_date": "2026-11-27T13:15:00.000Z",
-      "location": "Teatro Carmen Fossari",
-      "campus": "florianopolis",
-      "image_url": "https://noticias.ufsc.br/files/2026/11/enia_lipanga.jpeg",
-      "ticket_url": null,
-      "info_url": "https://noticias.ufsc.br/event/performance-nada-sera-devolvido-em-silencio/",
-      "description": "Escritora moçambicana Énia Lipanga apresenta a performance “Nada será devolvido em silêncio”, na UFSC. Foto: Divulgação\n\nA escritora moçambicana Énia Lipanga apresenta a performance Nada será devolvido em silêncio no dia 27 de novembro, às 10h, no Teatro Carmen Fossari, na Universidade Federal de Santa Catarina (UFSC). A entrada é gratuita.\n\nInspirada no livro de mesmo nome, publicado em 2025 pela editora Cruz e Sousa, a apresentação reúne poemas sobre as memórias e as histórias de resistência de mulheres de Moçambique. A performance combina poesia e música para abordar temas como ancestralidade, sobrevivência e liberdade.\n\nO evento é realizado pelo Programa de Pós-Graduação em Literatura e pelo Programa de Pós-Graduação em Estudos da Tradução da UFSC.\n\n>> Ficha técnica\n\nTítulo: Nada será devolvido em silêncio\n\nEditora: Cruz e Sousa\n\nConcepção e performance poética: Énia Lipanga\n\nDirecção de movimento: Phati\n\nInstrumentos musicais: Beauty e Sumalgy Nuro\n\nVocalistas: Beauty e Sumalgy Nuro\n\nVocalistas de apoio: Bela Zango e André Bahule\n\nParticipação vocal (in memoriam): Avó Raquel",
-      "tags": [
-        "performance",
-        "programa de pós-graduação em estudos da tradução",
-        "programa de pós-graduação em literatura"
-      ],
-      "category": "cultura",
-      "is_free": null,
-      "is_all_day": false
-    },
     {
       "source_id": "agecom:298577",
       "name": "Simpósio Multiprofssional CannCiência Saúde Pública",
